@@ -1,5 +1,5 @@
 import sys
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox/unisoccer')
 from model.MatchVision import VisionTimesformer, TextEncoder
 from torch import nn
 import torch.nn.functional as F

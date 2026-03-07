@@ -1,0 +1,1175 @@
+{
+    "match_info": {
+        "timestamp": "2023-01-14 03:45:00",
+        "score": "5 - 1",
+        "home_team": "Napoli",
+        "away_team": "Juventus",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 5 - 1 - 1",
+        "venue": "Stadio Diego Armando Maradona (Naples)",
+        "capacity": "54 726",
+        "attendance": "60 000",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Doveri D. (Ita)",
+        "first_name": "Doveri",
+        "abbr_last_name": "D",
+        "country": "Ita",
+        "detected_name": "Daniele Doveri"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Allegri M.",
+                "players_number": "",
+                "Full Name": "Massimiliano Allegri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (11.08.1967)",
+                "Market Value": "",
+                "unicode": "lUkw2EZn"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bonucci L.",
+                "players_number": "",
+                "Full Name": "Leonardo Bonucci",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (01.05.1987)",
+                "Market Value": "€1.4m",
+                "unicode": "zmOGDSwg"
+            },
+            {
+                "players_name": "Cuadrado J.",
+                "players_number": "",
+                "Full Name": "Juan Cuadrado",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (26.05.1988)",
+                "Market Value": "€2.0m",
+                "unicode": "AFefBpwI"
+            },
+            {
+                "players_name": "De Sciglio M.",
+                "players_number": "",
+                "Full Name": "Mattia De Sciglio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.10.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "Ua5srQK6"
+            },
+            {
+                "players_name": "Ihattaren M.",
+                "players_number": "",
+                "Full Name": "Mohamed Ihattaren",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (12.02.2002)",
+                "Market Value": "31.12.2024",
+                "unicode": "0Untt3pf"
+            },
+            {
+                "players_name": "Kaio Jorge",
+                "players_number": "",
+                "Full Name": "Kaio Jorge",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (24.01.2002)",
+                "Market Value": "€2.7m",
+                "unicode": "jJeTHCLs"
+            },
+            {
+                "players_name": "Peeters D.",
+                "players_number": "",
+                "Full Name": "Daouda Peeters",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (26.01.1999)",
+                "Market Value": "€421k",
+                "unicode": "fBhZlRef"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "",
+                "Full Name": "Paul Pogba",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Vlahovic D.",
+                "players_number": "",
+                "Full Name": "Dusan Vlahovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (28.01.2000)",
+                "Market Value": "€56.2m",
+                "unicode": "Ct0rhfn7"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alex Sandro",
+                "players_number": "12",
+                "Full Name": "Alex Sandro",
+                "players_rating": 5.9,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (26.01.1991)",
+                "Market Value": "€2.0m",
+                "unicode": "hrkni8NN"
+            },
+            {
+                "players_name": "Bremer",
+                "players_number": "3",
+                "Full Name": "Bremer",
+                "players_rating": 6.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.03.1997)",
+                "Market Value": "€48.9m",
+                "unicode": "INWVBb0R"
+            },
+            {
+                "players_name": "Chiesa F.",
+                "players_number": "7",
+                "Full Name": "Federico Chiesa",
+                "players_rating": 6.1,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (25.10.1997)",
+                "Market Value": "€50.3m",
+                "unicode": "jHMlMUC4"
+            },
+            {
+                "players_name": "Danilo (C)",
+                "players_number": "6",
+                "Full Name": "Danilo",
+                "players_rating": 6.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (15.07.1991)",
+                "Market Value": "€11.9m",
+                "unicode": "KUjvgUhB"
+            },
+            {
+                "players_name": "Di Maria A.",
+                "players_number": "22",
+                "Full Name": "Angel Di Maria",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.02.1988)",
+                "Market Value": "€5.3m",
+                "unicode": "SISkkDSQ"
+            },
+            {
+                "players_name": "Kostic F.",
+                "players_number": "17",
+                "Full Name": "Filip Kostic",
+                "players_rating": 6.0,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (01.11.1992)",
+                "Market Value": "€11.2m",
+                "unicode": "zTWzdAKe"
+            },
+            {
+                "players_name": "Locatelli M.",
+                "players_number": "5",
+                "Full Name": "Manuel Locatelli",
+                "players_rating": 6.4,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (08.01.1998)",
+                "Market Value": "€32.8m",
+                "unicode": "6RgXRdd8"
+            },
+            {
+                "players_name": "McKennie W.",
+                "players_number": "8",
+                "Full Name": "Weston McKennie",
+                "players_rating": 5.9,
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (28.08.1998)",
+                "Market Value": "€22.8m",
+                "unicode": "jZHxRi2A"
+            },
+            {
+                "players_name": "Milik A.",
+                "players_number": "14",
+                "Full Name": "Arkadiusz Milik",
+                "players_rating": 6.9,
+                "Country": "Poland",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (28.02.1994)",
+                "Market Value": "€6.6m",
+                "unicode": "EskCwiLE"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            },
+            {
+                "players_name": "Szczesny W. (G)",
+                "players_number": "1",
+                "Full Name": "Wojciech Szczesny",
+                "players_rating": 6.0,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (18.04.1990)",
+                "Market Value": "€8.4m",
+                "unicode": "6NtwHZ7F"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Iling Junior S.",
+                "players_number": "43",
+                "Full Name": "Samuel Iling Junior",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (04.10.2003)",
+                "Market Value": "€9.4m",
+                "unicode": "QXDbCvep"
+            },
+            {
+                "players_name": "Kean M.",
+                "players_number": "18",
+                "Full Name": "Moise Kean",
+                "players_rating": 5.8,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (28.02.2000)",
+                "Market Value": "€16.6m",
+                "unicode": "QPclX9Uq"
+            },
+            {
+                "players_name": "Miretti F.",
+                "players_number": "20",
+                "Full Name": "Fabio Miretti",
+                "players_rating": 6.3,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (03.08.2003)",
+                "Market Value": "€13.8m",
+                "unicode": "tSUumbUT"
+            },
+            {
+                "players_name": "Paredes L.",
+                "players_number": "32",
+                "Full Name": "Leandro Paredes",
+                "players_rating": 6.6,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (29.06.1994)",
+                "Market Value": "€7.7m",
+                "unicode": "lbNnSBiA"
+            },
+            {
+                "players_name": "Soule M.",
+                "players_number": "30",
+                "Full Name": "Matias Soule",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (15.04.2003)",
+                "Market Value": "€24.5m",
+                "unicode": "fXK87Cpf"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Fagioli N.",
+                "players_number": "44",
+                "Full Name": "Nicolo Fagioli",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (12.02.2001)",
+                "Market Value": "€14.5m",
+                "unicode": "4rFy4PRQ"
+            },
+            {
+                "players_name": "Gatti F.",
+                "players_number": "15",
+                "Full Name": "Federico Gatti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (24.06.1998)",
+                "Market Value": "€17.6m",
+                "unicode": "SCvJDma8"
+            },
+            {
+                "players_name": "Perin M. (G)",
+                "players_number": "36",
+                "Full Name": "Mattia Perin",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (10.11.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "A3ZJNQg1"
+            },
+            {
+                "players_name": "Pinsoglio C. (G)",
+                "players_number": "23",
+                "Full Name": "Carlo Pinsoglio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (16.03.1990)",
+                "Market Value": "30.06.2025",
+                "unicode": "Uii1AJuK"
+            },
+            {
+                "players_name": "Rugani D.",
+                "players_number": "24",
+                "Full Name": "Daniele Rugani",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.07.1994)",
+                "Market Value": "€4.0m",
+                "unicode": "zyoOMhpU"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Spalletti L.",
+                "players_number": "",
+                "Full Name": "Luciano Spalletti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "64,  (07.03.1959)",
+                "Market Value": "",
+                "unicode": "n3dg3lHR"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Anguissa F.",
+                "players_number": "99",
+                "Full Name": "Frank Anguissa",
+                "players_rating": 6.6,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (16.11.1995)",
+                "Market Value": "€34.7m",
+                "unicode": "OtLZCB8S"
+            },
+            {
+                "players_name": "Di Lorenzo G. (C)",
+                "players_number": "22",
+                "Full Name": "Giovanni Di Lorenzo",
+                "players_rating": 7.8,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (04.08.1993)",
+                "Market Value": "€22.5m",
+                "unicode": "MP69NX2i"
+            },
+            {
+                "players_name": "Kim Min-Jae",
+                "players_number": "3",
+                "Full Name": "Min-Jae Kim",
+                "players_rating": 7.8,
+                "Country": "South Korea",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (15.11.1996)",
+                "Market Value": "€58.7m",
+                "unicode": "vkXC6mad"
+            },
+            {
+                "players_name": "Kvaratskhelia K.",
+                "players_number": "77",
+                "Full Name": "Khvicha Kvaratskhelia",
+                "players_rating": 9.0,
+                "Country": "Georgia",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (12.02.2001)",
+                "Market Value": "€82.8m",
+                "unicode": "bNuGt0hE"
+            },
+            {
+                "players_name": "Lobotka S.",
+                "players_number": "68",
+                "Full Name": "Stanislav Lobotka",
+                "players_rating": 6.8,
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (25.11.1994)",
+                "Market Value": "€34.7m",
+                "unicode": "0Qcw6Yy1"
+            },
+            {
+                "players_name": "Meret A. (G)",
+                "players_number": "1",
+                "Full Name": "Alex Meret",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (22.03.1997)",
+                "Market Value": "€14.6m",
+                "unicode": "EBsz2tTd"
+            },
+            {
+                "players_name": "Osimhen V.",
+                "players_number": "9",
+                "Full Name": "Victor Osimhen",
+                "players_rating": 8.5,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (29.12.1998)",
+                "Market Value": "€113.9m",
+                "unicode": "23YHG47R"
+            },
+            {
+                "players_name": "Politano M.",
+                "players_number": "21",
+                "Full Name": "Matteo Politano",
+                "players_rating": 6.4,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (03.08.1993)",
+                "Market Value": "€14.7m",
+                "unicode": "lxWZKRDD"
+            },
+            {
+                "players_name": "Rrahmani A.",
+                "players_number": "13",
+                "Full Name": "Amir Rrahmani",
+                "players_rating": 8.2,
+                "Country": "Kosovo",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (24.02.1994)",
+                "Market Value": "€19.9m",
+                "unicode": "8Sw4X8wk"
+            },
+            {
+                "players_name": "Rui M.",
+                "players_number": "6",
+                "Full Name": "Mario Rui",
+                "players_rating": 6.9,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (27.05.1991)",
+                "Market Value": "€4.9m",
+                "unicode": "CnvwSKf9"
+            },
+            {
+                "players_name": "Zielinski P.",
+                "players_number": "20",
+                "Full Name": "Piotr Zielinski",
+                "players_rating": 7.0,
+                "Country": "Poland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (20.05.1994)",
+                "Market Value": "€29.4m",
+                "unicode": "dlFNZSvb"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Elmas E.",
+                "players_number": "7",
+                "Full Name": "Eljif Elmas",
+                "players_rating": 7.3,
+                "Country": "North Macedonia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (24.09.1999)",
+                "Market Value": "€23.1m",
+                "unicode": "vDVD8EAA"
+            },
+            {
+                "players_name": "Lozano H.",
+                "players_number": "11",
+                "Full Name": "Hirving Lozano",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (30.07.1995)",
+                "Market Value": "€22.8m",
+                "unicode": "buNjcqS5"
+            },
+            {
+                "players_name": "Ndombele T.",
+                "players_number": "91",
+                "Full Name": "Tanguy Ndombele",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.12.1996)",
+                "Market Value": "€14.3m",
+                "unicode": "GEIWE1pD"
+            },
+            {
+                "players_name": "Olivera M.",
+                "players_number": "17",
+                "Full Name": "Mathias Olivera",
+                "players_rating": 6.5,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€16.7m",
+                "unicode": "bwAJqLBt"
+            },
+            {
+                "players_name": "Raspadori G.",
+                "players_number": "81",
+                "Full Name": "Giacomo Raspadori",
+                "players_rating": 6.2,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (18.02.2000)",
+                "Market Value": "€30.4m",
+                "unicode": "GlZEnTQr"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bereszynski B.",
+                "players_number": "19",
+                "Full Name": "Bartosz Bereszynski",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (12.07.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "rmvDqIY7"
+            },
+            {
+                "players_name": "Demme D.",
+                "players_number": "4",
+                "Full Name": "Diego Demme",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€936k",
+                "unicode": "6XydaRuI"
+            },
+            {
+                "players_name": "Gaetano G.",
+                "players_number": "70",
+                "Full Name": "Gianluca Gaetano",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (05.05.2000)",
+                "Market Value": "€4.1m",
+                "unicode": "nNOKUM6f"
+            },
+            {
+                "players_name": "Juan Jesus",
+                "players_number": "5",
+                "Full Name": "Juan Jesus",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (10.06.1991)",
+                "Market Value": "€3.0m",
+                "unicode": "StHeGfTT"
+            },
+            {
+                "players_name": "Marfella D. (G)",
+                "players_number": "12",
+                "Full Name": "Davide Marfella",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (15.09.1999)",
+                "Market Value": "",
+                "unicode": "2aYXA7bO"
+            },
+            {
+                "players_name": "Ostigard L.",
+                "players_number": "55",
+                "Full Name": "Leo Ostigard",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (28.11.1999)",
+                "Market Value": "€9.8m",
+                "unicode": "lIN7BM8b"
+            },
+            {
+                "players_name": "Simeone G.",
+                "players_number": "18",
+                "Full Name": "Giovanni Simeone",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.07.1995)",
+                "Market Value": "€12.7m",
+                "unicode": "6m566fII"
+            },
+            {
+                "players_name": "Sirigu S. (G)",
+                "players_number": "30",
+                "Full Name": "Salvatore Sirigu",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (12.01.1987)",
+                "Market Value": "€431k",
+                "unicode": "A3ywEtVi"
+            },
+            {
+                "players_name": "Zedadka K.",
+                "players_number": "31",
+                "Full Name": "Karim Zedadka",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (09.06.2000)",
+                "Market Value": "€134k",
+                "unicode": "tlEvOqI0"
+            },
+            {
+                "players_name": "Zerbin A.",
+                "players_number": "23",
+                "Full Name": "Alessio Zerbin",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (03.03.1999)",
+                "Market Value": "€3.2m",
+                "unicode": "2R03aynj"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The referee of today's match will be Daniele Doveri.",
+            "comments_text_anonymized": "The referee of today's match will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Juventus will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:11",
+            "comments_type": "clearance",
+            "comments_text": "Weston McKennie (Juventus) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:10",
+            "comments_type": "ball possession",
+            "comments_text": "Napoli are seeing far more of the ball now.",
+            "comments_text_anonymized": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:21",
+            "comments_type": "foul with no card",
+            "comments_text": "Giovanni Di Lorenzo (Napoli) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:20",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Juventus) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:38",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Juventus) is able to continue to play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is able to continue to play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:50",
+            "comments_type": "off side",
+            "comments_text": "Andre Zambo Anguissa (Napoli) is clearly in an offside position after the ball is played through to him and the linesman raises his flag.",
+            "comments_text_anonymized": "Andre Zambo [PLAYER] ([TEAM]) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:24",
+            "comments_type": "lead to corner",
+            "comments_text": "A lofted cross from Mario Rui (Napoli) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. Napoli force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:54",
+            "comments_type": "corner",
+            "comments_text": "The corner from Khvicha Kvaratskhelia (Napoli) is hurriedly cleared.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:51",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Victor Osimhen (Napoli) picks up a lofted cross inside the box and fires a quick shot to the left post. His promising effort is kept out by Wojciech Szczesny, who pulls off a stunning save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a lofted cross inside the box and fires a quick shot to the left post. His promising effort is kept out by [PLAYER], who pulls off a stunning save!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:41",
+            "comments_type": "goal",
+            "comments_text": "Khvicha Kvaratskhelia fires in a promising shot which ricochets off the goalkeeper back to Victor Osimhen (Napoli) inside the box and he sends the ball into the back of the net. The score is 1:0.",
+            "comments_text_anonymized": "[PLAYER] fires in a promising shot which ricochets off the goalkeeper back to [PLAYER] ([TEAM]) inside the box and he sends the ball into the back of the net. The score is 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:48",
+            "comments_type": "throw in",
+            "comments_text": "The referee and the linesman both signal a throw-in for Juventus.",
+            "comments_text_anonymized": "The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:48",
+            "comments_type": "clearance",
+            "comments_text": "Mario Rui (Napoli) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross, but he can't find any teammate inside the box. Poor delivery."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:56",
+            "comments_type": "ball possession",
+            "comments_text": "Napoli keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:33",
+            "comments_type": "shot off target",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) loses the defending players and unloads a powerful, but inaccurate effort from long distance. The goalkeeper remains completely calm as the ball ends somewhere in row Z. The ball goes out of play and Juventus will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) loses the defending players and unloads a powerful, but inaccurate effort from long distance. The goalkeeper remains completely calm as the ball ends somewhere in row Z. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:49",
+            "comments_type": "clearance",
+            "comments_text": "Federico Chiesa (Juventus) sprays a pass out to Arkadiusz Milik, but he can't beat his man to get to the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man to get to the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:40",
+            "comments_type": "clearance",
+            "comments_text": "Filip Kostic (Juventus) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Arkadiusz Milik (Juventus) attempts to score as he rises near the penalty spot and heads the ball to the middle of the goal. Alex Meret pulls off a comfortable save to stop the ball from hitting the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to score as he rises near the penalty spot and heads the ball to the middle of the goal. [PLAYER] pulls off a comfortable save to stop the ball from hitting the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Piotr Zielinski (Napoli) gives away a foul for a fierce tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:50",
+            "comments_type": "free kick",
+            "comments_text": "Angel Di Maria (Juventus) sends over a free kick from long range but the defence is alert.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:14",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. Juventus win a corner kick.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:40",
+            "comments_type": "shot off target",
+            "comments_text": "Bremer (Juventus) meets a cross inside the box, but he is unable to produce an accurate header and it goes just over the bar. The ball is off of the pitch and it's a goal kick for Napoli.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a cross inside the box, but he is unable to produce an accurate header and it goes just over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:24",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Khvicha Kvaratskhelia (Napoli) is cleared. The ball is out of play. Napoli will take a throw-in.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared. The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:47",
+            "comments_type": "statistics and summary",
+            "comments_text": "The current number of shots on goal is 3:1.",
+            "comments_text_anonymized": "The current number of shots on goal is 3:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:08",
+            "comments_type": "goal",
+            "comments_text": "Goal! Victor Osimhen plays in Khvicha Kvaratskhelia (Napoli), who shows great determination to get to the ball before a couple of defenders and from inside the box slots it into the bottom right corner 2:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] plays in [PLAYER] ([TEAM]), who shows great determination to get to the ball before a couple of defenders and from inside the box slots it into the bottom right corner 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Filip Kostic (Juventus) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:26",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Superb work from Arkadiusz Milik, who plays a vital role in the build-up. He squares it to Angel Di Maria (Juventus), who beats Alex Meret with a brilliant shot into the bottom left corner. 2:1.",
+            "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the bottom left corner. 2:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:00",
+            "comments_type": "yellow card",
+            "comments_text": "Danilo (Juventus) is booked after bringing down an opponent. Daniele Doveri had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "2 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:15",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:00",
+            "comments_type": "substitution",
+            "comments_text": "Luciano Spalletti makes a half-time substitution. Eljif Elmas (Napoli) comes on in place of Matteo Politano.",
+            "comments_text_anonymized": "[PLAYER] makes a half-time substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "injury",
+            "comments_text": "Manuel Locatelli (Juventus) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:59",
+            "comments_type": "injury",
+            "comments_text": "Manuel Locatelli (Juventus) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Weston McKennie (Juventus) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The linesman points to the corner flag, Juventus are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:15",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Juventus is comfortably intercepted by one of the defending players. The ball is out of play and the linesman points at the corner flag. Corner to Juventus.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:56",
+            "comments_type": "corner",
+            "comments_text": "Juventus take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Victor Osimhen (Napoli) weaves through the defence and gets one-on-one with the keeper, but fails to score. Now Napoli have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) weaves through the defence and gets one-on-one with the keeper, but fails to score. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:49",
+            "comments_type": "corner",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) will take the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:30",
+            "comments_type": "goal",
+            "comments_text": "The ball hits the back of the net! Khvicha Kvaratskhelia delivers the corner, Amir Rrahmani (Napoli) finds himself some space on the edge of the box and unleashes an unstoppable shot which goes inside the right post and past the helpless goalkeeper. 3:1.",
+            "comments_text_anonymized": "The ball hits the back of the net! [PLAYER] delivers the corner, [PLAYER] ([TEAM]) finds himself some space on the edge of the box and unleashes an unstoppable shot which goes inside the right post and past the helpless goalkeeper. 3:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:04",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Manuel Locatelli, who is replaced by Leandro Paredes (Juventus).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:18",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Arkadiusz Milik is going off and Massimiliano Allegri gives the last tactical orders to Moise Kean (Juventus).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:12",
+            "comments_type": "throw in",
+            "comments_text": "The ball is behind the touchline and Juventus will take a throw-in.",
+            "comments_text_anonymized": "The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:10",
+            "comments_type": "clearance",
+            "comments_text": "Piotr Zielinski (Napoli) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:50",
+            "comments_type": "clearance",
+            "comments_text": "Federico Chiesa (Juventus) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:00",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Khvicha Kvaratskhelia (Napoli) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:05",
+            "comments_type": "goal",
+            "comments_text": "Goal! Victor Osimhen (Napoli) makes the score 4:1 after burying a close-range header into the roof of the net after a good run and cross by Khvicha Kvaratskhelia.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) makes the score 4:1 after burying a close-range header into the roof of the net after a good run and cross by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:50",
+            "comments_type": "ball possession",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:39",
+            "comments_type": "ball possession",
+            "comments_text": "The most active player in today's match is definitely Khvicha Kvaratskhelia (Napoli). He's trying to be on the ball as much as possible and you can literally see the enthusiasm in his play. He keeps exchanging some one touch passes and waits for the right moment to send a killer pass. What a player!",
+            "comments_text_anonymized": "The most active player in today's match is definitely [PLAYER] ([TEAM]). He's trying to be on the ball as much as possible and you can literally see the enthusiasm in his play. He keeps exchanging some one touch passes and waits for the right moment to send a killer pass. What a player!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:25",
+            "comments_type": "substitution",
+            "comments_text": "Mathias Olivera (Napoli) joins the action as a substitute, replacing Mario Rui.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Federico Chiesa (Juventus) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. The ball goes out of play. Juventus are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:13",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Juventus) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:29",
+            "comments_type": "goal",
+            "comments_text": "Goal! Giovanni Di Lorenzo plays it to Eljif Elmas (Napoli), whose deflected shot from inside the box goes past the helpless Wojciech Szczesny. 5:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] plays it to [PLAYER] ([TEAM]), whose deflected shot from inside the box goes past the helpless [PLAYER]. 5:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:30",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Fabio Miretti (Juventus) is on for Angel Di Maria.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:30",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Federico Chiesa (Juventus) is given a rest as he is replaced by Samuel Iling.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is given a rest as he is replaced by Samuel [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:03",
+            "comments_type": "statistics and summary",
+            "comments_text": "The ball possession at the moment is 62:38.",
+            "comments_text_anonymized": "The ball possession at the moment is 62:38."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:50",
+            "comments_type": "throw in",
+            "comments_text": "The ball has crossed the sideline. Napoli are taking a throw-in.",
+            "comments_text_anonymized": "The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:19",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Giacomo Raspadori (Napoli) comes on in place of Victor Osimhen.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:00",
+            "comments_type": "substitution",
+            "comments_text": "Luciano Spalletti has decided to introduce fresh legs, with Tanguy Ndombele (Napoli) replacing Piotr Zielinski.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:17",
+            "comments_type": "lead to corner",
+            "comments_text": "Andre Zambo Anguissa (Napoli) slaloms his way past challenges, but an opposing player does well to get the ball away. The linesman signals a throw-in for Juventus.",
+            "comments_text_anonymized": "Andre Zambo [PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:55",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Adrien Rabiot leaves the pitch and Matias Soule (Juventus) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Samuel Iling (Juventus) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "Samuel [PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:32",
+            "comments_type": "ball possession",
+            "comments_text": "The Juventus players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:04",
+            "comments_type": "corner",
+            "comments_text": "A fantastic block by a defender means that the corner from Juventus comes to nothing.",
+            "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:40",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Hirving Lozano (Napoli) coming on for Khvicha Kvaratskhelia.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:58",
+            "comments_type": "off side",
+            "comments_text": "Fabio Miretti (Juventus) did his best to latch onto a through ball, but it was too strong.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch onto a through ball, but it was too strong."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:58",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

@@ -1,0 +1,1577 @@
+{
+    "match_info": {
+        "timestamp": "2023-02-16 04:00:00",
+        "score": "1 - 0",
+        "home_team": "Dortmund",
+        "away_team": "Chelsea",
+        "home_formation": "4 - 1 - 4 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Signal Iduna Park (Dortmund)",
+        "capacity": "81 365",
+        "attendance": "81 365",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Manzano J. (Esp)",
+        "first_name": "Manzano",
+        "abbr_last_name": "J",
+        "country": "Esp",
+        "detected_name": "Jesus Gil Manzano"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Potter G.",
+                "players_number": "",
+                "Full Name": "Graham Potter",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "48,  (20.10.1975)",
+                "Market Value": "",
+                "unicode": "0hDID8Ve"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Aubameyang P.",
+                "players_number": "",
+                "Full Name": "Pierre-Emerick Aubameyang",
+                "players_rating": "",
+                "Country": "Gabon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (18.06.1989)",
+                "Market Value": "€3.7m",
+                "unicode": "Wl4EyKZk"
+            },
+            {
+                "players_name": "Badiashile B.",
+                "players_number": "",
+                "Full Name": "Benoit Badiashile",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (26.03.2001)",
+                "Market Value": "€34.7m",
+                "unicode": "bqJ7TZrU"
+            },
+            {
+                "players_name": "Broja A.",
+                "players_number": "",
+                "Full Name": "Armando Broja",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (10.09.2001)",
+                "Market Value": "€25.4m",
+                "unicode": "0rnu9an9"
+            },
+            {
+                "players_name": "Kante N.",
+                "players_number": "",
+                "Full Name": "N'Golo Kante",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (29.03.1991)",
+                "Market Value": "€10.1m",
+                "unicode": "IkmsHsOR"
+            },
+            {
+                "players_name": "Madueke N.",
+                "players_number": "",
+                "Full Name": "Noni Madueke",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (10.03.2002)",
+                "Market Value": "€24.5m",
+                "unicode": "Ac57P9Pt"
+            },
+            {
+                "players_name": "Mendy E.",
+                "players_number": "",
+                "Full Name": "Edouard Mendy",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (01.03.1992)",
+                "Market Value": "€9.5m",
+                "unicode": "8zpLkf6p"
+            },
+            {
+                "players_name": "Pulisic C.",
+                "players_number": "",
+                "Full Name": "Christian Pulisic",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (18.09.1998)",
+                "Market Value": "€33.1m",
+                "unicode": "vTuaEfRq"
+            },
+            {
+                "players_name": "Sterling R.",
+                "players_number": "",
+                "Full Name": "Raheem Sterling",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (08.12.1994)",
+                "Market Value": "€44.0m",
+                "unicode": "pfm9avwi"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Arrizabalaga K. (G)",
+                "players_number": "1",
+                "Full Name": "Kepa Arrizabalaga",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (03.10.1994)",
+                "Market Value": "€19.3m",
+                "unicode": "Yq2dyUwN"
+            },
+            {
+                "players_name": "Chilwell B.",
+                "players_number": "21",
+                "Full Name": "Ben Chilwell",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (21.12.1996)",
+                "Market Value": "€29.4m",
+                "unicode": "txvuTaNB"
+            },
+            {
+                "players_name": "Fernandez E.",
+                "players_number": "5",
+                "Full Name": "Enzo Fernandez",
+                "players_rating": 7.1,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (17.01.2001)",
+                "Market Value": "€81.7m",
+                "unicode": "nZnbEVWP"
+            },
+            {
+                "players_name": "Havertz K.",
+                "players_number": "29",
+                "Full Name": "Kai Havertz",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (11.06.1999)",
+                "Market Value": "€53.0m",
+                "unicode": "rH8BZWiI"
+            },
+            {
+                "players_name": "James R.",
+                "players_number": "24",
+                "Full Name": "Reece James",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (08.12.1999)",
+                "Market Value": "€49.6m",
+                "unicode": "nLBC7ERa"
+            },
+            {
+                "players_name": "Joao Felix",
+                "players_number": "11",
+                "Full Name": "Joao Felix",
+                "players_rating": 7.2,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.11.1999)",
+                "Market Value": "€39.7m",
+                "unicode": "KI3YXMhi"
+            },
+            {
+                "players_name": "Koulibaly K.",
+                "players_number": "26",
+                "Full Name": "Kalidou Koulibaly",
+                "players_rating": 7.0,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (20.06.1991)",
+                "Market Value": "€10.9m",
+                "unicode": "hSKz7qT3"
+            },
+            {
+                "players_name": "Loftus-Cheek R.",
+                "players_number": "12",
+                "Full Name": "Ruben Loftus-Cheek",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.01.1996)",
+                "Market Value": "€24.1m",
+                "unicode": "6DpURWF8"
+            },
+            {
+                "players_name": "Mudryk M.",
+                "players_number": "15",
+                "Full Name": "Mykhailo Mudryk",
+                "players_rating": 6.4,
+                "Country": "Ukraine",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (05.01.2001)",
+                "Market Value": "€39.1m",
+                "unicode": "W03dbPp4"
+            },
+            {
+                "players_name": "Silva T. (C)",
+                "players_number": "6",
+                "Full Name": "Thiago Silva",
+                "players_rating": 6.6,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            },
+            {
+                "players_name": "Ziyech H.",
+                "players_number": "22",
+                "Full Name": "Hakim Ziyech",
+                "players_rating": 7.0,
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.03.1993)",
+                "Market Value": "€11.9m",
+                "unicode": "2F0HARqq"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Cucurella M.",
+                "players_number": "32",
+                "Full Name": "Marc Cucurella",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (22.07.1998)",
+                "Market Value": "€24.5m",
+                "unicode": "QTynbZd3"
+            },
+            {
+                "players_name": "Mount M.",
+                "players_number": "19",
+                "Full Name": "Mason Mount",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (10.01.1999)",
+                "Market Value": "€42.8m",
+                "unicode": "lOA8VKIK"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Azpilicueta C.",
+                "players_number": "28",
+                "Full Name": "Cesar Azpilicueta",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (28.08.1989)",
+                "Market Value": "€3.8m",
+                "unicode": "CMGUADgt"
+            },
+            {
+                "players_name": "Bergstrom L. (G)",
+                "players_number": "47",
+                "Full Name": "Lucas Bergstrom",
+                "players_rating": "",
+                "Country": "Finland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "21, (05.09.2002)",
+                "Market Value": "€749k",
+                "unicode": "hnEwbyfs"
+            },
+            {
+                "players_name": "Bettinelli M. (G)",
+                "players_number": "13",
+                "Full Name": "Marcus Bettinelli",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (24.05.1992)",
+                "Market Value": "30.06.2026",
+                "unicode": "dMPo6IPH"
+            },
+            {
+                "players_name": "Chalobah T.",
+                "players_number": "14",
+                "Full Name": "Trevoh Chalobah",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (05.07.1999)",
+                "Market Value": "€17.4m",
+                "unicode": "2N61AJte"
+            },
+            {
+                "players_name": "Chukwuemeka C.",
+                "players_number": "30",
+                "Full Name": "Carney Chukwuemeka",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (20.10.2003)",
+                "Market Value": "€14.0m",
+                "unicode": "tpQg2gso"
+            },
+            {
+                "players_name": "Fofana W.",
+                "players_number": "33",
+                "Full Name": "Wesley Fofana",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.12.2000)",
+                "Market Value": "€31.2m",
+                "unicode": "Aw7tVHPM"
+            },
+            {
+                "players_name": "Gallagher C.",
+                "players_number": "23",
+                "Full Name": "Conor Gallagher",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (06.02.2000)",
+                "Market Value": "€39.9m",
+                "unicode": "dtbJO8B3"
+            },
+            {
+                "players_name": "Hall L.",
+                "players_number": "67",
+                "Full Name": "Lewis Hall",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "19, (08.09.2004)",
+                "Market Value": "€17.6m",
+                "unicode": "rJOyDa3N"
+            },
+            {
+                "players_name": "Kovacic M.",
+                "players_number": "8",
+                "Full Name": "Mateo Kovacic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.05.1994)",
+                "Market Value": "€37.7m",
+                "unicode": "4f084TL7"
+            },
+            {
+                "players_name": "Zakaria D.",
+                "players_number": "20",
+                "Full Name": "Denis Zakaria",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (20.11.1996)",
+                "Market Value": "€21.2m",
+                "unicode": "d23lOQrL"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Terzic E.",
+                "players_number": "",
+                "Full Name": "Edin Terzic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "coach",
+                "Age and Birthdate": "41,  (30.10.1982)",
+                "Market Value": "",
+                "unicode": "Q1njn0Vm"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Duranville J.",
+                "players_number": "",
+                "Full Name": "Julien Duranville",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "17, (05.05.2006)",
+                "Market Value": "€8.2m",
+                "unicode": "G8jmgFZE"
+            },
+            {
+                "players_name": "Morey M.",
+                "players_number": "",
+                "Full Name": "Mateu Morey",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.03.2000)",
+                "Market Value": "30.06.2024",
+                "unicode": "jRBXx0H4"
+            },
+            {
+                "players_name": "Moukoko Y.",
+                "players_number": "",
+                "Full Name": "Youssoufa Moukoko",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (20.11.2004)",
+                "Market Value": "€28.1m",
+                "unicode": "vZ2CcIMA"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Adeyemi K.",
+                "players_number": "27",
+                "Full Name": "Karim Adeyemi",
+                "players_rating": 7.9,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (18.01.2002)",
+                "Market Value": "€27.0m",
+                "unicode": "GvIzwgo8"
+            },
+            {
+                "players_name": "Bellingham J. (C)",
+                "players_number": "22",
+                "Full Name": "Jude Bellingham",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (29.06.2003)",
+                "Market Value": "€199.1m",
+                "unicode": "QNvlPm7s"
+            },
+            {
+                "players_name": "Brandt J.",
+                "players_number": "19",
+                "Full Name": "Julian Brandt",
+                "players_rating": 7.6,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (02.05.1996)",
+                "Market Value": "€40.3m",
+                "unicode": "hW5Goyrc"
+            },
+            {
+                "players_name": "Can E.",
+                "players_number": "23",
+                "Full Name": "Emre Can",
+                "players_rating": 7.2,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.01.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "YJu3hSpk"
+            },
+            {
+                "players_name": "Guerreiro R.",
+                "players_number": "13",
+                "Full Name": "Raphael Guerreiro",
+                "players_rating": 7.2,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (22.12.1993)",
+                "Market Value": "€15.1m",
+                "unicode": "ImhgOoOl"
+            },
+            {
+                "players_name": "Haller S.",
+                "players_number": "9",
+                "Full Name": "Sebastien Haller",
+                "players_rating": 6.4,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (22.06.1994)",
+                "Market Value": "€17.6m",
+                "unicode": "Ie17FSsK"
+            },
+            {
+                "players_name": "Kobel G. (G)",
+                "players_number": "1",
+                "Full Name": "Gregor Kobel",
+                "players_rating": 9.2,
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (06.12.1997)",
+                "Market Value": "€38.6m",
+                "unicode": "xlBg2ttC"
+            },
+            {
+                "players_name": "Ozcan S.",
+                "players_number": "6",
+                "Full Name": "Salih Ozcan",
+                "players_rating": 6.7,
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (11.01.1998)",
+                "Market Value": "€12.4m",
+                "unicode": "2sPPKXyd"
+            },
+            {
+                "players_name": "Schlotterbeck N.",
+                "players_number": "4",
+                "Full Name": "Nico Schlotterbeck",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (01.12.1999)",
+                "Market Value": "€34.7m",
+                "unicode": "hKLN8mA7"
+            },
+            {
+                "players_name": "Sule N.",
+                "players_number": "25",
+                "Full Name": "Niklas Sule",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (03.09.1995)",
+                "Market Value": "€20.9m",
+                "unicode": "G43Lp4in"
+            },
+            {
+                "players_name": "Wolf M.",
+                "players_number": "17",
+                "Full Name": "Marius Wolf",
+                "players_rating": 7.0,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (27.05.1995)",
+                "Market Value": "€6.3m",
+                "unicode": "0pP8We9B"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bynoe-Gittens J.",
+                "players_number": "43",
+                "Full Name": "Jamie Bynoe-Gittens",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (08.08.2004)",
+                "Market Value": "€27.0m",
+                "unicode": "zmDkHahi"
+            },
+            {
+                "players_name": "Modeste A.",
+                "players_number": "20",
+                "Full Name": "Anthony Modeste",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.04.1988)",
+                "Market Value": "€645k",
+                "unicode": "bPslqX1I"
+            },
+            {
+                "players_name": "Ryerson J.",
+                "players_number": "26",
+                "Full Name": "Julian Ryerson",
+                "players_rating": 6.2,
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (17.11.1997)",
+                "Market Value": "€14.7m",
+                "unicode": "8nv0ZZYK"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Coulibaly S.",
+                "players_number": "44",
+                "Full Name": "Soumaila Coulibaly",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (14.10.2003)",
+                "Market Value": "€7.5m",
+                "unicode": "YLVl99Q1"
+            },
+            {
+                "players_name": "Dahoud M.",
+                "players_number": "8",
+                "Full Name": "Mahmoud Dahoud",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (01.01.1996)",
+                "Market Value": "€13.1m",
+                "unicode": "YkH1Bfia"
+            },
+            {
+                "players_name": "Hummels M.",
+                "players_number": "15",
+                "Full Name": "Mats Hummels",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.12.1988)",
+                "Market Value": "€6.1m",
+                "unicode": "2c4AueOM"
+            },
+            {
+                "players_name": "Malen D.",
+                "players_number": "21",
+                "Full Name": "Donyell Malen",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (19.01.1999)",
+                "Market Value": "€33.8m",
+                "unicode": "KOdKXsao"
+            },
+            {
+                "players_name": "Meunier T.",
+                "players_number": "24",
+                "Full Name": "Thomas Meunier",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (12.09.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "WUyrShAL"
+            },
+            {
+                "players_name": "Meyer A. (G)",
+                "players_number": "33",
+                "Full Name": "Alexander Meyer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "32, (13.04.1991)",
+                "Market Value": "€760k",
+                "unicode": "0QYpaRhf"
+            },
+            {
+                "players_name": "Reus M.",
+                "players_number": "11",
+                "Full Name": "Marco Reus",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (31.05.1989)",
+                "Market Value": "€6.9m",
+                "unicode": "fonESekN"
+            },
+            {
+                "players_name": "Reyna G.",
+                "players_number": "7",
+                "Full Name": "Giovanni Reyna",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (13.11.2002)",
+                "Market Value": "€19.9m",
+                "unicode": "zF5Q2DOk"
+            },
+            {
+                "players_name": "Rothe T.",
+                "players_number": "36",
+                "Full Name": "Tom Rothe",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "19, (29.10.2004)",
+                "Market Value": "€5.8m",
+                "unicode": "KIEP1A93"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The referee of today's match will be Jesus Gil Manzano.",
+            "comments_text_anonymized": "The referee of today's match will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Dortmund will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:06",
+            "comments_type": "shot off target",
+            "comments_text": "Julian Brandt (Dortmund) gets to the rebound and shoots, but the effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:53",
+            "comments_type": "shot off target",
+            "comments_text": "Emre Can (Dortmund) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:15",
+            "comments_type": "ball out of play",
+            "comments_text": "Kai Havertz (Chelsea) skips past his man but can't keep the ball in play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:22",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Kai Havertz (Chelsea) was seen by Jesus Gil Manzano who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:13",
+            "comments_type": "ball possession",
+            "comments_text": "Some patient build-up play from Chelsea as they look to unlock the defence.",
+            "comments_text_anonymized": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Marius Wolf (Dortmund) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Mykhailo Mudryk (Chelsea).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:30",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Reece James (Chelsea) was quite harsh and Jesus Gil Manzano didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:43",
+            "comments_type": "ball possession",
+            "comments_text": "Karim Adeyemi (Dortmund) plays a one-two with Salih Ozcan, but the move breaks down.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:17",
+            "comments_type": "lead to corner",
+            "comments_text": "Mykhailo Mudryk (Chelsea) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. The referee blows his whistle, Chelsea are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:24",
+            "comments_type": "corner",
+            "comments_text": "Joao Felix (Chelsea) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "lead to corner",
+            "comments_text": "What a goal-scoring opportunity! Karim Adeyemi (Dortmund) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in. The linesman points to the corner flag, Dortmund are going to take it.",
+            "comments_text_anonymized": "What a goal-scoring opportunity! [PLAYER] ([TEAM]) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:36",
+            "comments_type": "corner",
+            "comments_text": "Raphael Guerreiro (Dortmund) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:00",
+            "comments_type": "clearance",
+            "comments_text": "Raphael Guerreiro (Dortmund) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Emre Can (Dortmund) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it. The ball goes out for a corner. Dortmund can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "corner",
+            "comments_text": "Julian Brandt (Dortmund) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:15",
+            "comments_type": "clearance",
+            "comments_text": "Kai Havertz (Chelsea) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:35",
+            "comments_type": "corner",
+            "comments_text": "Ben Chilwell (Chelsea) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:17",
+            "comments_type": "corner",
+            "comments_text": "The corner from Joao Felix (Chelsea) is intercepted by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Sebastien Haller (Dortmund) makes a strong challenge and Jesus Gil Manzano blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:32",
+            "comments_type": "yellow card",
+            "comments_text": "Thiago Silva (Chelsea) gives the referee no choice but to show him a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives the referee no choice but to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Kalidou Koulibaly (Chelsea) gives away a foul for a clumsy challenge. Referee Jesus Gil Manzano saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:14",
+            "comments_type": "shot off target",
+            "comments_text": "Marius Wolf (Dortmund) has a great chance to score from deep inside the box! He finds some space for the shot, but sends it errantly way past the right post. Very bad attempt. The ball goes out of play and Chelsea will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a great chance to score from deep inside the box! He finds some space for the shot, but sends it errantly way past the right post. Very bad attempt. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:14",
+            "comments_type": "clearance",
+            "comments_text": "Raphael Guerreiro (Dortmund) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:12",
+            "comments_type": "lead to corner",
+            "comments_text": "Jude Bellingham (Dortmund) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Dortmund have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:43",
+            "comments_type": "corner",
+            "comments_text": "Julian Brandt (Dortmund) swings in a cross from the corner, but Kepa Arrizabalaga reads it well and gathers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:58",
+            "comments_type": "statistics and summary",
+            "comments_text": "70:30 – this is the current ball possession ratio.",
+            "comments_text_anonymized": "70:30 – this is the current ball possession ratio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "Karim Adeyemi (Dortmund) passes the ball into the box but an opposing player clears.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:53",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Marius Wolf (Dortmund) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:13",
+            "comments_type": "lead to corner",
+            "comments_text": "Marius Wolf (Dortmund) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is out of play and Dortmund manage to earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:13",
+            "comments_type": "corner",
+            "comments_text": "Julian Brandt (Dortmund) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:31",
+            "comments_type": "clearance",
+            "comments_text": "Marius Wolf (Dortmund) produces a dangerous lofted cross into the box which is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:20",
+            "comments_type": "clearance",
+            "comments_text": "Joao Felix (Chelsea) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:04",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A defender unwittingly blocks the ball on the line after a snap shot from Karim Adeyemi (Dortmund) inside the box following a slide rule pass.",
+            "comments_text_anonymized": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Emre Can (Dortmund) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jesus Gil Manzano no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:03",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Kai Havertz (Chelsea) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Kai Havertz (Chelsea) makes a rough challenge and Jesus Gil Manzano blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:20",
+            "comments_type": "clearance",
+            "comments_text": "Hakim Ziyech (Chelsea) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Raphael Guerreiro (Dortmund) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:02",
+            "comments_type": "clearance",
+            "comments_text": "Reece James (Chelsea) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:37",
+            "comments_type": "off side",
+            "comments_text": "Kalidou Koulibaly (Chelsea) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:24",
+            "comments_type": "clearance",
+            "comments_text": "Marius Wolf (Dortmund) sends a pass into the penalty area, but the opponent manages to cut it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:04",
+            "comments_type": "corner",
+            "comments_text": "Dortmund take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:21",
+            "comments_type": "shot off target",
+            "comments_text": "Karim Adeyemi (Dortmund) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar. The ball goes out of play and Chelsea will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano blows for a foul after Mykhailo Mudryk (Chelsea) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:37",
+            "comments_type": "clearance",
+            "comments_text": "Nico Schlotterbeck (Dortmund) received a pass out of defence and immediately attempted a long-range shot, but a defender bravely blocked the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) received a pass out of defence and immediately attempted a long-range shot, but a defender bravely blocked the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:04",
+            "comments_type": "clearance",
+            "comments_text": "Jude Bellingham (Dortmund) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Karim Adeyemi (Dortmund) sends a cross into the box, but Kepa Arrizabalaga comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:26",
+            "comments_type": "clearance",
+            "comments_text": "Marius Wolf (Dortmund) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:55",
+            "comments_type": "clearance",
+            "comments_text": "Nico Schlotterbeck (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:52",
+            "comments_type": "clearance",
+            "comments_text": "Ben Chilwell (Chelsea) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Mykhailo Mudryk (Chelsea) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. Chelsea will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:04",
+            "comments_type": "corner",
+            "comments_text": "Joao Felix (Chelsea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Ben Chilwell (Chelsea) was too forceful with his tackle and Jesus Gil Manzano interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:06",
+            "comments_type": "shot off target",
+            "comments_text": "Julian Brandt has a look up and finds Marius Wolf (Dortmund) in space. He wastes no time in trying to test the keeper from distance but the shot is just wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea.",
+            "comments_text_anonymized": "[PLAYER] has a look up and finds [PLAYER] ([TEAM]) in space. He wastes no time in trying to test the keeper from distance but the shot is just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:25",
+            "comments_type": "clearance",
+            "comments_text": "Hakim Ziyech (Chelsea) tries to pass the ball into the penalty area but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:13",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "comments_text_anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Ben Chilwell (Chelsea) produces a poor pass. He attempts to get the ball into the box but it's hacked away. The ball is out of play. Chelsea will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:05",
+            "comments_type": "corner",
+            "comments_text": "The corner from Joao Felix (Chelsea) is intercepted by Gregor Kobel.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Julian Brandt (Dortmund) commits a rough challenge and Jesus Gil Manzano blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:11",
+            "comments_type": "yellow card",
+            "comments_text": "Jude Bellingham (Dortmund) makes a bad challenge on his opponent and is booked by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Emre Can (Dortmund) robs an opponent of the ball and explodes in anger when Jesus Gil Manzano blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:20",
+            "comments_type": "clearance",
+            "comments_text": "Kai Havertz (Chelsea) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to latch onto a rebound inside the box, but his shot is well blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:20",
+            "comments_type": "shot off target",
+            "comments_text": "Enzo Fernandez (Chelsea) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:20",
+            "comments_type": "yellow card",
+            "comments_text": "Emre Can (Dortmund) has tested the patience of referee Jesus Gil Manzano and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano couldn't ignore the rough tackle by Emre Can (Dortmund) and blew his whistle.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:25",
+            "comments_type": "clearance",
+            "comments_text": "Ben Chilwell (Chelsea) puts a cross into the box from the free kick, but the defender gets there first.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "clearance",
+            "comments_text": "Enzo Fernandez (Chelsea) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:22",
+            "comments_type": "red card",
+            "comments_text": "It looks like Reece James (Chelsea) saw red with that tackle. Jesus Gil Manzano won't tolerate such behaviour on the pitch and blows for a foul.",
+            "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:22",
+            "comments_type": "shot off target",
+            "comments_text": "Emre Can (Dortmund) smashes the ball towards goal, but his effort fails to threaten the goalkeeper after going way off target. The ball is off of the pitch and it's a goal kick for Chelsea.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) smashes the ball towards goal, but his effort fails to threaten the goalkeeper after going way off target. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:27",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Julian Brandt (Dortmund) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the bottom left corner, but Kepa Arrizabalaga was alert and the score remains the same.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the bottom left corner, but [PLAYER] was alert and the score remains the same."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Enzo Fernandez (Chelsea) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. Gregor Kobel pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:12",
+            "comments_type": "clearance",
+            "comments_text": "Nico Schlotterbeck (Dortmund) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:30",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Mykhailo Mudryk (Chelsea) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:47",
+            "comments_type": "corner",
+            "comments_text": "Joao Felix (Chelsea) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:46",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Joao Felix (Chelsea) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:45",
+            "comments_type": "shot off target",
+            "comments_text": "Enzo Fernandez (Chelsea) picks up a rebound after a melee on the edge of the box. His first-time shot is poor, though, and curls well wide of the right post. The ball goes out of play and Dortmund will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a rebound after a melee on the edge of the box. His first-time shot is poor, though, and curls well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:40",
+            "comments_type": "clearance",
+            "comments_text": "Mykhailo Mudryk (Chelsea) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:40",
+            "comments_type": "corner",
+            "comments_text": "Good work from Chelsea as they win a corner.",
+            "comments_text_anonymized": "Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:40",
+            "comments_type": "clearance",
+            "comments_text": "Joao Felix (Chelsea) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:36",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Karim Adeyemi (Dortmund) receives the ball after a swift counter attack. Still with some work to do, he weaves his way through the defence to score a wonderful goal from close range to make it 1:0.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) receives the ball after a swift counter attack. Still with some work to do, he weaves his way through the defence to score a wonderful goal from close range to make it 1:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:54",
+            "comments_type": "injury",
+            "comments_text": "Marius Wolf (Dortmund) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:15",
+            "comments_type": "injury",
+            "comments_text": "Marius Wolf (Dortmund) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Sebastien Haller leaves the pitch and Anthony Modeste (Dortmund) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:00",
+            "comments_type": "clearance",
+            "comments_text": "Julian Brandt (Dortmund) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays in a hopeful cross, but it doesn't find its way to any of the attacking players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:02",
+            "comments_type": "substitution",
+            "comments_text": "Graham Potter prepares a substitution. Ben Chilwell is replaced by Marc Cucurella (Chelsea).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Mykhailo Mudryk departs the field of play to be replaced by Mason Mount (Chelsea).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:32",
+            "comments_type": "corner",
+            "comments_text": "Joao Felix (Chelsea) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:50",
+            "comments_type": "yellow card",
+            "comments_text": "Hakim Ziyech (Chelsea) is booked after bringing down an opponent. Jesus Gil Manzano had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:12",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Marius Wolf is going off and Edin Terzic gives the last tactical orders to Julian Ryerson (Dortmund).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:02",
+            "comments_type": "statistics and summary",
+            "comments_text": "The statistic for corner kicks – 5:8.",
+            "comments_text_anonymized": "The statistic for corner kicks – 5:8."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:13",
+            "comments_type": "clearance",
+            "comments_text": "Marc Cucurella (Chelsea) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:50",
+            "comments_type": "clearance",
+            "comments_text": "Hakim Ziyech (Chelsea) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:18",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Reece James (Chelsea) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 81365.",
+            "comments_text_anonymized": "The attendance for today's match is 81365."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:31",
+            "comments_type": "yellow card",
+            "comments_text": "Jesus Gil Manzano shows a yellow card to Karim Adeyemi (Dortmund) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:20",
+            "comments_type": "free kick",
+            "comments_text": "Hakim Ziyech (Chelsea) produces a cross from the resulting free kick from just outside the box, but the goalkeeper smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a cross from the resulting free kick from just outside the box, but the goalkeeper smothers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:20",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Karim Adeyemi will be replaced by Jamie Bynoe-Gittens (Dortmund).",
+            "comments_text_anonymized": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:06",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Excellent touch by Hakim Ziyech (Chelsea)! He latches on to an inch-perfect pass deep into the box and unleashes a low drive towards the middle of the goal. The goalkeeper reacts superbly and makes a save.",
+            "comments_text_anonymized": "Excellent touch by [PLAYER] ([TEAM])! He latches on to an inch-perfect pass deep into the box and unleashes a low drive towards the middle of the goal. The goalkeeper reacts superbly and makes a save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:43",
+            "comments_type": "clearance",
+            "comments_text": "Anthony Modeste (Dortmund) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano blows his whistle. Niklas Sule (Dortmund) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:47",
+            "comments_type": "free kick",
+            "comments_text": "Enzo Fernandez (Chelsea) takes the free kick and immediately restarts play with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick and immediately restarts play with a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:14",
+            "comments_type": "clearance",
+            "comments_text": "Julian Ryerson (Dortmund) sends a cross in and finds Anthony Modeste inside the box, but one of the defenders steps in and clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross in and finds [PLAYER] inside the box, but one of the defenders steps in and clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:41",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Joao Felix (Chelsea) receives a precise low pass inside the box, controls the ball and drills it to the middle of the goal, but Gregor Kobel makes a comfortable save to stop his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise low pass inside the box, controls the ball and drills it to the middle of the goal, but [PLAYER] makes a comfortable save to stop his effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:07",
+            "comments_type": "shot off target",
+            "comments_text": "Hakim Ziyech (Chelsea) fires the ball at goal from inside the area, but it's well blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:05",
+            "comments_type": "yellow card",
+            "comments_text": "Jesus Gil Manzano shows a yellow card to Salih Ozcan (Dortmund) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:38",
+            "comments_type": "shot off target",
+            "comments_text": "Close effort! Hakim Ziyech (Chelsea) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The ball is off of the pitch and it's a goal kick for Dortmund.",
+            "comments_text_anonymized": "Close effort! [PLAYER] ([TEAM]) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:40",
+            "comments_type": "clearance",
+            "comments_text": "Joao Felix (Chelsea) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Marc Cucurella (Chelsea) commits a rough foul. Jesus Gil Manzano stops the game and makes a call.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:18",
+            "comments_type": "yellow card",
+            "comments_text": "Julian Ryerson (Dortmund) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the book for a horrible tackle. A yellow card is necessary in this case."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:48",
+            "comments_type": "yellow card",
+            "comments_text": "Niklas Sule (Dortmund) picks up a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:41",
+            "comments_type": "yellow card",
+            "comments_text": "Mason Mount (Chelsea) is literally asking for a yellow card with his behaviour. The referee agrees and books him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:42",
+            "comments_type": "clearance",
+            "comments_text": "Ruben Loftus-Cheek (Chelsea) delivers a low pass into the box which is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:39",
+            "comments_type": "corner",
+            "comments_text": "Gregor Kobel leaps to intercept the corner kick from Hakim Ziyech (Chelsea).",
+            "comments_text_anonymized": "[PLAYER] leaps to intercept the corner kick from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:49",
+            "comments_type": "off side",
+            "comments_text": "Joao Felix (Chelsea) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Enzo Fernandez (Chelsea). Jesus Gil Manzano blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:30",
+            "comments_type": "clearance",
+            "comments_text": "Marc Cucurella (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:50",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Chelsea.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:07",
+            "comments_type": "end of half game",
+            "comments_text": "The referee checks his watch and blows his whistle to signal the end of this match.",
+            "comments_text_anonymized": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ]
+}

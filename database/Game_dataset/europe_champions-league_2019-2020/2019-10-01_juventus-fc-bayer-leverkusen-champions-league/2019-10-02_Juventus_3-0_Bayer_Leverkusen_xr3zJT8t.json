@@ -1,0 +1,989 @@
+{
+    "match_info": {
+        "timestamp": "2019-10-02 03:00:00",
+        "score": "3 - 0",
+        "home_team": "Juventus",
+        "away_team": "Bayer Leverkusen",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Allianz Stadium (Turin)",
+        "capacity": "41 507",
+        "attendance": "34 525",
+        "home_jersey_color": "white and black",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Collum W. (Sco)",
+        "first_name": "Collum",
+        "abbr_last_name": "W",
+        "country": "Sco",
+        "detected_name": "William Collum"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Bosz P.",
+                "players_number": "",
+                "Full Name": "Peter Bosz",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (21.11.1963)",
+                "Market Value": "",
+                "unicode": "Ak7J86g1"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bailey L.",
+                "players_number": "",
+                "Full Name": "Leon Bailey",
+                "players_rating": "",
+                "Country": "Jamaica",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (09.08.1997)",
+                "Market Value": "€29.4m",
+                "unicode": "Mc0XPojG"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alario L.",
+                "players_number": "13",
+                "Full Name": "Lucas Alario",
+                "players_rating": 6.0,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (08.10.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "GC953Lzc"
+            },
+            {
+                "players_name": "Aranguiz C.",
+                "players_number": "20",
+                "Full Name": "Charles Aranguiz",
+                "players_rating": 6.2,
+                "Country": "Chile",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (17.04.1989)",
+                "Market Value": "€1.8m",
+                "unicode": "EZc7f9C5"
+            },
+            {
+                "players_name": "Baumgartlinger J.",
+                "players_number": "15",
+                "Full Name": "Julian Baumgartlinger",
+                "players_rating": 6.2,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (02.01.1988)",
+                "Market Value": "",
+                "unicode": "2Va6jkSe"
+            },
+            {
+                "players_name": "Bender S.",
+                "players_number": "5",
+                "Full Name": "Sven Bender",
+                "players_rating": 5.7,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (27.04.1989)",
+                "Market Value": "",
+                "unicode": "v1r7SOW5"
+            },
+            {
+                "players_name": "Demirbay K.",
+                "players_number": "10",
+                "Full Name": "Kerem Demirbay",
+                "players_rating": 6.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (03.07.1993)",
+                "Market Value": "€4.7m",
+                "unicode": "bDxlhHxR"
+            },
+            {
+                "players_name": "Havertz K.",
+                "players_number": "29",
+                "Full Name": "Kai Havertz",
+                "players_rating": 6.2,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (11.06.1999)",
+                "Market Value": "€53.0m",
+                "unicode": "rH8BZWiI"
+            },
+            {
+                "players_name": "Hradecky L. (G)",
+                "players_number": "1",
+                "Full Name": "Lukas Hradecky",
+                "players_rating": 6.3,
+                "Country": "Finland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (24.11.1989)",
+                "Market Value": "€2.5m",
+                "unicode": "nRZtaBXj"
+            },
+            {
+                "players_name": "Tah J.",
+                "players_number": "4",
+                "Full Name": "Jonathan Tah",
+                "players_rating": 6.4,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (11.02.1996)",
+                "Market Value": "€24.1m",
+                "unicode": "2yf8EcuE"
+            },
+            {
+                "players_name": "Volland K. (C)",
+                "players_number": "31",
+                "Full Name": "Kevin Volland",
+                "players_rating": 6.0,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (30.07.1992)",
+                "Market Value": "€4.7m",
+                "unicode": "dnpDxpQf"
+            },
+            {
+                "players_name": "Weiser M.",
+                "players_number": "23",
+                "Full Name": "Mitchell Weiser",
+                "players_rating": 7.0,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (21.04.1994)",
+                "Market Value": "€6.0m",
+                "unicode": "tYnkajw9"
+            },
+            {
+                "players_name": "Wendell",
+                "players_number": "18",
+                "Full Name": "Wendell",
+                "players_rating": 6.3,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (20.07.1993)",
+                "Market Value": "",
+                "unicode": "YsRt3zJE"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Amiri N.",
+                "players_number": "11",
+                "Full Name": "Nadiem Amiri",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (27.10.1996)",
+                "Market Value": "€4.2m",
+                "unicode": "b3H5VR8I"
+            },
+            {
+                "players_name": "Paulinho",
+                "players_number": "7",
+                "Full Name": "Paulinho",
+                "players_rating": 6.1,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (15.07.2000)",
+                "Market Value": "€14.0m",
+                "unicode": "GExeArGJ"
+            },
+            {
+                "players_name": "Sinkgraven D.",
+                "players_number": "22",
+                "Full Name": "Daley Sinkgraven",
+                "players_rating": 6.3,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (04.07.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "hSNXqigO"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Diaby M.",
+                "players_number": "19",
+                "Full Name": "Moussa Diaby",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (07.07.1999)",
+                "Market Value": "€57.9m",
+                "unicode": "GYjwX8oI"
+            },
+            {
+                "players_name": "Dragovic A.",
+                "players_number": "6",
+                "Full Name": "Aleksandar Dragovic",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (06.03.1991)",
+                "Market Value": "€3.9m",
+                "unicode": "YRJievfI"
+            },
+            {
+                "players_name": "Ozcan R. (G)",
+                "players_number": "28",
+                "Full Name": "Ramazan Ozcan",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (28.06.1984)",
+                "Market Value": "",
+                "unicode": "vi3Y2AIU"
+            },
+            {
+                "players_name": "Retsos P.",
+                "players_number": "3",
+                "Full Name": "Panagiotis Retsos",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (09.08.1998)",
+                "Market Value": "€2.4m",
+                "unicode": "W6dn3O5H"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Sarri M.",
+                "players_number": "",
+                "Full Name": "Maurizio Sarri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (10.01.1959)",
+                "Market Value": "",
+                "unicode": "pvzTXTMR"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Chiellini G.",
+                "players_number": "",
+                "Full Name": "Giorgio Chiellini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (14.08.1984)",
+                "Market Value": "",
+                "unicode": "K2KuC4Uu"
+            },
+            {
+                "players_name": "Costa D.",
+                "players_number": "",
+                "Full Name": "Douglas Costa",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€1.5m, (14.09.1990)",
+                "Market Value": "",
+                "unicode": "fPOJMEfo"
+            },
+            {
+                "players_name": "Danilo",
+                "players_number": "",
+                "Full Name": "Danilo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (15.07.1991)",
+                "Market Value": "€11.9m",
+                "unicode": "KUjvgUhB"
+            },
+            {
+                "players_name": "De Sciglio M.",
+                "players_number": "",
+                "Full Name": "Mattia De Sciglio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.10.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "Ua5srQK6"
+            },
+            {
+                "players_name": "Perin M.",
+                "players_number": "",
+                "Full Name": "Mattia Perin",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (10.11.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "A3ZJNQg1"
+            },
+            {
+                "players_name": "Pjaca M.",
+                "players_number": "",
+                "Full Name": "Marko Pjaca",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (06.05.1995)",
+                "Market Value": "€1.6m",
+                "unicode": "UgMPrQq6"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alex Sandro",
+                "players_number": "12",
+                "Full Name": "Alex Sandro",
+                "players_rating": 6.8,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (26.01.1991)",
+                "Market Value": "€2.0m",
+                "unicode": "hrkni8NN"
+            },
+            {
+                "players_name": "Bernardeschi F.",
+                "players_number": "33",
+                "Full Name": "Federico Bernardeschi",
+                "players_rating": 7.6,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (16.02.1994)",
+                "Market Value": "",
+                "unicode": "Ghmdi8ej"
+            },
+            {
+                "players_name": "Bonucci L. (C)",
+                "players_number": "19",
+                "Full Name": "Leonardo Bonucci",
+                "players_rating": 7.2,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (01.05.1987)",
+                "Market Value": "€1.4m",
+                "unicode": "zmOGDSwg"
+            },
+            {
+                "players_name": "Cuadrado J.",
+                "players_number": "16",
+                "Full Name": "Juan Cuadrado",
+                "players_rating": 8.0,
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (26.05.1988)",
+                "Market Value": "€2.0m",
+                "unicode": "AFefBpwI"
+            },
+            {
+                "players_name": "de Ligt M.",
+                "players_number": "4",
+                "Full Name": "Matthijs de Ligt",
+                "players_rating": 7.3,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (12.08.1999)",
+                "Market Value": "€62.7m",
+                "unicode": "hhRKVBXN"
+            },
+            {
+                "players_name": "Higuain G.",
+                "players_number": "21",
+                "Full Name": "Gonzalo Higuain",
+                "players_rating": 8.2,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (10.12.1987)",
+                "Market Value": "",
+                "unicode": "xpQl63zG"
+            },
+            {
+                "players_name": "Khedira S.",
+                "players_number": "6",
+                "Full Name": "Sami Khedira",
+                "players_rating": 7.0,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (04.04.1987)",
+                "Market Value": "",
+                "unicode": "0AgmLAwr"
+            },
+            {
+                "players_name": "Matuidi B.",
+                "players_number": "14",
+                "Full Name": "Blaise Matuidi",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (09.04.1987)",
+                "Market Value": "",
+                "unicode": "CAWma17n"
+            },
+            {
+                "players_name": "Pjanic M.",
+                "players_number": "5",
+                "Full Name": "Miralem Pjanic",
+                "players_rating": 7.2,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.04.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "ObHi3HbL"
+            },
+            {
+                "players_name": "Ronaldo C.",
+                "players_number": "7",
+                "Full Name": "Cristiano Ronaldo",
+                "players_rating": 7.7,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "38, (05.02.1985)",
+                "Market Value": "€15.7m",
+                "unicode": "WGOY4FSt"
+            },
+            {
+                "players_name": "Szczesny W. (G)",
+                "players_number": "1",
+                "Full Name": "Wojciech Szczesny",
+                "players_rating": 6.6,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (18.04.1990)",
+                "Market Value": "€8.4m",
+                "unicode": "6NtwHZ7F"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bentancur R.",
+                "players_number": "30",
+                "Full Name": "Rodrigo Bentancur",
+                "players_rating": 6.5,
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (25.06.1997)",
+                "Market Value": "€34.7m",
+                "unicode": "nLRMnJtJ"
+            },
+            {
+                "players_name": "Dybala P.",
+                "players_number": "10",
+                "Full Name": "Paulo Dybala",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (15.11.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "W4myUVXR"
+            },
+            {
+                "players_name": "Ramsey A.",
+                "players_number": "8",
+                "Full Name": "Aaron Ramsey",
+                "players_rating": 6.1,
+                "Country": "Wales",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (26.12.1990)",
+                "Market Value": "€1.4m",
+                "unicode": "fBD08Fin"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Buffon G. (G)",
+                "players_number": "77",
+                "Full Name": "Gianluigi Buffon",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30.06.2024, (28.01.1978)",
+                "Market Value": "",
+                "unicode": "xKQMi1qO"
+            },
+            {
+                "players_name": "Demiral M.",
+                "players_number": "28",
+                "Full Name": "Merih Demiral",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (05.03.1998)",
+                "Market Value": "€17.4m",
+                "unicode": "MRw4A5FO"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            },
+            {
+                "players_name": "Rugani D.",
+                "players_number": "24",
+                "Full Name": "Daniele Rugani",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.07.1994)",
+                "Market Value": "€4.0m",
+                "unicode": "zyoOMhpU"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's William Collum.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Bayer Leverkusen will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:37",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Gonzalo Higuain (Juventus) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:50",
+            "comments_type": "clearance",
+            "comments_text": "Good movement by Kevin Volland (Bayer Leverkusen), but he can't find any of his teammates as the cross is poor.",
+            "comments_text_anonymized": "Good movement by [PLAYER] ([TEAM]), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:36",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Alario (Bayer Leverkusen) drills in an effort from the edge of the box that climbs rapidly and goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) drills in an effort from the edge of the box that climbs rapidly and goes high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Cristiano Ronaldo (Juventus) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and Juventus have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:29",
+            "comments_type": "corner",
+            "comments_text": "The linesman points to the corner flag, Juventus are going to take it.",
+            "comments_text_anonymized": "The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:09",
+            "comments_type": "shot off target",
+            "comments_text": "What a long-range shot by Kerem Demirbay (Bayer Leverkusen). Unfortunately for him, his shot goes just a few inches over the bar. The ball goes out of play and Juventus will have a goal kick.",
+            "comments_text_anonymized": "What a long-range shot by [PLAYER] ([TEAM]). Unfortunately for him, his shot goes just a few inches over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Kerem Demirbay (Bayer Leverkusen) is penalised for a foul. William Collum had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:10",
+            "comments_type": "",
+            "comments_text": "Lucas Alario (Bayer Leverkusen) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "ball out of play",
+            "comments_text": "A pass by Juan Cuadrado (Juventus) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. Bayer Leverkusen will have a throw-in.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Sven Bender (Bayer Leverkusen) brings his opponent down with a tackle and William Collum blows his whistle for a foul. A free kick has been awarded to Juventus.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:40",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) whips in the resulting set piece but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:36",
+            "comments_type": "goal",
+            "comments_text": "Goal! That was a fantastic finish by Gonzalo Higuain (Juventus) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the bottom left corner of the net.",
+            "comments_text_anonymized": "Goal! That was a fantastic finish by [PLAYER] ([TEAM]) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the bottom left corner of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:10",
+            "comments_type": "yellow card",
+            "comments_text": "Aranguiz (Bayer Leverkusen) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but William Collum ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:04",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) puts a cross into the box from the free kick but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:50",
+            "comments_type": "ball possession",
+            "comments_text": "Bayer Leverkusen are seeing far more of the ball now.",
+            "comments_text_anonymized": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:35",
+            "comments_type": "lead to corner",
+            "comments_text": "The defender bravely blocks the shot from Kevin Volland (Bayer Leverkusen) inside the box. It will be a corner kick for Bayer Leverkusen.",
+            "comments_text_anonymized": "The defender bravely blocks the shot from [PLAYER] ([TEAM]) inside the box. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:06",
+            "comments_type": "corner",
+            "comments_text": "Kerem Demirbay (Bayer Leverkusen) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Alex Sandro (Juventus) makes a slide tackle, but referee William Collum blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:12",
+            "comments_type": "off side",
+            "comments_text": "Gonzalo Higuain (Juventus) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:20",
+            "comments_type": "clearance",
+            "comments_text": "Federico Bernardeschi (Juventus) attempted to send a defence-splitting pass into space where Sami Khedira was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to send a defence-splitting pass into space where [PLAYER] was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:07",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) swings a cross into the box, but it's far too close to Wojciech Szczesny, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:39",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) threads a pass through to Gonzalo Higuain, but Lukas Hradecky breaks up the move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) threads a pass through to [PLAYER], but [PLAYER] breaks up the move."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:07",
+            "comments_type": "shot off target",
+            "comments_text": "Miralem Pjanic (Juventus) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:46",
+            "comments_type": "clearance",
+            "comments_text": "Mitchell Weiser (Bayer Leverkusen) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:16",
+            "comments_type": "off side",
+            "comments_text": "Lucas Alario (Bayer Leverkusen) is caught offside!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:50",
+            "comments_type": "clearance",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "1 additional min. will be played.",
+            "comments_text_anonymized": "1 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:02",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee William Collum blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Kerem Demirbay is replaced by Nadiem Amiri (Bayer Leverkusen).",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Kai Havertz (Bayer Leverkusen) looks to break free, but an opposing player clears the ball away. The ball goes out for a corner. Bayer Leverkusen can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:28",
+            "comments_type": "corner",
+            "comments_text": "Nadiem Amiri (Bayer Leverkusen) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:32",
+            "comments_type": "shot off target",
+            "comments_text": "Aranguiz (Bayer Leverkusen) latches on to the corner kick and releases a quick strike from the edge of the box. The result differs significantly from his intention as the ball flies way wide of the left post. The ball is off of the pitch and it's a goal kick for Juventus.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to the corner kick and releases a quick strike from the edge of the box. The result differs significantly from his intention as the ball flies way wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:10",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo races towards the box before laying off to Federico Bernardeschi (Juventus), who picks it up but blazes a shot well over the bar from the edge of the box. The ball is off of the pitch and it's a goal kick for Bayer Leverkusen.",
+            "comments_text_anonymized": "[PLAYER] races towards the box before laying off to [PLAYER] ([TEAM]), who picks it up but blazes a shot well over the bar from the edge of the box. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:02",
+            "comments_type": "off side",
+            "comments_text": "Blaise Matuidi (Juventus) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:26",
+            "comments_type": "shot off target",
+            "comments_text": "The ball sits up nicely on the edge of the box for Kevin Volland (Bayer Leverkusen), but his powerful first-time effort flies high over the bar. The ball is off of the pitch and it's a goal kick for Juventus.",
+            "comments_text_anonymized": "The ball sits up nicely on the edge of the box for [PLAYER] ([TEAM]), but his powerful first-time effort flies high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:00",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Juan Cuadrado (Juventus) was quite harsh and William Collum didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:50",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo (Juventus) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:47",
+            "comments_type": "goal",
+            "comments_text": "Federico Bernardeschi (Juventus) receives a killer pass, finds himself one-on-one with the goalkeeper and drills the ball into the bottom right corner. Magnificent finish!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a killer pass, finds himself one-on-one with the goalkeeper and drills the ball into the bottom right corner. Magnificent finish!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:15",
+            "comments_type": "var",
+            "comments_text": "Amid all the celebrations by Juventus, the referee has gone over to the monitor to check the validity of the goal using VAR.",
+            "comments_text_anonymized": "Amid all the celebrations by [TEAM], the referee has gone over to the monitor to check the validity of the goal using VAR."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:57",
+            "comments_type": "goal",
+            "comments_text": "The goal stands! That took a long time for referee William Collum to decide. The relieved Juventus players can finally celebrate.",
+            "comments_text_anonymized": "The goal stands! That took a long time for referee [REFEREE] to decide. The relieved [TEAM] players can finally celebrate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:18",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Cristiano Ronaldo (Juventus) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Sami Khedira (Juventus) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. Juventus earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. [TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:12",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) is about to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:31",
+            "comments_type": "substitution",
+            "comments_text": "Peter Bosz has decided to make a change. Paulinho (Bayer Leverkusen) replaces Lucas Alario.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Nadiem Amiri (Bayer Leverkusen) wastes a good opportunity as his pass into the box is blocked by the defence. Bayer Leverkusen get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:00",
+            "comments_type": "corner",
+            "comments_text": "Bayer Leverkusen take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:54",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Rodrigo Bentancur (Juventus) on for Sami Khedira.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:47",
+            "comments_type": "substitution",
+            "comments_text": "Maurizio Sarri has decided to substitute Federico Bernardeschi and he is replaced by Aaron Ramsey (Juventus).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:16",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Daley Sinkgraven (Bayer Leverkusen) comes onto the pitch for Aranguiz.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:36",
+            "comments_type": "corner",
+            "comments_text": "Nadiem Amiri (Bayer Leverkusen) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee and one of his assistants signal for a corner kick to Bayer Leverkusen.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:25",
+            "comments_type": "corner",
+            "comments_text": "Nadiem Amiri (Bayer Leverkusen) takes the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:36",
+            "comments_type": "shot off target",
+            "comments_text": "Jonathan Tah (Bayer Leverkusen) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly over the crossbar. The ball goes out of play and Juventus will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:28",
+            "comments_type": "substitution",
+            "comments_text": "The substitution has been made. Paulo Dybala (Juventus) has replaced Gonzalo Higuain.",
+            "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:13",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Paulo Dybala (Juventus) sends a cross into the box, but Lukas Hradecky comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:00",
+            "comments_type": "goal",
+            "comments_text": "Goal - 3:0! Paulo Dybala tees up Cristiano Ronaldo (Juventus) inside the box and he rolls the ball into the bottom left corner and past Lukas Hradecky.",
+            "comments_text_anonymized": "Goal - 3:0! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box and he rolls the ball into the bottom left corner and past [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:10",
+            "comments_type": "ball possession",
+            "comments_text": "Some patient build-up play from Juventus as they look to unlock the defence.",
+            "comments_text_anonymized": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:51",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

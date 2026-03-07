@@ -1,0 +1,1171 @@
+{
+    "match_info": {
+        "timestamp": "2021-11-24 01:45:00",
+        "score": "0 - 2",
+        "home_team": "Villarreal",
+        "away_team": "Manchester Utd",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Estadio de la Ceramica (Villarreal)",
+        "capacity": "23 000",
+        "attendance": "20 875",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Brych F. (Ger)",
+        "first_name": "Brych",
+        "abbr_last_name": "F",
+        "country": "Ger",
+        "detected_name": "Felix Brych"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Carrick M.",
+                "players_number": "",
+                "Full Name": "Michael Carrick",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "42,  (28.07.1981)",
+                "Market Value": "",
+                "unicode": "phM8NElP"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Cavani E.",
+                "players_number": "",
+                "Full Name": "Edinson Cavani",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Greenwood M.",
+                "players_number": "",
+                "Full Name": "Mason Greenwood",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (01.10.2001)",
+                "Market Value": "€7.4m",
+                "unicode": "hxe108Jl"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "",
+                "Full Name": "Paul Pogba",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "",
+                "Full Name": "Luke Shaw",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "",
+                "Full Name": "Raphael Varane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "de Gea D. (G)",
+                "players_number": "1",
+                "Full Name": "David de Gea",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (07.11.1990)",
+                "Market Value": "",
+                "unicode": "d6AEQ6OD"
+            },
+            {
+                "players_name": "Fred",
+                "players_number": "17",
+                "Full Name": "Fred",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€18.3m",
+                "unicode": "2kuP6src"
+            },
+            {
+                "players_name": "Lindelof V.",
+                "players_number": "2",
+                "Full Name": "Victor Lindelof",
+                "players_rating": 7.6,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.07.1994)",
+                "Market Value": "€17.4m",
+                "unicode": "OIp0Le1f"
+            },
+            {
+                "players_name": "Maguire H. (C)",
+                "players_number": "5",
+                "Full Name": "Harry Maguire",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€19.6m",
+                "unicode": "xG8v3YRA"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "9",
+                "Full Name": "Anthony Martial",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "McTominay S.",
+                "players_number": "39",
+                "Full Name": "Scott McTominay",
+                "players_rating": 7.2,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (08.12.1996)",
+                "Market Value": "€27.8m",
+                "unicode": "A7S3y397"
+            },
+            {
+                "players_name": "Ronaldo C.",
+                "players_number": "7",
+                "Full Name": "Cristiano Ronaldo",
+                "players_rating": 7.6,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "38, (05.02.1985)",
+                "Market Value": "€15.7m",
+                "unicode": "WGOY4FSt"
+            },
+            {
+                "players_name": "Sancho J.",
+                "players_number": "25",
+                "Full Name": "Jadon Sancho",
+                "players_rating": 7.7,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.03.2000)",
+                "Market Value": "€24.5m",
+                "unicode": "n5mG9yn6"
+            },
+            {
+                "players_name": "Telles A.",
+                "players_number": "27",
+                "Full Name": "Alex Telles",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (15.12.1992)",
+                "Market Value": "€6.7m",
+                "unicode": "G0TATC32"
+            },
+            {
+                "players_name": "van de Beek D.",
+                "players_number": "34",
+                "Full Name": "Donny van de Beek",
+                "players_rating": 6.4,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.04.1997)",
+                "Market Value": "€8.0m",
+                "unicode": "bs2gvblF"
+            },
+            {
+                "players_name": "Wan-Bissaka A.",
+                "players_number": "29",
+                "Full Name": "Aaron Wan-Bissaka",
+                "players_rating": 7.2,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (26.11.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "faGmGOOh"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Fernandes B.",
+                "players_number": "18",
+                "Full Name": "Bruno Fernandes",
+                "players_rating": 7.3,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€77.4m",
+                "unicode": "GYvAMDm2"
+            },
+            {
+                "players_name": "Mata J.",
+                "players_number": "8",
+                "Full Name": "Juan Manuel Mata",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (28.04.1988)",
+                "Market Value": "€908k",
+                "unicode": "nHlv2UfS"
+            },
+            {
+                "players_name": "Matic N.",
+                "players_number": "31",
+                "Full Name": "Nemanja Matic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "10",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "3",
+                "Full Name": "Eric Bailly",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.2m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "Dalot D.",
+                "players_number": "20",
+                "Full Name": "Diogo Dalot",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (18.03.1999)",
+                "Market Value": "€34.7m",
+                "unicode": "rZZKJVOS"
+            },
+            {
+                "players_name": "Diallo A.",
+                "players_number": "16",
+                "Full Name": "Amad Diallo",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (11.07.2002)",
+                "Market Value": "€16.8m",
+                "unicode": "I5Rhq1WL"
+            },
+            {
+                "players_name": "Heaton T. (G)",
+                "players_number": "22",
+                "Full Name": "Tom Heaton",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.04.1986)",
+                "Market Value": "€262k",
+                "unicode": "MoaXS53r"
+            },
+            {
+                "players_name": "Henderson D. (G)",
+                "players_number": "26",
+                "Full Name": "Dean Henderson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (12.03.1997)",
+                "Market Value": "€11.6m",
+                "unicode": "OpFOJojt"
+            },
+            {
+                "players_name": "Lingard J.",
+                "players_number": "14",
+                "Full Name": "Jesse Lingard",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Emery U.",
+                "players_number": "",
+                "Full Name": "Unai Emery",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (03.11.1971)",
+                "Market Value": "",
+                "unicode": "8QQVnKh9"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Moreno G.",
+                "players_number": "",
+                "Full Name": "Gerard Moreno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.04.1992)",
+                "Market Value": "€15.1m",
+                "unicode": "UwfDD083"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Albiol R. (C)",
+                "players_number": "3",
+                "Full Name": "Raul Albiol",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.09.1985)",
+                "Market Value": "€2.4m",
+                "unicode": "AkMslDtA"
+            },
+            {
+                "players_name": "Capoue E.",
+                "players_number": "6",
+                "Full Name": "Etienne Capoue",
+                "players_rating": 6.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (11.07.1988)",
+                "Market Value": "€1.9m",
+                "unicode": "YHvWrWrd"
+            },
+            {
+                "players_name": "Danjuma A.",
+                "players_number": "15",
+                "Full Name": "Arnaut Danjuma",
+                "players_rating": 6.3,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.01.1997)",
+                "Market Value": "€15.7m",
+                "unicode": "tYV4tvqr"
+            },
+            {
+                "players_name": "Estupinan P.",
+                "players_number": "12",
+                "Full Name": "Pervis Estupinan",
+                "players_rating": 6.7,
+                "Country": "Ecuador",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (21.01.1998)",
+                "Market Value": "€35.7m",
+                "unicode": "OIhsN1nG"
+            },
+            {
+                "players_name": "Foyth J.",
+                "players_number": "8",
+                "Full Name": "Juan Foyth",
+                "players_rating": 6.6,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (12.01.1998)",
+                "Market Value": "€24.1m",
+                "unicode": "vcqiFPHQ"
+            },
+            {
+                "players_name": "Gomez M.",
+                "players_number": "23",
+                "Full Name": "Moi Gomez",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (23.06.1994)",
+                "Market Value": "€4.7m",
+                "unicode": "8b86g1el"
+            },
+            {
+                "players_name": "Parejo D.",
+                "players_number": "5",
+                "Full Name": "Dani Parejo",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (16.04.1989)",
+                "Market Value": "€4.0m",
+                "unicode": "z7YvfLZ8"
+            },
+            {
+                "players_name": "Pino Y.",
+                "players_number": "21",
+                "Full Name": "Yeremy Pino",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (20.10.2002)",
+                "Market Value": "€28.8m",
+                "unicode": "8fnHDvMe"
+            },
+            {
+                "players_name": "Rulli G. (G)",
+                "players_number": "13",
+                "Full Name": "Geronimo Rulli",
+                "players_rating": 6.3,
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (20.05.1992)",
+                "Market Value": "€7.9m",
+                "unicode": "rcbM0Dd8"
+            },
+            {
+                "players_name": "Torres P.",
+                "players_number": "4",
+                "Full Name": "Pau Torres",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (16.01.1997)",
+                "Market Value": "€43.4m",
+                "unicode": "AVUHg8JU"
+            },
+            {
+                "players_name": "Trigueros M.",
+                "players_number": "14",
+                "Full Name": "Manu Trigueros",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (17.10.1991)",
+                "Market Value": "€2.3m",
+                "unicode": "E77oeEa6"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Chukwueze S.",
+                "players_number": "11",
+                "Full Name": "Samuel Chukwueze",
+                "players_rating": 6.0,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (22.05.1999)",
+                "Market Value": "€22.5m",
+                "unicode": "niW1cP0k"
+            },
+            {
+                "players_name": "Dia B.",
+                "players_number": "16",
+                "Full Name": "Boulaye Dia",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (16.11.1996)",
+                "Market Value": "€17.4m",
+                "unicode": "zk0Q52W2"
+            },
+            {
+                "players_name": "Moreno A.",
+                "players_number": "18",
+                "Full Name": "Alberto Moreno",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.07.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pdBI3oS8"
+            },
+            {
+                "players_name": "Raba D.",
+                "players_number": "17",
+                "Full Name": "Dani Raba",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (29.10.1995)",
+                "Market Value": "€2.0m",
+                "unicode": "2cPwbh8J"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Alcacer P.",
+                "players_number": "9",
+                "Full Name": "Paco Alcacer",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (30.08.1993)",
+                "Market Value": "€6.8m",
+                "unicode": "Ey0zWJG1"
+            },
+            {
+                "players_name": "Alvarez I. (G)",
+                "players_number": "31",
+                "Full Name": "Iker Alvarez",
+                "players_rating": "",
+                "Country": "Andorra",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (25.07.2001)",
+                "Market Value": "€760k",
+                "unicode": "O68UwVgl"
+            },
+            {
+                "players_name": "Asenjo S. (G)",
+                "players_number": "1",
+                "Full Name": "Sergio Asenjo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (28.06.1989)",
+                "Market Value": "",
+                "unicode": "2wlnGZ6O"
+            },
+            {
+                "players_name": "Iborra V.",
+                "players_number": "10",
+                "Full Name": "Vicente Iborra",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (16.01.1988)",
+                "Market Value": "€489k",
+                "unicode": "nRwS5Ild"
+            },
+            {
+                "players_name": "Mandi A.",
+                "players_number": "22",
+                "Full Name": "Aissa Mandi",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (22.10.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "0hxFjbCm"
+            },
+            {
+                "players_name": "Mario Gaspar",
+                "players_number": "2",
+                "Full Name": "Mario Gaspar",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (24.11.1990)",
+                "Market Value": "€950k",
+                "unicode": "bqApK6mO"
+            },
+            {
+                "players_name": "Pedraza A.",
+                "players_number": "24",
+                "Full Name": "Alfonso Pedraza",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "KxSmFSum"
+            },
+            {
+                "players_name": "Pena R.",
+                "players_number": "20",
+                "Full Name": "Ruben Pena",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (18.07.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "hvSbhBpg"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Felix Brych is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Manchester Utd will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We have just got the news that the match will be delayed due to technical problems.",
+            "comments_text_anonymized": "We have just got the news that the match will be delayed due to technical problems."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:40",
+            "comments_type": "clearance",
+            "comments_text": "Harry Maguire (Manchester United) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Felix Brych sees the trip by Yeremi Pino (Villarreal) and doesn't hesitate to blow his whistle. Manchester Utd are awarded the free kick.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by Yeremi [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] are awarded the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:10",
+            "comments_type": "shot off target",
+            "comments_text": "Scott McTominay (Manchester United) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:55",
+            "comments_type": "clearance",
+            "comments_text": "Etienne Capoue (Villarreal) sends in a pass which fails to reach any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:10",
+            "comments_type": "lead to corner",
+            "comments_text": "An attempted cross from Arnaut Danjuma (Villarreal) is cleared. The ball is out of play. A goal-scoring opportunity from a corner for Villarreal.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Villarreal is comfortably intercepted by one of the defending players. The referee points to the corner flag and Villarreal will take a corner.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:30",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:30",
+            "comments_type": "shot off target",
+            "comments_text": "Dani Parejo (Villarreal) receives a lofted pass from the side and shoots from around the penalty spot, but the ball flies slightly over, almost brushing the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a lofted pass from the side and shoots from around the penalty spot, but the ball flies slightly over, almost brushing the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:26",
+            "comments_type": "foul with no card",
+            "comments_text": "Manu Trigueros (Villarreal) should know this behaviour is beyond the rules. He was too careless with his challenge and left Felix Brych no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:37",
+            "comments_type": "ball possession",
+            "comments_text": "Villarreal are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",
+            "comments_text_anonymized": "[TEAM] are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:27",
+            "comments_type": "lead to corner",
+            "comments_text": "Pervis Estupinan (Villarreal) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The linesman points to the corner flag, Villarreal are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:25",
+            "comments_type": "corner",
+            "comments_text": "Villarreal work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:37",
+            "comments_type": "shot off target",
+            "comments_text": "Pervis Estupinan (Villarreal) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:10",
+            "comments_type": "ball possession",
+            "comments_text": "Cristiano Ronaldo (Manchester United) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:44",
+            "comments_type": "ball possession",
+            "comments_text": "Scott McTominay (Manchester United) tries to find Anthony Martial, but he puts too much power on the through ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:12",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Jadon Sancho (Manchester United). Manchester Utd have been awarded a corner kick.",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:41",
+            "comments_type": "corner",
+            "comments_text": "Alex Telles (Manchester United) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Cristiano Ronaldo (Manchester United) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by Geronimo Rulli. This effort really didn't trouble him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by [PLAYER]. This effort really didn't trouble him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:34",
+            "comments_type": "clearance",
+            "comments_text": "Arnaut Danjuma (Villarreal) attempted to send a defence-splitting pass into space where Manu Trigueros was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to send a defence-splitting pass into space where [PLAYER] was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:22",
+            "comments_type": "yellow card",
+            "comments_text": "Yeremi Pino (Villarreal) has tested the patience of referee Felix Brych and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "Yeremi [PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:10",
+            "comments_type": "free kick",
+            "comments_text": "Manchester Utd win a free kick. It's a promising situation for a direct shot.",
+            "comments_text_anonymized": "[TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:50",
+            "comments_type": "free kick",
+            "comments_text": "Cristiano Ronaldo (Manchester United) takes the free kick from the edge of the box, but the defensive wall charges down the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick from the edge of the box, but the defensive wall charges down the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "injury",
+            "comments_text": "Fred (Manchester United) picks up an injury.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up an injury."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:15",
+            "comments_type": "injury",
+            "comments_text": "Fred (Manchester United) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:13",
+            "comments_type": "injury",
+            "comments_text": "Arnaut Danjuma (Villarreal) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:46",
+            "comments_type": "injury",
+            "comments_text": "Arnaut Danjuma (Villarreal) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "ball possession",
+            "comments_text": "Jadon Sancho (Manchester United) sent a pass onto Donny van de Beek, who didn't get a chance to finish.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sent a pass onto [PLAYER], who didn't get a chance to finish."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:37",
+            "comments_type": "clearance",
+            "comments_text": "Manu Trigueros (Villarreal) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:55",
+            "comments_type": "yellow card",
+            "comments_text": "Felix Brych shows a yellow card to Donny van de Beek (Manchester United) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:42",
+            "comments_type": "shot off target",
+            "comments_text": "Dani Parejo (Villarreal) stands over the resultant free kick from mid-range, but his shot goes just over the crossbar. It could have been a fantastic goal!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) stands over the resultant free kick from mid-range, but his shot goes just over the crossbar. It could have been a fantastic goal!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:16",
+            "comments_type": "lead to corner",
+            "comments_text": "Fantastic run and shot from mid-range by Moi Gomez (Villarreal), but a defender denies him an almost certain goal by getting his body in the way. Now Villarreal have a corner.",
+            "comments_text_anonymized": "Fantastic run and shot from mid-range by [PLAYER] ([TEAM]), but a defender denies him an almost certain goal by getting his body in the way. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:17",
+            "comments_type": "corner",
+            "comments_text": "Villarreal take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "1 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "1 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:40",
+            "comments_type": "shot off target",
+            "comments_text": "Arnaut Danjuma (Villarreal) drives into the box and hits a tremendous shot that, unluckily for him, flashes just wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) drives into the box and hits a tremendous shot that, unluckily for him, flashes just wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:58",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:46",
+            "comments_type": "lead to corner",
+            "comments_text": "Pervis Estupinan (Villarreal) flights in the cross, but the defender is alert and clears to safety. Corner kick. Villarreal will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:00",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:30",
+            "comments_type": "ball possession",
+            "comments_text": "Arnaut Danjuma (Villarreal) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:58",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fred (Manchester United) picks up the rebound just outside the box and releases a weak shot straight at the goalkeeper who saves.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up the rebound just outside the box and releases a weak shot straight at the goalkeeper who saves."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:19",
+            "comments_type": "clearance",
+            "comments_text": "Moi Gomez (Villarreal) sends in a pass which fails to reach any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:37",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:00",
+            "comments_type": "ball possession",
+            "comments_text": "Pau Torres (Villarreal) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Moi Gomez (Villarreal) whips a promising cross into the box, but the opposition's defence intercepts the ball. Villarreal force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:49",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) decides to take a short corner instead of crossing into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:36",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Donny van de Beek is replaced by Bruno Fernandes (Manchester United).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:43",
+            "comments_type": "substitution",
+            "comments_text": "Michael Carrick has decided to substitute Anthony Martial and he is replaced by Marcus Rashford (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:49",
+            "comments_type": "clearance",
+            "comments_text": "Marcus Rashford (Manchester United) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:55",
+            "comments_type": "statistics and summary",
+            "comments_text": "Total attempts – 12:4.",
+            "comments_text_anonymized": "Total attempts – 12:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:07",
+            "comments_type": "foul with no card",
+            "comments_text": "Cristiano Ronaldo (Manchester United) clearly handles the ball, but he is surprised when the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly handles the ball, but he is surprised when the referee blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:00",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Samuel Chukwueze (Villarreal) comes onto the pitch for Yeremi Pino.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for Yeremi [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:30",
+            "comments_type": "substitution",
+            "comments_text": "Unai Emery has decided to make a change. Alberto Moreno (Villarreal) replaces Manu Trigueros.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:09",
+            "comments_type": "ball possession",
+            "comments_text": "Manchester Utd are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players.",
+            "comments_text_anonymized": "[TEAM] are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:42",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Cristiano Ronaldo (Manchester United) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:21",
+            "comments_type": "goal",
+            "comments_text": "What a finish that is! Cristiano Ronaldo (Manchester United) sees that Geronimo Rulli is off his line and scores with a brilliant lob from the edge of the box. He makes it 0:1.",
+            "comments_text_anonymized": "What a finish that is! [PLAYER] ([TEAM]) sees that [PLAYER] is off his line and scores with a brilliant lob from the edge of the box. He makes it 0:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:15",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Pervis Estupinan leaves the pitch and Dani Raba (Villarreal) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:17",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Bruno Fernandes (Manchester United) only finds one of the defenders, who heads it out of danger.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Moi Gomez (Villarreal) tries to send a pass but it's blocked. The ball goes behind for a corner. Villarreal will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:09",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) takes a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:46",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo (Manchester United) takes a lovely through ball in his stride and goes for goal, but the effort flies well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a lovely through ball in his stride and goes for goal, but the effort flies well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:01",
+            "comments_type": "substitution",
+            "comments_text": "The manager has decided to make a substitution and Moi Gomez walks off the pitch to be replaced by Boulaye Dia (Villarreal).",
+            "comments_text_anonymized": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:59",
+            "comments_type": "corner",
+            "comments_text": "The corner from Alex Telles (Manchester United) is intercepted by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:28",
+            "comments_type": "lead to corner",
+            "comments_text": "Bruno Fernandes (Manchester United) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The ball goes out of play. Manchester Utd are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:52",
+            "comments_type": "corner",
+            "comments_text": "A dangerous looking corner kick from Alex Telles (Manchester United) is cleared to safety by the defence.",
+            "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball goes out for a corner. Manchester Utd can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:32",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) decides to speed play up with a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:11",
+            "comments_type": "goal",
+            "comments_text": "Goal! Jadon Sancho (Manchester United) collects a pass and without hesitation fires an unstoppable shot into the top right corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) collects a pass and without hesitation fires an unstoppable shot into the top right corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:30",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Nemanja Matic (Manchester United) is coming onto the pitch as Cristiano Ronaldo cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Alex Telles (Manchester United) attempts to create a scoring opportunity with a wonderful long ball, but his pass is blocked. Manchester Utd have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to create a scoring opportunity with a wonderful long ball, but his pass is blocked. [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:45",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Jadon Sancho is going off and Michael Carrick gives the last tactical orders to Juan Manuel Mata (Manchester United).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:30",
+            "comments_type": "corner",
+            "comments_text": "Alex Telles (Manchester United) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:46",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for the final time to end this match.",
+            "comments_text_anonymized": "The referee blows his whistle for the final time to end this match."
+        }
+    ]
+}

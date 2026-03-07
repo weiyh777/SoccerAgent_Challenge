@@ -1,0 +1,826 @@
+{
+    "match_info": {
+        "timestamp": "2017-11-29 03:45:00",
+        "score": "0 - 0",
+        "home_team": "Brighton",
+        "away_team": "Crystal Palace",
+        "home_formation": "4 - 4 - 1 - 1",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Amex Stadium (Brighton)",
+        "capacity": "31 876",
+        "attendance": "29 889",
+        "home_jersey_color": "blue and white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Marriner A. (Eng)",
+        "first_name": "Marriner",
+        "abbr_last_name": "A",
+        "country": "Eng",
+        "detected_name": "Andre Marriner"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Hughton C.",
+                "players_number": "",
+                "Full Name": "Chris Hughton",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (11.12.1958)",
+                "Market Value": "",
+                "unicode": "C6LCyaOt"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Sidwell S.",
+                "players_number": "",
+                "Full Name": "Steve Sidwell",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "41, (14.12.1982)",
+                "Market Value": "",
+                "unicode": "fNqa8HFk"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Duffy S.",
+                "players_number": "22",
+                "Full Name": "Shane Duffy",
+                "players_rating": 7.2,
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (01.01.1992)",
+                "Market Value": "€1.2m",
+                "unicode": "OtpmlIkE"
+            },
+            {
+                "players_name": "Dunk L.",
+                "players_number": "5",
+                "Full Name": "Lewis Dunk",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€14.1m",
+                "unicode": "xEyAI7pm"
+            },
+            {
+                "players_name": "Gross P.",
+                "players_number": "13",
+                "Full Name": "Pascal Gross",
+                "players_rating": 7.1,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (15.06.1991)",
+                "Market Value": "€8.0m",
+                "unicode": "trpxfbO3"
+            },
+            {
+                "players_name": "Izquierdo J.",
+                "players_number": "19",
+                "Full Name": "Jose Izquierdo",
+                "players_rating": 6.6,
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.07.1992)",
+                "Market Value": "",
+                "unicode": "2LDmHf1f"
+            },
+            {
+                "players_name": "Knockaert A.",
+                "players_number": "11",
+                "Full Name": "Anthony Knockaert",
+                "players_rating": 7.9,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (20.11.1991)",
+                "Market Value": "€545k",
+                "unicode": "QFZt2zLQ"
+            },
+            {
+                "players_name": "Murray G.",
+                "players_number": "17",
+                "Full Name": "Glenn Murray",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "40, (25.09.1983)",
+                "Market Value": "",
+                "unicode": "218kjyOb"
+            },
+            {
+                "players_name": "Propper D.",
+                "players_number": "24",
+                "Full Name": "Davy Propper",
+                "players_rating": 7.1,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (02.09.1991)",
+                "Market Value": "",
+                "unicode": "h6DklREE"
+            },
+            {
+                "players_name": "Ryan M. (G)",
+                "players_number": "1",
+                "Full Name": "Mathew Ryan",
+                "players_rating": 7.5,
+                "Country": "Australia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (08.04.1992)",
+                "Market Value": "€3.9m",
+                "unicode": "YBLvziIh"
+            },
+            {
+                "players_name": "Saltor B. (C)",
+                "players_number": "2",
+                "Full Name": "Bruno Saltor",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Coach",
+                "Age and Birthdate": "43, (01.10.1980)",
+                "Market Value": "",
+                "unicode": "AVH5eENi"
+            },
+            {
+                "players_name": "Stephens D.",
+                "players_number": "6",
+                "Full Name": "Dale Stephens",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "",
+                "unicode": "bkSCjxaC"
+            },
+            {
+                "players_name": "Suttner M.",
+                "players_number": "29",
+                "Full Name": "Markus Suttner",
+                "players_rating": 7.1,
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (16.04.1987)",
+                "Market Value": "",
+                "unicode": "6wL0EhK2"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Brown I.",
+                "players_number": "37",
+                "Full Name": "Isaiah Brown",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (07.01.1997)",
+                "Market Value": "",
+                "unicode": "MN90XIg6"
+            },
+            {
+                "players_name": "Hemed T.",
+                "players_number": "10",
+                "Full Name": "Tomer Hemed",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (02.05.1987)",
+                "Market Value": "€184k",
+                "unicode": "MsoqCTUe"
+            },
+            {
+                "players_name": "March S.",
+                "players_number": "20",
+                "Full Name": "Solly March",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (20.07.1994)",
+                "Market Value": "€22.5m",
+                "unicode": "0rGKAqEi"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Goldson C.",
+                "players_number": "18",
+                "Full Name": "Connor Goldson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (18.12.1992)",
+                "Market Value": "",
+                "unicode": "YZ8eryeF"
+            },
+            {
+                "players_name": "Kayal B.",
+                "players_number": "7",
+                "Full Name": "Beram Kayal",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (02.05.1988)",
+                "Market Value": "€281k",
+                "unicode": "pEqJUQfl"
+            },
+            {
+                "players_name": "Krul T. (G)",
+                "players_number": "26",
+                "Full Name": "Tim Krul",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (03.04.1988)",
+                "Market Value": "€489k",
+                "unicode": "dAl9I3A3"
+            },
+            {
+                "players_name": "Schelotto E.",
+                "players_number": "21",
+                "Full Name": "Ezequiel Schelotto",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (23.05.1989)",
+                "Market Value": "€45k",
+                "unicode": "f7ipNnjS"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Hodgson R.",
+                "players_number": "",
+                "Full Name": "Roy Hodgson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "76,  (09.08.1947)",
+                "Market Value": "",
+                "unicode": "Eeqr4zeS"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Lee Chung-Yong",
+                "players_number": "",
+                "Full Name": "Chung-Yong Lee",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (02.07.1988)",
+                "Market Value": "€391k",
+                "unicode": "tl3Rylei"
+            },
+            {
+                "players_name": "Wickham C.",
+                "players_number": "",
+                "Full Name": "Connor Wickham",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (31.03.1993)",
+                "Market Value": "",
+                "unicode": "p29cZCDa"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Benteke C.",
+                "players_number": "17",
+                "Full Name": "Christian Benteke",
+                "players_rating": 7.2,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (03.12.1990)",
+                "Market Value": "€2.6m",
+                "unicode": "lAh68Xxm"
+            },
+            {
+                "players_name": "Cabaye Y.",
+                "players_number": "7",
+                "Full Name": "Yohan Cabaye",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (14.01.1986)",
+                "Market Value": "",
+                "unicode": "dfxyYhiL"
+            },
+            {
+                "players_name": "Hennessey W. (G)",
+                "players_number": "13",
+                "Full Name": "Wayne Hennessey",
+                "players_rating": 7.6,
+                "Country": "Wales",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (24.01.1987)",
+                "Market Value": "€229k",
+                "unicode": "jmI3ipF8"
+            },
+            {
+                "players_name": "Loftus-Cheek R.",
+                "players_number": "8",
+                "Full Name": "Ruben Loftus-Cheek",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.01.1996)",
+                "Market Value": "€24.1m",
+                "unicode": "6DpURWF8"
+            },
+            {
+                "players_name": "Milivojevic L.",
+                "players_number": "4",
+                "Full Name": "Luka Milivojevic",
+                "players_rating": 6.8,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (07.04.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "KpPKefJh"
+            },
+            {
+                "players_name": "Sakho M. (C)",
+                "players_number": "12",
+                "Full Name": "Mamadou Sakho",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "€1.4m, (13.02.1990)",
+                "Market Value": "30.06.2024",
+                "unicode": "6ssHEkoB"
+            },
+            {
+                "players_name": "Schlupp J.",
+                "players_number": "15",
+                "Full Name": "Jeffrey Schlupp",
+                "players_rating": 7.1,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.12.1992)",
+                "Market Value": "€6.7m",
+                "unicode": "QRDZkPSt"
+            },
+            {
+                "players_name": "Tomkins J.",
+                "players_number": "5",
+                "Full Name": "James Tomkins",
+                "players_rating": 8.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (29.03.1989)",
+                "Market Value": "€665k",
+                "unicode": "QDQPXCES"
+            },
+            {
+                "players_name": "Townsend A.",
+                "players_number": "10",
+                "Full Name": "Andros Townsend",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (16.07.1991)",
+                "Market Value": "€1.7m",
+                "unicode": "vgOZsFVL"
+            },
+            {
+                "players_name": "Ward J.",
+                "players_number": "2",
+                "Full Name": "Joel Ward",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (29.10.1989)",
+                "Market Value": "€943k",
+                "unicode": "YF1DNCEB"
+            },
+            {
+                "players_name": "Zaha W.",
+                "players_number": "11",
+                "Full Name": "Wilfried Zaha",
+                "players_rating": 6.9,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.11.1992)",
+                "Market Value": "€17.1m",
+                "unicode": "YHEohwp4"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "McArthur J.",
+                "players_number": "18",
+                "Full Name": "James McArthur",
+                "players_rating": 6.5,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (07.10.1987)",
+                "Market Value": "",
+                "unicode": "0bTs6QPA"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Dann S.",
+                "players_number": "6",
+                "Full Name": "Scott Dann",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "",
+                "unicode": "GAidySP3"
+            },
+            {
+                "players_name": "Fosu-Mensah T.",
+                "players_number": "24",
+                "Full Name": "Timothy Fosu-Mensah",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (02.01.1998)",
+                "Market Value": "€1.3m",
+                "unicode": "2sJ8He5E"
+            },
+            {
+                "players_name": "Puncheon J.",
+                "players_number": "42",
+                "Full Name": "Jason Puncheon",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (18.06.1986)",
+                "Market Value": "",
+                "unicode": "0YoSkDnp"
+            },
+            {
+                "players_name": "Sako B.",
+                "players_number": "26",
+                "Full Name": "Bakary Sako",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (26.04.1988)",
+                "Market Value": "",
+                "unicode": "CS1meOhl"
+            },
+            {
+                "players_name": "Speroni J. (G)",
+                "players_number": "1",
+                "Full Name": "Julian Speroni",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "44, (18.05.1979)",
+                "Market Value": "",
+                "unicode": "MV2ygcXO"
+            },
+            {
+                "players_name": "van Aanholt P.",
+                "players_number": "3",
+                "Full Name": "Patrick van Aanholt",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (29.08.1990)",
+                "Market Value": "€2.5m",
+                "unicode": "GxbOZOLI"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Today's referee will be Andre Marriner.",
+            "comments_text_anonymized": "Today's referee will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Crystal Palace will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:40",
+            "comments_type": "off side",
+            "comments_text": "Glenn Murray (Brighton) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Andre Marriner sees the trip by Jose Izquierdo (Brighton) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Wilfried Zaha (Crystal Palace) picks up the rebound inside the penalty area and releases a good shot to the bottom left corner. Unfortunately for him, Mathew Ryan shows how quick his reflexes are and dives superbly to stop his effort. What a save but what a wasted opportunity! The ball goes out of play. Crystal Palace are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up the rebound inside the penalty area and releases a good shot to the bottom left corner. Unfortunately for him, [PLAYER] shows how quick his reflexes are and dives superbly to stop his effort. What a save but what a wasted opportunity! The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "corner",
+            "comments_text": "Crystal Palace have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:14",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Jose Izquierdo (Brighton) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:16",
+            "comments_type": "corner",
+            "comments_text": "Pascal Gross (Brighton) prepares to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lewis Dunk (Brighton) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:56",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "That didn't go as planned! Jose Izquierdo (Brighton) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past Wayne Hennessey, who easily kept it out.",
+            "comments_text_anonymized": "That didn't go as planned! [PLAYER] ([TEAM]) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past [PLAYER], who easily kept it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:58",
+            "comments_type": "shot off target",
+            "comments_text": "A rebound falls kindly for Dale Stephens (Brighton), but his shot from the edge of the box flies high over bar. None too pretty!",
+            "comments_text_anonymized": "A rebound falls kindly for [PLAYER] ([TEAM]), but his shot from the edge of the box flies high over bar. None too pretty!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Davy Propper (Brighton) makes an overly-aggressive challenge and Andre Marriner blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:40",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Wilfried Zaha (Crystal Palace) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:19",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pascal Gross (Brighton) receives a clever pass and shoots from mid-range. His shot looks like it's going low in the middle of the goal, but Wayne Hennessey has other ideas and makes a brilliant save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a clever pass and shoots from mid-range. His shot looks like it's going low in the middle of the goal, but [PLAYER] has other ideas and makes a brilliant save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:13",
+            "comments_type": "corner",
+            "comments_text": "Anthony Knockaert (Brighton) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:46",
+            "comments_type": "corner",
+            "comments_text": "Yohan Cabaye (Crystal Palace) will deliver the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:11",
+            "comments_type": "shot off target",
+            "comments_text": "The corner evades everyone in the centre and ends up at the back post where Luka Milivojevic (Crystal Palace) sends a wild header high over the bar.",
+            "comments_text_anonymized": "The corner evades everyone in the centre and ends up at the back post where [PLAYER] ([TEAM]) sends a wild header high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 1 min. of added time.",
+            "comments_text_anonymized": "We will have 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:53",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "comments_text_anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Andre Marriner blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:54",
+            "comments_type": "yellow card",
+            "comments_text": "Jose Izquierdo (Brighton) is shown a yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Bruno Saltor (Brighton) pulls the jersey of one of the opposition players and Andre Marriner blows his whistle for a foul. Crystal Palace have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:44",
+            "comments_type": "free kick",
+            "comments_text": "Yohan Cabaye (Crystal Palace) stands over the free kick and opts to take it himself, but his low effort is straight at Mathew Ryan.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, but his low effort is straight at [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:38",
+            "comments_type": "free kick",
+            "comments_text": "Anthony Knockaert (Brighton) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball. Brighton earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball. [TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:31",
+            "comments_type": "corner",
+            "comments_text": "Dale Stephens (Brighton) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:05",
+            "comments_type": "corner",
+            "comments_text": "Anthony Knockaert (Brighton) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear. Brighton win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear. [TEAM] win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:14",
+            "comments_type": "corner",
+            "comments_text": "The corner by Dale Stephens (Brighton) lacks accuracy as it's hit with too much power.",
+            "comments_text_anonymized": "The corner by [PLAYER] ([TEAM]) lacks accuracy as it's hit with too much power."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:24",
+            "comments_type": "corner",
+            "comments_text": "Yohan Cabaye (Crystal Palace) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:06",
+            "comments_type": "lead to corner",
+            "comments_text": "Christian Benteke (Crystal Palace) shoots from outside the box, but his effort is blocked. Crystal Palace will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:37",
+            "comments_type": "corner",
+            "comments_text": "Crystal Palace work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:00",
+            "comments_type": "corner",
+            "comments_text": "Pascal Gross (Brighton) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:00",
+            "comments_type": "yellow card",
+            "comments_text": "Lewis Dunk (Brighton) is awarded a yellow card for his behaviour.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his behaviour."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:49",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. James McArthur (Crystal Palace) is on for Yohan Cabaye.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:20",
+            "comments_type": "corner",
+            "comments_text": "The referee awards a corner and Pascal Gross (Brighton) goes over to take it.",
+            "comments_text_anonymized": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:20",
+            "comments_type": "shot off target",
+            "comments_text": "Shane Duffy (Brighton) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:48",
+            "comments_type": "substitution",
+            "comments_text": "Chris Hughton decides to make a substitution. Jose Izquierdo will be replaced by Solomon March (Brighton).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by Solomon [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:59",
+            "comments_type": "corner",
+            "comments_text": "Anthony Knockaert (Brighton) fails to produce a decent cross from the corner kick. The ball goes well out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to produce a decent cross from the corner kick. The ball goes well out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:11",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Pascal Gross. He has contributed as much as he could today. He will be replaced by the fresh legs of Isaiah Brown (Brighton).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:00",
+            "comments_type": "corner",
+            "comments_text": "Anthony Knockaert (Brighton) looks like he will be the one to take the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:09",
+            "comments_type": "corner",
+            "comments_text": "The ball is whipped in from the corner by Anthony Knockaert (Brighton), but one of the defenders gets it clear.",
+            "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:08",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner, taken by Andros Townsend (Crystal Palace), comes to nothing.",
+            "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:50",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Tomer Hemed (Brighton) is brought on as a substitute for Glenn Murray.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:30",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

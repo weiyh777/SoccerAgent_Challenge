@@ -1,0 +1,867 @@
+{
+    "match_info": {
+        "timestamp": "2019-01-03 04:00:00",
+        "score": "0 - 2",
+        "home_team": "Newcastle",
+        "away_team": "Manchester Utd",
+        "home_formation": "5 - 4 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "St. James' Park (Newcastle)",
+        "capacity": "52 305",
+        "attendance": "52 217",
+        "home_jersey_color": "grey",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Marriner A. (Eng)",
+        "first_name": "Marriner",
+        "abbr_last_name": "A",
+        "country": "Eng",
+        "detected_name": "Andre Marriner"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Solskjaer O. G.",
+                "players_number": "",
+                "Full Name": "Ole Gunnar Solskjaer",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (26.02.1973)",
+                "Market Value": "",
+                "unicode": "bmlavhkb"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "",
+                "Full Name": "Eric Bailly",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.2m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "McTominay S.",
+                "players_number": "",
+                "Full Name": "Scott McTominay",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (08.12.1996)",
+                "Market Value": "€27.8m",
+                "unicode": "A7S3y397"
+            },
+            {
+                "players_name": "Rojo M.",
+                "players_number": "",
+                "Full Name": "Marcos Rojo",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (20.03.1990)",
+                "Market Value": "€2.0m",
+                "unicode": "UZCWoIyB"
+            },
+            {
+                "players_name": "Smalling C.",
+                "players_number": "",
+                "Full Name": "Chris Smalling",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.11.1989)",
+                "Market Value": "€3.4m",
+                "unicode": "QHtOVJzh"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "de Gea D. (G)",
+                "players_number": "1",
+                "Full Name": "David de Gea",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (07.11.1990)",
+                "Market Value": "",
+                "unicode": "d6AEQ6OD"
+            },
+            {
+                "players_name": "Herrera A.",
+                "players_number": "21",
+                "Full Name": "Ander Herrera",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (14.08.1989)",
+                "Market Value": "€2.4m",
+                "unicode": "jyzWX8yk"
+            },
+            {
+                "players_name": "Jones P.",
+                "players_number": "4",
+                "Full Name": "Phil Jones",
+                "players_rating": 7.7,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.02.1992)",
+                "Market Value": "",
+                "unicode": "tOqz9FFa"
+            },
+            {
+                "players_name": "Lindelof V.",
+                "players_number": "2",
+                "Full Name": "Victor Lindelof",
+                "players_rating": 8.1,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.07.1994)",
+                "Market Value": "€17.4m",
+                "unicode": "OIp0Le1f"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "11",
+                "Full Name": "Anthony Martial",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "Mata J.",
+                "players_number": "8",
+                "Full Name": "Juan Manuel Mata",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (28.04.1988)",
+                "Market Value": "€908k",
+                "unicode": "nHlv2UfS"
+            },
+            {
+                "players_name": "Matic N.",
+                "players_number": "31",
+                "Full Name": "Nemanja Matic",
+                "players_rating": 7.8,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "6",
+                "Full Name": "Paul Pogba",
+                "players_rating": 7.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "10",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "23",
+                "Full Name": "Luke Shaw",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "Valencia A. (C)",
+                "players_number": "25",
+                "Full Name": "Antonio Valencia",
+                "players_rating": 6.6,
+                "Country": "Ecuador",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.08.1985)",
+                "Market Value": "",
+                "unicode": "Ecu9nqDs"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Lingard J.",
+                "players_number": "14",
+                "Full Name": "Jesse Lingard",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            },
+            {
+                "players_name": "Lukaku R.",
+                "players_number": "9",
+                "Full Name": "Romelu Lukaku",
+                "players_rating": 7.1,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (13.05.1993)",
+                "Market Value": "€35.2m",
+                "unicode": "dCkG0Iw0"
+            },
+            {
+                "players_name": "Sanchez A.",
+                "players_number": "7",
+                "Full Name": "Alexis Sanchez",
+                "players_rating": 7.6,
+                "Country": "Chile",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (19.12.1988)",
+                "Market Value": "€2.4m",
+                "unicode": "QgGt7V0d"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Darmian M.",
+                "players_number": "36",
+                "Full Name": "Matteo Darmian",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (02.12.1989)",
+                "Market Value": "€3.9m",
+                "unicode": "WbNknKk3"
+            },
+            {
+                "players_name": "Fred",
+                "players_number": "17",
+                "Full Name": "Fred",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€18.3m",
+                "unicode": "2kuP6src"
+            },
+            {
+                "players_name": "Romero S. (G)",
+                "players_number": "22",
+                "Full Name": "Sergio Romero",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (22.02.1987)",
+                "Market Value": "€403k",
+                "unicode": "6TXnXzjd"
+            },
+            {
+                "players_name": "Young A.",
+                "players_number": "18",
+                "Full Name": "Ashley Young",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (09.07.1985)",
+                "Market Value": "€566k",
+                "unicode": "tdmI0fpF"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Benitez R.",
+                "players_number": "",
+                "Full Name": "Rafael Benitez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "63,  (16.04.1960)",
+                "Market Value": "",
+                "unicode": "4fN6car1"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Clark C.",
+                "players_number": "",
+                "Full Name": "Ciaran Clark",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (26.09.1989)",
+                "Market Value": "€298k",
+                "unicode": "MJjDoQk7"
+            },
+            {
+                "players_name": "Darlow K.",
+                "players_number": "",
+                "Full Name": "Karl Darlow",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (08.10.1990)",
+                "Market Value": "€386k",
+                "unicode": "tCXYzajG"
+            },
+            {
+                "players_name": "Fernandez F.",
+                "players_number": "",
+                "Full Name": "Federico Fernandez",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (21.02.1989)",
+                "Market Value": "€328k",
+                "unicode": "YZonEVG7"
+            },
+            {
+                "players_name": "Ki Sung-Yueng",
+                "players_number": "",
+                "Full Name": "Sung-Yueng Ki",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (24.01.1989)",
+                "Market Value": "",
+                "unicode": "lvIuQ5nP"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Atsu Ch.",
+                "players_number": "30",
+                "Full Name": "Christian Atsu",
+                "players_rating": 6.8,
+                "Country": "Ghana",
+                "Role": "Forward",
+                "Age and Birthdate": " † 31, (10.01.1992 - 18.02.2023)",
+                "Market Value": "",
+                "unicode": "G2eojAUL"
+            },
+            {
+                "players_name": "Diame M.",
+                "players_number": "10",
+                "Full Name": "Mohamed Diame",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (14.06.1987)",
+                "Market Value": "€119k",
+                "unicode": "4lgGNl72"
+            },
+            {
+                "players_name": "Dubravka M. (G)",
+                "players_number": "12",
+                "Full Name": "Martin Dubravka",
+                "players_rating": 6.7,
+                "Country": "Slovakia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (15.01.1989)",
+                "Market Value": "€979k",
+                "unicode": "dp3dkdsI"
+            },
+            {
+                "players_name": "Dummett P.",
+                "players_number": "3",
+                "Full Name": "Paul Dummett",
+                "players_rating": 6.3,
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (26.09.1991)",
+                "Market Value": "€906k",
+                "unicode": "84ZSs4mH"
+            },
+            {
+                "players_name": "Hayden I.",
+                "players_number": "14",
+                "Full Name": "Isaac Hayden",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (22.03.1995)",
+                "Market Value": "€2.9m",
+                "unicode": "fc781NXN"
+            },
+            {
+                "players_name": "Lascelles J. (C)",
+                "players_number": "6",
+                "Full Name": "Jamaal Lascelles",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (11.11.1993)",
+                "Market Value": "€6.8m",
+                "unicode": "0fPiq0ST"
+            },
+            {
+                "players_name": "Perez A.",
+                "players_number": "17",
+                "Full Name": "Ayoze Perez",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (29.07.1993)",
+                "Market Value": "€6.8m",
+                "unicode": "jVHfHxGn"
+            },
+            {
+                "players_name": "Ritchie M.",
+                "players_number": "11",
+                "Full Name": "Matt Ritchie",
+                "players_rating": 6.3,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (10.09.1989)",
+                "Market Value": "€936k",
+                "unicode": "WMTsaFTi"
+            },
+            {
+                "players_name": "Rondon S.",
+                "players_number": "9",
+                "Full Name": "Salomon Rondon",
+                "players_rating": 6.6,
+                "Country": "Venezuela",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (16.09.1989)",
+                "Market Value": "",
+                "unicode": "OOKVw2zH"
+            },
+            {
+                "players_name": "Schar F.",
+                "players_number": "5",
+                "Full Name": "Fabian Schar",
+                "players_rating": 6.6,
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (20.12.1991)",
+                "Market Value": "€9.8m",
+                "unicode": "0SebIVqC"
+            },
+            {
+                "players_name": "Yedlin D.",
+                "players_number": "22",
+                "Full Name": "DeAndre Yedlin",
+                "players_rating": 6.6,
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (09.07.1993)",
+                "Market Value": "€1.8m",
+                "unicode": "EmByTsz3"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Kenedy",
+                "players_number": "15",
+                "Full Name": "Kenedy",
+                "players_rating": 6.6,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (08.02.1996)",
+                "Market Value": "€1.8m",
+                "unicode": "Crwqppk9"
+            },
+            {
+                "players_name": "Muto Y.",
+                "players_number": "13",
+                "Full Name": "Yoshinori Muto",
+                "players_rating": "",
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.07.1992)",
+                "Market Value": "€1.8m",
+                "unicode": "8bbTIqDq"
+            },
+            {
+                "players_name": "Shelvey J.",
+                "players_number": "8",
+                "Full Name": "Jonjo Shelvey",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (27.02.1992)",
+                "Market Value": "€3.1m",
+                "unicode": "2Lhgl7Mf"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Joselu",
+                "players_number": "21",
+                "Full Name": "Joselu",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (27.03.1990)",
+                "Market Value": "€5.0m",
+                "unicode": "jJOOI2o0"
+            },
+            {
+                "players_name": "Lejeune F.",
+                "players_number": "20",
+                "Full Name": "Florian Lejeune",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (20.05.1991)",
+                "Market Value": "€3.3m",
+                "unicode": "fNu1l3xc"
+            },
+            {
+                "players_name": "Manquillo J.",
+                "players_number": "19",
+                "Full Name": "Javier Manquillo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (05.05.1994)",
+                "Market Value": "€1.9m",
+                "unicode": "8bvxeNAG"
+            },
+            {
+                "players_name": "Woodman F. (G)",
+                "players_number": "41",
+                "Full Name": "Frederick Woodman",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (04.03.1997)",
+                "Market Value": "€3.3m",
+                "unicode": "lz3Id13R"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Andre Marriner is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Manchester Utd will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "ball possession",
+            "comments_text": "The Manchester Utd players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "comments_text_anonymized": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:18",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Paul Pogba (Manchester United) steadies himself and bends in a shot from the edge of the box towards the bottom left corner, but Martin Dubravka has it covered and makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steadies himself and bends in a shot from the edge of the box towards the bottom left corner, but [PLAYER] has it covered and makes a comfortable save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:03",
+            "comments_type": "ball out of play",
+            "comments_text": "Mohamed Diame (Newcastle Utd) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Isaac Hayden (Newcastle Utd). The referee blows his whistle for a foul. That's a free kick to Manchester Utd.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:42",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Martin Dubravka hears the fans clapping his superb goalkeeping. Marcus Rashford (Manchester United) shoots from the edge of the box towards the bottom left corner, but the goalkeeper makes a magnificent save.",
+            "comments_text_anonymized": "[PLAYER] hears the fans clapping his superb goalkeeping. [PLAYER] ([TEAM]) shoots from the edge of the box towards the bottom left corner, but the goalkeeper makes a magnificent save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:14",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Manchester Utd is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:30",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Christian Atsu (Newcastle Utd) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:16",
+            "comments_type": "foul with no card",
+            "comments_text": "Luke Shaw (Manchester United) was too forceful with his tackle and Andre Marriner interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:38",
+            "comments_type": "shot off target",
+            "comments_text": "A wild pass somehow finds Anthony Martial (Manchester United) in space, he steadies himself and shoots from mid-range but sends it just over the bar.",
+            "comments_text_anonymized": "A wild pass somehow finds [PLAYER] ([TEAM]) in space, he steadies himself and shoots from mid-range but sends it just over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:07",
+            "comments_type": "yellow card",
+            "comments_text": "Jamaal Lascelles (Newcastle Utd) is literally asking for a yellow card with his behaviour. The referee agrees and books him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:30",
+            "comments_type": "shot off target",
+            "comments_text": "DeAndre Yedlin (Newcastle Utd) tries to create a chance, but puts too much weight on his pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:50",
+            "comments_type": "clearance",
+            "comments_text": "Juan Manuel Mata (Manchester United) floats the free kick into the box, but it's easily cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "2 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:30",
+            "comments_type": "injury",
+            "comments_text": "Mohamed Diame (Newcastle Utd) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:40",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:16",
+            "comments_type": "yellow card",
+            "comments_text": "Andre Marriner shows a yellow card to Victor Lindelof (Manchester United) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:27",
+            "comments_type": "clearance",
+            "comments_text": "Juan Manuel Mata (Manchester United) has a shot blocked from inside the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a shot blocked from inside the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:30",
+            "comments_type": "shot off target",
+            "comments_text": "Marcus Rashford (Manchester United) finds space inside the box but rifles his effort miles past the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds space inside the box but rifles his effort miles past the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:39",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Mohamed Diame, who is replaced by Jonjo Shelvey (Newcastle Utd).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jonjo Shelvey (Newcastle Utd) unleashes a shot from the edge of the box, but it goes straight at David de Gea.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot from the edge of the box, but it goes straight at [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:20",
+            "comments_type": "substitution",
+            "comments_text": "Ole Gunnar Solskjaer prepares a substitution. Anthony Martial is replaced by Romelu Lukaku (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:02",
+            "comments_type": "substitution",
+            "comments_text": "Ole Gunnar Solskjaer has decided to substitute Juan Manuel Mata and he is replaced by Alexis Sanchez (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:56",
+            "comments_type": "goal",
+            "comments_text": "Goal! Romelu Lukaku (Manchester United) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low into the middle of the net. It's 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low into the middle of the net. It's 0:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:46",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Ayoze Perez is replaced by Kenedy (Newcastle Utd).",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:29",
+            "comments_type": "shot off target",
+            "comments_text": "Jonjo Shelvey (Newcastle Utd) nutmegs the defender on the edge of the box and lashes in a shot at goal that flies high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nutmegs the defender on the edge of the box and lashes in a shot at goal that flies high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Andre Marriner couldn't ignore the rough tackle by Jonjo Shelvey (Newcastle Utd) and blew his whistle.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:10",
+            "comments_type": "yellow card",
+            "comments_text": "The game has begun to heat up. Luke Shaw (Manchester United) challenges an opponent and receives a deserved yellow card for his ugly tackle.",
+            "comments_text_anonymized": "The game has begun to heat up. [PLAYER] ([TEAM]) challenges an opponent and receives a deserved yellow card for his ugly tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:10",
+            "comments_type": "shot off target",
+            "comments_text": "Christian Atsu (Newcastle Utd) tries a pot shot from the edge of the box, but it goes narrowly wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries a pot shot from the edge of the box, but it goes narrowly wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:41",
+            "comments_type": "clearance",
+            "comments_text": "Christian Atsu (Newcastle Utd) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:10",
+            "comments_type": "goal",
+            "comments_text": "Goal! Alexis Sanchez provides Marcus Rashford (Manchester United) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom right corner. 0:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom right corner. 0:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:25",
+            "comments_type": "substitution",
+            "comments_text": "Rafael Benitez has decided to introduce fresh legs, with Yoshinori Muto (Newcastle Utd) replacing Fabian Schar.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:19",
+            "comments_type": "corner",
+            "comments_text": "Newcastle have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:01",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Jesse Lingard (Manchester United) is brought on as a substitute for Marcus Rashford.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:13",
+            "comments_type": "shot off target",
+            "comments_text": "Jonjo Shelvey (Newcastle Utd) wins himself enough space to connect with a cross inside the box, but his fine header goes narrowly over the crossbar!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wins himself enough space to connect with a cross inside the box, but his fine header goes narrowly over the crossbar!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 6 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 6 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:50",
+            "comments_type": "corner",
+            "comments_text": "Manchester Utd failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 52217.",
+            "comments_text_anonymized": "The attendance is 52217."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:50",
+            "comments_type": "shot off target",
+            "comments_text": "CLOSE! Paul Pogba (Manchester United) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post!",
+            "comments_text_anonymized": "CLOSE! [PLAYER] ([TEAM]) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:52",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

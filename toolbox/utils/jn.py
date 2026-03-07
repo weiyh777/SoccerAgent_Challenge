@@ -76,7 +76,7 @@ class QWEN2_5VL_OCR_BATCH():
         self.model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
             self.model_path,
             torch_dtype=torch.bfloat16,
-            attn_implementation="flash_attention_2",
+            attn_implementation="sdpa",
             device_map=device,
         )
         self.processor = AutoProcessor.from_pretrained(self.model_path)

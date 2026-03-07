@@ -3,7 +3,7 @@ import re
 import os
 import time
 from urllib.error import URLError
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox')
 from vlm import VLM
 
 def extract_timestamp(image, max_retries=3):
@@ -11,7 +11,9 @@ def extract_timestamp(image, max_retries=3):
     reader = None
     for attempt in range(max_retries):
         try:
-            reader = easyocr.Reader(['en'], download_enabled=True, gpu=False)
+            # reader = easyocr.Reader(['en'], download_enabled=True, gpu=True)
+            reader = easyocr.Reader( ['en'], gpu=True, download_enabled=False, 
+                                    model_storage_directory='/root/autodl-tmp/SoccerAgent/model/easyocr/model')
             break
         except URLError as e:
             print(f"Download failed easyocr model, Attempt: {attempt + 1}/{max_retries}: {e}")
@@ -74,8 +76,8 @@ def SCORE_TIME_DETECTION(query, material):
             return "Error: Failed to extract middle frame from video"
         
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs("CACHE_FOLDER_PATH", exist_ok=True)
-        image_path = f"CACHE_FOLDER_PATH/SCORE_TIME_DETECTION_{timestamp}.jpg"
+        os.makedirs("/root/autodl-tmp/SoccerAgent/helper_files/", exist_ok=True)
+        image_path = f"/root/autodl-tmp/SoccerAgent/helper_files/SCORE_TIME_DETECTION_{timestamp}.jpg"
         cv2.imwrite(image_path, frame)
     else:
         return "Error: Unsupported file format"

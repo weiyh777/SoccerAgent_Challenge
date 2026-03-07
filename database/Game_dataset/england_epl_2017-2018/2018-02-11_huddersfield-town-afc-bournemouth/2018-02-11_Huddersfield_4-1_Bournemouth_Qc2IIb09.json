@@ -1,0 +1,950 @@
+{
+    "match_info": {
+        "timestamp": "2018-02-11 20:00:00",
+        "score": "4 - 1",
+        "home_team": "Huddersfield",
+        "away_team": "Bournemouth",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "3 - 4 - 2 - 1",
+        "venue": "John Smith's Stadium (Huddersfield)",
+        "capacity": "24 121",
+        "attendance": "23 823",
+        "home_jersey_color": "white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Oliver M. (Eng)",
+        "first_name": "Oliver",
+        "abbr_last_name": "M",
+        "country": "Eng",
+        "detected_name": "Michael Oliver"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Howe E.",
+                "players_number": "",
+                "Full Name": "Eddie Howe",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "46,  (29.11.1977)",
+                "Market Value": "",
+                "unicode": "hbOpz9hE"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Defoe J.",
+                "players_number": "",
+                "Full Name": "Jermain Defoe",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "41, (07.10.1982)",
+                "Market Value": "",
+                "unicode": "QDtjHrsH"
+            },
+            {
+                "players_name": "Mings T.",
+                "players_number": "",
+                "Full Name": "Tyrone Mings",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (13.03.1993)",
+                "Market Value": "€14.8m",
+                "unicode": "x6Gedmgl"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Ake N.",
+                "players_number": "5",
+                "Full Name": "Nathan Ake",
+                "players_rating": 7.0,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (18.02.1995)",
+                "Market Value": "€39.7m",
+                "unicode": "6LBvaQoh"
+            },
+            {
+                "players_name": "Begovic A. (G)",
+                "players_number": "27",
+                "Full Name": "Asmir Begovic",
+                "players_rating": 5.8,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (20.06.1987)",
+                "Market Value": "€289k",
+                "unicode": "xO2Ce0IG"
+            },
+            {
+                "players_name": "Cook L.",
+                "players_number": "16",
+                "Full Name": "Lewis Cook",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (03.02.1997)",
+                "Market Value": "€9.6m",
+                "unicode": "hlNJy0R1"
+            },
+            {
+                "players_name": "Cook S.",
+                "players_number": "3",
+                "Full Name": "Steve Cook",
+                "players_rating": 5.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (19.04.1991)",
+                "Market Value": "€868k",
+                "unicode": "rToaFqaI"
+            },
+            {
+                "players_name": "Daniels C.",
+                "players_number": "11",
+                "Full Name": "Charlie Daniels",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (07.09.1986)",
+                "Market Value": "",
+                "unicode": "W8QTErwd"
+            },
+            {
+                "players_name": "Francis S. (C)",
+                "players_number": "2",
+                "Full Name": "Simon Francis",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (16.02.1985)",
+                "Market Value": "",
+                "unicode": "MJUWzQaF"
+            },
+            {
+                "players_name": "Fraser R.",
+                "players_number": "24",
+                "Full Name": "Ryan Fraser",
+                "players_rating": 7.2,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (24.02.1994)",
+                "Market Value": "€2.8m",
+                "unicode": "IuutfkJB"
+            },
+            {
+                "players_name": "Gosling D.",
+                "players_number": "4",
+                "Full Name": "Dan Gosling",
+                "players_rating": 5.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€91k, (01.02.1990)",
+                "Market Value": "",
+                "unicode": "p61zpVS1"
+            },
+            {
+                "players_name": "Ibe J.",
+                "players_number": "33",
+                "Full Name": "Jordon Ibe",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.12.1995)",
+                "Market Value": "",
+                "unicode": "thMRxyKg"
+            },
+            {
+                "players_name": "Stanislas J.",
+                "players_number": "19",
+                "Full Name": "Junior Stanislas",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (26.11.1989)",
+                "Market Value": "",
+                "unicode": "hQD2vAYu"
+            },
+            {
+                "players_name": "Wilson C.",
+                "players_number": "13",
+                "Full Name": "Callum Wilson",
+                "players_rating": 5.9,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (27.02.1992)",
+                "Market Value": "€12.4m",
+                "unicode": "YwKMvtoh"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "King J.",
+                "players_number": "17",
+                "Full Name": "Joshua King",
+                "players_rating": 6.1,
+                "Country": "Norway",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (15.01.1992)",
+                "Market Value": "€3.3m",
+                "unicode": "nLnr7gpC"
+            },
+            {
+                "players_name": "Mousset L.",
+                "players_number": "31",
+                "Full Name": "Lys Mousset",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "€374k, (08.02.1996)",
+                "Market Value": "30.06.2024",
+                "unicode": "pnjLUUl9"
+            },
+            {
+                "players_name": "Smith A.",
+                "players_number": "15",
+                "Full Name": "Adam Smith",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (29.04.1991)",
+                "Market Value": "€950k",
+                "unicode": "vewNL4A3"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Arter H.",
+                "players_number": "8",
+                "Full Name": "Harry Arter",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (28.12.1989)",
+                "Market Value": "30.06.2024",
+                "unicode": "zeIFLQmc"
+            },
+            {
+                "players_name": "Boruc A. (G)",
+                "players_number": "1",
+                "Full Name": "Artur Boruc",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "43, (20.02.1980)",
+                "Market Value": "",
+                "unicode": "SIK6YDJF"
+            },
+            {
+                "players_name": "Simpson J.",
+                "players_number": "42",
+                "Full Name": "Jack Simpson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (18.12.1996)",
+                "Market Value": "",
+                "unicode": "QXXCPpZo"
+            },
+            {
+                "players_name": "Surman A.",
+                "players_number": "6",
+                "Full Name": "Andrew Surman",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (20.08.1986)",
+                "Market Value": "",
+                "unicode": "xCrtKU0P"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Wagner D.",
+                "players_number": "",
+                "Full Name": "David Wagner",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (19.10.1971)",
+                "Market Value": "",
+                "unicode": "OS3AwgCU"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Depoitre L.",
+                "players_number": "",
+                "Full Name": "Laurent Depoitre",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (07.12.1988)",
+                "Market Value": "€227k",
+                "unicode": "vXmseW7R"
+            },
+            {
+                "players_name": "Gorenc Stankovic J.",
+                "players_number": "",
+                "Full Name": "Jon Gorenc Stankovic",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (14.01.1996)",
+                "Market Value": "€4.0m",
+                "unicode": "Sd2KzpFi"
+            },
+            {
+                "players_name": "Kachunga E.",
+                "players_number": "",
+                "Full Name": "Elias Kachunga",
+                "players_rating": "",
+                "Country": "DR Congo",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (22.04.1992)",
+                "Market Value": "€161k",
+                "unicode": "QTpqTNyS"
+            },
+            {
+                "players_name": "Smith T.",
+                "players_number": "",
+                "Full Name": "Tom Smith",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (14.04.1992)",
+                "Market Value": "€338k",
+                "unicode": "KSh156IJ"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Hadergjonaj F.",
+                "players_number": "33",
+                "Full Name": "Florent Hadergjonaj",
+                "players_rating": 6.8,
+                "Country": "Kosovo",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (31.07.1994)",
+                "Market Value": "€1.9m",
+                "unicode": "4vwiuzXQ"
+            },
+            {
+                "players_name": "Hogg J. (C)",
+                "players_number": "6",
+                "Full Name": "Jonathan Hogg",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (06.12.1988)",
+                "Market Value": "€190k",
+                "unicode": "dnKDyRid"
+            },
+            {
+                "players_name": "Ince T.",
+                "players_number": "22",
+                "Full Name": "Tom Ince",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (30.01.1992)",
+                "Market Value": "€964k",
+                "unicode": "0QbvkpNH"
+            },
+            {
+                "players_name": "Lossl J. (G)",
+                "players_number": "1",
+                "Full Name": "Jonas Lossl",
+                "players_rating": 6.3,
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (01.02.1989)",
+                "Market Value": "€428k",
+                "unicode": "63jKLoYD"
+            },
+            {
+                "players_name": "Malone S.",
+                "players_number": "3",
+                "Full Name": "Scott Malone",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (25.03.1991)",
+                "Market Value": "€245k",
+                "unicode": "r5LW0zzJ"
+            },
+            {
+                "players_name": "Mooy A.",
+                "players_number": "10",
+                "Full Name": "",
+                "players_rating": 8.5,
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "www.flashscore.com"
+            },
+            {
+                "players_name": "Mounie S.",
+                "players_number": "24",
+                "Full Name": "Steve Mounie",
+                "players_rating": 9.1,
+                "Country": "Benin",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (29.09.1994)",
+                "Market Value": "€4.9m",
+                "unicode": "Y9Vv96f2"
+            },
+            {
+                "players_name": "Pritchard A.",
+                "players_number": "21",
+                "Full Name": "Alex Pritchard",
+                "players_rating": 8.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (03.05.1993)",
+                "Market Value": "€1.5m",
+                "unicode": "YkRY70de"
+            },
+            {
+                "players_name": "Schindler C.",
+                "players_number": "26",
+                "Full Name": "Christopher Schindler",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (29.04.1990)",
+                "Market Value": "€294k",
+                "unicode": "lASjwxH7"
+            },
+            {
+                "players_name": "van La Parra R.",
+                "players_number": "17",
+                "Full Name": "Rajiv van La Parra",
+                "players_rating": 8.0,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (04.06.1991)",
+                "Market Value": "€285k",
+                "unicode": "lSTojgDK"
+            },
+            {
+                "players_name": "Zanka",
+                "players_number": "25",
+                "Full Name": "Zanka",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (23.04.1990)",
+                "Market Value": "€922k",
+                "unicode": "xdpja8Be"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Billing P.",
+                "players_number": "8",
+                "Full Name": "Philip Billing",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (11.06.1996)",
+                "Market Value": "€20.9m",
+                "unicode": "0Q2tmFv8"
+            },
+            {
+                "players_name": "Kongolo T.",
+                "players_number": "5",
+                "Full Name": "Terence Kongolo",
+                "players_rating": 6.6,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.02.1994)",
+                "Market Value": "€570k",
+                "unicode": "bB6SHniE"
+            },
+            {
+                "players_name": "Quaner C.",
+                "players_number": "23",
+                "Full Name": "Collin Quaner",
+                "players_rating": 6.2,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (18.06.1991)",
+                "Market Value": "",
+                "unicode": "dSy7Uwbg"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Coleman J. (G)",
+                "players_number": "13",
+                "Full Name": "Joel Coleman",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (26.09.1995)",
+                "Market Value": "€262k",
+                "unicode": "tGEVRBsb"
+            },
+            {
+                "players_name": "Hefele M.",
+                "players_number": "44",
+                "Full Name": "Michael Hefele",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (01.09.1990)",
+                "Market Value": "",
+                "unicode": "0Eh3WgRp"
+            },
+            {
+                "players_name": "Sabiri A.",
+                "players_number": "11",
+                "Full Name": "Abdelhamid Sabiri",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.11.1996)",
+                "Market Value": "€2.3m",
+                "unicode": "MJi798vH"
+            },
+            {
+                "players_name": "Williams D.",
+                "players_number": "19",
+                "Full Name": "Daniel Williams",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (08.03.1989)",
+                "Market Value": "",
+                "unicode": "nRJP3Yth"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Michael Oliver is the one to supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] is the one to supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Bournemouth will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:38",
+            "comments_type": "corner",
+            "comments_text": "Junior Stanislas (Bournemouth) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee and his assistant both point at the corner flag. Bournemouth will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:02",
+            "comments_type": "corner",
+            "comments_text": "Jordon Ibe (Bournemouth) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:20",
+            "comments_type": "corner",
+            "comments_text": "Jordon Ibe (Bournemouth) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Jordon Ibe (Bournemouth) commits a rough challenge and Michael Oliver blows his whistle for a foul. Huddersfield win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:55",
+            "comments_type": "goal",
+            "comments_text": "Goal - 1:0! Steve Mounie laid the ball off to Alex Pritchard (Huddersfield), who shot from close range into the left side of the goal, leaving the goalkeeper helpless.",
+            "comments_text_anonymized": "Goal - 1:0! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range into the left side of the goal, leaving the goalkeeper helpless."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Dan Gosling (Bournemouth) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:58",
+            "comments_type": "goal",
+            "comments_text": "Junior Stanislas (Bournemouth) latches on to an accurate pass inside the box and finds himself one-on-one with the goalkeeper. He quickly drills a shot to the bottom right corner and scores! His effort went in off the post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass inside the box and finds himself one-on-one with the goalkeeper. He quickly drills a shot to the bottom right corner and scores! His effort went in off the post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:53",
+            "comments_type": "yellow card",
+            "comments_text": "The game is interrupted. Dan Gosling (Bournemouth) is given a yellow card. He has to be more careful now.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) is given a yellow card. He has to be more careful now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "off side",
+            "comments_text": "Jordon Ibe (Bournemouth) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:47",
+            "comments_type": "clearance",
+            "comments_text": "Alex Pritchard (Huddersfield) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:19",
+            "comments_type": "lead to corner",
+            "comments_text": "Steve Mounie (Huddersfield) slides a pass forward, but one of the defenders cuts it out. The ball is out of play. Huddersfield will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:05",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Huddersfield is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:44",
+            "comments_type": "clearance",
+            "comments_text": "Charlie Daniels (Bournemouth) produces a dangerous lofted cross into the box which is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:58",
+            "comments_type": "free kick",
+            "comments_text": "Huddersfield have a free kick.",
+            "comments_text_anonymized": "[TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:57",
+            "comments_type": "goal",
+            "comments_text": "Steve Mounie (Huddersfield) celebrates a beautiful goal. He wins the ball inside the box from the free kick and plants a header inside the left post. 2:1.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) celebrates a beautiful goal. He wins the ball inside the box from the free kick and plants a header inside the left post. 2:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:30",
+            "comments_type": "corner",
+            "comments_text": "Bournemouth failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:49",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Ryan Fraser (Bournemouth) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:45",
+            "comments_type": "corner",
+            "comments_text": "Huddersfield have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:50",
+            "comments_type": "ball possession",
+            "comments_text": "Huddersfield seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:10",
+            "comments_type": "off side",
+            "comments_text": "Jonathan Hogg (Huddersfield) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:41",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Alex Pritchard (Huddersfield) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 2 min. of added time.",
+            "comments_text_anonymized": "We will have 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:48",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Charlie Daniels (Bournemouth) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:01",
+            "comments_type": "end of half game",
+            "comments_text": "Michael Oliver has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Scott Malone (Huddersfield). Michael Oliver blows his whistle for a foul. Bournemouth have a free kick.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:53",
+            "comments_type": "shot off target",
+            "comments_text": "Aaron Mooy (Huddersfield) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:10",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Scott Malone goes off and Terence Kongolo (Huddersfield) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:46",
+            "comments_type": "clearance",
+            "comments_text": "Steve Mounie (Huddersfield) attempted to pick out a free teammate inside the box, but Asmir Begovic comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:06",
+            "comments_type": "corner",
+            "comments_text": "Bournemouth take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:10",
+            "comments_type": "yellow card",
+            "comments_text": "Simon Francis (Bournemouth) is awarded a yellow card. The referee showed him no mercy.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:10",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Joshua King (Bournemouth) in, Jordon Ibe out.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Aaron Mooy (Huddersfield) fouls an opponent. At least that's what referee Michael Oliver signals. Free kick. Bournemouth will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:22",
+            "comments_type": "clearance",
+            "comments_text": "Rajiv van La Parra (Huddersfield) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:49",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Collin Quaner (Huddersfield) is brought on as a substitute for Tom Ince.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:49",
+            "comments_type": "substitution",
+            "comments_text": "Eddie Howe has decided to substitute Junior Stanislas and he is replaced by Lys Mousset (Bournemouth).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:58",
+            "comments_type": "goal",
+            "comments_text": "Steve Cook (Bournemouth) scores an own goal! No one would like to be in his position right now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) scores an own goal! No one would like to be in his position right now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:36",
+            "comments_type": "substitution",
+            "comments_text": "Today's match ends for Steve Cook who will be replaced by Adam Smith (Bournemouth).",
+            "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:29",
+            "comments_type": "yellow card",
+            "comments_text": "Lys Mousset (Bournemouth) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Michael Oliver ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:02",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Bournemouth is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Lewis Cook (Bournemouth) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:13",
+            "comments_type": "off side",
+            "comments_text": "Ryan Fraser (Bournemouth) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:45",
+            "comments_type": "injury",
+            "comments_text": "Aaron Mooy (Huddersfield) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:40",
+            "comments_type": "substitution",
+            "comments_text": "David Wagner is forced to make a change. Aaron Mooy is unable to continue due to injury, Philip Billing (Huddersfield) comes on.",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. Aaron [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:07",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Ryan Fraser (Bournemouth). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:33",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Jonathan Hogg (Huddersfield). The ball has crossed the sideline. Huddersfield are taking a throw-in.",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:31",
+            "comments_type": "ball possession",
+            "comments_text": "Huddersfield slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",
+            "comments_text_anonymized": "[TEAM] slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Rajiv van La Parra (Huddersfield) trips an opposition player and Michael Oliver signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:34",
+            "comments_type": "lead to corner",
+            "comments_text": "Another attempt to send the ball beyond the defence by Ryan Fraser (Bournemouth) is thwarted and cleared to safety. The linesman points to the corner flag, Bournemouth are going to take it.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:33",
+            "comments_type": "corner",
+            "comments_text": "Charlie Daniels (Bournemouth) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "6 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "6 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:00",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Dan Gosling (Bournemouth) commits a rough challenge and Michael Oliver blows his whistle for an infringement. PENALTY! One of the players from Huddersfield is about to take a penalty kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement. PENALTY! One of the players from [TEAM] is about to take a penalty kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:20",
+            "comments_type": "penalty",
+            "comments_text": "Rajiv van La Parra (Huddersfield) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:18",
+            "comments_type": "goal",
+            "comments_text": "Goal! Asmir Begovic gets a hand on the penalty from Rajiv van La Parra (Huddersfield), but can't stop it from flying into the bottom right corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] gets a hand on the penalty from [PLAYER] ([TEAM]), but can't stop it from flying into the bottom right corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:49",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 import sys, json, argparse
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline')
+sys.path.append('/root/autodl-tmp/SoccerAgent')
 import os
 import argparse
 from multiagent_platform import EXECUTE_TOOL_CHAIN
 from openai import OpenAI
 
 
-client = OpenAI(api_key="your-deepseek-api-key", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 INSTRUCTION = f"""
 You are a football expert. You are provided with a question 'Q' and four options 'O1', 'O2', 'O3', and 'O4'.
@@ -28,12 +28,14 @@ def workflow(input_text, Instruction=INSTRUCTION, follow_up_prompt=None, max_tok
 
 import re
 
-def process_football_question(input_dict):
+def process_football_question(input_dict, materials_path=None):
     if "openA_process" in input_dict and "answer" in input_dict:
         return input_dict
 
     question = input_dict.get("Q", "")
     materials = input_dict.get("materials", "")
+    if materials_path is not None:
+        materials = [os.path.join(materials_path, fname) for fname in materials]
 
     options = {key: value for key, value in input_dict.items() if key.startswith("O")}
     options_str = "\n".join([f"{key}: {value}" for key, value in options.items()])
@@ -65,7 +67,7 @@ Please provide your answer:
 from tqdm import tqdm
 import json
 
-def process_json_file(input_file, output_file):
+def process_json_file(input_file, output_file, materials_path=None):
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
             data_list = json.load(f)
@@ -74,7 +76,7 @@ def process_json_file(input_file, output_file):
 
         for i, item in enumerate(progress_bar):
             try:
-                updated_item = process_football_question(item)
+                updated_item = process_football_question(item, materials_path)
                 data_list[i] = updated_item
 
                 with open(output_file, 'w', encoding='utf-8') as f:
@@ -108,10 +110,11 @@ def process_json_file(input_file, output_file):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process a JSON file containing football questions.")
-    parser.add_argument("--input_file", type=str, help="Path to the input JSON file. See https://huggingface.co/datasets/Homie0609/SoccerBench/raw/main/qa/q1.json as an example")
-    parser.add_argument("--output_file", type=str, help="Path to save the output JSON file. You can just set an json path.")
+    parser.add_argument("--input_file", type=str, default="/root/autodl-tmp/SoccerNet_Challenge_VQA/challenge/challenge.json", help="Path to the input JSON file. See https://huggingface.co/datasets/Homie0609/SoccerBench/raw/main/qa/q1.json as an example")
+    parser.add_argument("--output_file", type=str, default="/root/autodl-tmp/SoccerAgent/output.json", help="Path to save the output JSON file. You can just set an json path.")
+    parser.add_argument("--materials_path", type=str, default="/root/autodl-tmp/SoccerNet_Challenge_VQA/challenge/", help="Path to the materials file. If not provided, materials will be taken from the input JSON.")
 
     args = parser.parse_args()
-    process_json_file(args.input_file, args.output_file)
+    process_json_file(args.input_file, args.output_file, args.materials_path)
 
 

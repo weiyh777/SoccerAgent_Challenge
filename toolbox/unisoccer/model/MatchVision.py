@@ -2,7 +2,7 @@ from PIL import Image
 import requests
 from transformers import AutoProcessor, SiglipVisionModel
 import sys
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox/unisoccer')
 import torch
 import torch.nn as nn
 from torch.nn import TransformerEncoder, TransformerEncoderLayer

@@ -10,7 +10,7 @@ import ffmpeg
 import random
 
 def select_rand_frame(video_path):
-    output_dir = "YOUR_CACHE_FOLDER"
+    output_dir = "/root/autodl-tmp/SoccerAgent/helper_files/"
     
     os.makedirs(output_dir, exist_ok=True)
     
@@ -44,14 +44,14 @@ def select_rand_frame(video_path):
         cap.release()
 
 
-def FRAME_SELECTION(query, material, output_dir="YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/log/"):
+def FRAME_SELECTION(query, material, output_dir="/root/autodl-tmp/SoccerAgent/log/"):
 
     DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
     os.makedirs(output_dir, exist_ok=True)
     
-    model = CLIPModel.from_pretrained("openai/clip-vit-large-patch14").to(DEVICE)
+    model = CLIPModel.from_pretrained("/root/autodl-tmp/SoccerAgent/model/clip-vit-large-patch14").to(DEVICE)
     model.eval()
-    processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patch14")
+    processor = CLIPProcessor.from_pretrained("/root/autodl-tmp/SoccerAgent/model/clip-vit-large-patch14")
     
     video_path = material[0]
     best_similarity = -np.inf

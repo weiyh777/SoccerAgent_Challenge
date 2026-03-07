@@ -4,7 +4,7 @@ from torch import nn
 import einops
 import contextlib
 import sys, os
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox/unisoccer')
 from model.matchvoice_Qformer import BertConfig, BertLMHeadModel
 from transformers.generation.logits_process import LogitsProcessor, LogitsProcessorList
 from typing import List
@@ -36,8 +36,8 @@ class RestrictTokenGenerationLogitsProcessor(LogitsProcessor):
 class matchvoice_model(nn.Module):
     def __init__(self,
                  # LLM part
-                 llm_ckpt = "Meta-Llama-3-8B-Instruct",
-                 tokenizer_ckpt = "Meta-Llama-3-8B-Instruct",
+                 llm_ckpt = "/root/autodl-tmp/SoccerAgent/model/Meta-Llama-3-8B-Instruct",
+                 tokenizer_ckpt = "/root/autodl-tmp/SoccerAgent/model/Meta-Llama-3-8B-Instruct",
                  # Q-former part
                  max_frame_pos = 128,
                  window = 30,
@@ -46,7 +46,7 @@ class matchvoice_model(nn.Module):
                  num_features = 512,
                  device = "cuda:0",
                  inference = False,
-                 file_path = './words_world/merge.pkl',
+                 file_path = '/root/autodl-tmp/SoccerAgent/toolbox/unisoccer/merge.pkl',
                  need_temporal = True,
                  **kwargs,
                  ):
@@ -105,7 +105,7 @@ class matchvoice_model(nn.Module):
 
     @classmethod
     def init_video_Qformer(cls, num_query_token, vision_width, num_hidden_layers =2):
-        encoder_config = BertConfig.from_pretrained("YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer/checkpoint/bert-base-uncased")
+        encoder_config = BertConfig.from_pretrained("/root/autodl-tmp/SoccerAgent/model/bert-base-uncased")
         encoder_config.num_hidden_layers = num_hidden_layers
         encoder_config.encoder_width = vision_width
         # insert cross-attention layer every other block

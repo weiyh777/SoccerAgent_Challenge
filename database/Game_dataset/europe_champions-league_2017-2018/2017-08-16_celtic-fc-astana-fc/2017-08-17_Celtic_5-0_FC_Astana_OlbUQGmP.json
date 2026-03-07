@@ -1,0 +1,915 @@
+{
+    "match_info": {
+        "timestamp": "2017-08-17 02:45:00",
+        "score": "5 - 0",
+        "home_team": "Celtic",
+        "away_team": "FC Astana",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 4 - 1 - 1",
+        "venue": "Celtic Park (Glasgow)",
+        "capacity": "60 411",
+        "attendance": "54 016",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Hategan O. (Rou)",
+        "first_name": "Hategan",
+        "abbr_last_name": "O",
+        "country": "Rou",
+        "detected_name": "Ovidiu Hategan"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Rodgers B.",
+                "players_number": "",
+                "Full Name": "Brendan Rodgers",
+                "players_rating": "",
+                "Country": "Northern Ireland",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (26.01.1973)",
+                "Market Value": "",
+                "unicode": "GGXMvd0k"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Boyata D.",
+                "players_number": "",
+                "Full Name": "Dedryck Boyata",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (28.11.1990)",
+                "Market Value": "€749k",
+                "unicode": "WIk4rr1k"
+            },
+            {
+                "players_name": "Dembele M.",
+                "players_number": "",
+                "Full Name": "Moussa Dembele",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (12.07.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "jBP2q6F0"
+            },
+            {
+                "players_name": "Sviatchenko E.",
+                "players_number": "",
+                "Full Name": "Erik Sviatchenko",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (04.10.1991)",
+                "Market Value": "€1.5m",
+                "unicode": "fHhXENuf"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bitton N.",
+                "players_number": "6",
+                "Full Name": "Nir Bitton",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (30.10.1991)",
+                "Market Value": "€333k",
+                "unicode": "WGQybkLt"
+            },
+            {
+                "players_name": "Brown S. (C)",
+                "players_number": "8",
+                "Full Name": "Scott Brown",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Coach",
+                "Age and Birthdate": "38, (25.06.1985)",
+                "Market Value": "",
+                "unicode": "K4DKRkRe"
+            },
+            {
+                "players_name": "Forrest J.",
+                "players_number": "49",
+                "Full Name": "James Forrest",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (07.07.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "bos8vZBt"
+            },
+            {
+                "players_name": "Gordon C. (G)",
+                "players_number": "1",
+                "Full Name": "Craig Gordon",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (31.12.1982)",
+                "Market Value": "€193k",
+                "unicode": "6ZbYTgJO"
+            },
+            {
+                "players_name": "Griffiths L.",
+                "players_number": "9",
+                "Full Name": "Leigh Griffiths",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (20.08.1990)",
+                "Market Value": "",
+                "unicode": "bqipguCb"
+            },
+            {
+                "players_name": "Lustig M.",
+                "players_number": "23",
+                "Full Name": "Mikael Lustig",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (13.12.1986)",
+                "Market Value": "",
+                "unicode": "l0qHVzHj"
+            },
+            {
+                "players_name": "Ntcham O.",
+                "players_number": "21",
+                "Full Name": "Olivier Ntcham",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.02.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "ELItWvlA"
+            },
+            {
+                "players_name": "Rogic T.",
+                "players_number": "18",
+                "Full Name": "Tom Rogic",
+                "players_rating": "",
+                "Country": "Australia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (16.12.1992)",
+                "Market Value": "",
+                "unicode": "M98YZyPS"
+            },
+            {
+                "players_name": "Simunovic J.",
+                "players_number": "5",
+                "Full Name": "Jozo Simunovic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (04.08.1994)",
+                "Market Value": "",
+                "unicode": "C6hVoQZ2"
+            },
+            {
+                "players_name": "Sinclair S.",
+                "players_number": "11",
+                "Full Name": "Scott Sinclair",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (25.03.1989)",
+                "Market Value": "€117k",
+                "unicode": "MkPh0xH9"
+            },
+            {
+                "players_name": "Tierney K.",
+                "players_number": "63",
+                "Full Name": "Kieran Tierney",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (05.06.1997)",
+                "Market Value": "€16.8m",
+                "unicode": "Qm0l3aod"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Armstrong S.",
+                "players_number": "14",
+                "Full Name": "Stuart Armstrong",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (30.03.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "bNMGoy7K"
+            },
+            {
+                "players_name": "McGregor C.",
+                "players_number": "42",
+                "Full Name": "Callum McGregor",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (14.06.1993)",
+                "Market Value": "€8.8m",
+                "unicode": "pGXQfHlO"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Ajer K.",
+                "players_number": "35",
+                "Full Name": "Kristoffer Ajer",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (17.04.1998)",
+                "Market Value": "€17.1m",
+                "unicode": "tK0pMshb"
+            },
+            {
+                "players_name": "Benyu K.",
+                "players_number": "26",
+                "Full Name": "Kundai Benyu",
+                "players_rating": "",
+                "Country": "Zimbabwe",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.12.1997)",
+                "Market Value": "",
+                "unicode": "4EPEtYH1"
+            },
+            {
+                "players_name": "de Vries D. (G)",
+                "players_number": "24",
+                "Full Name": "Dorus de Vries",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "43, (29.12.1980)",
+                "Market Value": "",
+                "unicode": "UHovvkk1"
+            },
+            {
+                "players_name": "Miller C.",
+                "players_number": "59",
+                "Full Name": "Calvin Miller",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (09.01.1998)",
+                "Market Value": "31.05.2025",
+                "unicode": "4d8BVZ3q"
+            },
+            {
+                "players_name": "Ralston A.",
+                "players_number": "56",
+                "Full Name": "Anthony Ralston",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (16.11.1998)",
+                "Market Value": "€1.8m",
+                "unicode": "6PvBfu9D"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Stoilov S.",
+                "players_number": "",
+                "Full Name": "Stanimir Stoilov",
+                "players_rating": "",
+                "Country": "Bulgaria",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (13.02.1967)",
+                "Market Value": "",
+                "unicode": "zmeGks7n"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Kabananga J.",
+                "players_number": "30",
+                "Full Name": "Junior Kabananga",
+                "players_rating": "",
+                "Country": "DR Congo",
+                "Role": "Forward",
+                "Age and Birthdate": "€87k, (04.04.1989)",
+                "Market Value": "",
+                "unicode": "tK3tA65N"
+            },
+            {
+                "players_name": "Kleinheisler L.",
+                "players_number": "6",
+                "Full Name": "Laszlo Kleinheisler",
+                "players_rating": "",
+                "Country": "Hungary",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.04.1994)",
+                "Market Value": "€1.4m",
+                "unicode": "MFsHGLLq"
+            },
+            {
+                "players_name": "Logvinenko Y.",
+                "players_number": "27",
+                "Full Name": "Yuri Logvinenko",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (22.07.1988)",
+                "Market Value": "",
+                "unicode": "n5OHP0Yq"
+            },
+            {
+                "players_name": "Maevskiy I.",
+                "players_number": "18",
+                "Full Name": "Ivan Maevskiy",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (05.05.1988)",
+                "Market Value": "",
+                "unicode": "Aog6FF25"
+            },
+            {
+                "players_name": "Mokin A. (G)",
+                "players_number": "35",
+                "Full Name": "Aleksandr Mokin",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "42, (19.06.1981)",
+                "Market Value": "",
+                "unicode": "WIJrF4IB"
+            },
+            {
+                "players_name": "Muzhikov S.",
+                "players_number": "7",
+                "Full Name": "Serikzan Muzhikov",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (17.06.1989)",
+                "Market Value": "€190k",
+                "unicode": "SzZlSkNK"
+            },
+            {
+                "players_name": "Postnikov E.",
+                "players_number": "44",
+                "Full Name": "Evgeni Postnikov",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (16.04.1986)",
+                "Market Value": "",
+                "unicode": "jaRRTHeG"
+            },
+            {
+                "players_name": "Shitov I.",
+                "players_number": "4",
+                "Full Name": "Igor Shitov",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (24.10.1986)",
+                "Market Value": "",
+                "unicode": "MLzfyE0Q"
+            },
+            {
+                "players_name": "Shomko D. (C)",
+                "players_number": "77",
+                "Full Name": "Dmitrij Shomko",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (19.03.1990)",
+                "Market Value": "€272k",
+                "unicode": "x2J4Qb99"
+            },
+            {
+                "players_name": "Tomasov M.",
+                "players_number": "14",
+                "Full Name": "Marin Tomasov",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (31.08.1987)",
+                "Market Value": "€421k",
+                "unicode": "UPF5kmRE"
+            },
+            {
+                "players_name": "Twumasi P.",
+                "players_number": "23",
+                "Full Name": "Patrick Twumasi",
+                "players_rating": "",
+                "Country": "Ghana",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (09.05.1994)",
+                "Market Value": "",
+                "unicode": "W6IRCnD5"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Beysebekov A.",
+                "players_number": "15",
+                "Full Name": "Abzal Beysebekov",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (30.11.1992)",
+                "Market Value": "€472k",
+                "unicode": "MJgS9MQA"
+            },
+            {
+                "players_name": "Grahovac S.",
+                "players_number": "8",
+                "Full Name": "Srdjan Grahovac",
+                "players_rating": "",
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (19.09.1992)",
+                "Market Value": "€289k",
+                "unicode": "MBszpP6P"
+            },
+            {
+                "players_name": "Murtazaev R.",
+                "players_number": "45",
+                "Full Name": "Roman Murtazaev",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (10.09.1993)",
+                "Market Value": "",
+                "unicode": "bBsU2k6K"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Anicic M.",
+                "players_number": "5",
+                "Full Name": "Marin Anicic",
+                "players_rating": "",
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (17.08.1989)",
+                "Market Value": "€46k",
+                "unicode": "IsgtvoCe"
+            },
+            {
+                "players_name": "Eric N. (G)",
+                "players_number": "1",
+                "Full Name": "Nenad Eric",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (26.05.1982)",
+                "Market Value": "",
+                "unicode": "McIDf1tU"
+            },
+            {
+                "players_name": "Maliy S.",
+                "players_number": "25",
+                "Full Name": "Sergey Maliy",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (05.06.1990)",
+                "Market Value": "€570k",
+                "unicode": "6FP7ZQK8"
+            },
+            {
+                "players_name": "Tagybergen A.",
+                "players_number": "17",
+                "Full Name": "Askhat Tagybergen",
+                "players_rating": "",
+                "Country": "Kazakhstan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (09.08.1990)",
+                "Market Value": "€862k",
+                "unicode": "QuImijIs"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Ovidiu Hategan.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. FC Astana will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:54",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Junior Kabananga (FC Astana) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:39",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Evgeni Postnikov (FC Astana) was quite harsh and Ovidiu Hategan didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:47",
+            "comments_type": "off side",
+            "comments_text": "The game is interrupted as Marin Tomasov (FC Astana) is flagged offside.",
+            "comments_text_anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:43",
+            "comments_type": "foul with no card",
+            "comments_text": "Kieran Tierney (Celtic) gives away a foul for a clumsy challenge. Referee Ovidiu Hategan saw the whole situation. FC Astana have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:10",
+            "comments_type": "clearance",
+            "comments_text": "Olivier Ntcham (Celtic) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:22",
+            "comments_type": "clearance",
+            "comments_text": "Junior Kabananga (FC Astana) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Scott Brown (Celtic) pulls the jersey of one of the opposition players and Ovidiu Hategan blows his whistle for a foul. FC Astana are awarded a free kick. Let's see what they create from this.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:49",
+            "comments_type": "shot off target",
+            "comments_text": "Patrick Twumasi (FC Astana) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:25",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Serikzan Muzhikov (FC Astana) collects a rebound a long way out and doesn't hesitate to release a goal-bound hammer of a shot. His attempt is precise and low towards the middle of the target. It would have ended in the back of the net if it wasn't for Craig Gordon and his nice save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a rebound a long way out and doesn't hesitate to release a goal-bound hammer of a shot. His attempt is precise and low towards the middle of the target. It would have ended in the back of the net if it wasn't for [PLAYER] and his nice save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:14",
+            "comments_type": "off side",
+            "comments_text": "Leigh Griffiths (Celtic) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:54",
+            "comments_type": "corner",
+            "comments_text": "Ivan Maevskiy (FC Astana) flights in the cross, but the defender is alert and clears to safety. FC Astana have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:50",
+            "comments_type": "corner",
+            "comments_text": "Serikzan Muzhikov (FC Astana) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:50",
+            "comments_type": "lead to corner",
+            "comments_text": "This shall not pass! Kieran Tierney (Celtic) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Celtic force their opponents to concede a corner.",
+            "comments_text_anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:23",
+            "comments_type": "corner",
+            "comments_text": "Leigh Griffiths (Celtic) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:13",
+            "comments_type": "goal",
+            "comments_text": "Evgeni Postnikov (FC Astana) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:21",
+            "comments_type": "lead to corner",
+            "comments_text": "Junior Kabananga (FC Astana) fails to find any of his teammates inside the box as his pass is blocked. It will be a corner kick for FC Astana.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:44",
+            "comments_type": "corner",
+            "comments_text": "Serikzan Muzhikov (FC Astana) will deliver the ball into the penalty box from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "lead to corner",
+            "comments_text": "FC Astana are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes. Corner kick. FC Astana will have an opportunity.",
+            "comments_text_anonymized": "[TEAM] are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:31",
+            "comments_type": "corner",
+            "comments_text": "Patrick Twumasi (FC Astana) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The ball goes out of play and FC Astana have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:04",
+            "comments_type": "corner",
+            "comments_text": "Patrick Twumasi (FC Astana) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:04",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Scott Brown (Celtic) is worthy of a card and a yellow is duly shown by Ovidiu Hategan.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:55",
+            "comments_type": "goal",
+            "comments_text": "Scott Sinclair (Celtic) collects a killer pass inside the box that puts him one-on-one against the goalkeeper. He scores, drilling a low drive deep inside the left post!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a killer pass inside the box that puts him one-on-one against the goalkeeper. He scores, drilling a low drive deep inside the left post!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 1 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:26",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The whistle blows and Ovidiu Hategan starts the second half.",
+            "comments_text_anonymized": "The whistle blows and [REFEREE] starts the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:50",
+            "comments_type": "yellow card",
+            "comments_text": "Kieran Tierney (Celtic) is booked after bringing down an opponent. Ovidiu Hategan had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:30",
+            "comments_type": "lead to corner",
+            "comments_text": "FC Astana play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. FC Astana have been awarded a corner kick.",
+            "comments_text_anonymized": "[TEAM] play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:48",
+            "comments_type": "corner",
+            "comments_text": "Serikzan Muzhikov (FC Astana) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:31",
+            "comments_type": "off side",
+            "comments_text": "Leigh Griffiths (Celtic) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:47",
+            "comments_type": "foul with no card",
+            "comments_text": "Jozo Simunovic (Celtic) makes an overly-aggressive challenge and Ovidiu Hategan blows his whistle for a foul. Another situation results in a direct free kick for FC Astana.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Serikzan Muzhikov (FC Astana) was too fierce in his attempt to get the ball from his opponent and Ovidiu Hategan blows for a foul. Celtic have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "goal",
+            "comments_text": "Superb finishing from Scott Sinclair (Celtic). Leigh Griffiths plays a fantastic through ball and finds Scott Sinclair (Celtic), who reacts quickly to get in front of the goal and fire a low shot from close range past the goalkeeper. It's 3:0.",
+            "comments_text_anonymized": "Superb finishing from [PLAYER] ([TEAM]). [PLAYER] plays a fantastic through ball and finds [PLAYER] ([TEAM]), who reacts quickly to get in front of the goal and fire a low shot from close range past the goalkeeper. It's 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:29",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Yuri Logvinenko (FC Astana) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:06",
+            "comments_type": "yellow card",
+            "comments_text": "Yuri Logvinenko (FC Astana) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:59",
+            "comments_type": "substitution",
+            "comments_text": "Brendan Rodgers is forced to make a change. Tom Rogic is unable to continue due to injury, Callum McGregor (Celtic) comes on.",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:02",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Abzal Beysebekov (FC Astana) is coming onto the pitch as Yuri Logvinenko cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:35",
+            "comments_type": "lead to corner",
+            "comments_text": "FC Astana move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. FC Astana force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[TEAM] move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:00",
+            "comments_type": "corner",
+            "comments_text": "Patrick Twumasi (FC Astana) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:09",
+            "comments_type": "yellow card",
+            "comments_text": "Ovidiu Hategan shows a yellow card to Igor Shitov (FC Astana) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:10",
+            "comments_type": "lead to corner",
+            "comments_text": "The Celtic players find the open spaces by moving the ball around, but the move ends with an involuntarily pass to the opposition. The referee blows his whistle, Celtic are awarded a corner kick.",
+            "comments_text_anonymized": "The [TEAM] players find the open spaces by moving the ball around, but the move ends with an involuntarily pass to the opposition. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:55",
+            "comments_type": "corner",
+            "comments_text": "Leigh Griffiths (Celtic) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Ovidiu Hategan couldn't ignore the rough tackle by Patrick Twumasi (FC Astana) and blew his whistle. A free kick to Celtic.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle. A free kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "substitution",
+            "comments_text": "Stanimir Stoilov decides to make a substitution. Marin Tomasov will be replaced by Roman Murtazayev (FC Astana).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by Roman Murtazayev ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:55",
+            "comments_type": "goal",
+            "comments_text": "Goal! Leigh Griffiths tees up James Forrest (Celtic) inside the box, and he keeps his cool to find the bottom left corner. 4:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box, and he keeps his cool to find the bottom left corner. 4:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "substitution",
+            "comments_text": "Stanimir Stoilov prepares a substitution. Serikzan Muzhikov is replaced by Srdjan Grahovac (FC Astana).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:40",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Stuart Armstrong (Celtic) receives a signal from the referee and is now allowed to enter the pitch as James Forrest walks off.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle for a foul after Roman Murtazayev (FC Astana) overruns the ball during an attack and makes an aggressive challenge on his opponent. Free kick. Celtic will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "The referee blows his whistle for a foul after Roman Murtazayev ([TEAM]) overruns the ball during an attack and makes an aggressive challenge on his opponent. Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:44",
+            "comments_type": "goal",
+            "comments_text": "Igor Shitov (FC Astana) scores an unfortunate own goal and the opposition increase their lead!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) scores an unfortunate own goal and the opposition increase their lead!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 5 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Scott Sinclair (Celtic) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The ball goes out of play. Celtic are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:01",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Leigh Griffiths (Celtic) is cleared by the defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:58",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Roman Murtazayev (FC Astana) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that Roman Murtazayev ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:42",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Stuart Armstrong (Celtic) attempted to dribble past an opposing player. Celtic force a corner. They send men into the box.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:42",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Callum McGregor (Celtic) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:01",
+            "comments_type": "end of half game",
+            "comments_text": "The referee checks his watch and blows his whistle to signal the end of this match.",
+            "comments_text_anonymized": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ]
+}

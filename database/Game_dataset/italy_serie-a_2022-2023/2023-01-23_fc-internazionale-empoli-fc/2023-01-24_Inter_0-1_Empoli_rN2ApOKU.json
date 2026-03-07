@@ -1,0 +1,1370 @@
+{
+    "match_info": {
+        "timestamp": "2023-01-24 03:45:00",
+        "score": "0 - 1",
+        "home_team": "Inter",
+        "away_team": "Empoli",
+        "home_formation": "3 - 5 - 2",
+        "away_formation": "4 - 3 - 2 - 1",
+        "venue": "Stadio Giuseppe Meazza (San Siro) (Milan)",
+        "capacity": "80 018",
+        "attendance": "65 476",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Rapuano A. (Ita)",
+        "first_name": "Rapuano",
+        "abbr_last_name": "A",
+        "country": "Ita",
+        "detected_name": "Antonio Rapuano"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Zanetti P.",
+                "players_number": "",
+                "Full Name": "Paolo Zanetti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "41,  (16.12.1982)",
+                "Market Value": "",
+                "unicode": "OW6PtuKn"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Destro M.",
+                "players_number": "",
+                "Full Name": "Mattia Destro",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (20.03.1991)",
+                "Market Value": "€703k",
+                "unicode": "rZGeA4Rc"
+            },
+            {
+                "players_name": "Grassi A.",
+                "players_number": "",
+                "Full Name": "Alberto Grassi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (07.03.1995)",
+                "Market Value": "€1.7m",
+                "unicode": "E7Jj74nK"
+            },
+            {
+                "players_name": "Ismajli A.",
+                "players_number": "",
+                "Full Name": "Ardian Ismajli",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (30.09.1996)",
+                "Market Value": "€3.0m",
+                "unicode": "xtJXLSFe"
+            },
+            {
+                "players_name": "Marin R.",
+                "players_number": "",
+                "Full Name": "Razvan Marin",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.05.1996)",
+                "Market Value": "€2.4m",
+                "unicode": "WYOcFAQk"
+            },
+            {
+                "players_name": "Tonelli L.",
+                "players_number": "",
+                "Full Name": "Lorenzo Tonelli",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (17.01.1990)",
+                "Market Value": "€170k",
+                "unicode": "2yFG2BO6"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Akpa Akpro J.",
+                "players_number": "11",
+                "Full Name": "Jean-Daniel Akpa Akpro",
+                "players_rating": 6.9,
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (11.10.1992)",
+                "Market Value": "€908k",
+                "unicode": "xnUevERr"
+            },
+            {
+                "players_name": "Bajrami N.",
+                "players_number": "10",
+                "Full Name": "Nedim Bajrami",
+                "players_rating": 7.3,
+                "Country": "Albania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (28.02.1999)",
+                "Market Value": "€5.7m",
+                "unicode": "Q1wMNrxU"
+            },
+            {
+                "players_name": "Bandinelli F. (C)",
+                "players_number": "25",
+                "Full Name": "Filippo Bandinelli",
+                "players_rating": 7.3,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (29.03.1995)",
+                "Market Value": "€1.9m",
+                "unicode": "WEIpbflm"
+            },
+            {
+                "players_name": "Cambiaghi N.",
+                "players_number": "28",
+                "Full Name": "Nicolo Cambiaghi",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (28.12.2000)",
+                "Market Value": "€6.9m",
+                "unicode": "80NWC6K6"
+            },
+            {
+                "players_name": "Caputo F.",
+                "players_number": "19",
+                "Full Name": "Francesco Caputo",
+                "players_rating": 6.7,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (06.08.1987)",
+                "Market Value": "€1.2m",
+                "unicode": "8zNIfCYE"
+            },
+            {
+                "players_name": "De Winter K.",
+                "players_number": "6",
+                "Full Name": "Koni De Winter",
+                "players_rating": 7.2,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (12.06.2002)",
+                "Market Value": "€6.6m",
+                "unicode": "EFmPm0Qo"
+            },
+            {
+                "players_name": "Ebuehi T.",
+                "players_number": "24",
+                "Full Name": "Tyronne Ebuehi",
+                "players_rating": 7.3,
+                "Country": "Nigeria",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.12.1995)",
+                "Market Value": "€2.3m",
+                "unicode": "KbPlg3Fl"
+            },
+            {
+                "players_name": "Henderson L.",
+                "players_number": "8",
+                "Full Name": "Liam Henderson",
+                "players_rating": 7.0,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (25.04.1996)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "YmvWlE1E"
+            },
+            {
+                "players_name": "Luperto S.",
+                "players_number": "33",
+                "Full Name": "Sebastiano Luperto",
+                "players_rating": 7.3,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (06.09.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "l6ZLUe9D"
+            },
+            {
+                "players_name": "Parisi F.",
+                "players_number": "65",
+                "Full Name": "Fabiano Parisi",
+                "players_rating": 7.2,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (09.11.2000)",
+                "Market Value": "€9.0m",
+                "unicode": "Ghafo5hk"
+            },
+            {
+                "players_name": "Vicario G. (G)",
+                "players_number": "13",
+                "Full Name": "Guglielmo Vicario",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (07.10.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "0fdL3XXa"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Baldanzi T.",
+                "players_number": "35",
+                "Full Name": "Tommaso Baldanzi",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (23.03.2003)",
+                "Market Value": "€14.7m",
+                "unicode": "QySTk0pB"
+            },
+            {
+                "players_name": "Fazzini J.",
+                "players_number": "21",
+                "Full Name": "Jacopo Fazzini",
+                "players_rating": 6.1,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (16.03.2003)",
+                "Market Value": "€5.6m",
+                "unicode": "b3uylvFN"
+            },
+            {
+                "players_name": "Haas N.",
+                "players_number": "32",
+                "Full Name": "Nicolas Haas",
+                "players_rating": 6.6,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.01.1996)",
+                "Market Value": "€1.4m",
+                "unicode": "Q1sHUL1D"
+            },
+            {
+                "players_name": "Satriano M.",
+                "players_number": "9",
+                "Full Name": "Martin Satriano",
+                "players_rating": 5.9,
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (20.02.2001)",
+                "Market Value": "€4.8m",
+                "unicode": "rmhmN1WA"
+            },
+            {
+                "players_name": "Walukiewicz S.",
+                "players_number": "4",
+                "Full Name": "Sebastian Walukiewicz",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (05.04.2000)",
+                "Market Value": "€2.3m",
+                "unicode": "84cMABdJ"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Cacace L.",
+                "players_number": "3",
+                "Full Name": "Liberato Cacace",
+                "players_rating": "",
+                "Country": "New Zealand",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (27.09.2000)",
+                "Market Value": "€1.9m",
+                "unicode": "4SWMMcZd"
+            },
+            {
+                "players_name": "Degli Innocenti D.",
+                "players_number": "20",
+                "Full Name": "Duccio Degli Innocenti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (28.04.2003)",
+                "Market Value": "€553k",
+                "unicode": "KCtXlKaH"
+            },
+            {
+                "players_name": "Guarino G.",
+                "players_number": "36",
+                "Full Name": "Gabriele Guarino",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "€964k, (14.04.2004)",
+                "Market Value": "30.06.2028",
+                "unicode": "0GYbO9xj"
+            },
+            {
+                "players_name": "Nabian H.",
+                "players_number": "87",
+                "Full Name": "Herculano Nabian",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (25.01.2004)",
+                "Market Value": "€421k",
+                "unicode": "lrLAYDYC"
+            },
+            {
+                "players_name": "Perisan S. (G)",
+                "players_number": "1",
+                "Full Name": "Samuele Perisan",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (21.08.1997)",
+                "Market Value": "€553k",
+                "unicode": "6HUZxS6p"
+            },
+            {
+                "players_name": "Stojanovic P.",
+                "players_number": "30",
+                "Full Name": "Petar Stojanovic",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (07.10.1995)",
+                "Market Value": "€1.3m",
+                "unicode": "0npaWwAk"
+            },
+            {
+                "players_name": "Ujkani S. (G)",
+                "players_number": "22",
+                "Full Name": "Samir Ujkani",
+                "players_rating": "",
+                "Country": "Kosovo",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (05.07.1988)",
+                "Market Value": "",
+                "unicode": "dY6jBvlM"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Inzaghi S.",
+                "players_number": "",
+                "Full Name": "Simone Inzaghi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "47,  (05.04.1976)",
+                "Market Value": "",
+                "unicode": "j32a3mqs"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Brozovic M.",
+                "players_number": "",
+                "Full Name": "Marcelo Brozovic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (16.11.1992)",
+                "Market Value": "€18.3m",
+                "unicode": "I52LaWD8"
+            },
+            {
+                "players_name": "Dalbert",
+                "players_number": "",
+                "Full Name": "Dalbert",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "€908k, (08.09.1993)",
+                "Market Value": "",
+                "unicode": "005SL6KH"
+            },
+            {
+                "players_name": "Handanovic S.",
+                "players_number": "",
+                "Full Name": "Samir Handanovic",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (14.07.1984)",
+                "Market Value": "",
+                "unicode": "Y9j38DnN"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Barella N.",
+                "players_number": "23",
+                "Full Name": "Nicolo Barella",
+                "players_rating": 6.3,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (07.02.1997)",
+                "Market Value": "€73.4m",
+                "unicode": "W0yrjzz2"
+            },
+            {
+                "players_name": "Bastoni A.",
+                "players_number": "95",
+                "Full Name": "Alessandro Bastoni",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (13.04.1999)",
+                "Market Value": "€60.4m",
+                "unicode": "On4TkPTN"
+            },
+            {
+                "players_name": "Calhanoglu H.",
+                "players_number": "20",
+                "Full Name": "Hakan Calhanoglu",
+                "players_rating": 6.9,
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.02.1994)",
+                "Market Value": "€40.8m",
+                "unicode": "IRQeP5FJ"
+            },
+            {
+                "players_name": "Correa J.",
+                "players_number": "11",
+                "Full Name": "Joaquin Correa",
+                "players_rating": 6.3,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (13.08.1994)",
+                "Market Value": "€9.1m",
+                "unicode": "IkcGiQBb"
+            },
+            {
+                "players_name": "Darmian M.",
+                "players_number": "36",
+                "Full Name": "Matteo Darmian",
+                "players_rating": 6.5,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (02.12.1989)",
+                "Market Value": "€3.9m",
+                "unicode": "WbNknKk3"
+            },
+            {
+                "players_name": "de Vrij S.",
+                "players_number": "6",
+                "Full Name": "Stefan de Vrij",
+                "players_rating": 7.2,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€7.8m",
+                "unicode": "8Cf0NM4a"
+            },
+            {
+                "players_name": "Dimarco F.",
+                "players_number": "32",
+                "Full Name": "Federico Dimarco",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (10.11.1997)",
+                "Market Value": "€51.8m",
+                "unicode": "W6lypZn3"
+            },
+            {
+                "players_name": "Martinez La.",
+                "players_number": "10",
+                "Full Name": "Lautaro Martinez",
+                "players_rating": 6.6,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (22.08.1997)",
+                "Market Value": "€107.6m",
+                "unicode": "QHk1CXUh"
+            },
+            {
+                "players_name": "Mkhitaryan H.",
+                "players_number": "22",
+                "Full Name": "Henrikh Mkhitaryan",
+                "players_rating": 6.2,
+                "Country": "Armenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (21.01.1989)",
+                "Market Value": "€6.3m",
+                "unicode": "KKi1DwHC"
+            },
+            {
+                "players_name": "Onana A. (G)",
+                "players_number": "24",
+                "Full Name": "Andre Onana",
+                "players_rating": 7.9,
+                "Country": "Cameroon",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (02.04.1996)",
+                "Market Value": "€38.6m",
+                "unicode": "OCuLGTrI"
+            },
+            {
+                "players_name": "Skriniar M. (C)",
+                "players_number": "37",
+                "Full Name": "Milan Skriniar",
+                "players_rating": 4.5,
+                "Country": "Slovakia",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (11.02.1995)",
+                "Market Value": "€44.7m",
+                "unicode": "EqBuG0nE"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Asllani K.",
+                "players_number": "14",
+                "Full Name": "Kristjan Asllani",
+                "players_rating": 6.6,
+                "Country": "Albania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (09.03.2002)",
+                "Market Value": "€13.3m",
+                "unicode": "hzUi0u2S"
+            },
+            {
+                "players_name": "Bellanova R.",
+                "players_number": "12",
+                "Full Name": "Raoul Bellanova",
+                "players_rating": 6.5,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.05.2000)",
+                "Market Value": "€6.7m",
+                "unicode": "6BgYlqqU"
+            },
+            {
+                "players_name": "Dzeko E.",
+                "players_number": "9",
+                "Full Name": "Edin Dzeko",
+                "players_rating": 6.0,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (17.03.1986)",
+                "Market Value": "€3.6m",
+                "unicode": "zilGmgZq"
+            },
+            {
+                "players_name": "Gosens R.",
+                "players_number": "8",
+                "Full Name": "Robin Gosens",
+                "players_rating": 6.1,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (05.07.1994)",
+                "Market Value": "€14.0m",
+                "unicode": "r1EFsksF"
+            },
+            {
+                "players_name": "Lukaku R.",
+                "players_number": "90",
+                "Full Name": "Romelu Lukaku",
+                "players_rating": 6.1,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (13.05.1993)",
+                "Market Value": "€35.2m",
+                "unicode": "dCkG0Iw0"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Acerbi F.",
+                "players_number": "15",
+                "Full Name": "Francesco Acerbi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (10.02.1988)",
+                "Market Value": "€4.0m",
+                "unicode": "SrhnSpzL"
+            },
+            {
+                "players_name": "Carboni V.",
+                "players_number": "45",
+                "Full Name": "Valentin Carboni",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (05.03.2005)",
+                "Market Value": "€4.8m",
+                "unicode": "0S6Hz5ji"
+            },
+            {
+                "players_name": "Cordaz A. (G)",
+                "players_number": "21",
+                "Full Name": "Alex Cordaz",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (01.01.1983)",
+                "Market Value": "",
+                "unicode": "0hWAi5d7"
+            },
+            {
+                "players_name": "Curatolo D.",
+                "players_number": "42",
+                "Full Name": "Dennis Curatolo",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (03.04.2004)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "hhAyMquL"
+            },
+            {
+                "players_name": "D'Ambrosio D.",
+                "players_number": "33",
+                "Full Name": "Danilo D'Ambrosio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (09.09.1988)",
+                "Market Value": "€950k",
+                "unicode": "ShD3fHfH"
+            },
+            {
+                "players_name": "Dumfries D.",
+                "players_number": "2",
+                "Full Name": "Denzel Dumfries",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (18.04.1996)",
+                "Market Value": "€29.4m",
+                "unicode": "QR0j1ejk"
+            },
+            {
+                "players_name": "Gabriel Brazao (G)",
+                "players_number": "31",
+                "Full Name": "Gabriel Brazao",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "23, (05.10.2000)",
+                "Market Value": "€251k",
+                "unicode": "OWNG9xdo"
+            },
+            {
+                "players_name": "Gagliardini R.",
+                "players_number": "5",
+                "Full Name": "Roberto Gagliardini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (07.04.1994)",
+                "Market Value": "€3.8m",
+                "unicode": "f1Ft78yl"
+            },
+            {
+                "players_name": "Zanotti M.",
+                "players_number": "46",
+                "Full Name": "Mattia Zanotti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (11.02.2003)",
+                "Market Value": "€1.8m",
+                "unicode": "EmD0fOVu"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The referee of today's match will be Antonio Rapuano.",
+            "comments_text_anonymized": "The referee of today's match will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Empoli will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:50",
+            "comments_type": "clearance",
+            "comments_text": "Nicolo Cambiaghi (Empoli) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:12",
+            "comments_type": "ball out of play",
+            "comments_text": "A pass by Filippo Bandinelli (Empoli) ends up in no man's land, and the attacking effort comes to an end. The ball is off of the pitch and it's a goal kick for Inter.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Milan Skriniar (Inter) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:58",
+            "comments_type": "foul with no card",
+            "comments_text": "Tyronne Ebuehi (Empoli) jumps into a tackle and Antonio Rapuano signals a foul. Inter win a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] signals a foul. [TEAM] win a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:34",
+            "comments_type": "clearance",
+            "comments_text": "Federico Dimarco (Inter) floats the free kick into the box, but it's easily cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:46",
+            "comments_type": "ball out of play",
+            "comments_text": "Nicolo Barella (Inter) clips an inviting cross into the box, but there's no one in a position to get on the end of it. The ball goes out of play and Empoli will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clips an inviting cross into the box, but there's no one in a position to get on the end of it. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Milan Skriniar (Inter) trips an opposition player and Antonio Rapuano signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:51",
+            "comments_type": "corner",
+            "comments_text": "Nedim Bajrami (Empoli) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:41",
+            "comments_type": "injury",
+            "comments_text": "Francesco Caputo (Empoli) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:43",
+            "comments_type": "injury",
+            "comments_text": "Francesco Caputo (Empoli) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:49",
+            "comments_type": "corner",
+            "comments_text": "The corner from Nedim Bajrami (Empoli) is intercepted by Andre Onana.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:38",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Nicolo Barella (Inter) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:51",
+            "comments_type": "shot off target",
+            "comments_text": "Nicolo Barella (Inter) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:10",
+            "comments_type": "shot off target",
+            "comments_text": "A cross into the box picks out Federico Dimarco (Inter), who steps inside his marker and fizzes a shot well wide of the left post. The ball is off of the pitch and it's a goal kick for Empoli.",
+            "comments_text_anonymized": "A cross into the box picks out [PLAYER] ([TEAM]), who steps inside his marker and fizzes a shot well wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:39",
+            "comments_type": "yellow card",
+            "comments_text": "Antonio Rapuano shows the yellow card to Milan Skriniar (Inter) for a heavy challenge.",
+            "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:40",
+            "comments_type": "free kick",
+            "comments_text": "Empoli will look to benefit from a promising free kick near the touchline.",
+            "comments_text_anonymized": "[TEAM] will look to benefit from a promising free kick near the touchline."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:50",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by Empoli, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:15",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Filippo Bandinelli (Empoli) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:14",
+            "comments_type": "shot off target",
+            "comments_text": "Liam Henderson (Empoli) fancies his chances and unleashes a powerful shot from the edge of the box, but the keeper just watches it go high over the bar. The ball is off of the pitch and it's a goal kick for Inter.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fancies his chances and unleashes a powerful shot from the edge of the box, but the keeper just watches it go high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:50",
+            "comments_type": "clearance",
+            "comments_text": "A fine lofted pass into the box, sent by Milan Skriniar (Inter), is intercepted by the opposition's defence.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Hakan Calhanoglu (Inter) shoots from outside the box, but his effort is blocked. Inter earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked. [TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:07",
+            "comments_type": "corner",
+            "comments_text": "Federico Dimarco (Inter) swings in a cross from the corner, but Guglielmo Vicario reads it well and gathers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:39",
+            "comments_type": "shot off target",
+            "comments_text": "Alessandro Bastoni (Inter) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar! The ball goes out of play and Empoli will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:40",
+            "comments_type": "clearance",
+            "comments_text": "Francesco Caputo (Empoli) tries to send a pass but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:50",
+            "comments_type": "corner",
+            "comments_text": "Nedim Bajrami (Empoli) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:16",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "The shot by Jean-Daniel Akpa Akpro (Empoli) from the edge of the box low towards the middle of the goal lacks power and is easily saved by Andre Onana.",
+            "comments_text_anonymized": "The shot by [PLAYER] ([TEAM]) from the edge of the box low towards the middle of the goal lacks power and is easily saved by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:32",
+            "comments_type": "yellow card",
+            "comments_text": "Antonio Rapuano shows a yellow card to Jean-Daniel Akpa Akpro (Empoli) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:50",
+            "comments_type": "clearance",
+            "comments_text": "Nicolo Barella (Inter) clips a neat ball into the box in the direction of Federico Dimarco, but he can't get on the end of the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clips a neat ball into the box in the direction of [PLAYER], but he can't get on the end of the pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:50",
+            "comments_type": "yellow card",
+            "comments_text": "Liam Henderson (Empoli) picks up a yellow card for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:30",
+            "comments_type": "clearance",
+            "comments_text": "Federico Dimarco (Inter) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:30",
+            "comments_type": "clearance",
+            "comments_text": "Alessandro Bastoni (Inter) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:00",
+            "comments_type": "clearance",
+            "comments_text": "Federico Dimarco (Inter) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:05",
+            "comments_type": "shot off target",
+            "comments_text": "Lautaro Martinez (Inter) fires the ball at goal from inside the area, but it's well blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Liam Henderson (Empoli) commits a rough challenge and Antonio Rapuano blows his whistle for an infringement. Inter are awarded the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement. [TEAM] are awarded the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:37",
+            "comments_type": "clearance",
+            "comments_text": "Alessandro Bastoni (Inter) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:34",
+            "comments_type": "second yellow card",
+            "comments_text": "Milan Skriniar (Inter) must have known he would be sent off for this foul, but he had to stop the opponent at all costs. Antonio Rapuano shows him a second yellow card and the game has ended for him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) must have known he would be sent off for this foul, but he had to stop the opponent at all costs. [REFEREE] shows him a second yellow card and the game has ended for him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:16",
+            "comments_type": "free kick",
+            "comments_text": "Empoli are awarded a free kick near the side line and the players make their way into the box for the inevitable cross.",
+            "comments_text_anonymized": "[TEAM] are awarded a free kick near the side line and the players make their way into the box for the inevitable cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:23",
+            "comments_type": "shot off target",
+            "comments_text": "Filippo Bandinelli slings over a decent looking cross towards Tyronne Ebuehi (Empoli), who outjumps his marker in the middle of the box but sends a poor header high over the bar. The ball is off of the pitch and it's a goal kick for Inter.",
+            "comments_text_anonymized": "[PLAYER] slings over a decent looking cross towards [PLAYER] ([TEAM]), who outjumps his marker in the middle of the box but sends a poor header high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:00",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Federico Dimarco (Inter) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolo Barella (Inter) knocks his opponent down with an over-the-top tackle. Empoli will take a free kick near the side line.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) knocks his opponent down with an over-the-top tackle. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:12",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Nedim Bajrami (Empoli) has the opportunity to threaten the opponent's goal via a free kick on the edge of the box. He hits a fine strike towards the underside of the bar, but Andre Onana denies him with a great save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has the opportunity to threaten the opponent's goal via a free kick on the edge of the box. He hits a fine strike towards the underside of the bar, but [PLAYER] denies him with a great save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Francesco Caputo (Empoli) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by Andre Onana. This effort really didn't trouble him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by [PLAYER]. This effort really didn't trouble him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:03",
+            "comments_type": "yellow card",
+            "comments_text": "Today's referee Antonio Rapuano rightly decides to book Fabiano Parisi (Empoli) for his harsh tackle.",
+            "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Poor challenge! Filippo Bandinelli (Empoli) is penalised for tripping and Antonio Rapuano blows his whistle.",
+            "comments_text_anonymized": "Poor challenge! [PLAYER] ([TEAM]) is penalised for tripping and [REFEREE] blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:56",
+            "comments_type": "end of half game",
+            "comments_text": "Antonio Rapuano has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half gets underway.",
+            "comments_text_anonymized": "The second half gets underway."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Jean-Daniel Akpa Akpro will not participate anymore and Nicolas Haas (Empoli) is coming on.",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] will not participate anymore and [PLAYER] ([TEAM]) is coming on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "The teams are back out for the second half and here is a change on the pitch. Simone Inzaghi gives a chance to Raoul Bellanova and Joaquin Correa (Inter) is off.",
+            "comments_text_anonymized": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] and [PLAYER] ([TEAM]) is off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Matteo Darmian (Inter) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:56",
+            "comments_type": "clearance",
+            "comments_text": "Nedim Bajrami (Empoli) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Antonio Rapuano blows his whistle for a foul after Nicolo Cambiaghi (Empoli) hacks down one of his opponents.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:46",
+            "comments_type": "shot off target",
+            "comments_text": "Henrikh Mkhitaryan (Inter) takes a mid-range shot, but it lacks accuracy and it goes way over the bar. The ball is off of the pitch and it's a goal kick for Empoli.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range shot, but it lacks accuracy and it goes way over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Antonio Rapuano sees the trip by Alessandro Bastoni (Inter) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:25",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolo Cambiaghi (Empoli) manages to beat his opponent to the ball, but he commits a foul in the process.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to beat his opponent to the ball, but he commits a foul in the process."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:58",
+            "comments_type": "clearance",
+            "comments_text": "Alessandro Bastoni (Inter) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:51",
+            "comments_type": "clearance",
+            "comments_text": "Raoul Bellanova (Inter) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. It's a throw-in for Inter.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. It's a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:44",
+            "comments_type": "clearance",
+            "comments_text": "Nedim Bajrami (Empoli) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:09",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Liam Henderson (Empoli) unleashed a rocket of a shot aiming towards the left side of the goal, but the goalkeeper denies his attempt with a stunning save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a rocket of a shot aiming towards the left side of the goal, but the goalkeeper denies his attempt with a stunning save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Hakan Calhanoglu (Inter) fouls an opponent. At least that's what referee Antonio Rapuano signals.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:02",
+            "comments_type": "ball possession",
+            "comments_text": "Nedim Bajrami (Empoli) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:16",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolo Cambiaghi (Empoli) brings his opponent down with a tackle and Antonio Rapuano blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:01",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Nicolo Cambiaghi did his best and is replaced by Tommaso Baldanzi (Empoli).",
+            "comments_text_anonymized": "Substitution. [PLAYER] did his best and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Hakan Calhanoglu (Inter) brings his opponent down. Antonio Rapuano has a clear sight of it and blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:18",
+            "comments_type": "clearance",
+            "comments_text": "Alessandro Bastoni (Inter) crosses the ball into the box, but one of the defending players averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:40",
+            "comments_type": "goal",
+            "comments_text": "Goal! Nedim Bajrami plays a short, square pass into the path of Tommaso Baldanzi (Empoli), who bends a shot low into the middle of the goal to make it 0:1. Fabulous goal!",
+            "comments_text_anonymized": "Goal! [PLAYER] plays a short, square pass into the path of [PLAYER] ([TEAM]), who bends a shot low into the middle of the goal to make it 0:1. Fabulous goal!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:51",
+            "comments_type": "yellow card",
+            "comments_text": "Nicolo Barella (Inter) will have to be careful for the rest of the match as he is shown a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:12",
+            "comments_type": "substitution",
+            "comments_text": "Robin Gosens (Inter) joins the action as a substitute, replacing Federico Dimarco.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:12",
+            "comments_type": "substitution",
+            "comments_text": "Simone Inzaghi decides to make a substitution. Matteo Darmian will be replaced by Edin Dzeko (Inter).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:50",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Kristjan Asllani (Inter) on for Nicolo Barella.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:37",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Nedim Bajrami, who is replaced by Jacopo Fazzini (Empoli).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:40",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Liam Henderson is replaced by Martin Satriano (Empoli).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Kristjan Asllani (Inter) serves up a nice cross, but the defence clears the danger. The ball is out of play. Inter win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:50",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Henrikh Mkhitaryan makes his way off the pitch and Romelu Lukaku (Inter) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:53",
+            "comments_type": "corner",
+            "comments_text": "Hakan Calhanoglu (Inter) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Jacopo Fazzini (Empoli) was trying to get to the ball but clattered into the legs of the opponent as well. Antonio Rapuano blows his whistle for an infringement. Inter are awarded a free kick from a dangerous position.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:30",
+            "comments_type": "free kick",
+            "comments_text": "Kristjan Asllani (Inter) unleashes a powerful shot towards goal from a mid-range free kick, but the ball is blocked by the defensive wall.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal from a mid-range free kick, but the ball is blocked by the defensive wall."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:34",
+            "comments_type": "shot off target",
+            "comments_text": "What a chance that is! Francesco Caputo (Empoli) displays good awareness near the penalty spot to get on the end of a cross, but he sends his header just over the crossbar. The ball is off of the pitch and it's a goal kick for Inter.",
+            "comments_text_anonymized": "What a chance that is! [PLAYER] ([TEAM]) displays good awareness near the penalty spot to get on the end of a cross, but he sends his header just over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Antonio Rapuano blows his whistle after Tommaso Baldanzi (Empoli) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Francesco Caputo (Empoli) trips an opponent with a slide tackle. Antonio Rapuano stops the game and he could give him a card, but eventually decides on just a warning.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:08",
+            "comments_type": "foul with no card",
+            "comments_text": "Robin Gosens (Inter) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Tommaso Baldanzi (Empoli) brings an opponent down and Antonio Rapuano interrupts the game. A free kick has been awarded to Inter.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:10",
+            "comments_type": "free kick",
+            "comments_text": "It seemed like Hakan Calhanoglu (Inter) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",
+            "comments_text_anonymized": "It seemed like [PLAYER] ([TEAM]) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Filippo Bandinelli (Empoli) is penalised for a foul. Antonio Rapuano had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:10",
+            "comments_type": "clearance",
+            "comments_text": "Raoul Bellanova (Inter) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Edin Dzeko (Inter) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:30",
+            "comments_type": "yellow card",
+            "comments_text": "What was Edin Dzeko (Inter) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "comments_text_anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:29",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Sebastian Walukiewicz (Empoli) comes on in place of Francesco Caputo.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:43",
+            "comments_type": "shot off target",
+            "comments_text": "Robin Gosens (Inter) takes the chance to have an effort at goal from inside the box but blazes it just over the crossbar. The ball goes out of play and Empoli will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the chance to have an effort at goal from inside the box but blazes it just over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:28",
+            "comments_type": "clearance",
+            "comments_text": "Hakan Calhanoglu (Inter) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:10",
+            "comments_type": "shot off target",
+            "comments_text": "Edin Dzeko (Inter) latches onto the ball in the penalty box and takes a first-time effort that goes a couple of yards over the crossbar. The ball goes out of play and Empoli will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto the ball in the penalty box and takes a first-time effort that goes a couple of yards over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:02",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

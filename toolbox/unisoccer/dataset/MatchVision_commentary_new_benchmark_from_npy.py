@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox/unisoccer')
 import torch
 import json
 from einops import rearrange

@@ -1,0 +1,958 @@
+{
+    "match_info": {
+        "timestamp": "2017-10-19 02:45:00",
+        "score": "0 - 4",
+        "home_team": "Anderlecht",
+        "away_team": "PSG",
+        "home_formation": "3 - 4 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Lotto Park (Anderlecht)",
+        "capacity": "22 500",
+        "attendance": "19 108"
+    },
+    "referee_data": {
+        "short_name_country": "Kralovec P. (Cze)",
+        "first_name": "Kralovec",
+        "abbr_last_name": "P",
+        "country": "Cze",
+        "detected_name": "Pavel Kralovec"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Vanhaezebrouck H.",
+                "players_number": "",
+                "Full Name": "Hein Vanhaezebrouck",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "coach",
+                "Age and Birthdate": "59,  (16.02.1964)",
+                "Market Value": "",
+                "unicode": "xbCKkqvR"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Najar A.",
+                "players_number": "",
+                "Full Name": "",
+                "players_rating": "",
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "ERRqJxjO"
+            },
+            {
+                "players_name": "Sowah Adjei E.",
+                "players_number": "",
+                "Full Name": "Emmanuel Sowah Adjei",
+                "players_rating": "",
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (16.01.1998)",
+                "Market Value": "30.06.2024",
+                "unicode": "vmOn3Lcl"
+            },
+            {
+                "players_name": "Spajic U.",
+                "players_number": "",
+                "Full Name": "Uros Spajic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (13.02.1993)",
+                "Market Value": "€1.1m",
+                "unicode": "jw8b7w2S"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Appiah D.",
+                "players_number": "12",
+                "Full Name": "Dennis Appiah",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (09.06.1992)",
+                "Market Value": "€979k",
+                "unicode": "2acUGEci"
+            },
+            {
+                "players_name": "Dendoncker L.",
+                "players_number": "32",
+                "Full Name": "Leander Dendoncker",
+                "players_rating": 5.3,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (15.04.1995)",
+                "Market Value": "€10.5m",
+                "unicode": "xlkGi99f"
+            },
+            {
+                "players_name": "Deschacht O.",
+                "players_number": "3",
+                "Full Name": "Olivier Deschacht",
+                "players_rating": 5.6,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "42, (16.02.1981)",
+                "Market Value": "",
+                "unicode": "KORzLWwT"
+            },
+            {
+                "players_name": "Gerkens P.",
+                "players_number": "8",
+                "Full Name": "Pieter Gerkens",
+                "players_rating": 6.6,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (17.02.1995)",
+                "Market Value": "€1.7m",
+                "unicode": "4jYYE1Rk"
+            },
+            {
+                "players_name": "Hanni S. (C)",
+                "players_number": "94",
+                "Full Name": "Sofiane Hanni",
+                "players_rating": 7.2,
+                "Country": "Algeria",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (29.12.1990)",
+                "Market Value": "€2.1m",
+                "unicode": "WjRjM2c3"
+            },
+            {
+                "players_name": "Kums S.",
+                "players_number": "20",
+                "Full Name": "Sven Kums",
+                "players_rating": 6.3,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (26.02.1988)",
+                "Market Value": "€503k",
+                "unicode": "zwF0OLXu"
+            },
+            {
+                "players_name": "Mbodji K.",
+                "players_number": "4",
+                "Full Name": "Kara Mbodji",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.11.1989)",
+                "Market Value": "",
+                "unicode": "2DheASTt"
+            },
+            {
+                "players_name": "Onyekuru H.",
+                "players_number": "9",
+                "Full Name": "Henry Onyekuru",
+                "players_rating": 5.9,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (05.06.1997)",
+                "Market Value": "€4.3m",
+                "unicode": "f1ZuTp99"
+            },
+            {
+                "players_name": "Sels M. (G)",
+                "players_number": "1",
+                "Full Name": "",
+                "players_rating": 5.6,
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "Qqo54dB7"
+            },
+            {
+                "players_name": "Teodorczyk L.",
+                "players_number": "91",
+                "Full Name": "Lukasz Teodorczyk",
+                "players_rating": 6.2,
+                "Country": "Poland",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (03.06.1991)",
+                "Market Value": "",
+                "unicode": "GA3AJjIS"
+            },
+            {
+                "players_name": "Trebel A.",
+                "players_number": "25",
+                "Full Name": "Adrien Trebel",
+                "players_rating": 7.2,
+                "Country": "Madagascar",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (03.03.1991)",
+                "Market Value": "€323k",
+                "unicode": "YRBZ908A"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bruno M.",
+                "players_number": "17",
+                "Full Name": "Massimo Bruno",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (17.09.1993)",
+                "Market Value": "€464k",
+                "unicode": "Yy3yA0RD"
+            },
+            {
+                "players_name": "Josue Sa",
+                "players_number": "2",
+                "Full Name": "Josue Sa",
+                "players_rating": 5.8,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (17.06.1992)",
+                "Market Value": "€475k",
+                "unicode": "jDjCRXuE"
+            },
+            {
+                "players_name": "Obradovic I.",
+                "players_number": "37",
+                "Full Name": "Ivan Obradovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (25.07.1988)",
+                "Market Value": "",
+                "unicode": "GENsXszB"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Beric R.",
+                "players_number": "36",
+                "Full Name": "Robert Beric",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (17.06.1991)",
+                "Market Value": "€685k",
+                "unicode": "Ozs3P6ll"
+            },
+            {
+                "players_name": "Boeckx F. (G)",
+                "players_number": "23",
+                "Full Name": "Frank Boeckx",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (27.09.1986)",
+                "Market Value": "",
+                "unicode": "jF2BMsm5"
+            },
+            {
+                "players_name": "Chipciu A.",
+                "players_number": "11",
+                "Full Name": "Alexandru Chipciu",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (18.05.1989)",
+                "Market Value": "€489k",
+                "unicode": "4GTjEw2j"
+            },
+            {
+                "players_name": "Stanciu N.",
+                "players_number": "10",
+                "Full Name": "Nicolae Stanciu",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (07.05.1993)",
+                "Market Value": "€5.3m",
+                "unicode": "tY8uva0F"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Emery U.",
+                "players_number": "",
+                "Full Name": "Unai Emery",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (03.11.1971)",
+                "Market Value": "",
+                "unicode": "8QQVnKh9"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Ben Arfa H.",
+                "players_number": "",
+                "Full Name": "Hatem Ben Arfa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (07.03.1987)",
+                "Market Value": "",
+                "unicode": "Yo6cQVwd"
+            },
+            {
+                "players_name": "Silva T.",
+                "players_number": "",
+                "Full Name": "Thiago Silva",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Areola A. (G)",
+                "players_number": "16",
+                "Full Name": "Alphonse Areola",
+                "players_rating": 8.1,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (27.02.1993)",
+                "Market Value": "€9.8m",
+                "unicode": "phOf2OAa"
+            },
+            {
+                "players_name": "Cavani E.",
+                "players_number": "9",
+                "Full Name": "Edinson Cavani",
+                "players_rating": 6.8,
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Dani Alves",
+                "players_number": "32",
+                "Full Name": "Dani Alves",
+                "players_rating": 7.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (06.05.1983)",
+                "Market Value": "",
+                "unicode": "6m8LRsMC"
+            },
+            {
+                "players_name": "Kimpembe P.",
+                "players_number": "3",
+                "Full Name": "Presnel Kimpembe",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (13.08.1995)",
+                "Market Value": "€18.7m",
+                "unicode": "dMyiR1D8"
+            },
+            {
+                "players_name": "Kurzawa L.",
+                "players_number": "20",
+                "Full Name": "Layvin Kurzawa",
+                "players_rating": 7.6,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (04.09.1992)",
+                "Market Value": "€2.2m",
+                "unicode": "joeqPtde"
+            },
+            {
+                "players_name": "Marquinhos",
+                "players_number": "5",
+                "Full Name": "Marquinhos",
+                "players_rating": 7.6,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.05.1994)",
+                "Market Value": "€58.7m",
+                "unicode": "UFfev8HP"
+            },
+            {
+                "players_name": "Mbappe K.",
+                "players_number": "29",
+                "Full Name": "Kylian Mbappe",
+                "players_rating": 8.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (20.12.1998)",
+                "Market Value": "€204.2m",
+                "unicode": "Wn6E2SED"
+            },
+            {
+                "players_name": "Motta T. (C)",
+                "players_number": "8",
+                "Full Name": "Thiago Motta",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Coach",
+                "Age and Birthdate": "41, (28.08.1982)",
+                "Market Value": "",
+                "unicode": "bBhpZV2s"
+            },
+            {
+                "players_name": "Neymar",
+                "players_number": "10",
+                "Full Name": "Neymar",
+                "players_rating": 8.7,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€49.6m",
+                "unicode": "jNOPwl3h"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": 7.5,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            },
+            {
+                "players_name": "Verratti M.",
+                "players_number": "6",
+                "Full Name": "Marco Verratti",
+                "players_rating": 8.5,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (05.11.1992)",
+                "Market Value": "€24.8m",
+                "unicode": "fmn5agXI"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Di Maria A.",
+                "players_number": "11",
+                "Full Name": "Angel Di Maria",
+                "players_rating": 6.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.02.1988)",
+                "Market Value": "€5.3m",
+                "unicode": "SISkkDSQ"
+            },
+            {
+                "players_name": "Draxler J.",
+                "players_number": "23",
+                "Full Name": "Julian Draxler",
+                "players_rating": 6.7,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.09.1993)",
+                "Market Value": "€4.9m",
+                "unicode": "plO3S4gF"
+            },
+            {
+                "players_name": "Lo Celso G.",
+                "players_number": "18",
+                "Full Name": "Giovani Lo Celso",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€16.1m",
+                "unicode": "UZeyLfKI"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Berchiche Y.",
+                "players_number": "17",
+                "Full Name": "Yuri Berchiche",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (10.02.1990)",
+                "Market Value": "€2.0m",
+                "unicode": "OCA7UnaC"
+            },
+            {
+                "players_name": "Meunier T.",
+                "players_number": "12",
+                "Full Name": "Thomas Meunier",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (12.09.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "WUyrShAL"
+            },
+            {
+                "players_name": "Pastore J.",
+                "players_number": "27",
+                "Full Name": "Javier Pastore",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (20.06.1989)",
+                "Market Value": "",
+                "unicode": "zJQlpJzt"
+            },
+            {
+                "players_name": "Trapp K. (G)",
+                "players_number": "1",
+                "Full Name": "Kevin Trapp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (08.07.1990)",
+                "Market Value": "€6.6m",
+                "unicode": "QqugudYS"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Pavel Kralovec was nominated as the referee for this game.",
+            "comments_text_anonymized": "[REFEREE] was nominated as the referee for this game."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Paris SG will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:34",
+            "comments_type": "goal",
+            "comments_text": "Goal! A terrific long pass from Marco Verratti picks out an unmarked Kylian Mbappe (Paris SG) inside the box. He has time and space to pick his spot and slams the ball into the bottom left corner. 0:1.",
+            "comments_text_anonymized": "Goal! A terrific long pass from [PLAYER] picks out an unmarked [PLAYER] ([TEAM]) inside the box. He has time and space to pick his spot and slams the ball into the bottom left corner. 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:00",
+            "comments_type": "shot off target",
+            "comments_text": "Sven Kums (Anderlecht) receives a precise pass on the edge of the box and bends his effort inches wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and bends his effort inches wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Henry Onyekuru (Anderlecht) picks up a lofted cross inside the box and fires a quick shot to the middle of the goal. His promising effort is kept out by Alphonse Areola, who pulls off a stunning save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a lofted cross inside the box and fires a quick shot to the middle of the goal. His promising effort is kept out by [PLAYER], who pulls off a stunning save!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:51",
+            "comments_type": "foul with no card",
+            "comments_text": "Pavel Kralovec has a clear sight and sees a foul from Adrien Trebel (Anderlecht). Paris SG win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:20",
+            "comments_type": "corner",
+            "comments_text": "Adrien Trebel (Anderlecht) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "shot off target",
+            "comments_text": "Henry Onyekuru (Anderlecht) misses a good chance to score. An inch-perfect cross into the box finds Henry Onyekuru (Anderlecht) who rises for a header, but sends the ball well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Adrien Trebel (Anderlecht) gives away a foul for a clumsy challenge. Referee Pavel Kralovec saw the whole situation. It's a free kick to Paris SG, but they probably won't attempt a direct shot on goal from here.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:17",
+            "comments_type": "lead to corner",
+            "comments_text": "Lukasz Teodorczyk (Anderlecht) zig-zags his way into the box and fails to direct a shot inside the left post. The goalkeeper pulls off a miraculous stop. Anderlecht have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) zig-zags his way into the box and fails to direct a shot inside the left post. The goalkeeper pulls off a miraculous stop. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "corner",
+            "comments_text": "Adrien Trebel (Anderlecht) steps up to send the ball in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:56",
+            "comments_type": "shot off target",
+            "comments_text": "Kara Mbodji (Anderlecht) was the quickest one to orientate himself inside the box and rose high to reach a fine corner kick. He fails to direct the ball past the goalkeeper as it flies narrowly over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was the quickest one to orientate himself inside the box and rose high to reach a fine corner kick. He fails to direct the ball past the goalkeeper as it flies narrowly over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:13",
+            "comments_type": "corner",
+            "comments_text": "Adrien Trebel (Anderlecht) crosses the ball into the box, but one of the defending players averts the threat. Anderlecht have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Adrien Trebel (Anderlecht) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:05",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross into the box from Henry Onyekuru (Anderlecht) is cleared. Anderlecht force a corner. They send men into the box.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:01",
+            "comments_type": "corner",
+            "comments_text": "A dangerous looking corner kick from Sofiane Hanni (Anderlecht) is cleared to safety by the defence.",
+            "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Pavel Kralovec couldn't ignore the rough tackle by Lukasz Teodorczyk (Anderlecht) and blew his whistle. Paris SG are awarded the free kick.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle. [TEAM] are awarded the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:42",
+            "comments_type": "off side",
+            "comments_text": "Kylian Mbappe (Paris SG) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:03",
+            "comments_type": "injury",
+            "comments_text": "Adrien Rabiot (Paris SG) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:16",
+            "comments_type": "injury",
+            "comments_text": "Adrien Rabiot (Paris SG) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Pavel Kralovec interrupts the game for a tactical foul by Sofiane Hanni (Anderlecht). Paris SG are given an advantage. They have a free kick.",
+            "comments_text_anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:19",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Neymar (Paris SG) was too aggressive in his challenge. Anderlecht have a free kick.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:35",
+            "comments_type": "foul with no card",
+            "comments_text": "Sofiane Hanni (Anderlecht) trips an opposition player and Pavel Kralovec signals a foul. Paris SG have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:56",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Edinson Cavani (Paris SG) makes it 0:2. He jumped highest to connect with a perfect cross from Kylian Mbappe and planted his close-range header into the middle of the goal. Matz Sels was helpless.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) makes it 0:2. He jumped highest to connect with a perfect cross from [PLAYER] and planted his close-range header into the middle of the goal. Matz [PLAYER] was helpless."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:31",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Pavel Kralovec blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:10",
+            "comments_type": "yellow card",
+            "comments_text": "Pavel Kralovec shows a yellow card to Thiago Motta (Paris SG) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:44",
+            "comments_type": "shot off target",
+            "comments_text": "Neymar (Paris SG) rises above the defence inside the box, but his header flies narrowly wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises above the defence inside the box, but his header flies narrowly wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Sven Kums (Anderlecht) brings down his opponent with a very late tackle. A free kick has been awarded to Paris SG.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:59",
+            "comments_type": "yellow card",
+            "comments_text": "Kylian Mbappe (Paris SG) sees a yellow card. He should be more careful because one more challenge like that could result in a red card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:08",
+            "comments_type": "yellow card",
+            "comments_text": "The game has begun to heat up. Henry Onyekuru (Anderlecht) challenges an opponent and receives a deserved yellow card for his ugly tackle.",
+            "comments_text_anonymized": "The game has begun to heat up. [PLAYER] ([TEAM]) challenges an opponent and receives a deserved yellow card for his ugly tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:14",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Sven Kums leaves the pitch and Josue Sa (Anderlecht) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:50",
+            "comments_type": "off side",
+            "comments_text": "Edinson Cavani (Paris SG) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:20",
+            "comments_type": "shot off target",
+            "comments_text": "Kylian Mbappe (Paris SG) goes for goal but he blazes his shot well over the top.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes for goal but he blazes his shot well over the top."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:06",
+            "comments_type": "lead to corner",
+            "comments_text": "Adrien Trebel (Anderlecht) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play. Anderlecht are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:40",
+            "comments_type": "corner",
+            "comments_text": "Adrien Trebel (Anderlecht) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Thiago Motta (Paris SG) makes a strong challenge and Pavel Kralovec blows for a foul. Anderlecht have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Dennis Appiah (Anderlecht) should know this behaviour is beyond the rules. He was too careless with his challenge and left Pavel Kralovec no option but to blow his whistle. Paris SG earn a free kick which could lead to a goal-scoring opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. [TEAM] earn a free kick which could lead to a goal-scoring opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:52",
+            "comments_type": "free kick",
+            "comments_text": "This will be a very dangerous free kick from just outside the box and it's a very promising distance, indeed. Let's see what Neymar (Paris SG) will come up with.",
+            "comments_text_anonymized": "This will be a very dangerous free kick from just outside the box and it's a very promising distance, indeed. Let's see what [PLAYER] ([TEAM]) will come up with."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:31",
+            "comments_type": "goal",
+            "comments_text": "Neymar (Paris SG) takes the free kick with a powerful low drive that goes inside the left-hand post and ends up behind the goalkeeper. A real jaw dropper!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick with a powerful low drive that goes inside the left-hand post and ends up behind the goalkeeper. A real jaw dropper!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:44",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Edinson Cavani (Paris SG) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:12",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Thiago Motta, who is replaced by Julian Draxler (Paris SG).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:23",
+            "comments_type": "yellow card",
+            "comments_text": "Lukasz Teodorczyk (Anderlecht) can count himself lucky for not being sent off after only receiving a caution from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can count himself lucky for not being sent off after only receiving a caution from the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:05",
+            "comments_type": "substitution",
+            "comments_text": "Unai Emery decides to make a substitution. Edinson Cavani will be replaced by Angel Di Maria (Paris SG).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:59",
+            "comments_type": "substitution",
+            "comments_text": "Unai Emery prepares a substitution. Marco Verratti is replaced by Giovani Lo Celso (Paris SG).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Adrien Rabiot (Paris SG) makes an overly-aggressive challenge and Pavel Kralovec blows his whistle for a foul. It's a free kick to Anderlecht, but it's in no position for a direct shot on goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:06",
+            "comments_type": "shot off target",
+            "comments_text": "Adrien Trebel (Anderlecht) gets the ball and drives a shot high over the bar from the edge of the area. The ball goes out of play and Paris SG will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets the ball and drives a shot high over the bar from the edge of the area. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:43",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Pieter Gerkens makes his way off the pitch and Massimo Bruno (Anderlecht) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:28",
+            "comments_type": "shot off target",
+            "comments_text": "Adrien Trebel (Anderlecht) misses a good chance to score. An inch-perfect cross into the box finds Adrien Trebel (Anderlecht) who rises for a header, but sends the ball well over the bar. Anderlecht will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:49",
+            "comments_type": "corner",
+            "comments_text": "Adrien Trebel (Anderlecht) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:19",
+            "comments_type": "shot off target",
+            "comments_text": "Massimo Bruno (Anderlecht) connects with a pass inside the box, but his effort goes well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with a pass inside the box, but his effort goes well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Adrien Trebel (Anderlecht) makes a reckless foul in order to win the ball from his opponent. Pavel Kralovec has a clear sight of it and blows his whistle. Paris SG win a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle. [TEAM] win a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:47",
+            "comments_type": "shot off target",
+            "comments_text": "Kylian Mbappe (Paris SG) makes a good run with the ball into the box, but mishits his shot as it goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a good run with the ball into the box, but mishits his shot as it goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:29",
+            "comments_type": "goal",
+            "comments_text": "Goal! Angel Di Maria (Paris SG) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the top of the net. He makes it 0:4.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the top of the net. He makes it 0:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:33",
+            "comments_type": "substitution",
+            "comments_text": "Hein Vanhaezebrouck has decided to make a change. Ivan Obradovic (Anderlecht) replaces Olivier Deschacht.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 3 min. of added time.",
+            "comments_text_anonymized": "We will have 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Leander Dendoncker (Anderlecht) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Pavel Kralovec with no other option than to blow for a foul. Paris SG get a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul. [TEAM] get a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:50",
+            "comments_type": "shot off target",
+            "comments_text": "Angel Di Maria (Paris SG) receives a precise pass inside the box and takes a shot that flies just wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass inside the box and takes a shot that flies just wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:04",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:04",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

@@ -1,0 +1,1390 @@
+{
+    "match_info": {
+        "timestamp": "2023-02-14 03:45:00",
+        "score": "0 - 0",
+        "home_team": "Sampdoria",
+        "away_team": "Inter",
+        "home_formation": "3 - 4 - 1 - 2",
+        "away_formation": "3 - 5 - 2",
+        "venue": "Stadio Luigi Ferraris (Genoa)",
+        "capacity": "36 599",
+        "attendance": "21 575",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Maresca F. (Ita)",
+        "first_name": "Maresca",
+        "abbr_last_name": "F",
+        "country": "Ita",
+        "detected_name": "Fabio Maresca"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Inzaghi S.",
+                "players_number": "",
+                "Full Name": "Simone Inzaghi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "47,  (05.04.1976)",
+                "Market Value": "",
+                "unicode": "j32a3mqs"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Correa J.",
+                "players_number": "",
+                "Full Name": "Joaquin Correa",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (13.08.1994)",
+                "Market Value": "€9.1m",
+                "unicode": "IkcGiQBb"
+            },
+            {
+                "players_name": "Dalbert",
+                "players_number": "",
+                "Full Name": "Dalbert",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "€908k, (08.09.1993)",
+                "Market Value": "",
+                "unicode": "005SL6KH"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Acerbi F.",
+                "players_number": "15",
+                "Full Name": "Francesco Acerbi",
+                "players_rating": 7.8,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (10.02.1988)",
+                "Market Value": "€4.0m",
+                "unicode": "SrhnSpzL"
+            },
+            {
+                "players_name": "Barella N.",
+                "players_number": "23",
+                "Full Name": "Nicolo Barella",
+                "players_rating": 7.1,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (07.02.1997)",
+                "Market Value": "€73.4m",
+                "unicode": "W0yrjzz2"
+            },
+            {
+                "players_name": "Calhanoglu H.",
+                "players_number": "20",
+                "Full Name": "Hakan Calhanoglu",
+                "players_rating": 7.6,
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.02.1994)",
+                "Market Value": "€40.8m",
+                "unicode": "IRQeP5FJ"
+            },
+            {
+                "players_name": "Darmian M.",
+                "players_number": "36",
+                "Full Name": "Matteo Darmian",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (02.12.1989)",
+                "Market Value": "€3.9m",
+                "unicode": "WbNknKk3"
+            },
+            {
+                "players_name": "de Vrij S.",
+                "players_number": "6",
+                "Full Name": "Stefan de Vrij",
+                "players_rating": 8.0,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€7.8m",
+                "unicode": "8Cf0NM4a"
+            },
+            {
+                "players_name": "Gosens R.",
+                "players_number": "8",
+                "Full Name": "Robin Gosens",
+                "players_rating": 6.7,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (05.07.1994)",
+                "Market Value": "€14.0m",
+                "unicode": "r1EFsksF"
+            },
+            {
+                "players_name": "Lukaku R.",
+                "players_number": "90",
+                "Full Name": "Romelu Lukaku",
+                "players_rating": 7.0,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (13.05.1993)",
+                "Market Value": "€35.2m",
+                "unicode": "dCkG0Iw0"
+            },
+            {
+                "players_name": "Martinez La. (C)",
+                "players_number": "10",
+                "Full Name": "Lautaro Martinez",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (22.08.1997)",
+                "Market Value": "€107.6m",
+                "unicode": "QHk1CXUh"
+            },
+            {
+                "players_name": "Mkhitaryan H.",
+                "players_number": "22",
+                "Full Name": "Henrikh Mkhitaryan",
+                "players_rating": 7.2,
+                "Country": "Armenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (21.01.1989)",
+                "Market Value": "€6.3m",
+                "unicode": "KKi1DwHC"
+            },
+            {
+                "players_name": "Onana A. (G)",
+                "players_number": "24",
+                "Full Name": "Andre Onana",
+                "players_rating": 7.2,
+                "Country": "Cameroon",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (02.04.1996)",
+                "Market Value": "€38.6m",
+                "unicode": "OCuLGTrI"
+            },
+            {
+                "players_name": "Skriniar M.",
+                "players_number": "37",
+                "Full Name": "Milan Skriniar",
+                "players_rating": 6.9,
+                "Country": "Slovakia",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (11.02.1995)",
+                "Market Value": "€44.7m",
+                "unicode": "EqBuG0nE"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Brozovic M.",
+                "players_number": "77",
+                "Full Name": "Marcelo Brozovic",
+                "players_rating": 6.4,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (16.11.1992)",
+                "Market Value": "€18.3m",
+                "unicode": "I52LaWD8"
+            },
+            {
+                "players_name": "Carboni V.",
+                "players_number": "45",
+                "Full Name": "Valentin Carboni",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (05.03.2005)",
+                "Market Value": "€4.8m",
+                "unicode": "0S6Hz5ji"
+            },
+            {
+                "players_name": "Dimarco F.",
+                "players_number": "32",
+                "Full Name": "Federico Dimarco",
+                "players_rating": 7.1,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (10.11.1997)",
+                "Market Value": "€51.8m",
+                "unicode": "W6lypZn3"
+            },
+            {
+                "players_name": "Dumfries D.",
+                "players_number": "2",
+                "Full Name": "Denzel Dumfries",
+                "players_rating": 6.3,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (18.04.1996)",
+                "Market Value": "€29.4m",
+                "unicode": "QR0j1ejk"
+            },
+            {
+                "players_name": "Dzeko E.",
+                "players_number": "9",
+                "Full Name": "Edin Dzeko",
+                "players_rating": 6.5,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (17.03.1986)",
+                "Market Value": "€3.6m",
+                "unicode": "zilGmgZq"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Asllani K.",
+                "players_number": "14",
+                "Full Name": "Kristjan Asllani",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (09.03.2002)",
+                "Market Value": "€13.3m",
+                "unicode": "hzUi0u2S"
+            },
+            {
+                "players_name": "Bastoni A.",
+                "players_number": "95",
+                "Full Name": "Alessandro Bastoni",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (13.04.1999)",
+                "Market Value": "€60.4m",
+                "unicode": "On4TkPTN"
+            },
+            {
+                "players_name": "Bellanova R.",
+                "players_number": "12",
+                "Full Name": "Raoul Bellanova",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.05.2000)",
+                "Market Value": "€6.7m",
+                "unicode": "6BgYlqqU"
+            },
+            {
+                "players_name": "Cordaz A. (G)",
+                "players_number": "21",
+                "Full Name": "Alex Cordaz",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (01.01.1983)",
+                "Market Value": "",
+                "unicode": "0hWAi5d7"
+            },
+            {
+                "players_name": "D'Ambrosio D.",
+                "players_number": "33",
+                "Full Name": "Danilo D'Ambrosio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (09.09.1988)",
+                "Market Value": "€950k",
+                "unicode": "ShD3fHfH"
+            },
+            {
+                "players_name": "Gagliardini R.",
+                "players_number": "5",
+                "Full Name": "Roberto Gagliardini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (07.04.1994)",
+                "Market Value": "€3.8m",
+                "unicode": "f1Ft78yl"
+            },
+            {
+                "players_name": "Handanovic S. (G)",
+                "players_number": "1",
+                "Full Name": "Samir Handanovic",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (14.07.1984)",
+                "Market Value": "",
+                "unicode": "Y9j38DnN"
+            },
+            {
+                "players_name": "Zanotti M.",
+                "players_number": "46",
+                "Full Name": "Mattia Zanotti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (11.02.2003)",
+                "Market Value": "€1.8m",
+                "unicode": "EmD0fOVu"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Stankovic D.",
+                "players_number": "",
+                "Full Name": "Dejan Stankovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (11.09.1978)",
+                "Market Value": "",
+                "unicode": "p4pXsF1R"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Conti A.",
+                "players_number": "",
+                "Full Name": "Andrea Conti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (02.03.1994)",
+                "Market Value": "€170k",
+                "unicode": "vTqdtP3j"
+            },
+            {
+                "players_name": "De Luca M.",
+                "players_number": "",
+                "Full Name": "Manuel De Luca",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (17.07.1998)",
+                "Market Value": "€879k",
+                "unicode": "MeskQr4l"
+            },
+            {
+                "players_name": "Leris M.",
+                "players_number": "",
+                "Full Name": "Mehdi Pascal Marcel Leris",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (23.05.1998)",
+                "Market Value": "€2.5m",
+                "unicode": "6uk6H0Ai"
+            },
+            {
+                "players_name": "Pussetto I.",
+                "players_number": "",
+                "Full Name": "Ignacio Pussetto",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.12.1995)",
+                "Market Value": "€2.1m",
+                "unicode": "b1QILWMT"
+            },
+            {
+                "players_name": "Trimboli S.",
+                "players_number": "",
+                "Full Name": "Simone Trimboli",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (19.04.2002)",
+                "Market Value": "30.06.2026",
+                "unicode": "dfLh9Nso"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Amione B.",
+                "players_number": "2",
+                "Full Name": "Bruno Amione",
+                "players_rating": 6.2,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (03.01.2002)",
+                "Market Value": "€2.4m",
+                "unicode": "zX4k4hKk"
+            },
+            {
+                "players_name": "Audero E. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Emil Audero",
+                "players_rating": 7.9,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (18.01.1997)",
+                "Market Value": "€5.6m",
+                "unicode": "fwyieeh8"
+            },
+            {
+                "players_name": "Augello T.",
+                "players_number": "3",
+                "Full Name": "Tommaso Augello",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (30.08.1994)",
+                "Market Value": "€1.9m",
+                "unicode": "pUpsjuw3"
+            },
+            {
+                "players_name": "Cuisance M.",
+                "players_number": "80",
+                "Full Name": "Mickael Cuisance",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (16.08.1999)",
+                "Market Value": "€1.4m",
+                "unicode": "QNd9XJHR"
+            },
+            {
+                "players_name": "Djuricic F.",
+                "players_number": "7",
+                "Full Name": "Filip Djuricic",
+                "players_rating": 6.6,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (30.01.1992)",
+                "Market Value": "€1.6m",
+                "unicode": "pYHj9UAq"
+            },
+            {
+                "players_name": "Gabbiadini M.",
+                "players_number": "23",
+                "Full Name": "Manolo Gabbiadini",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (26.11.1991)",
+                "Market Value": "€2.0m",
+                "unicode": "fwCMLZye"
+            },
+            {
+                "players_name": "Lammers S.",
+                "players_number": "10",
+                "Full Name": "Sam Lammers",
+                "players_rating": 6.7,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (30.04.1997)",
+                "Market Value": "€2.0m",
+                "unicode": "lOMS3gGk"
+            },
+            {
+                "players_name": "Murillo J.",
+                "players_number": "21",
+                "Full Name": "Jeison Murillo",
+                "players_rating": 7.2,
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (27.05.1992)",
+                "Market Value": "€830k",
+                "unicode": "Mmb5mLMi"
+            },
+            {
+                "players_name": "Nuytinck B.",
+                "players_number": "17",
+                "Full Name": "Bram Nuytinck",
+                "players_rating": 7.5,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (04.05.1990)",
+                "Market Value": "€685k",
+                "unicode": "2JTqSR5c"
+            },
+            {
+                "players_name": "Winks H.",
+                "players_number": "20",
+                "Full Name": "Harry Winks",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (02.02.1996)",
+                "Market Value": "€11.7m",
+                "unicode": "MRebAusr"
+            },
+            {
+                "players_name": "Zanoli A.",
+                "players_number": "59",
+                "Full Name": "Alessandro Zanoli",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.10.2000)",
+                "Market Value": "€5.5m",
+                "unicode": "xjWe0TTo"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Murru N.",
+                "players_number": "29",
+                "Full Name": "Nicola Murru",
+                "players_rating": 6.1,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (16.12.1994)",
+                "Market Value": "€749k",
+                "unicode": "zH8sdfp0"
+            },
+            {
+                "players_name": "Paoletti F.",
+                "players_number": "36",
+                "Full Name": "Flavio Paoletti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (16.01.2003)",
+                "Market Value": "€715k",
+                "unicode": "vZZ6A89e"
+            },
+            {
+                "players_name": "Quagliarella F.",
+                "players_number": "27",
+                "Full Name": "Fabio Quagliarella",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "40, (31.01.1983)",
+                "Market Value": "",
+                "unicode": "l6rUQf2i"
+            },
+            {
+                "players_name": "Rincon T.",
+                "players_number": "8",
+                "Full Name": "Tomas Rincon",
+                "players_rating": 6.5,
+                "Country": "Venezuela",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (13.01.1988)",
+                "Market Value": "€468k",
+                "unicode": "YDUMMZWp"
+            },
+            {
+                "players_name": "Sabiri A.",
+                "players_number": "11",
+                "Full Name": "Abdelhamid Sabiri",
+                "players_rating": 6.4,
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.11.1996)",
+                "Market Value": "€2.3m",
+                "unicode": "MJi798vH"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Ilkhan E.",
+                "players_number": "26",
+                "Full Name": "Emirhan Ilkhan",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (01.06.2004)",
+                "Market Value": "€3.2m",
+                "unicode": "CS7XFNwq"
+            },
+            {
+                "players_name": "Ivanovic M.",
+                "players_number": "38",
+                "Full Name": "Mihailo Ivanovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (29.11.2004)",
+                "Market Value": "€136k",
+                "unicode": "2373jsR1"
+            },
+            {
+                "players_name": "Jese",
+                "players_number": "99",
+                "Full Name": "Jese",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€804k, (26.02.1993)",
+                "Market Value": "",
+                "unicode": "6BdSXunk"
+            },
+            {
+                "players_name": "Malagrida L.",
+                "players_number": "31",
+                "Full Name": "Lorenzo Malagrida",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (24.10.2003)",
+                "Market Value": "€308k",
+                "unicode": "6NWWdcXF"
+            },
+            {
+                "players_name": "Ravaglia N. (G)",
+                "players_number": "30",
+                "Full Name": "Nicola Ravaglia",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (12.12.1988)",
+                "Market Value": "€96k",
+                "unicode": "tOvdMMUq"
+            },
+            {
+                "players_name": "Turk M. (G)",
+                "players_number": "22",
+                "Full Name": "Martin Turk",
+                "players_rating": "",
+                "Country": "Slovenia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "20, (21.08.2003)",
+                "Market Value": "€357k",
+                "unicode": "prKdhOwN"
+            },
+            {
+                "players_name": "Yepes G.",
+                "players_number": "28",
+                "Full Name": "Gerard Yepes",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (25.08.2002)",
+                "Market Value": "€1.2m",
+                "unicode": "6qpSLKkb"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action.",
+            "comments_text_anonymized": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Fabio Maresca will officiate today.",
+            "comments_text_anonymized": "[REFEREE] will officiate today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Inter will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:01",
+            "comments_type": "corner",
+            "comments_text": "Hakan Calhanoglu (Inter) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:50",
+            "comments_type": "shot off target",
+            "comments_text": "Henrikh Mkhitaryan (Inter) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:41",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Robin Gosens (Inter) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lautaro Martinez (Inter) does well to control a poor pass on the edge of the box then shoots towards the middle of the goal. Emil Audero is out of position but leaps to make a brilliant save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does well to control a poor pass on the edge of the box then shoots towards the middle of the goal. [PLAYER] is out of position but leaps to make a brilliant save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Milan Skriniar (Inter) brings an opponent down and Fabio Maresca interrupts the game. Sampdoria have been awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game. [TEAM] have been awarded a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:11",
+            "comments_type": "free kick",
+            "comments_text": "Harry Winks (Sampdoria) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:40",
+            "comments_type": "corner",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Tommaso Augello (Sampdoria). The referee and one of his assistants signal for a corner kick to Sampdoria.",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:32",
+            "comments_type": "corner",
+            "comments_text": "Harry Winks (Sampdoria) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Fabio Maresca blows his whistle as Mickael Cuisance (Sampdoria) used excessive force in the tackle during an attack.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:30",
+            "comments_type": "clearance",
+            "comments_text": "Matteo Darmian (Inter) shoots from outside the box, but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:50",
+            "comments_type": "clearance",
+            "comments_text": "Filip Djuricic (Sampdoria) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:48",
+            "comments_type": "shot off target",
+            "comments_text": "Great solo effort from Hakan Calhanoglu (Inter)! He beat a couple of players and shot from the edge of the box, but the effort slips just wide of the left post.",
+            "comments_text_anonymized": "Great solo effort from [PLAYER] ([TEAM])! He beat a couple of players and shot from the edge of the box, but the effort slips just wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Lautaro Martinez (Inter) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, Inter are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:48",
+            "comments_type": "corner",
+            "comments_text": "Inter take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:04",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lautaro Martinez (Inter) leaps under pressure from an opponent to meet a cross and sends a weak header straight at Emil Audero, who calmly saves.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) leaps under pressure from an opponent to meet a cross and sends a weak header straight at [PLAYER], who calmly saves."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:07",
+            "comments_type": "ball possession",
+            "comments_text": "Inter hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:57",
+            "comments_type": "clearance",
+            "comments_text": "Romelu Lukaku (Inter) and Lautaro Martinez try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) and [PLAYER] try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mickael Cuisance (Sampdoria) receives a clever pass and shoots from mid-range. His shot looks like it's going in the middle of the goal, but Andre Onana has other ideas and makes a brilliant save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a clever pass and shoots from mid-range. His shot looks like it's going in the middle of the goal, but [PLAYER] has other ideas and makes a brilliant save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:42",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:44",
+            "comments_type": "clearance",
+            "comments_text": "Henrikh Mkhitaryan (Inter) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:40",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) shoots inside the box, but is denied by a timely block.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots inside the box, but is denied by a timely block."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:50",
+            "comments_type": "shot off target",
+            "comments_text": "Henrikh Mkhitaryan smashes in a cross, but Romelu Lukaku (Inter) finds it almost impossible to control and sends his header high over the bar from close in.",
+            "comments_text_anonymized": "[PLAYER] smashes in a cross, but [PLAYER] ([TEAM]) finds it almost impossible to control and sends his header high over the bar from close in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:25",
+            "comments_type": "shot off target",
+            "comments_text": "A long pass finds Milan Skriniar (Inter) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post.",
+            "comments_text_anonymized": "A long pass finds [PLAYER] ([TEAM]) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:50",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Alessandro Zanoli (Sampdoria) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:30",
+            "comments_type": "ball possession",
+            "comments_text": "Romelu Lukaku (Inter) tries to find Lautaro Martinez, but he puts too much power on the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:53",
+            "comments_type": "off side",
+            "comments_text": "The game is interrupted as Romelu Lukaku (Inter) is flagged offside.",
+            "comments_text_anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:13",
+            "comments_type": "statistics and summary",
+            "comments_text": "The total number of attempts is 1:10.",
+            "comments_text_anonymized": "The total number of attempts is 1:10."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:15",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Sam Lammers (Sampdoria) gets on the end of a defence splitting pass inside the box and immediately directs a low shot towards the middle of the goal, but the Andre Onana makes a great save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a defence splitting pass inside the box and immediately directs a low shot towards the middle of the goal, but the [PLAYER] makes a great save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Francesco Acerbi (Inter) swings it in and Lautaro Martinez gets on the end of it, but Emil Audero shows good awareness and comes off his line to thwart the move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings it in and [PLAYER] gets on the end of it, but [PLAYER] shows good awareness and comes off his line to thwart the move."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Fabio Maresca sees the trip by Harry Winks (Sampdoria) and doesn't hesitate to blow his whistle. Inter have a free kick.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:50",
+            "comments_type": "shot off target",
+            "comments_text": "Robin Gosens (Inter) loses his marker and gets on the end of the free kick, but he is unable to control the ball properly and sends his close-range header well past the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) loses his marker and gets on the end of the free kick, but he is unable to control the ball properly and sends his close-range header well past the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:47",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) meets a cross inside the box, but Emil Audero wins the battle for the ball and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a cross inside the box, but [PLAYER] wins the battle for the ball and the chance is gone."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:21",
+            "comments_type": "ball possession",
+            "comments_text": "Some neat passing and movement from Inter as they ping around some short passes in order to create a new attacking opportunity.",
+            "comments_text_anonymized": "Some neat passing and movement from [TEAM] as they ping around some short passes in order to create a new attacking opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:46",
+            "comments_type": "ball possession",
+            "comments_text": "Robin Gosens (Inter) tries to find Hakan Calhanoglu, but he puts too much power on the through ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:30",
+            "comments_type": "clearance",
+            "comments_text": "Mickael Cuisance (Sampdoria) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:44",
+            "comments_type": "clearance",
+            "comments_text": "Romelu Lukaku (Inter) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:50",
+            "comments_type": "clearance",
+            "comments_text": "Romelu Lukaku receives a short pass from Henrikh Mkhitaryan (Inter), but the opposition's defence thwarts his effort.",
+            "comments_text_anonymized": "[PLAYER] receives a short pass from [PLAYER] ([TEAM]), but the opposition's defence thwarts his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "1 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "1 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:37",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A neat pass is well received by Lautaro Martinez (Inter), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot.",
+            "comments_text_anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:03",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "comments_text_anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Federico Dimarco (Inter) joins the action as a substitute, replacing Robin Gosens.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:14",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Matteo Darmian (Inter) sends a cross into the box, but the opposition's defence clears the ball to safety. Inter have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:25",
+            "comments_type": "corner",
+            "comments_text": "Hakan Calhanoglu (Inter) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:18",
+            "comments_type": "lead to corner",
+            "comments_text": "Nicolo Barella (Inter) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball is out of play and Inter manage to earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:11",
+            "comments_type": "corner",
+            "comments_text": "Hakan Calhanoglu (Inter) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) and Federico Dimarco attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) and [PLAYER] attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:23",
+            "comments_type": "lead to corner",
+            "comments_text": "Federico Dimarco (Inter) is picked out by his teammate with a brilliant short pass, but it takes him too long to control the ball inside the box and this allows one of the defending players to rob him. The linesman points to the corner flag, Inter are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is picked out by his teammate with a brilliant short pass, but it takes him too long to control the ball inside the box and this allows one of the defending players to rob him. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:20",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Inter.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:40",
+            "comments_type": "shot off target",
+            "comments_text": "Stefan de Vrij (Inter) reacts well to meet the lofted pass on the edge of the six-yard box, but sends a weak header well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to meet the lofted pass on the edge of the six-yard box, but sends a weak header well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:07",
+            "comments_type": "shot off target",
+            "comments_text": "Manolo Gabbiadini (Sampdoria) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:31",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Bram Nuytinck (Sampdoria) was quite harsh and Fabio Maresca didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:32",
+            "comments_type": "free kick",
+            "comments_text": "Inter will look to benefit from a promising free kick near the touchline.",
+            "comments_text_anonymized": "[TEAM] will look to benefit from a promising free kick near the touchline."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:00",
+            "comments_type": "shot off target",
+            "comments_text": "Federico Dimarco (Inter) shoots from the free kick towards the goal, but mishits the shot as it goes high over the bar. High, wide and not at all pretty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from the free kick towards the goal, but mishits the shot as it goes high over the bar. High, wide and not at all pretty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:27",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Federico Dimarco (Inter) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:21",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Tommaso Augello (Sampdoria) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:20",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Abdelhamid Sabiri (Sampdoria) is brought on as a substitute for Mickael Cuisance.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:23",
+            "comments_type": "corner",
+            "comments_text": "The ball goes out for a corner. Sampdoria can continue in their attacking effort.",
+            "comments_text_anonymized": "The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:42",
+            "comments_type": "shot off target",
+            "comments_text": "Manolo Gabbiadini (Sampdoria) watches the corner all the way, but places his header a whisker wide of the right post from close range.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) watches the corner all the way, but places his header a whisker wide of the right post from close range."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:02",
+            "comments_type": "shot off target",
+            "comments_text": "Federico Dimarco (Inter) meets a cross from the flank and shoots from around the penalty spot, but the ball flies totally wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a cross from the flank and shoots from around the penalty spot, but the ball flies totally wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:59",
+            "comments_type": "clearance",
+            "comments_text": "Lautaro Martinez (Inter) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:18",
+            "comments_type": "clearance",
+            "comments_text": "Harry Winks (Sampdoria) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:24",
+            "comments_type": "shot off target",
+            "comments_text": "Nicolo Barella (Inter) attempts to find Romelu Lukaku, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find [PLAYER], but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:06",
+            "comments_type": "yellow card",
+            "comments_text": "Fabio Maresca shows a yellow card to Lautaro Martinez (Inter) for a tough tackle.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Abdelhamid Sabiri (Sampdoria) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. Now Sampdoria have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:52",
+            "comments_type": "corner",
+            "comments_text": "Abdelhamid Sabiri (Sampdoria) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:30",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Matteo Darmian is going off and Simone Inzaghi gives the last tactical orders to Denzel Dumfries (Inter).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:24",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Nicolo Barella walks off the pitch and Marcelo Brozovic (Inter) comes on as a substitute.",
+            "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:08",
+            "comments_type": "substitution",
+            "comments_text": "Simone Inzaghi has decided to substitute Romelu Lukaku and he is replaced by Edin Dzeko (Inter).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:24",
+            "comments_type": "ball possession",
+            "comments_text": "Manolo Gabbiadini (Sampdoria) plays a one-two with Manolo Gabbiadini, but the move breaks down.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:42",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lautaro Martinez (Inter) latched on to a cross inside the six-yard box and headed at goal. If it wasn't for one of the defenders making a save on the goal line, he would have been celebrating a goal now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latched on to a cross inside the six-yard box and headed at goal. If it wasn't for one of the defenders making a save on the goal line, he would have been celebrating a goal now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:09",
+            "comments_type": "corner",
+            "comments_text": "Good work from Inter as they win a corner.",
+            "comments_text_anonymized": "Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:10",
+            "comments_type": "clearance",
+            "comments_text": "Denzel Dumfries (Inter) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:57",
+            "comments_type": "shot off target",
+            "comments_text": "Henrikh Mkhitaryan (Inter) sends a long ball forward to Federico Dimarco, but he put too much power and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball forward to [PLAYER], but he put too much power and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:48",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Tomas Rincon (Sampdoria) replaces Filip Djuricic.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:48",
+            "comments_type": "substitution",
+            "comments_text": "Dejan Stankovic decides to make a substitution. Manolo Gabbiadini will be replaced by Nicola Murru (Sampdoria).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:43",
+            "comments_type": "off side",
+            "comments_text": "Lautaro Martinez (Inter) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "37:63 – this is the current ball possession ratio.",
+            "comments_text_anonymized": "37:63 – this is the current ball possession ratio."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:30",
+            "comments_type": "clearance",
+            "comments_text": "Federico Dimarco (Inter) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:49",
+            "comments_type": "yellow card",
+            "comments_text": "Bruno Amione (Sampdoria) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Fabio Maresca didn't think twice about pulling it out of his pocket.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:35",
+            "comments_type": "free kick",
+            "comments_text": "Inter have been awarded a free kick just outside the penalty area, in a dangerous position.",
+            "comments_text_anonymized": "[TEAM] have been awarded a free kick just outside the penalty area, in a dangerous position."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:38",
+            "comments_type": "shot off target",
+            "comments_text": "Federico Dimarco (Inter) attempts to convert the resulting set piece, but his miskick only goes way over the crossbar. A poor shot!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to convert the resulting set piece, but his miskick only goes way over the crossbar. A poor shot!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Tommaso Augello (Sampdoria) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "shot off target",
+            "comments_text": "Alessandro Zanoli (Sampdoria) tries to find Sam Lammers, but he puts too much power on the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "yellow card",
+            "comments_text": "Sam Lammers (Sampdoria) is booked for saying more than Fabio Maresca was willing to tolerate.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked for saying more than [REFEREE] was willing to tolerate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:27",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Fabio Quagliarella (Sampdoria) replaces Sam Lammers.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:47",
+            "comments_type": "substitution",
+            "comments_text": "Dejan Stankovic has decided to make a change. Flavio Paoletti (Sampdoria) replaces Alessandro Zanoli.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:44",
+            "comments_type": "clearance",
+            "comments_text": "Hakan Calhanoglu (Inter) sees the run of Edin Dzeko and tries to slip the ball to him, but Emil Audero sees the danger and gathers.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees the run of [PLAYER] and tries to slip the ball to him, but [PLAYER] sees the danger and gathers."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:22",
+            "comments_type": "shot off target",
+            "comments_text": "Fabio Quagliarella (Sampdoria) fires a shot well wide of the right post from inside the box after latching onto a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires a shot well wide of the right post from inside the box after latching onto a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:57",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Denzel Dumfries (Inter) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:20",
+            "comments_type": "clearance",
+            "comments_text": "Francesco Acerbi (Inter) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:14",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Valentin Carboni (Inter) comes onto the pitch so that Henrikh Mkhitaryan can be given a rest.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 5 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:10",
+            "comments_type": "corner",
+            "comments_text": "Inter take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:30",
+            "comments_type": "clearance",
+            "comments_text": "Federico Dimarco (Inter) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:27",
+            "comments_type": "shot off target",
+            "comments_text": "Edin Dzeko (Inter) jumps high after collecting a perfect cross and strikes with a bullet header! His effort goes miles wide of the left post. Poor header!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps high after collecting a perfect cross and strikes with a bullet header! His effort goes miles wide of the left post. Poor header!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:10",
+            "comments_type": "clearance",
+            "comments_text": "Good clearance! Lautaro Martinez (Inter) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "comments_text_anonymized": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:31",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

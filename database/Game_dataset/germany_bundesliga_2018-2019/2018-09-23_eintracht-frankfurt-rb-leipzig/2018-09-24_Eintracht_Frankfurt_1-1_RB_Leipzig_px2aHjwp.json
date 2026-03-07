@@ -1,0 +1,997 @@
+{
+    "match_info": {
+        "timestamp": "2018-09-24 00:00:00",
+        "score": "1 - 1",
+        "home_team": "Eintracht Frankfurt",
+        "away_team": "RB Leipzig",
+        "home_formation": "5 - 2 - 3",
+        "away_formation": "4 - 2 - 2 - 2",
+        "venue": "Deutsche Bank Park (Frankfurt)",
+        "capacity": "58 000",
+        "attendance": "43 800",
+        "home_jersey_color": "black",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Brych F. (Ger)",
+        "first_name": "Brych",
+        "abbr_last_name": "F",
+        "country": "Ger",
+        "detected_name": "Felix Brych"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Hutter A.",
+                "players_number": "",
+                "Full Name": "Adi Hutter",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (11.02.1970)",
+                "Market Value": "",
+                "unicode": "CWxpUrtf"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Chandler T.",
+                "players_number": "",
+                "Full Name": "Timothy Chandler",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (29.03.1990)",
+                "Market Value": "€475k",
+                "unicode": "KdoHDRzE"
+            },
+            {
+                "players_name": "Geraldes F.",
+                "players_number": "",
+                "Full Name": "Francisco Geraldes",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (18.04.1995)",
+                "Market Value": "€2.4m",
+                "unicode": "OrrBEaDo"
+            },
+            {
+                "players_name": "Paciencia G.",
+                "players_number": "",
+                "Full Name": "Goncalo Paciencia",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (01.08.1994)",
+                "Market Value": "€1.6m",
+                "unicode": "G6zHXVkO"
+            },
+            {
+                "players_name": "Salcedo C.",
+                "players_number": "",
+                "Full Name": "Carlos Salcedo",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (29.09.1993)",
+                "Market Value": "€3.4m",
+                "unicode": "E9rY0k6N"
+            },
+            {
+                "players_name": "Tawatha T.",
+                "players_number": "",
+                "Full Name": "Taleb Tawatha",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.06.1992)",
+                "Market Value": "30.06.2024",
+                "unicode": "ET5cLTNb"
+            },
+            {
+                "players_name": "Torro L.",
+                "players_number": "",
+                "Full Name": "Lucas Torro",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (19.07.1994)",
+                "Market Value": "€7.7m",
+                "unicode": "6y9ES72S"
+            },
+            {
+                "players_name": "Willems J.",
+                "players_number": "",
+                "Full Name": "Jetro Willems",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (30.03.1994)",
+                "Market Value": "€570k",
+                "unicode": "fw0yGQLQ"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Abraham D. (C)",
+                "players_number": "19",
+                "Full Name": "David Abraham",
+                "players_rating": 6.3,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (15.07.1986)",
+                "Market Value": "",
+                "unicode": "Cl1g9vCl"
+            },
+            {
+                "players_name": "da Costa D.",
+                "players_number": "24",
+                "Full Name": "Danny da Costa",
+                "players_rating": 7.2,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (13.07.1993)",
+                "Market Value": "€1.4m",
+                "unicode": "U7l59rXJ"
+            },
+            {
+                "players_name": "de Guzman J.",
+                "players_number": "6",
+                "Full Name": "Jonathan de Guzman",
+                "players_rating": 6.8,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (13.09.1987)",
+                "Market Value": "€289k",
+                "unicode": "6cZMP6lB"
+            },
+            {
+                "players_name": "Fernandes G.",
+                "players_number": "5",
+                "Full Name": "Gelson Fernandes",
+                "players_rating": 7.3,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (02.09.1986)",
+                "Market Value": "",
+                "unicode": "hppUhxjQ"
+            },
+            {
+                "players_name": "Gacinovic M.",
+                "players_number": "11",
+                "Full Name": "Mijat Gacinovic",
+                "players_rating": 6.9,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.02.1995)",
+                "Market Value": "€3.4m",
+                "unicode": "nBEIWHXE"
+            },
+            {
+                "players_name": "Haller S.",
+                "players_number": "9",
+                "Full Name": "Sebastien Haller",
+                "players_rating": 7.6,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (22.06.1994)",
+                "Market Value": "€17.6m",
+                "unicode": "Ie17FSsK"
+            },
+            {
+                "players_name": "Hasebe M.",
+                "players_number": "20",
+                "Full Name": "Makoto Hasebe",
+                "players_rating": 7.3,
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "40, (18.01.1984)",
+                "Market Value": "€482k",
+                "unicode": "v9huBzd3"
+            },
+            {
+                "players_name": "Jovic L.",
+                "players_number": "8",
+                "Full Name": "Luka Jovic",
+                "players_rating": 6.7,
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.12.1997)",
+                "Market Value": "€4.6m",
+                "unicode": "viIS0FT7"
+            },
+            {
+                "players_name": "Kostic F.",
+                "players_number": "10",
+                "Full Name": "Filip Kostic",
+                "players_rating": 7.0,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (01.11.1992)",
+                "Market Value": "€11.2m",
+                "unicode": "zTWzdAKe"
+            },
+            {
+                "players_name": "Ndicka E.",
+                "players_number": "2",
+                "Full Name": "Evan Ndicka",
+                "players_rating": 7.1,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (20.08.1999)",
+                "Market Value": "€22.8m",
+                "unicode": "0ORJzjri"
+            },
+            {
+                "players_name": "Trapp K. (G)",
+                "players_number": "31",
+                "Full Name": "Kevin Trapp",
+                "players_rating": 6.7,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (08.07.1990)",
+                "Market Value": "€6.6m",
+                "unicode": "QqugudYS"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Allan",
+                "players_number": "28",
+                "Full Name": "Allan",
+                "players_rating": 6.1,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (03.03.1997)",
+                "Market Value": "€5.9m",
+                "unicode": "p22fQ7Z5"
+            },
+            {
+                "players_name": "Rebic A.",
+                "players_number": "4",
+                "Full Name": "Ante Rebic",
+                "players_rating": 6.0,
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (21.09.1993)",
+                "Market Value": "€3.9m",
+                "unicode": "GWSMlnRk"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Fabian M.",
+                "players_number": "7",
+                "Full Name": "Marco Fabian",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€234k, (21.07.1989)",
+                "Market Value": "31.05.2024",
+                "unicode": "0zYqWxIq"
+            },
+            {
+                "players_name": "Falette S.",
+                "players_number": "3",
+                "Full Name": "Simon Falette",
+                "players_rating": "",
+                "Country": "Guinea",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (19.02.1992)",
+                "Market Value": "",
+                "unicode": "K6gqRt3c"
+            },
+            {
+                "players_name": "Muller N.",
+                "players_number": "27",
+                "Full Name": "Nicolai Muller",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (25.09.1987)",
+                "Market Value": "",
+                "unicode": "SjxltWak"
+            },
+            {
+                "players_name": "Ronnow F. (G)",
+                "players_number": "1",
+                "Full Name": "Frederik Ronnow",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (04.08.1992)",
+                "Market Value": "€5.4m",
+                "unicode": "AqV0VUgU"
+            },
+            {
+                "players_name": "Russ M.",
+                "players_number": "23",
+                "Full Name": "Marco Russ",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.08.1985)",
+                "Market Value": "",
+                "unicode": "6X9DLFrk"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Rangnick R.",
+                "players_number": "",
+                "Full Name": "Ralf Rangnick",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (29.06.1958)",
+                "Market Value": "",
+                "unicode": "4E1uDB0F"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Klostermann L.",
+                "players_number": "",
+                "Full Name": "Lukas Klostermann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.06.1996)",
+                "Market Value": "€7.5m",
+                "unicode": "KI3jSJTG"
+            },
+            {
+                "players_name": "Muller M.",
+                "players_number": "",
+                "Full Name": "Marius Muller",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (12.07.1993)",
+                "Market Value": "€993k",
+                "unicode": "OYbFR8ut"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Demme D.",
+                "players_number": "31",
+                "Full Name": "Diego Demme",
+                "players_rating": 7.1,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€936k",
+                "unicode": "6XydaRuI"
+            },
+            {
+                "players_name": "Forsberg E.",
+                "players_number": "10",
+                "Full Name": "Emil Forsberg",
+                "players_rating": 7.6,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (23.10.1991)",
+                "Market Value": "€5.6m",
+                "unicode": "IehILnUA"
+            },
+            {
+                "players_name": "Gulacsi P. (G)",
+                "players_number": "1",
+                "Full Name": "Peter Gulacsi",
+                "players_rating": 7.3,
+                "Country": "Hungary",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (06.05.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "lYMcgOCg"
+            },
+            {
+                "players_name": "Kampl K.",
+                "players_number": "44",
+                "Full Name": "Kevin Kampl",
+                "players_rating": 6.9,
+                "Country": "Slovenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (09.10.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "ttXwlOTi"
+            },
+            {
+                "players_name": "Laimer K.",
+                "players_number": "27",
+                "Full Name": "Konrad Laimer",
+                "players_rating": 7.6,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (27.05.1997)",
+                "Market Value": "€26.6m",
+                "unicode": "GlHWqQKJ"
+            },
+            {
+                "players_name": "Orban W. (C)",
+                "players_number": "4",
+                "Full Name": "Willi Orban",
+                "players_rating": 7.6,
+                "Country": "Hungary",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (03.11.1992)",
+                "Market Value": "€10.2m",
+                "unicode": "WQdSnUfq"
+            },
+            {
+                "players_name": "Poulsen Y.",
+                "players_number": "9",
+                "Full Name": "Yussuf Poulsen",
+                "players_rating": 7.0,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (15.06.1994)",
+                "Market Value": "€6.4m",
+                "unicode": "SrWbvhrI"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "7",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": 6.9,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.7m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Saracchi M.",
+                "players_number": "3",
+                "Full Name": "Marcelo Saracchi",
+                "players_rating": 7.0,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (23.04.1998)",
+                "Market Value": "€1.4m",
+                "unicode": "IP7z2ghI"
+            },
+            {
+                "players_name": "Upamecano D.",
+                "players_number": "5",
+                "Full Name": "Dayot Upamecano",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.10.1998)",
+                "Market Value": "€58.7m",
+                "unicode": "OMhLhEJB"
+            },
+            {
+                "players_name": "Werner T.",
+                "players_number": "11",
+                "Full Name": "Timo Werner",
+                "players_rating": 6.2,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (06.03.1996)",
+                "Market Value": "€16.4m",
+                "unicode": "lbaPqFC9"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Halstenberg M.",
+                "players_number": "23",
+                "Full Name": "Marcel Halstenberg",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (27.09.1991)",
+                "Market Value": "€2.5m",
+                "unicode": "M905oPyB"
+            },
+            {
+                "players_name": "Ilsanker S.",
+                "players_number": "13",
+                "Full Name": "Stefan Ilsanker",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (18.05.1989)",
+                "Market Value": "",
+                "unicode": "88jzmng2"
+            },
+            {
+                "players_name": "Konate I.",
+                "players_number": "6",
+                "Full Name": "Ibrahima Konate",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (25.05.1999)",
+                "Market Value": "€37.7m",
+                "unicode": "QJlbDbQe"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bruma",
+                "players_number": "17",
+                "Full Name": "Bruma",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (24.10.1994)",
+                "Market Value": "€6.4m",
+                "unicode": "6DBH2ptm"
+            },
+            {
+                "players_name": "Cunha M.",
+                "players_number": "20",
+                "Full Name": "Matheus Cunha",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (27.05.1999)",
+                "Market Value": "€30.4m",
+                "unicode": "bq5QzRdb"
+            },
+            {
+                "players_name": "Majetschak E.",
+                "players_number": "40",
+                "Full Name": "Erik Majetschak",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (01.03.2000)",
+                "Market Value": "30.06.2024",
+                "unicode": "ppTWtrG7"
+            },
+            {
+                "players_name": "Mvogo Y. (G)",
+                "players_number": "28",
+                "Full Name": "Yvon Mvogo",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (06.06.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "fkOg2Gqj"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Felix Brych will supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Eintracht Frankfurt will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:23",
+            "comments_type": "clearance",
+            "comments_text": "Danny da Costa (Eintracht Frankfurt) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:50",
+            "comments_type": "ball possession",
+            "comments_text": "The Eintracht Frankfurt players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "comments_text_anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Yussuf Poulsen (RB Leipzig) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:10",
+            "comments_type": "injury",
+            "comments_text": "Makoto Hasebe (Eintracht Frankfurt) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:40",
+            "comments_type": "injury",
+            "comments_text": "Makoto Hasebe (Eintracht Frankfurt) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:06",
+            "comments_type": "corner",
+            "comments_text": "The corner kick from Kevin Kampl (RB Leipzig) is headed out of the penalty area by one of the defenders.",
+            "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:02",
+            "comments_type": "off side",
+            "comments_text": "Timo Werner (RB Leipzig) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:25",
+            "comments_type": "corner",
+            "comments_text": "Jonathan de Guzman (Eintracht Frankfurt) takes a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:19",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Luka Jovic (Eintracht Frankfurt). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A snap shot by Timo Werner (RB Leipzig) from the edge of the area flies towards the right side of the goal, but Kevin Trapp produces a good save to thwart him.",
+            "comments_text_anonymized": "A snap shot by [PLAYER] ([TEAM]) from the edge of the area flies towards the right side of the goal, but [PLAYER] produces a good save to thwart him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:21",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Sebastien Haller (Eintracht Frankfurt) was seen by Felix Brych who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:14",
+            "comments_type": "clearance",
+            "comments_text": "Yussuf Poulsen (RB Leipzig) serves up a nice cross, but Kevin Trapp punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:20",
+            "comments_type": "throw in",
+            "comments_text": "Filip Kostic (Eintracht Frankfurt) takes a quick throw-in so that his teammates can outnumber the defenders in the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a quick throw-in so that his teammates can outnumber the defenders in the penalty box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:25",
+            "comments_type": "corner",
+            "comments_text": "Jonathan de Guzman (Eintracht Frankfurt) launches an inaccurate corner kick into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:54",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Sebastien Haller (Eintracht Frankfurt) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by Peter Gulacsi, who pulls off a comfortable save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by [PLAYER], who pulls off a comfortable save!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:38",
+            "comments_type": "goal",
+            "comments_text": "Goal! 1:0. Gelson Fernandes (Eintracht Frankfurt) taps home from almost on the goal line after a lucky rebound fell at his feet.",
+            "comments_text_anonymized": "Goal! 1:0. [PLAYER] ([TEAM]) taps home from almost on the goal line after a lucky rebound fell at his feet."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:57",
+            "comments_type": "corner",
+            "comments_text": "Luka Jovic (Eintracht Frankfurt) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The ball goes out of play and Eintracht Frankfurt have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:15",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Jonathan de Guzman (Eintracht Frankfurt) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:12",
+            "comments_type": "ball out of play",
+            "comments_text": "Timo Werner (RB Leipzig) plays a through ball but overhits it. The ball is off of the pitch and it's a goal kick for Eintracht Frankfurt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:59",
+            "comments_type": "lead to corner",
+            "comments_text": "Marcel Sabitzer (RB Leipzig) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Corner kick. RB Leipzig will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:01",
+            "comments_type": "corner",
+            "comments_text": "Kevin Kampl (RB Leipzig) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:55",
+            "comments_type": "clearance",
+            "comments_text": "Emil Forsberg (RB Leipzig) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:57",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Brych blows for a foul after Obite Evan N'Dicka (Eintracht Frankfurt) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after Obite Evan N'Dicka ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "ball possession",
+            "comments_text": "Eintracht Frankfurt enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "comments_text_anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:45",
+            "comments_type": "ball out of play",
+            "comments_text": "Mijat Gacinovic (Eintracht Frankfurt) is unable to feed a through ball into the path of his teammates. The ball is behind the touchline and RB Leipzig will take a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:10",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Felix Brych blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:15",
+            "comments_type": "foul with no card",
+            "comments_text": "Konrad Laimer (RB Leipzig) makes a reckless foul in order to win the ball from his opponent. Felix Brych has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:30",
+            "comments_type": "ball possession",
+            "comments_text": "The RB Leipzig players are exchanging some short passes.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:45",
+            "comments_type": "ball out of play",
+            "comments_text": "Filip Kostic (Eintracht Frankfurt) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and RB Leipzig will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:42",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Handball by Filip Kostic (Eintracht Frankfurt). PENALTY to RB Leipzig! Almost the entire opposition team is gathered around the referee and complaining. However, the decision has been made and it's final.",
+            "comments_text_anonymized": "Handball by [PLAYER] ([TEAM]). PENALTY to [TEAM]! Almost the entire opposition team is gathered around the referee and complaining. However, the decision has been made and it's final."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:50",
+            "comments_type": "penalty",
+            "comments_text": "Emil Forsberg (RB Leipzig) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:02",
+            "comments_type": "goal",
+            "comments_text": "Goal! Emil Forsberg (RB Leipzig) puts the penalty low into the middle of the goal and past Kevin Trapp.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) puts the penalty low into the middle of the goal and past [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:41",
+            "comments_type": "ball possession",
+            "comments_text": "Neat passing move from Eintracht Frankfurt in order to create new attacking opportunities.",
+            "comments_text_anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:39",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Danny da Costa (Eintracht Frankfurt) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:54",
+            "comments_type": "injury",
+            "comments_text": "Danny da Costa (Eintracht Frankfurt) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:50",
+            "comments_type": "clearance",
+            "comments_text": "A cross from the free kick is whipped in by Jonathan de Guzman (Eintracht Frankfurt), but one of the defenders steps in and averts the threat.",
+            "comments_text_anonymized": "A cross from the free kick is whipped in by [PLAYER] ([TEAM]), but one of the defenders steps in and averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:26",
+            "comments_type": "ball out of play",
+            "comments_text": "A pass by Filip Kostic (Eintracht Frankfurt) ends up in no man's land, and the attacking effort comes to an end. The ball has crossed the sideline. RB Leipzig are taking a throw-in.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Gelson Fernandes (Eintracht Frankfurt) jumps into a tackle and Felix Brych blows his whistle for a foul. RB Leipzig win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:07",
+            "comments_type": "free kick",
+            "comments_text": "Emil Forsberg (RB Leipzig) takes a short free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:21",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle for a foul after Filip Kostic (Eintracht Frankfurt) overruns the ball during an attack and makes an aggressive challenge on his opponent.",
+            "comments_text_anonymized": "The referee blows his whistle for a foul after [PLAYER] ([TEAM]) overruns the ball during an attack and makes an aggressive challenge on his opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:50",
+            "comments_type": "ball possession",
+            "comments_text": "RB Leipzig are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "comments_text_anonymized": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:39",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Ante Rebic (Eintracht Frankfurt) is brought on as a substitute for Luka Jovic.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:43",
+            "comments_type": "substitution",
+            "comments_text": "Adi Hutter has decided to introduce fresh legs, with Allan Allan (Eintracht Frankfurt) replacing Jonathan de Guzman.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:21",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Brych blows his whistle as Ante Rebic (Eintracht Frankfurt) used excessive force in the tackle during an attack.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "shot off target",
+            "comments_text": "A short pass finds Danny da Costa (Eintracht Frankfurt) in acres of space on the edge of the box and he decides to go for glory. His efforts looks in for all the world but just creeps past the left post.",
+            "comments_text_anonymized": "A short pass finds [PLAYER] ([TEAM]) in acres of space on the edge of the box and he decides to go for glory. His efforts looks in for all the world but just creeps past the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Yussuf Poulsen (RB Leipzig) sends a cross into the box, but Kevin Trapp comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "off side",
+            "comments_text": "Filip Kostic (Eintracht Frankfurt) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:03",
+            "comments_type": "clearance",
+            "comments_text": "Mijat Gacinovic (Eintracht Frankfurt) sends a teasing cross into the area, but Peter Gulacsi intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:28",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Ante Rebic (Eintracht Frankfurt) attempted to dribble past an opposing player. The ball goes out of play and RB Leipzig will have a goal kick.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:33",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Emil Forsberg goes off and Stefan Ilsanker (RB Leipzig) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:43",
+            "comments_type": "substitution",
+            "comments_text": "Ralf Rangnick has decided to make a change. Marcel Halstenberg (RB Leipzig) replaces Marcelo Saracchi.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:40",
+            "comments_type": "yellow card",
+            "comments_text": "Stefan Ilsanker (RB Leipzig) has tested the patience of referee Felix Brych and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:43",
+            "comments_type": "substitution",
+            "comments_text": "Konrad Laimer goes off the pitch and Ibrahima Konate (RB Leipzig) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 2 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 2 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:30",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card for a tackle by David Abraham (Eintracht Frankfurt). Felix Brych doesn't hesitate at all to make this decision.",
+            "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:54",
+            "comments_type": "end of half game",
+            "comments_text": "Nothing more will happen in this game as the referee blows for full time.",
+            "comments_text_anonymized": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ]
+}

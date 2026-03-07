@@ -1,0 +1,1283 @@
+{
+    "match_info": {
+        "timestamp": "2023-03-09 04:00:00",
+        "score": "0 - 0",
+        "home_team": "Tottenham",
+        "away_team": "AC Milan",
+        "home_formation": "3 - 4 - 2 - 1",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Tottenham Hotspur Stadium (London)",
+        "capacity": "62 850",
+        "attendance": "61 602",
+        "home_jersey_color": "white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Turpin C. (Fra)",
+        "first_name": "Turpin",
+        "abbr_last_name": "C",
+        "country": "Fra",
+        "detected_name": "Clement Turpin"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Pioli S.",
+                "players_number": "",
+                "Full Name": "Stefano Pioli",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "58,  (20.10.1965)",
+                "Market Value": "",
+                "unicode": "A72TGDlt"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Ibrahimovic Z.",
+                "players_number": "",
+                "Full Name": "Zlatan Ibrahimovic",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "42, (03.10.1981)",
+                "Market Value": "",
+                "unicode": "AiH2zDve"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Diaz B.",
+                "players_number": "10",
+                "Full Name": "Brahim Diaz",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (03.08.1999)",
+                "Market Value": "€19.9m",
+                "unicode": "nm2Qvnyk"
+            },
+            {
+                "players_name": "Giroud O.",
+                "players_number": "9",
+                "Full Name": "Olivier Giroud",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (30.09.1986)",
+                "Market Value": "€4.0m",
+                "unicode": "AJPBp2as"
+            },
+            {
+                "players_name": "Hernandez T. (C)",
+                "players_number": "19",
+                "Full Name": "Theo Hernandez",
+                "players_rating": 7.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (06.10.1997)",
+                "Market Value": "€56.9m",
+                "unicode": "ATurLHr0"
+            },
+            {
+                "players_name": "Kalulu P.",
+                "players_number": "20",
+                "Full Name": "Pierre Kalulu",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (05.06.2000)",
+                "Market Value": "€23.5m",
+                "unicode": "E5UKRKOH"
+            },
+            {
+                "players_name": "Krunic R.",
+                "players_number": "33",
+                "Full Name": "Rade Krunic",
+                "players_rating": 7.1,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (07.10.1993)",
+                "Market Value": "€8.3m",
+                "unicode": "ANvd0rCA"
+            },
+            {
+                "players_name": "Leao R.",
+                "players_number": "17",
+                "Full Name": "Rafael Leao",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.06.1999)",
+                "Market Value": "€90.6m",
+                "unicode": "AqOPWN5s"
+            },
+            {
+                "players_name": "Maignan M. (G)",
+                "players_number": "16",
+                "Full Name": "Mike Maignan",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (03.07.1995)",
+                "Market Value": "€43.4m",
+                "unicode": "S6gN2QNC"
+            },
+            {
+                "players_name": "Messias J.",
+                "players_number": "30",
+                "Full Name": "Junior Messias",
+                "players_rating": 6.7,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (13.05.1991)",
+                "Market Value": "€2.9m",
+                "unicode": "8l36RdAF"
+            },
+            {
+                "players_name": "Thiaw M.",
+                "players_number": "28",
+                "Full Name": "Malick Thiaw",
+                "players_rating": 7.2,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (08.08.2001)",
+                "Market Value": "€28.9m",
+                "unicode": "0vSsR1xI"
+            },
+            {
+                "players_name": "Tomori F.",
+                "players_number": "23",
+                "Full Name": "Fikayo Tomori",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (19.12.1997)",
+                "Market Value": "€38.6m",
+                "unicode": "AZn3ZNeI"
+            },
+            {
+                "players_name": "Tonali S.",
+                "players_number": "8",
+                "Full Name": "Sandro Tonali",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (08.05.2000)",
+                "Market Value": "€39.3m",
+                "unicode": "fmQVO5TQ"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Bennacer I.",
+                "players_number": "4",
+                "Full Name": "Ismael Bennacer",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (01.12.1997)",
+                "Market Value": "€34.3m",
+                "unicode": "KS8ySjGG"
+            },
+            {
+                "players_name": "Origi D.",
+                "players_number": "27",
+                "Full Name": "Divock Origi",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.04.1995)",
+                "Market Value": "€4.5m",
+                "unicode": "jeRaNgKg"
+            },
+            {
+                "players_name": "Rebic A.",
+                "players_number": "12",
+                "Full Name": "Ante Rebic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (21.09.1993)",
+                "Market Value": "€3.9m",
+                "unicode": "GWSMlnRk"
+            },
+            {
+                "players_name": "Saelemaekers A.",
+                "players_number": "56",
+                "Full Name": "Alexis Saelemaekers",
+                "players_rating": 6.6,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (27.06.1999)",
+                "Market Value": "€9.5m",
+                "unicode": "n5cPVwks"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Ballo-Toure F.",
+                "players_number": "5",
+                "Full Name": "Fode Ballo-Toure",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.01.1997)",
+                "Market Value": "€2.9m",
+                "unicode": "OGD2Gj7o"
+            },
+            {
+                "players_name": "Calabria D.",
+                "players_number": "2",
+                "Full Name": "Davide Calabria",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (06.12.1996)",
+                "Market Value": "€14.9m",
+                "unicode": "OKPvQBOR"
+            },
+            {
+                "players_name": "De Ketelaere C.",
+                "players_number": "90",
+                "Full Name": "Charles De Ketelaere",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (10.03.2001)",
+                "Market Value": "€23.8m",
+                "unicode": "2eOa3r1T"
+            },
+            {
+                "players_name": "Florenzi A.",
+                "players_number": "25",
+                "Full Name": "Alessandro Florenzi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (11.03.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "8UwHPuvH"
+            },
+            {
+                "players_name": "Gabbia M.",
+                "players_number": "46",
+                "Full Name": "Matteo Gabbia",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (21.10.1999)",
+                "Market Value": "€3.8m",
+                "unicode": "Sl6O3rbN"
+            },
+            {
+                "players_name": "Kjaer S.",
+                "players_number": "24",
+                "Full Name": "Simon Kjaer",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (26.03.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "8KUMvm5f"
+            },
+            {
+                "players_name": "Mirante A. (G)",
+                "players_number": "83",
+                "Full Name": "Antonio Mirante",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (08.07.1983)",
+                "Market Value": "€95k",
+                "unicode": "2u1zBSC4"
+            },
+            {
+                "players_name": "Pobega T.",
+                "players_number": "32",
+                "Full Name": "Tommaso Pobega",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (15.07.1999)",
+                "Market Value": "€11.1m",
+                "unicode": "06IMJkrL"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Conte A.",
+                "players_number": "",
+                "Full Name": "Antonio Conte",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "54,  (31.07.1969)",
+                "Market Value": "",
+                "unicode": "23vSAc12"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Bentancur R.",
+                "players_number": "",
+                "Full Name": "Rodrigo Bentancur",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (25.06.1997)",
+                "Market Value": "€34.7m",
+                "unicode": "nLRMnJtJ"
+            },
+            {
+                "players_name": "Bissouma Y.",
+                "players_number": "",
+                "Full Name": "Yves Bissouma",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.08.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "CSdILBh7"
+            },
+            {
+                "players_name": "Dier E.",
+                "players_number": "",
+                "Full Name": "Eric Dier",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (15.01.1994)",
+                "Market Value": "€11.2m",
+                "unicode": "MXQtjBQt"
+            },
+            {
+                "players_name": "Lloris H.",
+                "players_number": "",
+                "Full Name": "Hugo Lloris",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (26.12.1986)",
+                "Market Value": "€1.5m",
+                "unicode": "dlT4erCr"
+            },
+            {
+                "players_name": "Sessegnon R.",
+                "players_number": "",
+                "Full Name": "Ryan Sessegnon",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (18.05.2000)",
+                "Market Value": "€11.8m",
+                "unicode": "WOecsPmi"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Davies B.",
+                "players_number": "33",
+                "Full Name": "Ben Davies",
+                "players_rating": 6.9,
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (24.04.1993)",
+                "Market Value": "30.06.2025",
+                "unicode": "65AlIpKT"
+            },
+            {
+                "players_name": "Emerson Royal",
+                "players_number": "12",
+                "Full Name": "Emerson Royal",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (14.01.1999)",
+                "Market Value": "€17.9m",
+                "unicode": "zBkSUAjf"
+            },
+            {
+                "players_name": "Forster F. (G)",
+                "players_number": "20",
+                "Full Name": "Fraser Forster",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (17.03.1988)",
+                "Market Value": "€1.1m",
+                "unicode": "SWLt6Trt"
+            },
+            {
+                "players_name": "Hojbjerg P.",
+                "players_number": "5",
+                "Full Name": "Pierre-Emile Hojbjerg",
+                "players_rating": 7.6,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (05.08.1995)",
+                "Market Value": "€27.4m",
+                "unicode": "ITwS8wMo"
+            },
+            {
+                "players_name": "Kane H. (C)",
+                "players_number": "10",
+                "Full Name": "Harry Kane",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (28.07.1993)",
+                "Market Value": "€113.9m",
+                "unicode": "v5HSlEAa"
+            },
+            {
+                "players_name": "Kulusevski D.",
+                "players_number": "21",
+                "Full Name": "Dejan Kulusevski",
+                "players_rating": 6.7,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.04.2000)",
+                "Market Value": "€54.6m",
+                "unicode": "fXLqHCYi"
+            },
+            {
+                "players_name": "Lenglet C.",
+                "players_number": "34",
+                "Full Name": "Clement Lenglet",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (17.06.1995)",
+                "Market Value": "€7.8m",
+                "unicode": "rH0mL7ws"
+            },
+            {
+                "players_name": "Perisic I.",
+                "players_number": "14",
+                "Full Name": "Ivan Perisic",
+                "players_rating": 6.5,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (02.02.1989)",
+                "Market Value": "€4.1m",
+                "unicode": "4AbKyVr9"
+            },
+            {
+                "players_name": "Romero C.",
+                "players_number": "17",
+                "Full Name": "Cristian Gabriel Romero",
+                "players_rating": 5.2,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.04.1998)",
+                "Market Value": "€65.5m",
+                "unicode": "jBZTWXMn"
+            },
+            {
+                "players_name": "Skipp O.",
+                "players_number": "4",
+                "Full Name": "Oliver Skipp",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (16.09.2000)",
+                "Market Value": "€13.8m",
+                "unicode": "KnBBxnVu"
+            },
+            {
+                "players_name": "Son Heung-Min",
+                "players_number": "7",
+                "Full Name": "Heung-Min Son",
+                "players_rating": 6.6,
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (08.07.1992)",
+                "Market Value": "€53.9m",
+                "unicode": "Mgg9oPeM"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Porro P.",
+                "players_number": "23",
+                "Full Name": "Pedro Porro",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (13.09.1999)",
+                "Market Value": "€44.7m",
+                "unicode": "nTebDzHC"
+            },
+            {
+                "players_name": "Richarlison",
+                "players_number": "9",
+                "Full Name": "Richarlison",
+                "players_rating": 6.3,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (10.05.1997)",
+                "Market Value": "€33.3m",
+                "unicode": "K82Dz773"
+            },
+            {
+                "players_name": "Sanchez D.",
+                "players_number": "6",
+                "Full Name": "Davinson Sanchez",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.06.1996)",
+                "Market Value": "€15.7m",
+                "unicode": "dbPhv0VQ"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Austin B. (G)",
+                "players_number": "40",
+                "Full Name": "Brandon Austin",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (08.01.1999)",
+                "Market Value": "30.06.2024",
+                "unicode": "EHOfteWD"
+            },
+            {
+                "players_name": "Danjuma A.",
+                "players_number": "16",
+                "Full Name": "Arnaut Danjuma",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.01.1997)",
+                "Market Value": "€15.7m",
+                "unicode": "tYV4tvqr"
+            },
+            {
+                "players_name": "Devine A.",
+                "players_number": "45",
+                "Full Name": "Alfie Devine",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (01.08.2004)",
+                "Market Value": "€1.0m",
+                "unicode": "rZr16xyf"
+            },
+            {
+                "players_name": "Lucas Moura",
+                "players_number": "27",
+                "Full Name": "Lucas Moura",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (13.08.1992)",
+                "Market Value": "€5.2m",
+                "unicode": "EcmXnnoo"
+            },
+            {
+                "players_name": "Sarr P. M.",
+                "players_number": "29",
+                "Full Name": "Pape Matar Sarr",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (14.09.2002)",
+                "Market Value": "€33.8m",
+                "unicode": "CSjTl5sR"
+            },
+            {
+                "players_name": "Tanganga J.",
+                "players_number": "25",
+                "Full Name": "Japhet Tanganga",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (31.03.1999)",
+                "Market Value": "€2.7m",
+                "unicode": "SC4ftpKU"
+            },
+            {
+                "players_name": "Whiteman A. (G)",
+                "players_number": "41",
+                "Full Name": "Alfie Whiteman",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (02.10.1998)",
+                "Market Value": "30.06.2025",
+                "unicode": "UkQOzQQ3"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Clement Turpin is the one to supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] is the one to supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Today's kick-off has been delayed due to heavy traffic en route to the stadium.",
+            "comments_text_anonymized": "Today's kick-off has been delayed due to heavy traffic en route to the stadium."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Tottenham will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:06",
+            "comments_type": "ball possession",
+            "comments_text": "AC Milan are seeing far more of the ball now.",
+            "comments_text_anonymized": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Oliver Skipp (Tottenham) makes a bad challenge and the referee blows his whistle for a foul. AC Milan are given an advantage. They have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:20",
+            "comments_type": "clearance",
+            "comments_text": "The resulting set piece, sent into the penalty area by Theo Hernandez (AC Milan), was easily dealt with by one of the defenders.",
+            "comments_text_anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:40",
+            "comments_type": "clearance",
+            "comments_text": "Mike Maignan (AC Milan) fails to find a teammate across the pitch with a long ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:29",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Kulusevski (Tottenham) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Clement Turpin blows the whistle, Pierre Kalulu (AC Milan) is penalised for a foul. Tottenham earn a free kick.",
+            "comments_text_anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] earn a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:28",
+            "comments_type": "free kick",
+            "comments_text": "The free kick is taken short by Tottenham.",
+            "comments_text_anonymized": "The free kick is taken short by [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:56",
+            "comments_type": "clearance",
+            "comments_text": "Harry Kane (Tottenham) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:42",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Harry Kane (Tottenham) sends a cross into the box, but Mike Maignan comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:32",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Sandro Tonali (AC Milan) fails to reach the box as the defence clears the ball away to safety. The ball is out of play. AC Milan will have a throw-in.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "clearance",
+            "comments_text": "Emerson Royal (Tottenham) strikes a powerful volley towards goal, but one of the defenders blocks his attempt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes a powerful volley towards goal, but one of the defenders blocks his attempt."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:00",
+            "comments_type": "ball out of play",
+            "comments_text": "The cross into the penalty area from Dejan Kulusevski (Tottenham) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball goes out of play and AC Milan will have a goal kick.",
+            "comments_text_anonymized": "The cross into the penalty area from [PLAYER] ([TEAM]) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Clement Lenglet (Tottenham) fouls an opponent. At least that's what referee Clement Turpin signals. AC Milan have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Cristian Gabriel Romero (Tottenham) brings his opponent down with a tackle and Clement Turpin blows his whistle for a foul. Another situation results in a direct free kick for AC Milan.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:47",
+            "comments_type": "yellow card",
+            "comments_text": "Cristian Gabriel Romero (Tottenham) is shown a yellow card for a late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card for a late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:00",
+            "comments_type": "free kick",
+            "comments_text": "AC Milan produce a short pass from the free kick.",
+            "comments_text_anonymized": "[TEAM] produce a short pass from the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:22",
+            "comments_type": "clearance",
+            "comments_text": "Emerson Royal (Tottenham) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:01",
+            "comments_type": "yellow card",
+            "comments_text": "Clement Lenglet (Tottenham) is booked after bringing down an opponent. Clement Turpin had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:49",
+            "comments_type": "yellow card",
+            "comments_text": "Referee Clement Turpin halts the game and wanders over to the touchline to talk to Antonio Conte, then shows him a yellow.",
+            "comments_text_anonymized": "Referee [REFEREE] halts the game and wanders over to the touchline to talk to [PLAYER], then shows him a yellow."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:58",
+            "comments_type": "injury",
+            "comments_text": "Olivier Giroud (AC Milan) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:19",
+            "comments_type": "injury",
+            "comments_text": "Olivier Giroud (AC Milan) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Heung-Min Son (Tottenham) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Corner kick. Tottenham will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:25",
+            "comments_type": "corner",
+            "comments_text": "Heung-Min Son (Tottenham) works the corner short instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:35",
+            "comments_type": "ball out of play",
+            "comments_text": "Heung-Min Son (Tottenham) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball is off of the pitch and it's a goal kick for AC Milan.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:27",
+            "comments_type": "injury",
+            "comments_text": "Emerson Royal (Tottenham) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:50",
+            "comments_type": "injury",
+            "comments_text": "Emerson Royal (Tottenham) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "ball possession",
+            "comments_text": "AC Milan spell of possession comes to an end after a mistake.",
+            "comments_text_anonymized": "[TEAM] spell of possession comes to an end after a mistake."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:17",
+            "comments_type": "shot off target",
+            "comments_text": "A long pass finds Junior Messias (AC Milan) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post.",
+            "comments_text_anonymized": "A long pass finds [PLAYER] ([TEAM]) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:26",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Theo Hernandez (AC Milan) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Harry Kane (Tottenham) fails to send a pass into the box as his effort is cut out. Tottenham earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. [TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:26",
+            "comments_type": "corner",
+            "comments_text": "Tottenham take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Kulusevski (Tottenham) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball goes out of play and AC Milan will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:48",
+            "comments_type": "ball possession",
+            "comments_text": "Tottenham hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ivan Perisic (Tottenham) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "The total number of attempts is 2:2.",
+            "comments_text_anonymized": "The total number of attempts is 2:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:58",
+            "comments_type": "foul with no card",
+            "comments_text": "Rafael Leao (AC Milan) commits a foul and Clement Turpin immediately signals a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:50",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ivan Perisic (Tottenham) swings a cross into the box, but it's far too close to Mike Maignan, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:10",
+            "comments_type": "clearance",
+            "comments_text": "Rade Krunic (AC Milan) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:11",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Olivier Giroud (AC Milan) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:33",
+            "comments_type": "clearance",
+            "comments_text": "AC Milan are showing great team-chemistry. They are passing the ball around seamlessly but finally one of the defending players makes an interception.",
+            "comments_text_anonymized": "[TEAM] are showing great team-chemistry. They are passing the ball around seamlessly but finally one of the defending players makes an interception."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:40",
+            "comments_type": "clearance",
+            "comments_text": "Emerson Royal (Tottenham) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:14",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Kulusevski (Tottenham) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:04",
+            "comments_type": "clearance",
+            "comments_text": "Oliver Skipp (Tottenham) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:35",
+            "comments_type": "substitution",
+            "comments_text": "Antonio Conte has decided to introduce fresh legs, with Pedro Porro (Tottenham) replacing Ivan Perisic.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Emerson Royal (Tottenham) trips an opponent with a slide tackle. Clement Turpin stops the game and he could give him a card, but eventually decides on just a warning. AC Milan are awarded a free kick. Let's see what they create from this.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:38",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Junior Messias (AC Milan) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "substitution",
+            "comments_text": "Problems for Stefano Pioli as Junior Messias is not able to play anymore. His injury is too serious and Alexis Saelemaekers (AC Milan) replaces him.",
+            "comments_text_anonymized": "Problems for [PLAYER] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:17",
+            "comments_type": "clearance",
+            "comments_text": "Sandro Tonali (AC Milan) takes the free kick but it is cleared by the first defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Clement Turpin sees the trip by Sandro Tonali (AC Milan) and doesn't hesitate to blow his whistle. Tottenham have a free kick from a promising distance.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:15",
+            "comments_type": "free kick",
+            "comments_text": "Pedro Porro (Tottenham) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:10",
+            "comments_type": "clearance",
+            "comments_text": "Pedro Porro (Tottenham) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:14",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:40",
+            "comments_type": "clearance",
+            "comments_text": "Rafael Leao (AC Milan) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:55",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fraser Forster pulls off a superb save! He leapt to block the shot Olivier Giroud (AC Milan) fired on target after a rebound. His effort from inside the box flew straight towards the bottom left corner, but was stopped by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] pulls off a superb save! He leapt to block the shot [PLAYER] ([TEAM]) fired on target after a rebound. His effort from inside the box flew straight towards the bottom left corner, but was stopped by the goalkeeper."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:29",
+            "comments_type": "shot off target",
+            "comments_text": "Mike Maignan doesn't have to worry about that one. Pedro Porro puts a cross in towards Harry Kane (Tottenham), who is unable to keep his header on target from the centre of the box. He sends the ball well wide of the right post. The ball goes out of play and AC Milan will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] doesn't have to worry about that one. [PLAYER] puts a cross in towards [PLAYER] ([TEAM]), who is unable to keep his header on target from the centre of the box. He sends the ball well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:00",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Richarlison (Tottenham) will replace Emerson Royal.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:57",
+            "comments_type": "ball possession",
+            "comments_text": "Tottenham are showing great team chemistry. They are passing the ball around seamlessly.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:13",
+            "comments_type": "shot off target",
+            "comments_text": "Rafael Leao (AC Milan) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:00",
+            "comments_type": "shot off target",
+            "comments_text": "Pedro Porro (Tottenham) has a go from a long way out but it sails way over.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a go from a long way out but it sails way over."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Dejan Kulusevski (Tottenham) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, Tottenham are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:31",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Pedro Porro (Tottenham) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:15",
+            "comments_type": "foul with no card",
+            "comments_text": "Clement Turpin blows his whistle for a foul after Malick Thiaw (AC Milan) hacks down one of his opponents. Tottenham win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Heung-Min Son (Tottenham) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The linesman points to the corner flag, Tottenham are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:47",
+            "comments_type": "corner",
+            "comments_text": "Heung-Min Son (Tottenham) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play. The ball is off of the pitch and it's a goal kick for AC Milan.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:40",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross into the box from Pedro Porro (Tottenham) is cleared. The ball goes out for a corner. Tottenham can continue in their attacking effort.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:04",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) overhits the corner kick and none of his teammates can their head on it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:06",
+            "comments_type": "statistics and summary",
+            "comments_text": "Corner kicks – 6:0.",
+            "comments_text_anonymized": "Corner kicks – 6:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Clement Turpin blows his whistle after Cristian Gabriel Romero (Tottenham) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "second yellow card",
+            "comments_text": "Cristian Gabriel Romero (Tottenham) sees a yellow card in the hand of Clement Turpin. And as it's a second one this game, a red follows and Cristian Gabriel Romero (Tottenham) is sent from the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card in the hand of [REFEREE]. And as it's a second one this game, a red follows and [PLAYER] ([TEAM]) is sent from the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:01",
+            "comments_type": "injury",
+            "comments_text": "Theo Hernandez (AC Milan) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:30",
+            "comments_type": "injury",
+            "comments_text": "Theo Hernandez (AC Milan) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:49",
+            "comments_type": "substitution",
+            "comments_text": "Stefano Pioli has decided to make a change. Ismael Bennacer (AC Milan) replaces Brahim Diaz.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Olivier Giroud, who is replaced by Divock Origi (AC Milan).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Poor challenge! Pierre Kalulu (AC Milan) is penalised for tripping and Clement Turpin blows his whistle. There is a free kick near the sideline to Tottenham.",
+            "comments_text_anonymized": "Poor challenge! [PLAYER] ([TEAM]) is penalised for tripping and [REFEREE] blows his whistle. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:19",
+            "comments_type": "substitution",
+            "comments_text": "Antonio Conte has decided to substitute Dejan Kulusevski and he is replaced by Davinson Sanchez (Tottenham).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:50",
+            "comments_type": "clearance",
+            "comments_text": "Pedro Porro (Tottenham) puts a cross into the box from the free kick, but the defender gets there first.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:30",
+            "comments_type": "clearance",
+            "comments_text": "Sandro Tonali (AC Milan) gets to the rebound and shoots, but the effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:40",
+            "comments_type": "clearance",
+            "comments_text": "Sandro Tonali (AC Milan) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a dangerous low pass into the penalty area, but the defence manage to cut it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:47",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fraser Forster blocks a long-range effort from Ismael Bennacer (AC Milan) towards the bottom right corner.",
+            "comments_text_anonymized": "[PLAYER] blocks a long-range effort from [PLAYER] ([TEAM]) towards the bottom right corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:05",
+            "comments_type": "statistics and summary",
+            "comments_text": "1:3 – this is the current number of shots on target.",
+            "comments_text_anonymized": "1:3 – this is the current number of shots on target."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:22",
+            "comments_type": "substitution",
+            "comments_text": "Stefano Pioli decides to make a substitution. Rafael Leao will be replaced by Ante Rebic (AC Milan).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 6 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 6 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:55",
+            "comments_type": "clearance",
+            "comments_text": "Divock Origi (AC Milan) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:15",
+            "comments_type": "yellow card",
+            "comments_text": "Malick Thiaw (AC Milan) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Clement Turpin ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:00",
+            "comments_type": "yellow card",
+            "comments_text": "Clement Turpin shows a yellow card to Oliver Skipp (Tottenham) for a tough tackle.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:02",
+            "comments_type": "end of half game",
+            "comments_text": "Clement Turpin is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

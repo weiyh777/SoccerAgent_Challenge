@@ -1,0 +1,977 @@
+{
+    "match_info": {
+        "timestamp": "2017-08-27 04:15:00",
+        "score": "1 - 5",
+        "home_team": "Las Palmas",
+        "away_team": "Atl. Madrid",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Estadio de Gran Canaria (Las Palmas)",
+        "capacity": "32 392",
+        "attendance": "20 310",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Villanueva I. (Esp)",
+        "first_name": "Villanueva",
+        "abbr_last_name": "I",
+        "country": "Esp",
+        "detected_name": "Ignacio Iglesias Villanueva"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Simeone D.",
+                "players_number": "",
+                "Full Name": "Diego Simeone",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (28.04.1970)",
+                "Market Value": "",
+                "unicode": "AZ18LjKN"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Barragan B.",
+                "players_number": "",
+                "Full Name": "Bernabe Barragan",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (18.02.1993)",
+                "Market Value": "€562k",
+                "unicode": "xGiEo73d"
+            },
+            {
+                "players_name": "Griezmann A.",
+                "players_number": "",
+                "Full Name": "Antoine Griezmann",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (21.03.1991)",
+                "Market Value": "€26.9m",
+                "unicode": "OxCa1jdT"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Carrasco Y.",
+                "players_number": "10",
+                "Full Name": "Yannick Carrasco",
+                "players_rating": 8.7,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (04.09.1993)",
+                "Market Value": "€18.3m",
+                "unicode": "lzccuuAC"
+            },
+            {
+                "players_name": "Correa A.",
+                "players_number": "11",
+                "Full Name": "Angel Correa",
+                "players_rating": 7.2,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (09.03.1995)",
+                "Market Value": "€18.4m",
+                "unicode": "McWkid34"
+            },
+            {
+                "players_name": "Gimenez J. M.",
+                "players_number": "24",
+                "Full Name": "Jose Maria Gimenez",
+                "players_rating": 7.0,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (20.01.1995)",
+                "Market Value": "€28.9m",
+                "unicode": "IgRLzKhM"
+            },
+            {
+                "players_name": "Godin D. (C)",
+                "players_number": "2",
+                "Full Name": "Diego Godin",
+                "players_rating": 7.5,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "€495k, (16.02.1986)",
+                "Market Value": "",
+                "unicode": "AXQzJq3b"
+            },
+            {
+                "players_name": "Hernandez L.",
+                "players_number": "19",
+                "Full Name": "Lucas Hernandez",
+                "players_rating": 7.8,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (14.02.1996)",
+                "Market Value": "€43.4m",
+                "unicode": "x2fvnkud"
+            },
+            {
+                "players_name": "Koke",
+                "players_number": "6",
+                "Full Name": "Koke",
+                "players_rating": 8.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (08.01.1992)",
+                "Market Value": "€13.3m",
+                "unicode": "v9hLv1xJ"
+            },
+            {
+                "players_name": "Niguez S.",
+                "players_number": "8",
+                "Full Name": "Saul Niguez",
+                "players_rating": 7.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (21.11.1994)",
+                "Market Value": "€11.4m",
+                "unicode": "hSbvVwW7"
+            },
+            {
+                "players_name": "Oblak J. (G)",
+                "players_number": "13",
+                "Full Name": "Jan Oblak",
+                "players_rating": 7.4,
+                "Country": "Slovenia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (07.01.1993)",
+                "Market Value": "€32.8m",
+                "unicode": "SYy8ZHN9"
+            },
+            {
+                "players_name": "Partey T.",
+                "players_number": "5",
+                "Full Name": "Thomas Partey",
+                "players_rating": 8.1,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (13.06.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "pMErKGnf"
+            },
+            {
+                "players_name": "Vietto L.",
+                "players_number": "17",
+                "Full Name": "Luciano Vietto",
+                "players_rating": 6.6,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (05.12.1993)",
+                "Market Value": "€2.3m",
+                "unicode": "KtpJdyan"
+            },
+            {
+                "players_name": "Vrsaljko S.",
+                "players_number": "16",
+                "Full Name": "Sime Vrsaljko",
+                "players_rating": 6.9,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (10.01.1992)",
+                "Market Value": "",
+                "unicode": "QeDP63jB"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Gabi",
+                "players_number": "14",
+                "Full Name": "Gabi",
+                "players_rating": 5.9,
+                "Country": "Spain",
+                "Role": "End of career",
+                "Age and Birthdate": "40, (10.07.1983)",
+                "Market Value": "",
+                "unicode": "Q3asrkFf"
+            },
+            {
+                "players_name": "Savic S.",
+                "players_number": "15",
+                "Full Name": "Stefan Savic",
+                "players_rating": 6.5,
+                "Country": "Montenegro",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (08.01.1991)",
+                "Market Value": "€4.8m",
+                "unicode": "rXcV9ZCT"
+            },
+            {
+                "players_name": "Torres F.",
+                "players_number": "9",
+                "Full Name": "Fernando Torres",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "End of career",
+                "Age and Birthdate": "39, (20.03.1984)",
+                "Market Value": "",
+                "unicode": "65srZ2Lb"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Filipe Luis",
+                "players_number": "3",
+                "Full Name": "Filipe Luis",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (09.08.1985)",
+                "Market Value": "",
+                "unicode": "CCTRYs3a"
+            },
+            {
+                "players_name": "Gameiro K.",
+                "players_number": "21",
+                "Full Name": "Kevin Gameiro",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (09.05.1987)",
+                "Market Value": "€936k",
+                "unicode": "jXicQsm7"
+            },
+            {
+                "players_name": "Juanfran",
+                "players_number": "20",
+                "Full Name": "Juanfran",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (09.01.1985)",
+                "Market Value": "",
+                "unicode": "jLwtE6Rq"
+            },
+            {
+                "players_name": "Moya M. A. (G)",
+                "players_number": "1",
+                "Full Name": "Miguel Angel Moya",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (02.04.1984)",
+                "Market Value": "",
+                "unicode": "IJ9sTzj2"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Marquez M.",
+                "players_number": "",
+                "Full Name": "Manuel Marquez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "55,  (07.09.1968)",
+                "Market Value": "",
+                "unicode": "EHb7Dqs8"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Gomez V.",
+                "players_number": "",
+                "Full Name": "Vicente Gomez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (31.08.1988)",
+                "Market Value": "",
+                "unicode": "nNlcnTOi"
+            },
+            {
+                "players_name": "Halilovic A.",
+                "players_number": "",
+                "Full Name": "Alen Halilovic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (18.06.1996)",
+                "Market Value": "€1.3m",
+                "unicode": "2FheGZdd"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bigas P.",
+                "players_number": "17",
+                "Full Name": "Pedro Bigas",
+                "players_rating": 5.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (15.05.1990)",
+                "Market Value": "€950k",
+                "unicode": "8docB4Zn"
+            },
+            {
+                "players_name": "Castellano D.",
+                "players_number": "23",
+                "Full Name": "Dani Castellano",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (02.11.1987)",
+                "Market Value": "",
+                "unicode": "0IIjRIhq"
+            },
+            {
+                "players_name": "Chichizola L. (G)",
+                "players_number": "13",
+                "Full Name": "Leandro Chichizola",
+                "players_rating": 4.9,
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (27.03.1990)",
+                "Market Value": "€386k",
+                "unicode": "ba10fZZI"
+            },
+            {
+                "players_name": "Gonzalez F.",
+                "players_number": "27",
+                "Full Name": "Fabio Gonzalez",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.02.1997)",
+                "Market Value": "€570k",
+                "unicode": "fgqxKdwL"
+            },
+            {
+                "players_name": "Hernan",
+                "players_number": "14",
+                "Full Name": "Hernan",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (26.08.1990)",
+                "Market Value": "€92k",
+                "unicode": "xtwaOuVM"
+            },
+            {
+                "players_name": "Jonathan Calleri",
+                "players_number": "9",
+                "Full Name": "Jonathan Calleri",
+                "players_rating": 6.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (23.09.1993)",
+                "Market Value": "€4.0m",
+                "unicode": "S4KKxXdC"
+            },
+            {
+                "players_name": "Lemos M.",
+                "players_number": "3",
+                "Full Name": "Mauricio Lemos",
+                "players_rating": 5.8,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (28.12.1995)",
+                "Market Value": "€2.4m",
+                "unicode": "jPE2JWgh"
+            },
+            {
+                "players_name": "Momo F. C.",
+                "players_number": "11",
+                "Full Name": "Figueroa Cabrera Momo",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "41, (15.07.1982)",
+                "Market Value": "",
+                "unicode": "YqcDhahi"
+            },
+            {
+                "players_name": "Simon D.",
+                "players_number": "2",
+                "Full Name": "David Simon",
+                "players_rating": 5.9,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.12.1988)",
+                "Market Value": "€143k",
+                "unicode": "CbslC3v9"
+            },
+            {
+                "players_name": "Tana",
+                "players_number": "24",
+                "Full Name": "Tana",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (20.09.1990)",
+                "Market Value": "",
+                "unicode": "MDxXkC3T"
+            },
+            {
+                "players_name": "Viera J. (C)",
+                "players_number": "21",
+                "Full Name": "Jonathan Viera",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€1.6m, (21.10.1989)",
+                "Market Value": "30.06.2026",
+                "unicode": "p6K2OGx2"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Araujo S.",
+                "players_number": "10",
+                "Full Name": "Sergio Araujo",
+                "players_rating": 6.4,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (28.01.1992)",
+                "Market Value": "€2.4m",
+                "unicode": "b7fGei1R"
+            },
+            {
+                "players_name": "Castellano J.",
+                "players_number": "18",
+                "Full Name": "Javi Castellano",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (02.11.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "KK4MroOG"
+            },
+            {
+                "players_name": "Ramirez B.",
+                "players_number": "28",
+                "Full Name": "Benito Ramirez",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (11.07.1995)",
+                "Market Value": "€468k",
+                "unicode": "pjIG0H3d"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Herrera B.",
+                "players_number": "15",
+                "Full Name": "Borja Herrera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (08.01.1993)",
+                "Market Value": "€294k",
+                "unicode": "jRisiuQg"
+            },
+            {
+                "players_name": "Michel Macedo",
+                "players_number": "12",
+                "Full Name": "Michel Macedo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (15.02.1990)",
+                "Market Value": "€320k",
+                "unicode": "2BmsE2u8"
+            },
+            {
+                "players_name": "Navarro X.",
+                "players_number": "22",
+                "Full Name": "Ximo Navarro",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (23.01.1990)",
+                "Market Value": "€285k",
+                "unicode": "QHP29Y9q"
+            },
+            {
+                "players_name": "Raul C. (G)",
+                "players_number": "1",
+                "Full Name": "Cruz Raul",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "32, (27.01.1991)",
+                "Market Value": "€374k",
+                "unicode": "0YMlqiSM"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "It finished 0:1 in the last game between Las Palmas and Valencia.",
+            "comments_text_anonymized": "It finished 0:1 in the last game between [TEAM] and Valencia."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Atl. Madrid will miss a few players for this clash: Jose Maria Gimenez (Quarantine), Diego Costa (Red Card), Diego Costa (Stomach Disorder), Diego Costa (Yellow Cards), Diego Costa (Injury), Diego Costa (Groin Injury), Diego Costa (Yellow Cards), Diego Costa (Red Card), Diego Costa (Red Card), Diego Costa (Yellow Cards), Luis Suarez (Knee Injury), Luis Suarez (Yellow Cards), Luis Suarez (Leg Injury), Luis Suarez (Rest), Luis Suarez (Knee Injury), Luis Suarez (Calf Injury), Luis Suarez (Knee Injury), Koke (Yellow Cards), Koke (Thigh Injury), Koke (Red Card), Koke (Yellow Cards), Kieran Trippier (Groin Injury), Saul (Yellow Cards), Saul (Coach's decision), Saul (Yellow Cards), Saul (Yellow Cards), Saul (Yellow Cards), Saul (Yellow Cards), Sime Vrsaljko (Foot Injury), Sime Vrsaljko (Injury), Sime Vrsaljko (Yellow Cards), Sime Vrsaljko (Red Card), Sime Vrsaljko (Knee Injury), Sime Vrsaljko (Quarantine), Stefan Savic (Red Card), Stefan Savic (Yellow Cards), Stefan Savic (Red Card), Stefan Savic (Red Card), Stefan",
+            "comments_text_anonymized": "[TEAM] will miss a few players for this clash: [PLAYER] ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Diego Costa ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), Luis Suarez ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), Kieran Trippier ([TEAM]), Saul ([TEAM]), Saul ([TEAM]), Saul ([TEAM]), Saul ([TEAM]), Saul ([TEAM]), Saul ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), [PLAYER] ([TEAM]), Stefan"
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Ignacio Iglesias Villanueva is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Atl. Madrid will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:40",
+            "comments_type": "ball possession",
+            "comments_text": "Atl. Madrid keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:50",
+            "comments_type": "clearance",
+            "comments_text": "Luciano Vietto (Atl. Madrid) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:25",
+            "comments_type": "goal",
+            "comments_text": "Angel Correa (Atl. Madrid) finishes his beautiful individual effort with a superb strike from inside the box. Leandro Chichizola is just a bystander as the ball flies into bottom right corner. The score is 0:1.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finishes his beautiful individual effort with a superb strike from inside the box. [PLAYER] is just a bystander as the ball flies into bottom right corner. The score is 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:01",
+            "comments_type": "goal",
+            "comments_text": "A great individual effort by Yannick Carrasco (Atl. Madrid)! Showcasing his skills, he weaves his way through the defence and produces a low shot from inside the box which goes into the bottom right corner. A quite a remarkable goal!",
+            "comments_text_anonymized": "A great individual effort by [PLAYER] ([TEAM])! Showcasing his skills, he weaves his way through the defence and produces a low shot from inside the box which goes into the bottom right corner. A quite a remarkable goal!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:30",
+            "comments_type": "corner",
+            "comments_text": "Hernan (UD Las Palmas) takes the corner kick but the ball only finds the head of an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "ball possession",
+            "comments_text": "Some great controlled play and passing from Las Palmas. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "Some great controlled play and passing from [TEAM]. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:50",
+            "comments_type": "ball out of play",
+            "comments_text": "Jonathan Viera (Las Palmas) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it. The ball goes out of play and Atl. Madrid will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:10",
+            "comments_type": "yellow card",
+            "comments_text": "Hernan (UD Las Palmas) has tested the patience of referee Ignacio Iglesias Villanueva and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:00",
+            "comments_type": "clearance",
+            "comments_text": "Yannick Carrasco (Atl. Madrid) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Jonathan Calleri (UD Las Palmas) commits a foul after bringing down his opponent with a slide tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after bringing down his opponent with a slide tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:24",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Figueroa Cabrera Momo (UD Las Palmas). Corner kick. Las Palmas will have an opportunity.",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:33",
+            "comments_type": "corner",
+            "comments_text": "Hernan (UD Las Palmas) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jonathan Viera (UD Las Palmas) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the left side of the goal, but is thwarted by a great save from Jan Oblak.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the left side of the goal, but is thwarted by a great save from [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:50",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Pedro Bigas (UD Las Palmas) was quite harsh and Ignacio Iglesias Villanueva didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:00",
+            "comments_type": "clearance",
+            "comments_text": "Saul (Atl. Madrid) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "Saul ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:57",
+            "comments_type": "clearance",
+            "comments_text": "Hernan (UD Las Palmas) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:18",
+            "comments_type": "ball possession",
+            "comments_text": "Las Palmas are showcasing great team work and neat passing moves.",
+            "comments_text_anonymized": "[TEAM] are showcasing great team work and neat passing moves."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:50",
+            "comments_type": "clearance",
+            "comments_text": "Saul (Atl. Madrid) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "comments_text_anonymized": "Saul ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Hernan (UD Las Palmas) was trying to get to the ball but clattered into the legs of the opponent as well. Ignacio Iglesias Villanueva blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:51",
+            "comments_type": "off side",
+            "comments_text": "Jonathan Viera (Las Palmas) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Jonathan Viera (UD Las Palmas). Ignacio Iglesias Villanueva blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Angel Correa (Atl. Madrid) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes out of play. Atl. Madrid are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:33",
+            "comments_type": "yellow card",
+            "comments_text": "Luciano Vietto (Atl. Madrid) is cautioned and receives a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned and receives a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:33",
+            "comments_type": "yellow card",
+            "comments_text": "Booking. Fabio Gonzalez (UD Las Palmas) receives a caution from the referee.",
+            "comments_text_anonymized": "Booking. [PLAYER] ([TEAM]) receives a caution from the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:40",
+            "comments_type": "corner",
+            "comments_text": "Koke (Atl. Madrid) takes the corner, but it's intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:45",
+            "comments_type": "corner",
+            "comments_text": "David Simon (UD Las Palmas) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. Las Palmas have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:33",
+            "comments_type": "corner",
+            "comments_text": "Hernan (UD Las Palmas) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Luciano Vietto (Atl. Madrid) was too fierce in his attempt to get the ball from his opponent and Ignacio Iglesias Villanueva blows for a foul. Free kick. Las Palmas will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:49",
+            "comments_type": "shot off target",
+            "comments_text": "Mauricio Lemos (UD Las Palmas) unleashed a poor free kick shot from far out. He intended to threaten the goalkeeper, but instead sent the ball high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a poor free kick shot from far out. He intended to threaten the goalkeeper, but instead sent the ball high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:48",
+            "comments_type": "end of half game",
+            "comments_text": "The match has reached half-time.",
+            "comments_text_anonymized": "The match has reached half-time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:32",
+            "comments_type": "clearance",
+            "comments_text": "Koke (Atl. Madrid) threads a pass through to Luciano Vietto, but Leandro Chichizola breaks up the move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) threads a pass through to [PLAYER], but [PLAYER] breaks up the move."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:40",
+            "comments_type": "off side",
+            "comments_text": "Jonathan Calleri (UD Las Palmas) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Yannick Carrasco (Atl. Madrid) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. The ball is out of play and the linesman points at the corner flag. Corner to Atl. Madrid.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:35",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Koke (Atl. Madrid) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Luciano Vietto (Atl. Madrid) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Ignacio Iglesias Villanueva with no other option than to blow for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:34",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jan Oblak reacts well to deny a long-range free kick from Mauricio Lemos (UD Las Palmas) towards the middle of the goal.",
+            "comments_text_anonymized": "[PLAYER] reacts well to deny a long-range free kick from [PLAYER] ([TEAM]) towards the middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:07",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Luciano Vietto walks off the pitch and Gabi (Atl. Madrid) comes on as a substitute.",
+            "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:38",
+            "comments_type": "shot off target",
+            "comments_text": "Yannick Carrasco (Atl. Madrid) creates some space for himself and unleashes a strike from long range, but his effort sails just over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates some space for himself and unleashes a strike from long range, but his effort sails just over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:54",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Jonathan Calleri (UD Las Palmas) makes it 1:2. He jumped highest to connect with a perfect cross from Figueroa Cabrera Momo and planted his close-range header into the middle of the goal. Jan Oblak was helpless.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) makes it 1:2. He jumped highest to connect with a perfect cross from [PLAYER] and planted his close-range header into the middle of the goal. [PLAYER] was helpless."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Jonathan Calleri (UD Las Palmas) was too forceful with his tackle and Ignacio Iglesias Villanueva interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:38",
+            "comments_type": "goal",
+            "comments_text": "Koke (Atl. Madrid) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes inside the right post. He makes it 1:3 with this magnificent strike.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes inside the right post. He makes it 1:3 with this magnificent strike."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:18",
+            "comments_type": "yellow card",
+            "comments_text": "Jonathan Viera (UD Las Palmas) is shown a deserved yellow card for saying too much to the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a deserved yellow card for saying too much to the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "substitution",
+            "comments_text": "Diego Simeone prepares a substitution. Angel Correa is replaced by Fernando Torres (Atl. Madrid).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:20",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Sergio Araujo (UD Las Palmas) in, Fabio Gonzalez out.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:32",
+            "comments_type": "corner",
+            "comments_text": "Hernan (UD Las Palmas) decides to speed play up with a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:48",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Dani Castellano (UD Las Palmas) sends a long ball in, but Jan Oblak comfortably gathers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:20",
+            "comments_type": "substitution",
+            "comments_text": "Diego Simeone decides to make a substitution. Sime Vrsaljko will be replaced by Stefan Savic (Atl. Madrid).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Jonathan Calleri (UD Las Palmas) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:31",
+            "comments_type": "clearance",
+            "comments_text": "David Simon (UD Las Palmas) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:01",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Koke (Atl. Madrid) gets to the rebound inside the box and fires in a stunning overhead kick. Phenomenal finish! 1:4.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) gets to the rebound inside the box and fires in a stunning overhead kick. Phenomenal finish! 1:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:06",
+            "comments_type": "substitution",
+            "comments_text": "Manuel Marquez has decided to substitute Figueroa Cabrera Momo and he is replaced by Javi Castellano (UD Las Palmas).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:22",
+            "comments_type": "substitution",
+            "comments_text": "It will be a substitution. Benito Ramirez (UD Las Palmas) is ready to enter the pitch as Hernan walks off.",
+            "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:46",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Gabi (Atl. Madrid) brings an opponent down and Ignacio Iglesias Villanueva interrupts the game. PENALTY to Las Palmas! Let's see who will take responsibility.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game. PENALTY to [TEAM]! Let's see who will take responsibility."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "free kick",
+            "comments_text": "Jonathan Viera (UD Las Palmas) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:52",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Jonathan Viera (UD Las Palmas) has a great chance to score from the penalty. He shoots to the left post, but Jan Oblak leaps out to thwart his attempt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a great chance to score from the penalty. He shoots to the left post, but [PLAYER] leaps out to thwart his attempt."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:51",
+            "comments_type": "shot off target",
+            "comments_text": "Jonathan Viera (UD Las Palmas) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:19",
+            "comments_type": "goal",
+            "comments_text": "Brilliant finish! Thomas (Atl. Madrid) perfectly collected a pass on the edge of the penalty area from Yannick Carrasco, then produced a nice strike into the top left corner. The score is 1:5.",
+            "comments_text_anonymized": "Brilliant finish! Thomas ([TEAM]) perfectly collected a pass on the edge of the penalty area from [PLAYER], then produced a nice strike into the top left corner. The score is 1:5."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 2 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 2 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:07",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Ignacio Iglesias Villanueva has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, [REFEREE] has blown his whistle and the game is over."
+        }
+    ]
+}

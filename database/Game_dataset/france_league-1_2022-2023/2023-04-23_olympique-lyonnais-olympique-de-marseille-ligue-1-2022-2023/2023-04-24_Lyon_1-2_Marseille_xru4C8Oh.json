@@ -1,0 +1,989 @@
+{
+    "match_info": {
+        "timestamp": "2023-04-24 02:45:00",
+        "score": "1 - 2",
+        "home_team": "Lyon",
+        "away_team": "Marseille",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 4 - 2 - 1",
+        "venue": "Parc Olympique Lyonnais (Lyon)",
+        "capacity": "59 186",
+        "attendance": "57 509",
+        "home_jersey_color": "white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Brisard J. (Fra)",
+        "first_name": "Brisard",
+        "abbr_last_name": "J",
+        "country": "Fra",
+        "detected_name": "Jerome Brisard"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Blanc L.",
+                "players_number": "",
+                "Full Name": "Laurent Blanc",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "58,  (19.11.1965)",
+                "Market Value": "",
+                "unicode": "697mbZk2"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "El Arouch M.",
+                "players_number": "",
+                "Full Name": "Mohamed El Arouch",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (06.04.2004)",
+                "Market Value": "30.06.2025",
+                "unicode": "S6zdF3fk"
+            },
+            {
+                "players_name": "Kumbedi S.",
+                "players_number": "",
+                "Full Name": "Sael Kumbedi",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "18, (26.03.2005)",
+                "Market Value": "€9.8m",
+                "unicode": "vaX5DmSc"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Barcola B.",
+                "players_number": "26",
+                "Full Name": "Bradley Barcola",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (02.09.2002)",
+                "Market Value": "€30.2m",
+                "unicode": "lhGD3RgS"
+            },
+            {
+                "players_name": "Caqueret M.",
+                "players_number": "6",
+                "Full Name": "Maxence Caqueret",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (15.02.2000)",
+                "Market Value": "€18.1m",
+                "unicode": "0U8JJaVd"
+            },
+            {
+                "players_name": "Cherki R.",
+                "players_number": "18",
+                "Full Name": "Rayan Cherki",
+                "players_rating": 6.5,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (17.08.2003)",
+                "Market Value": "€25.5m",
+                "unicode": "vm0eu2V3"
+            },
+            {
+                "players_name": "Diomande S.",
+                "players_number": "2",
+                "Full Name": "Sinaly Diomande",
+                "players_rating": 6.7,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (09.04.2001)",
+                "Market Value": "€6.8m",
+                "unicode": "6X2uao2q"
+            },
+            {
+                "players_name": "Lacazette A. (C)",
+                "players_number": "10",
+                "Full Name": "Alexandre Lacazette",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (28.05.1991)",
+                "Market Value": "€10.1m",
+                "unicode": "YegtWFr9"
+            },
+            {
+                "players_name": "Lopes A. (G)",
+                "players_number": "1",
+                "Full Name": "Anthony Lopes",
+                "players_rating": 7.3,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (01.10.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "dKmI2jJT"
+            },
+            {
+                "players_name": "Lovren D.",
+                "players_number": "5",
+                "Full Name": "Dejan Lovren",
+                "players_rating": 6.7,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.07.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "GAcQF9Z6"
+            },
+            {
+                "players_name": "Lukeba C.",
+                "players_number": "4",
+                "Full Name": "Castello Lukeba",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (17.12.2002)",
+                "Market Value": "€39.7m",
+                "unicode": "6X0C61vo"
+            },
+            {
+                "players_name": "Mendes T.",
+                "players_number": "23",
+                "Full Name": "Thiago Mendes",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.03.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "ruoGJp6S"
+            },
+            {
+                "players_name": "Tagliafico N.",
+                "players_number": "3",
+                "Full Name": "Nicolas Tagliafico",
+                "players_rating": 6.6,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (31.08.1992)",
+                "Market Value": "€7.8m",
+                "unicode": "jgaGiVOl"
+            },
+            {
+                "players_name": "Tolisso C.",
+                "players_number": "88",
+                "Full Name": "Corentin Tolisso",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (03.08.1994)",
+                "Market Value": "€5.0m",
+                "unicode": "hQOIoFOs"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Gusto M.",
+                "players_number": "27",
+                "Full Name": "Malo Gusto",
+                "players_rating": 6.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (19.05.2003)",
+                "Market Value": "€24.1m",
+                "unicode": "YNCrLSO2"
+            },
+            {
+                "players_name": "Jeffinho",
+                "players_number": "47",
+                "Full Name": "Jeffinho",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (30.12.1999)",
+                "Market Value": "€4.8m",
+                "unicode": "lCPMY0YK"
+            },
+            {
+                "players_name": "Lepenant J.",
+                "players_number": "24",
+                "Full Name": "Johann Lepenant",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (22.10.2002)",
+                "Market Value": "€7.5m",
+                "unicode": "21Ny44li"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Aouar H.",
+                "players_number": "8",
+                "Full Name": "Houssem Aouar",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€12.0m",
+                "unicode": "E7gaowFp"
+            },
+            {
+                "players_name": "Boateng J.",
+                "players_number": "17",
+                "Full Name": "Jerome Boateng",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (03.09.1988)",
+                "Market Value": "",
+                "unicode": "0bDEBms3"
+            },
+            {
+                "players_name": "Dembele M.",
+                "players_number": "9",
+                "Full Name": "Moussa Dembele",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (12.07.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "jBP2q6F0"
+            },
+            {
+                "players_name": "Henrique",
+                "players_number": "12",
+                "Full Name": "Henrique",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (25.04.1994)",
+                "Market Value": "€936k",
+                "unicode": "Ei3q3RZI"
+            },
+            {
+                "players_name": "Riou R. (G)",
+                "players_number": "35",
+                "Full Name": "Remy Riou",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (06.08.1987)",
+                "Market Value": "€374k",
+                "unicode": "6Nb8GjF8"
+            },
+            {
+                "players_name": "Sarr A.",
+                "players_number": "7",
+                "Full Name": "Amin Sarr",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (11.03.2001)",
+                "Market Value": "€3.7m",
+                "unicode": "2HYYjAtD"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Tudor I.",
+                "players_number": "",
+                "Full Name": "Igor Tudor",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (16.04.1978)",
+                "Market Value": "",
+                "unicode": "Qu12kvXf"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Harit A.",
+                "players_number": "",
+                "Full Name": "Amine Harit",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.06.1997)",
+                "Market Value": "€15.1m",
+                "unicode": "lxSgSRDd"
+            },
+            {
+                "players_name": "Ounahi A.",
+                "players_number": "",
+                "Full Name": "Azzedine Ounahi",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (19.04.2000)",
+                "Market Value": "€11.7m",
+                "unicode": "reDF5hxm"
+            },
+            {
+                "players_name": "Ruiz P.",
+                "players_number": "",
+                "Full Name": "Pedro Ruiz",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (30.03.2000)",
+                "Market Value": "30.06.2024",
+                "unicode": "rwGnwOU5"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Balerdi L.",
+                "players_number": "5",
+                "Full Name": "Leonardo Balerdi",
+                "players_rating": 6.8,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (26.01.1999)",
+                "Market Value": "€9.9m",
+                "unicode": "OYrb8EBS"
+            },
+            {
+                "players_name": "Clauss J.",
+                "players_number": "7",
+                "Full Name": "Jonathan Clauss",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (25.09.1992)",
+                "Market Value": "€15.3m",
+                "unicode": "Ag37eHIn"
+            },
+            {
+                "players_name": "Gigot S.",
+                "players_number": "4",
+                "Full Name": "Samuel Gigot",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (12.10.1993)",
+                "Market Value": "€9.9m",
+                "unicode": "G8cfGd8h"
+            },
+            {
+                "players_name": "Kabore I.",
+                "players_number": "29",
+                "Full Name": "Issa Kabore",
+                "players_rating": 7.1,
+                "Country": "Burkina Faso",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (12.05.2001)",
+                "Market Value": "€9.6m",
+                "unicode": "xOoNh0S7"
+            },
+            {
+                "players_name": "Kolasinac S.",
+                "players_number": "23",
+                "Full Name": "Sead Kolasinac",
+                "players_rating": 6.3,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (20.06.1993)",
+                "Market Value": "€7.6m",
+                "unicode": "8xFYnbEi"
+            },
+            {
+                "players_name": "Lopez P. (G)",
+                "players_number": "16",
+                "Full Name": "Pau Lopez",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (13.12.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "rZes9CKA"
+            },
+            {
+                "players_name": "Malinovsky R.",
+                "players_number": "18",
+                "Full Name": "Ruslan Malinovsky",
+                "players_rating": 7.1,
+                "Country": "Ukraine",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (04.05.1993)",
+                "Market Value": "€9.2m",
+                "unicode": "GGkyU0bT"
+            },
+            {
+                "players_name": "Rongier V. (C)",
+                "players_number": "21",
+                "Full Name": "Valentin Rongier",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (07.12.1994)",
+                "Market Value": "€17.9m",
+                "unicode": "pQEvn0aK"
+            },
+            {
+                "players_name": "Sanchez A.",
+                "players_number": "70",
+                "Full Name": "Alexis Sanchez",
+                "players_rating": 7.3,
+                "Country": "Chile",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (19.12.1988)",
+                "Market Value": "€2.4m",
+                "unicode": "QgGt7V0d"
+            },
+            {
+                "players_name": "Under C.",
+                "players_number": "17",
+                "Full Name": "Cengiz Under",
+                "players_rating": 7.9,
+                "Country": "Turkey",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (14.07.1997)",
+                "Market Value": "€15.7m",
+                "unicode": "h2fbL8bG"
+            },
+            {
+                "players_name": "Veretout J.",
+                "players_number": "27",
+                "Full Name": "Jordan Veretout",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (01.03.1993)",
+                "Market Value": "€14.3m",
+                "unicode": "88twBgtc"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Vitinha",
+                "players_number": "9",
+                "Full Name": "Vitinha",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (15.03.2000)",
+                "Market Value": "€14.3m",
+                "unicode": "AazXYT3h"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "3",
+                "Full Name": "Eric Bailly",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.2m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "Blanco R. (G)",
+                "players_number": "36",
+                "Full Name": "Ruben Blanco",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (25.07.1995)",
+                "Market Value": "€2.3m",
+                "unicode": "4WfxXiUm"
+            },
+            {
+                "players_name": "Elmaz B.",
+                "players_number": "47",
+                "Full Name": "Bartug Elmaz",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (19.02.2003)",
+                "Market Value": "€703k",
+                "unicode": "ppoWi7k8"
+            },
+            {
+                "players_name": "Guendouzi M.",
+                "players_number": "6",
+                "Full Name": "Matteo Guendouzi",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (14.04.1999)",
+                "Market Value": "€18.4m",
+                "unicode": "6ZesE86o"
+            },
+            {
+                "players_name": "Mbemba Ch.",
+                "players_number": "99",
+                "Full Name": "Chancel Mbemba",
+                "players_rating": "",
+                "Country": "DR Congo",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (08.08.1994)",
+                "Market Value": "€15.1m",
+                "unicode": "U5hu6oJh"
+            },
+            {
+                "players_name": "Mughe F. R.",
+                "players_number": "33",
+                "Full Name": "Francois Regis Mughe",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (16.06.2004)",
+                "Market Value": "€865k",
+                "unicode": "8AkWJtFg"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Jerome Brisard is the one to supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] is the one to supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Marseille will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Jerome Brisard blows his whistle. Leonardo Balerdi (Marseille) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:54",
+            "comments_type": "injury",
+            "comments_text": "Samuel Gigot (Marseille) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:12",
+            "comments_type": "ball possession",
+            "comments_text": "Lyon slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",
+            "comments_text_anonymized": "[TEAM] slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "ball out of play",
+            "comments_text": "Leonardo Balerdi (Marseille) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and Lyon will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:11",
+            "comments_type": "clearance",
+            "comments_text": "Alexis Sanchez (Marseille) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:25",
+            "comments_type": "off side",
+            "comments_text": "Issa Kabore (Marseille) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:46",
+            "comments_type": "clearance",
+            "comments_text": "Alexandre Lacazette (Lyon) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:48",
+            "comments_type": "lead to corner",
+            "comments_text": "Rayan Cherki (Lyon) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Lyon.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:13",
+            "comments_type": "corner",
+            "comments_text": "The corner is swung in but Lyon can’t take advantage as a defender sweeps the ball away.",
+            "comments_text_anonymized": "The corner is swung in but [TEAM] can’t take advantage as a defender sweeps the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:30",
+            "comments_type": "ball possession",
+            "comments_text": "Long passes, short passes and one-two passes. Lyon are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment.",
+            "comments_text_anonymized": "Long passes, short passes and one-two passes. [TEAM] are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:03",
+            "comments_type": "clearance",
+            "comments_text": "Thiago Mendes (Lyon) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "injury",
+            "comments_text": "Issa Kabore (Marseille) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:18",
+            "comments_type": "injury",
+            "comments_text": "Issa Kabore (Marseille) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:07",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Valentin Rongier (Marseille) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Maxence Caqueret (Lyon) commits a rough challenge and Jerome Brisard blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:15",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jonathan Clauss (Marseille) swings a cross into the box, but it's far too close to Anthony Lopes, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:30",
+            "comments_type": "shot off target",
+            "comments_text": "The ball rebounds to Ruslan Malinovsky (Marseille) inside the box after a goalmouth scramble, but he bends the ball well wide of the left post.",
+            "comments_text_anonymized": "The ball rebounds to [PLAYER] ([TEAM]) inside the box after a goalmouth scramble, but he bends the ball well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:30",
+            "comments_type": "foul with no card",
+            "comments_text": "A clumsy foul by Issa Kabore (Marseille) and Jerome Brisard blows his whistle.",
+            "comments_text_anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:05",
+            "comments_type": "shot off target",
+            "comments_text": "Alexandre Lacazette (Lyon) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:09",
+            "comments_type": "yellow card",
+            "comments_text": "Jerome Brisard shows a yellow card to Sinaly Diomande (Lyon) for a tough tackle.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Issa Kabore (Marseille) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:13",
+            "comments_type": "ball possession",
+            "comments_text": "Great teamplay by Lyon as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "comments_text_anonymized": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Jordan Veretout (Marseille) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Marseille win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:19",
+            "comments_type": "corner",
+            "comments_text": "Cengiz Under (Marseille) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:25",
+            "comments_type": "shot off target",
+            "comments_text": "Alexis Sanchez (Marseille) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:58",
+            "comments_type": "clearance",
+            "comments_text": "Cengiz Under (Marseille) attempted to pick out a free teammate inside the box, but Anthony Lopes comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! Cengiz Under (Marseille) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 3 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 3 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:14",
+            "comments_type": "ball out of play",
+            "comments_text": "Jordan Veretout (Marseille) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:37",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:15",
+            "comments_type": "corner",
+            "comments_text": "Lyon have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:00",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Marseille is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:40",
+            "comments_type": "yellow card",
+            "comments_text": "Today's referee Jerome Brisard rightly decides to book Sead Kolasinac (Marseille) for his harsh tackle.",
+            "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:02",
+            "comments_type": "clearance",
+            "comments_text": "Jonathan Clauss (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:50",
+            "comments_type": "yellow card",
+            "comments_text": "Corentin Tolisso (Lyon) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Jerome Brisard ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:20",
+            "comments_type": "ball possession",
+            "comments_text": "Lyon enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "comments_text_anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:58",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Rayan Cherki (Lyon) attempted to dribble past an opposing player. Now Lyon have a corner.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:59",
+            "comments_type": "corner",
+            "comments_text": "Lyon work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:04",
+            "comments_type": "corner",
+            "comments_text": "Maxence Caqueret (Lyon) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:16",
+            "comments_type": "clearance",
+            "comments_text": "Jonathan Clauss (Marseille) tries to send a pass but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:50",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Lovren (Lyon) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:04",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A pass travels right across the box to Jordan Veretout (Marseille) and gives him a sight of goal. He tries to beat the keeper in the bottom right corner, but Anthony Lopes denies him with a decent save.",
+            "comments_text_anonymized": "A pass travels right across the box to [PLAYER] ([TEAM]) and gives him a sight of goal. He tries to beat the keeper in the bottom right corner, but [PLAYER] denies him with a decent save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:12",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Maxence Caqueret (Lyon) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:33",
+            "comments_type": "goal",
+            "comments_text": "What a brilliant finish! Alexandre Lacazette (Lyon) latches on to an inch-perfect cross into the box and fires the ball past the helpless goalkeeper.",
+            "comments_text_anonymized": "What a brilliant finish! [PLAYER] ([TEAM]) latches on to an inch-perfect cross into the box and fires the ball past the helpless goalkeeper."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Jonathan Clauss (Marseille) is thwarted and cleared to safety. It's a throw-in for Marseille.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety. It's a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:25",
+            "comments_type": "clearance",
+            "comments_text": "Bradley Barcola (Lyon) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:53",
+            "comments_type": "foul with no card",
+            "comments_text": "Jonathan Clauss (Marseille) gives away a foul for a fierce tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:50",
+            "comments_type": "corner",
+            "comments_text": "Marseille can’t profit from the corner as the defence clear the ball upfield.",
+            "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:51",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Bradley Barcola (Lyon) makes way for Malo Gusto.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) makes way for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:32",
+            "comments_type": "substitution",
+            "comments_text": "Laurent Blanc has decided to introduce fresh legs, with Johann Lepenant (Lyon) replacing Thiago Mendes.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:19",
+            "comments_type": "substitution",
+            "comments_text": "The substitution has been made. Jeffinho (Lyon) has replaced Rayan Cherki.",
+            "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:28",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Ruslan Malinovsky is given a rest as he is replaced by Vitinha (Marseille).",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:40",
+            "comments_type": "ball possession",
+            "comments_text": "Lyon seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:40",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Sead Kolasinac (Marseille) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:04",
+            "comments_type": "ball possession",
+            "comments_text": "The Lyon players are exchanging some short passes.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:43",
+            "comments_type": "goal",
+            "comments_text": "Malo Gusto (Lyon) sends the ball into his own net after a crazy goalmouth scramble.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into his own net after a crazy goalmouth scramble."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:54",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

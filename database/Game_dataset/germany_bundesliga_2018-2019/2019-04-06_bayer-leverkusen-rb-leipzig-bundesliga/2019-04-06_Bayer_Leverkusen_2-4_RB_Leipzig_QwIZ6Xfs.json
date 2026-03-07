@@ -1,0 +1,978 @@
+{
+    "match_info": {
+        "timestamp": "2019-04-06 21:30:00",
+        "score": "2 - 4",
+        "home_team": "Bayer Leverkusen",
+        "away_team": "RB Leipzig",
+        "home_formation": "4 - 1 - 2 - 3",
+        "away_formation": "4 - 4 - 2",
+        "venue": "BayArena (Leverkusen)",
+        "capacity": "30 210",
+        "attendance": "28 845",
+        "home_jersey_color": "black",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Welz T. (Ger)",
+        "first_name": "Welz",
+        "abbr_last_name": "T",
+        "country": "Ger",
+        "detected_name": "Tobias Welz"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Bosz P.",
+                "players_number": "",
+                "Full Name": "Peter Bosz",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (21.11.1963)",
+                "Market Value": "",
+                "unicode": "Ak7J86g1"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Bellarabi K.",
+                "players_number": "",
+                "Full Name": "Karim Bellarabi",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (08.04.1990)",
+                "Market Value": "",
+                "unicode": "p2FZf6PS"
+            },
+            {
+                "players_name": "Bender L.",
+                "players_number": "",
+                "Full Name": "Lars Bender",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (27.04.1989)",
+                "Market Value": "",
+                "unicode": "hdb8KoFd"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Aranguiz C.",
+                "players_number": "20",
+                "Full Name": "Charles Aranguiz",
+                "players_rating": 6.6,
+                "Country": "Chile",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (17.04.1989)",
+                "Market Value": "€1.8m",
+                "unicode": "EZc7f9C5"
+            },
+            {
+                "players_name": "Bailey L.",
+                "players_number": "9",
+                "Full Name": "Leon Bailey",
+                "players_rating": 7.2,
+                "Country": "Jamaica",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (09.08.1997)",
+                "Market Value": "€29.4m",
+                "unicode": "Mc0XPojG"
+            },
+            {
+                "players_name": "Baumgartlinger J.",
+                "players_number": "15",
+                "Full Name": "Julian Baumgartlinger",
+                "players_rating": 7.0,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (02.01.1988)",
+                "Market Value": "",
+                "unicode": "2Va6jkSe"
+            },
+            {
+                "players_name": "Bender S.",
+                "players_number": "5",
+                "Full Name": "Sven Bender",
+                "players_rating": 6.4,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (27.04.1989)",
+                "Market Value": "",
+                "unicode": "v1r7SOW5"
+            },
+            {
+                "players_name": "Brandt J.",
+                "players_number": "10",
+                "Full Name": "Julian Brandt",
+                "players_rating": 6.6,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (02.05.1996)",
+                "Market Value": "€40.3m",
+                "unicode": "hW5Goyrc"
+            },
+            {
+                "players_name": "Havertz K.",
+                "players_number": "29",
+                "Full Name": "Kai Havertz",
+                "players_rating": 7.9,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (11.06.1999)",
+                "Market Value": "€53.0m",
+                "unicode": "rH8BZWiI"
+            },
+            {
+                "players_name": "Hradecky L. (G)",
+                "players_number": "1",
+                "Full Name": "Lukas Hradecky",
+                "players_rating": 5.4,
+                "Country": "Finland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (24.11.1989)",
+                "Market Value": "€2.5m",
+                "unicode": "nRZtaBXj"
+            },
+            {
+                "players_name": "Tah J.",
+                "players_number": "4",
+                "Full Name": "Jonathan Tah",
+                "players_rating": 6.2,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (11.02.1996)",
+                "Market Value": "€24.1m",
+                "unicode": "2yf8EcuE"
+            },
+            {
+                "players_name": "Volland K. (C)",
+                "players_number": "31",
+                "Full Name": "Kevin Volland",
+                "players_rating": 6.6,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (30.07.1992)",
+                "Market Value": "€4.7m",
+                "unicode": "dnpDxpQf"
+            },
+            {
+                "players_name": "Weiser M.",
+                "players_number": "23",
+                "Full Name": "Mitchell Weiser",
+                "players_rating": 6.1,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (21.04.1994)",
+                "Market Value": "€6.0m",
+                "unicode": "tYnkajw9"
+            },
+            {
+                "players_name": "Wendell",
+                "players_number": "18",
+                "Full Name": "Wendell",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (20.07.1993)",
+                "Market Value": "",
+                "unicode": "YsRt3zJE"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Alario L.",
+                "players_number": "13",
+                "Full Name": "Lucas Alario",
+                "players_rating": 5.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (08.10.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "GC953Lzc"
+            },
+            {
+                "players_name": "Paulinho",
+                "players_number": "7",
+                "Full Name": "Paulinho",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (15.07.2000)",
+                "Market Value": "€14.0m",
+                "unicode": "GExeArGJ"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Dragovic A.",
+                "players_number": "6",
+                "Full Name": "Aleksandar Dragovic",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (06.03.1991)",
+                "Market Value": "€3.9m",
+                "unicode": "YRJievfI"
+            },
+            {
+                "players_name": "Jedvaj T.",
+                "players_number": "16",
+                "Full Name": "Tin Jedvaj",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (28.11.1995)",
+                "Market Value": "€2.4m",
+                "unicode": "KMwIpNB1"
+            },
+            {
+                "players_name": "Kiese Thelin I.",
+                "players_number": "11",
+                "Full Name": "Isaac Kiese Thelin",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (24.06.1992)",
+                "Market Value": "€2.2m",
+                "unicode": "xlZHbeok"
+            },
+            {
+                "players_name": "Kohr D.",
+                "players_number": "21",
+                "Full Name": "Dominik Kohr",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (31.01.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "jHU6p6gQ"
+            },
+            {
+                "players_name": "Ozcan R. (G)",
+                "players_number": "28",
+                "Full Name": "Ramazan Ozcan",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (28.06.1984)",
+                "Market Value": "",
+                "unicode": "vi3Y2AIU"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Rangnick R.",
+                "players_number": "",
+                "Full Name": "Ralf Rangnick",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (29.06.1958)",
+                "Market Value": "",
+                "unicode": "4E1uDB0F"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Adams T.",
+                "players_number": "",
+                "Full Name": "Tyler Adams",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (14.02.1999)",
+                "Market Value": "€17.1m",
+                "unicode": "CWnkAe9t"
+            },
+            {
+                "players_name": "Nukan A.",
+                "players_number": "",
+                "Full Name": "Atinc Nukan",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (20.07.1993)",
+                "Market Value": "€503k",
+                "unicode": "KnO8nvCR"
+            },
+            {
+                "players_name": "Smith Rowe E.",
+                "players_number": "",
+                "Full Name": "Emile Smith Rowe",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (28.07.2000)",
+                "Market Value": "€23.8m",
+                "unicode": "fsJB9j4d"
+            },
+            {
+                "players_name": "Upamecano D.",
+                "players_number": "",
+                "Full Name": "Dayot Upamecano",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.10.1998)",
+                "Market Value": "€58.7m",
+                "unicode": "OMhLhEJB"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Forsberg E.",
+                "players_number": "10",
+                "Full Name": "Emil Forsberg",
+                "players_rating": 7.8,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (23.10.1991)",
+                "Market Value": "€5.6m",
+                "unicode": "IehILnUA"
+            },
+            {
+                "players_name": "Gulacsi P. (G)",
+                "players_number": "1",
+                "Full Name": "Peter Gulacsi",
+                "players_rating": 6.8,
+                "Country": "Hungary",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (06.05.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "lYMcgOCg"
+            },
+            {
+                "players_name": "Haidara A.",
+                "players_number": "8",
+                "Full Name": "Amadou Haidara",
+                "players_rating": 6.7,
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (31.01.1998)",
+                "Market Value": "€16.6m",
+                "unicode": "lYg9oNUk"
+            },
+            {
+                "players_name": "Halstenberg M.",
+                "players_number": "23",
+                "Full Name": "Marcel Halstenberg",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (27.09.1991)",
+                "Market Value": "€2.5m",
+                "unicode": "M905oPyB"
+            },
+            {
+                "players_name": "Kampl K.",
+                "players_number": "44",
+                "Full Name": "Kevin Kampl",
+                "players_rating": 6.9,
+                "Country": "Slovenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (09.10.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "ttXwlOTi"
+            },
+            {
+                "players_name": "Klostermann L.",
+                "players_number": "16",
+                "Full Name": "Lukas Klostermann",
+                "players_rating": 6.4,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.06.1996)",
+                "Market Value": "€7.5m",
+                "unicode": "KI3jSJTG"
+            },
+            {
+                "players_name": "Konate I.",
+                "players_number": "6",
+                "Full Name": "Ibrahima Konate",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (25.05.1999)",
+                "Market Value": "€37.7m",
+                "unicode": "QJlbDbQe"
+            },
+            {
+                "players_name": "Laimer K.",
+                "players_number": "27",
+                "Full Name": "Konrad Laimer",
+                "players_rating": 7.2,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (27.05.1997)",
+                "Market Value": "€26.6m",
+                "unicode": "GlHWqQKJ"
+            },
+            {
+                "players_name": "Orban W. (C)",
+                "players_number": "4",
+                "Full Name": "Willi Orban",
+                "players_rating": 7.0,
+                "Country": "Hungary",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (03.11.1992)",
+                "Market Value": "€10.2m",
+                "unicode": "WQdSnUfq"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "7",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": 7.8,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.7m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Werner T.",
+                "players_number": "11",
+                "Full Name": "Timo Werner",
+                "players_rating": 8.2,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (06.03.1996)",
+                "Market Value": "€16.4m",
+                "unicode": "lbaPqFC9"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Cunha M.",
+                "players_number": "20",
+                "Full Name": "Matheus Cunha",
+                "players_rating": 7.4,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (27.05.1999)",
+                "Market Value": "€30.4m",
+                "unicode": "bq5QzRdb"
+            },
+            {
+                "players_name": "Demme D.",
+                "players_number": "31",
+                "Full Name": "Diego Demme",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€936k",
+                "unicode": "6XydaRuI"
+            },
+            {
+                "players_name": "Mukiele N.",
+                "players_number": "22",
+                "Full Name": "Nordi Mukiele",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (01.11.1997)",
+                "Market Value": "€12.1m",
+                "unicode": "MoObMvb7"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Augustin J.",
+                "players_number": "29",
+                "Full Name": "Jean-Kevin Augustin",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (16.06.1997)",
+                "Market Value": "€922k",
+                "unicode": "4zFvpLV4"
+            },
+            {
+                "players_name": "Bruma",
+                "players_number": "17",
+                "Full Name": "Bruma",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (24.10.1994)",
+                "Market Value": "€6.4m",
+                "unicode": "6DBH2ptm"
+            },
+            {
+                "players_name": "Ilsanker S.",
+                "players_number": "13",
+                "Full Name": "Stefan Ilsanker",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (18.05.1989)",
+                "Market Value": "",
+                "unicode": "88jzmng2"
+            },
+            {
+                "players_name": "Mvogo Y. (G)",
+                "players_number": "28",
+                "Full Name": "Yvon Mvogo",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (06.06.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "fkOg2Gqj"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match.",
+            "comments_text_anonymized": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Tobias Welz will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Bayer Leverkusen will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:09",
+            "comments_type": "clearance",
+            "comments_text": "Julian Brandt (Bayer Leverkusen) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:33",
+            "comments_type": "clearance",
+            "comments_text": "Mitchell Weiser (Bayer Leverkusen) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play. Bayer Leverkusen will take a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag and Bayer Leverkusen will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:37",
+            "comments_type": "corner",
+            "comments_text": "Bayer Leverkusen have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:40",
+            "comments_type": "shot off target",
+            "comments_text": "The ball goes out of play and Bayer Leverkusen will have a goal kick. Timo Werner (RB Leipzig) receives a well-played pass inside the penalty area and shoots. He sends the ball into orbit.",
+            "comments_text_anonymized": "The ball goes out of play and [TEAM] will have a goal kick. [PLAYER] ([TEAM]) receives a well-played pass inside the penalty area and shoots. He sends the ball into orbit."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:38",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Willi Orban (RB Leipzig) jumps into a tackle and Tobias Welz blows his whistle for a foul. The referee makes a quick call and points to the penalty spot. Big scoring opportunity for Bayer Leverkusen.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. The referee makes a quick call and points to the penalty spot. Big scoring opportunity for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:40",
+            "comments_type": "foul with no card",
+            "comments_text": "A clumsy foul by Jonathan Tah (Bayer Leverkusen) and Tobias Welz blows his whistle.",
+            "comments_text_anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:54",
+            "comments_type": "free kick",
+            "comments_text": "Kai Havertz (Bayer Leverkusen) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:09",
+            "comments_type": "goal",
+            "comments_text": "Goal! Kai Havertz (Bayer Leverkusen) wins the battle of wills and sends an unstoppable penalty past Peter Gulacsi into the bottom left corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom left corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:03",
+            "comments_type": "yellow card",
+            "comments_text": "Tobias Welz shows a yellow card to Aranguiz (Bayer Leverkusen) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:50",
+            "comments_type": "goal",
+            "comments_text": "Marcel Sabitzer (RB Leipzig) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up in the roof of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up in the roof of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:50",
+            "comments_type": "off side",
+            "comments_text": "Amadou Haidara (RB Leipzig) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:57",
+            "comments_type": "corner",
+            "comments_text": "Leon Bailey (Bayer Leverkusen) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Kai Havertz (Bayer Leverkusen) got to the ball in front of the goal and he couldn't miss from there. His strike went in off the left-hand post. The score is 2:1.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) got to the ball in front of the goal and he couldn't miss from there. His strike went in off the left-hand post. The score is 2:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:00",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Amadou Haidara (RB Leipzig) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:05",
+            "comments_type": "foul with no card",
+            "comments_text": "An opponent rises to his feet after being downed by Konrad Laimer (RB Leipzig). Tobias Welz saw the sliding tackle and blows for a foul.",
+            "comments_text_anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:10",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Jonathan Tah (Bayer Leverkusen) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:40",
+            "comments_type": "clearance",
+            "comments_text": "Leon Bailey (Bayer Leverkusen) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Bayer Leverkusen will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:04",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Julian Brandt (Bayer Leverkusen) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:10",
+            "comments_type": "shot off target",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) blasts the ball high over the crossbar. The ball is off of the pitch and it's a goal kick for RB Leipzig.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball high over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:29",
+            "comments_type": "shot off target",
+            "comments_text": "Chance! Julian Brandt (Bayer Leverkusen) took a nice pass in his stride in the box, but scuffed his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for RB Leipzig.",
+            "comments_text_anonymized": "Chance! [PLAYER] ([TEAM]) took a nice pass in his stride in the box, but scuffed his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Tobias Welz blows his whistle after Aranguiz (Bayer Leverkusen) brings one of his opponents down with a strong tackle.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Amadou Haidara (RB Leipzig) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. RB Leipzig have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:47",
+            "comments_type": "corner",
+            "comments_text": "Emil Forsberg (RB Leipzig) fails to deliver a decent cross from the corner and the ball goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to deliver a decent cross from the corner and the ball goes out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Kevin Volland (Bayer Leverkusen) fouls an opponent. At least that's what referee Tobias Welz signals.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:20",
+            "comments_type": "shot off target",
+            "comments_text": "Emil Forsberg (RB Leipzig) tries to find the head of a teammate in the box but overhits the cross.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:14",
+            "comments_type": "end of half game",
+            "comments_text": "The first half of today's match has just finished.",
+            "comments_text_anonymized": "The first half of today's match has just finished."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "The teams are back out for the second half and here is a change on the pitch. Ralf Rangnick gives a chance to Matheus Cunha (RB Leipzig) and Amadou Haidara is off.",
+            "comments_text_anonymized": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] ([TEAM]) and [PLAYER] is off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Ralf Rangnick decided to make a change. Lukas Klostermann is replaced by Nordi Mukiele (RB Leipzig).",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] decided to make a change. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:30",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Jonathan Tah (Bayer Leverkusen) was quite harsh and Tobias Welz didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:10",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Emil Forsberg (RB Leipzig) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:30",
+            "comments_type": "goal",
+            "comments_text": "Leon Bailey (Bayer Leverkusen) converts his chance into a goal!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) converts his chance into a goal!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:05",
+            "comments_type": "var",
+            "comments_text": "Wait! Referee Tobias Welz has indicated he is going to review the Bayer Leverkusen goal using VAR. It’s probably to see if there was an offside in the build-up.",
+            "comments_text_anonymized": "Wait! Referee [REFEREE] has indicated he is going to review the [TEAM] goal using VAR. It’s probably to see if there was an offside in the build-up."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:20",
+            "comments_type": "var",
+            "comments_text": "Celebrations are cut short for Bayer Leverkusen as the referee indicates NO GOAL after the VAR review shows it was offside!",
+            "comments_text_anonymized": "Celebrations are cut short for [TEAM] as the referee indicates NO GOAL after the VAR review shows it was offside!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:11",
+            "comments_type": "yellow card",
+            "comments_text": "Willi Orban (RB Leipzig) has tested the patience of referee Tobias Welz and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:12",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Kevin Volland (Bayer Leverkusen) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:05",
+            "comments_type": "clearance",
+            "comments_text": "Emil Forsberg (RB Leipzig) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Julian Brandt (Bayer Leverkusen) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:38",
+            "comments_type": "goal",
+            "comments_text": "Timo Werner (RB Leipzig) receives the ball inside the box, reacts quickly and coolly buries the ball low inside the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives the ball inside the box, reacts quickly and coolly buries the ball low inside the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "Kevin Kampl (RB Leipzig) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:00",
+            "comments_type": "var",
+            "comments_text": "Wait! The referee wants to check the penalty to RB Leipzig using VAR. He's heading over to the monitor now as the players anxiously wait.",
+            "comments_text_anonymized": "Wait! The referee wants to check the penalty to [TEAM] using VAR. He's heading over to the monitor now as the players anxiously wait."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:45",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The RB Leipzig players are happy as the referee awards a PENALTY after the VAR review!",
+            "comments_text_anonymized": "The [TEAM] players are happy as the referee awards a PENALTY after the VAR review!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:55",
+            "comments_type": "penalty",
+            "comments_text": "Emil Forsberg (RB Leipzig) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:52",
+            "comments_type": "goal",
+            "comments_text": "Goal! Emil Forsberg (RB Leipzig) puts the ball into the bottom right corner past the outstretched arm of Lukas Hradecky.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) puts the ball into the bottom right corner past the outstretched arm of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:37",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Lucas Alario (Bayer Leverkusen) has come on for Julian Baumgartlinger.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:05",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Alario (Bayer Leverkusen) latched on to a precise cross, but his bullet header missed the target. He should have done much better.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latched on to a precise cross, but his bullet header missed the target. He should have done much better."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "clearance",
+            "comments_text": "Timo Werner (RB Leipzig) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:19",
+            "comments_type": "corner",
+            "comments_text": "Julian Brandt (Bayer Leverkusen) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:55",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Paulinho (Bayer Leverkusen) comes on in place of Kevin Volland.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:33",
+            "comments_type": "corner",
+            "comments_text": "Leon Bailey (Bayer Leverkusen) overhits the corner kick and none of his teammates can their head on it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:50",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Matheus Cunha (RB Leipzig) collects a pass and from inside the box he lifts the ball over Lukas Hradecky, who was off his line. What a finish that is! 2:4.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) collects a pass and from inside the box he lifts the ball over [PLAYER], who was off his line. What a finish that is! 2:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:21",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Emil Forsberg is going off and Ralf Rangnick gives the last tactical orders to Diego Demme (RB Leipzig).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:03",
+            "comments_type": "lead to corner",
+            "comments_text": "Timo Werner (RB Leipzig) fires the ball at goal from inside the area, but it's well blocked. The ball is out of play and RB Leipzig manage to earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:21",
+            "comments_type": "corner",
+            "comments_text": "Marcel Halstenberg (RB Leipzig) decides to take a short corner instead of crossing into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:55",
+            "comments_type": "corner",
+            "comments_text": "Leon Bailey (Bayer Leverkusen) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:47",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Tobias Welz has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, [REFEREE] has blown his whistle and the game is over."
+        }
+    ]
+}

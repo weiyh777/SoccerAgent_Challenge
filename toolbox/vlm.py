@@ -1,6 +1,6 @@
 from qwen_vl_utils import process_vision_info
 import sys, torch
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox')
 from utils.vlm_distribution import vlm_model, vlm_processor
 
 

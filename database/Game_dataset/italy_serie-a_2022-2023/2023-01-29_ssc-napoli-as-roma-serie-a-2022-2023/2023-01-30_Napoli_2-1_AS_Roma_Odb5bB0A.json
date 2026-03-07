@@ -1,0 +1,1205 @@
+{
+    "match_info": {
+        "timestamp": "2023-01-30 03:45:00",
+        "score": "2 - 1",
+        "home_team": "Napoli",
+        "away_team": "AS Roma",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 4 - 2 - 1",
+        "venue": "Stadio Diego Armando Maradona (Naples)",
+        "capacity": "54 726",
+        "attendance": "50 000",
+        "home_jersey_color": "white",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Orsato D. (Ita)",
+        "first_name": "Orsato",
+        "abbr_last_name": "D",
+        "country": "Ita",
+        "detected_name": "Daniele Orsato"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Mourinho J.",
+                "players_number": "",
+                "Full Name": "Jose Mourinho",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (26.01.1963)",
+                "Market Value": "",
+                "unicode": "AwXQwGFe"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Celik Z.",
+                "players_number": "",
+                "Full Name": "Zeki Celik",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (17.02.1997)",
+                "Market Value": "€5.7m",
+                "unicode": "KG2a47J4"
+            },
+            {
+                "players_name": "Darboe E.",
+                "players_number": "",
+                "Full Name": "Ebrima Darboe",
+                "players_rating": "",
+                "Country": "Gambia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (01.06.2001)",
+                "Market Value": "€936k",
+                "unicode": "G0q0g1Mp"
+            },
+            {
+                "players_name": "Wijnaldum G.",
+                "players_number": "",
+                "Full Name": "Georginio Wijnaldum",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.11.1990)",
+                "Market Value": "€4.8m",
+                "unicode": "f9KgUUZu"
+            },
+            {
+                "players_name": "Zaniolo N.",
+                "players_number": "",
+                "Full Name": "Nicolo Zaniolo",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (02.07.1999)",
+                "Market Value": "€23.8m",
+                "unicode": "0G7MtHBl"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Abraham T.",
+                "players_number": "9",
+                "Full Name": "Tammy Abraham",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (02.10.1997)",
+                "Market Value": "€33.8m",
+                "unicode": "OYhxyduf"
+            },
+            {
+                "players_name": "Cristante B.",
+                "players_number": "4",
+                "Full Name": "Bryan Cristante",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.03.1995)",
+                "Market Value": "€19.6m",
+                "unicode": "t6u0o3h7"
+            },
+            {
+                "players_name": "Dybala P.",
+                "players_number": "21",
+                "Full Name": "Paulo Dybala",
+                "players_rating": 5.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (15.11.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "W4myUVXR"
+            },
+            {
+                "players_name": "Ibanez",
+                "players_number": "3",
+                "Full Name": "Ibanez",
+                "players_rating": 6.1,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (23.11.1998)",
+                "Market Value": "€23.8m",
+                "unicode": "tARMiREs"
+            },
+            {
+                "players_name": "Mancini G.",
+                "players_number": "23",
+                "Full Name": "Gianluca Mancini",
+                "players_rating": 6.2,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (17.04.1996)",
+                "Market Value": "€19.6m",
+                "unicode": "dMy1KKlG"
+            },
+            {
+                "players_name": "Matic N.",
+                "players_number": "8",
+                "Full Name": "Nemanja Matic",
+                "players_rating": 6.6,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Patricio R. (G)",
+                "players_number": "1",
+                "Full Name": "Rui Patricio",
+                "players_rating": 6.5,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (15.02.1988)",
+                "Market Value": "€3.3m",
+                "unicode": "44sSdBl6"
+            },
+            {
+                "players_name": "Pellegrini Lo. (C)",
+                "players_number": "7",
+                "Full Name": "Lorenzo Pellegrini",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (19.06.1996)",
+                "Market Value": "€24.8m",
+                "unicode": "8GVcLWJk"
+            },
+            {
+                "players_name": "Smalling C.",
+                "players_number": "6",
+                "Full Name": "Chris Smalling",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.11.1989)",
+                "Market Value": "€3.4m",
+                "unicode": "QHtOVJzh"
+            },
+            {
+                "players_name": "Spinazzola L.",
+                "players_number": "37",
+                "Full Name": "Leonardo Spinazzola",
+                "players_rating": 6.2,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.03.1993)",
+                "Market Value": "€7.1m",
+                "unicode": "UgYYWt1i"
+            },
+            {
+                "players_name": "Zalewski N.",
+                "players_number": "59",
+                "Full Name": "Nicola Zalewski",
+                "players_rating": 7.0,
+                "Country": "Poland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (23.01.2002)",
+                "Market Value": "€15.0m",
+                "unicode": "Slt8hI4R"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Belotti A.",
+                "players_number": "11",
+                "Full Name": "Andrea Belotti",
+                "players_rating": 6.2,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.12.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "W6UTbSDR"
+            },
+            {
+                "players_name": "Bove E.",
+                "players_number": "52",
+                "Full Name": "Edoardo Bove",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (16.05.2002)",
+                "Market Value": "€14.7m",
+                "unicode": "YFjrlxDr"
+            },
+            {
+                "players_name": "El Shaarawy S.",
+                "players_number": "92",
+                "Full Name": "Stephan El Shaarawy",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (27.10.1992)",
+                "Market Value": "€4.8m",
+                "unicode": "fFLge2V1"
+            },
+            {
+                "players_name": "Tahirovic B.",
+                "players_number": "68",
+                "Full Name": "Benjamin Tahirovic",
+                "players_rating": "",
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (03.03.2003)",
+                "Market Value": "€5.6m",
+                "unicode": "8t8aMjIk"
+            },
+            {
+                "players_name": "Volpato C.",
+                "players_number": "62",
+                "Full Name": "Cristian Volpato",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (15.11.2003)",
+                "Market Value": "€4.7m",
+                "unicode": "2B5YqXFG"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Boer P. (G)",
+                "players_number": "63",
+                "Full Name": "Pietro Boer",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "21, (12.05.2002)",
+                "Market Value": "30.06.2024",
+                "unicode": "0WLKioEG"
+            },
+            {
+                "players_name": "Camara M.",
+                "players_number": "20",
+                "Full Name": "Mady Camara",
+                "players_rating": "",
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (28.02.1997)",
+                "Market Value": "€7.6m",
+                "unicode": "0hLpEarG"
+            },
+            {
+                "players_name": "Kumbulla M.",
+                "players_number": "24",
+                "Full Name": "Marash Kumbulla",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (08.02.2000)",
+                "Market Value": "€7.1m",
+                "unicode": "8xTCtgln"
+            },
+            {
+                "players_name": "Solbakken O.",
+                "players_number": "18",
+                "Full Name": "Ola Solbakken",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (07.09.1998)",
+                "Market Value": "€2.8m",
+                "unicode": "U1piMQgC"
+            },
+            {
+                "players_name": "Svilar M. (G)",
+                "players_number": "99",
+                "Full Name": "Mile Svilar",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (27.08.1999)",
+                "Market Value": "€1.4m",
+                "unicode": "xjK7spn1"
+            },
+            {
+                "players_name": "Vina M.",
+                "players_number": "17",
+                "Full Name": "Matias Vina",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (09.11.1997)",
+                "Market Value": "€7.6m",
+                "unicode": "40ALE0fh"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Spalletti L.",
+                "players_number": "",
+                "Full Name": "Luciano Spalletti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "64,  (07.03.1959)",
+                "Market Value": "",
+                "unicode": "n3dg3lHR"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Anguissa F.",
+                "players_number": "99",
+                "Full Name": "Frank Anguissa",
+                "players_rating": 6.6,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (16.11.1995)",
+                "Market Value": "€34.7m",
+                "unicode": "OtLZCB8S"
+            },
+            {
+                "players_name": "Di Lorenzo G. (C)",
+                "players_number": "22",
+                "Full Name": "Giovanni Di Lorenzo",
+                "players_rating": 6.9,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (04.08.1993)",
+                "Market Value": "€22.5m",
+                "unicode": "MP69NX2i"
+            },
+            {
+                "players_name": "Kim Min-Jae",
+                "players_number": "3",
+                "Full Name": "Min-Jae Kim",
+                "players_rating": 7.2,
+                "Country": "South Korea",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (15.11.1996)",
+                "Market Value": "€58.7m",
+                "unicode": "vkXC6mad"
+            },
+            {
+                "players_name": "Kvaratskhelia K.",
+                "players_number": "77",
+                "Full Name": "Khvicha Kvaratskhelia",
+                "players_rating": 7.0,
+                "Country": "Georgia",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (12.02.2001)",
+                "Market Value": "€82.8m",
+                "unicode": "bNuGt0hE"
+            },
+            {
+                "players_name": "Lobotka S.",
+                "players_number": "68",
+                "Full Name": "Stanislav Lobotka",
+                "players_rating": 6.9,
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (25.11.1994)",
+                "Market Value": "€34.7m",
+                "unicode": "0Qcw6Yy1"
+            },
+            {
+                "players_name": "Lozano H.",
+                "players_number": "11",
+                "Full Name": "Hirving Lozano",
+                "players_rating": 7.0,
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (30.07.1995)",
+                "Market Value": "€22.8m",
+                "unicode": "buNjcqS5"
+            },
+            {
+                "players_name": "Meret A. (G)",
+                "players_number": "1",
+                "Full Name": "Alex Meret",
+                "players_rating": 6.7,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (22.03.1997)",
+                "Market Value": "€14.6m",
+                "unicode": "EBsz2tTd"
+            },
+            {
+                "players_name": "Osimhen V.",
+                "players_number": "9",
+                "Full Name": "Victor Osimhen",
+                "players_rating": 7.0,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (29.12.1998)",
+                "Market Value": "€113.9m",
+                "unicode": "23YHG47R"
+            },
+            {
+                "players_name": "Rrahmani A.",
+                "players_number": "13",
+                "Full Name": "Amir Rrahmani",
+                "players_rating": 7.2,
+                "Country": "Kosovo",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (24.02.1994)",
+                "Market Value": "€19.9m",
+                "unicode": "8Sw4X8wk"
+            },
+            {
+                "players_name": "Rui M.",
+                "players_number": "6",
+                "Full Name": "Mario Rui",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (27.05.1991)",
+                "Market Value": "€4.9m",
+                "unicode": "CnvwSKf9"
+            },
+            {
+                "players_name": "Zielinski P.",
+                "players_number": "20",
+                "Full Name": "Piotr Zielinski",
+                "players_rating": 7.8,
+                "Country": "Poland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (20.05.1994)",
+                "Market Value": "€29.4m",
+                "unicode": "dlFNZSvb"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Elmas E.",
+                "players_number": "7",
+                "Full Name": "Eljif Elmas",
+                "players_rating": 6.2,
+                "Country": "North Macedonia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (24.09.1999)",
+                "Market Value": "€23.1m",
+                "unicode": "vDVD8EAA"
+            },
+            {
+                "players_name": "Ndombele T.",
+                "players_number": "91",
+                "Full Name": "Tanguy Ndombele",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.12.1996)",
+                "Market Value": "€14.3m",
+                "unicode": "GEIWE1pD"
+            },
+            {
+                "players_name": "Olivera M.",
+                "players_number": "17",
+                "Full Name": "Mathias Olivera",
+                "players_rating": 6.2,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€16.7m",
+                "unicode": "bwAJqLBt"
+            },
+            {
+                "players_name": "Raspadori G.",
+                "players_number": "81",
+                "Full Name": "Giacomo Raspadori",
+                "players_rating": 6.4,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (18.02.2000)",
+                "Market Value": "€30.4m",
+                "unicode": "GlZEnTQr"
+            },
+            {
+                "players_name": "Simeone G.",
+                "players_number": "18",
+                "Full Name": "Giovanni Simeone",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.07.1995)",
+                "Market Value": "€12.7m",
+                "unicode": "6m566fII"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bereszynski B.",
+                "players_number": "19",
+                "Full Name": "Bartosz Bereszynski",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (12.07.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "rmvDqIY7"
+            },
+            {
+                "players_name": "Demme D.",
+                "players_number": "4",
+                "Full Name": "Diego Demme",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€936k",
+                "unicode": "6XydaRuI"
+            },
+            {
+                "players_name": "Gaetano G.",
+                "players_number": "70",
+                "Full Name": "Gianluca Gaetano",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (05.05.2000)",
+                "Market Value": "€4.1m",
+                "unicode": "nNOKUM6f"
+            },
+            {
+                "players_name": "Gollini P. (G)",
+                "players_number": "95",
+                "Full Name": "Pierluigi Gollini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (18.03.1995)",
+                "Market Value": "€4.3m",
+                "unicode": "vZY7FZwP"
+            },
+            {
+                "players_name": "Juan Jesus",
+                "players_number": "5",
+                "Full Name": "Juan Jesus",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (10.06.1991)",
+                "Market Value": "€3.0m",
+                "unicode": "StHeGfTT"
+            },
+            {
+                "players_name": "Marfella D. (G)",
+                "players_number": "12",
+                "Full Name": "Davide Marfella",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (15.09.1999)",
+                "Market Value": "",
+                "unicode": "2aYXA7bO"
+            },
+            {
+                "players_name": "Ostigard L.",
+                "players_number": "55",
+                "Full Name": "Leo Ostigard",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (28.11.1999)",
+                "Market Value": "€9.8m",
+                "unicode": "lIN7BM8b"
+            },
+            {
+                "players_name": "Politano M.",
+                "players_number": "21",
+                "Full Name": "Matteo Politano",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (03.08.1993)",
+                "Market Value": "€14.7m",
+                "unicode": "lxWZKRDD"
+            },
+            {
+                "players_name": "Zedadka K.",
+                "players_number": "31",
+                "Full Name": "Karim Zedadka",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (09.06.2000)",
+                "Market Value": "€134k",
+                "unicode": "tlEvOqI0"
+            },
+            {
+                "players_name": "Zerbin A.",
+                "players_number": "23",
+                "Full Name": "Alessio Zerbin",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (03.03.1999)",
+                "Market Value": "€3.2m",
+                "unicode": "2R03aynj"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match.",
+            "comments_text_anonymized": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Daniele Orsato was nominated as the referee for this game.",
+            "comments_text_anonymized": "[REFEREE] was nominated as the referee for this game."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Napoli will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "clearance",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:20",
+            "comments_type": "ball possession",
+            "comments_text": "Napoli enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "comments_text_anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:06",
+            "comments_type": "corner",
+            "comments_text": "Napoli failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:03",
+            "comments_type": "clearance",
+            "comments_text": "Nicola Zalewski (AS Roma) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Leonardo Spinazzola (AS Roma) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:10",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Lorenzo Pellegrini (AS Roma) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:46",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. AS Roma will have a chance to score from a corner.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:00",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Chris Smalling (AS Roma) gets himself onto the end of the corner, but his header is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets himself onto the end of the corner, but his header is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:30",
+            "comments_type": "clearance",
+            "comments_text": "Mario Rui (Napoli) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:29",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Victor Osimhen (Napoli) scores with a brilliant shot into the roof of the net after being released inside the box by a superb lofted pass from Khvicha Kvaratskhelia. The score is now 1:0.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the roof of the net after being released inside the box by a superb lofted pass from [PLAYER]. The score is now 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:28",
+            "comments_type": "ball possession",
+            "comments_text": "The AS Roma players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "comments_text_anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:31",
+            "comments_type": "clearance",
+            "comments_text": "Nicola Zalewski (AS Roma) serves up a nice cross, but the defence clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:39",
+            "comments_type": "shot off target",
+            "comments_text": "Piotr Zielinski (Napoli) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:00",
+            "comments_type": "clearance",
+            "comments_text": "Gianluca Mancini (AS Roma) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:59",
+            "comments_type": "statistics and summary",
+            "comments_text": "60:40 – the latest ball possession ratio.",
+            "comments_text_anonymized": "60:40 – the latest ball possession ratio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:04",
+            "comments_type": "clearance",
+            "comments_text": "Mario Rui (Napoli) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:12",
+            "comments_type": "clearance",
+            "comments_text": "Piotr Zielinski (Napoli) plays a through ball inside the box, but it's too strong and Rui Patricio comes off his line to intercept.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:33",
+            "comments_type": "corner",
+            "comments_text": "AS Roma can’t profit from the corner as the defence clear the ball upfield.",
+            "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Daniele Orsato has a clear sight and sees a foul from Stanislav Lobotka (Napoli).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:58",
+            "comments_type": "ball possession",
+            "comments_text": "AS Roma are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "comments_text_anonymized": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:45",
+            "comments_type": "yellow card",
+            "comments_text": "Paulo Dybala (AS Roma) is shown a yellow card for a late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card for a late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:50",
+            "comments_type": "injury",
+            "comments_text": "Stanislav Lobotka (Napoli) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:24",
+            "comments_type": "injury",
+            "comments_text": "Stanislav Lobotka (Napoli) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:34",
+            "comments_type": "clearance",
+            "comments_text": "Victor Osimhen (Napoli) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:53",
+            "comments_type": "shot off target",
+            "comments_text": "Paulo Dybala (AS Roma) has a good chance to get on the scoresheet and fires the ball towards goal from the edge of the penalty box, but it goes narrowly over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a good chance to get on the scoresheet and fires the ball towards goal from the edge of the penalty box, but it goes narrowly over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:06",
+            "comments_type": "clearance",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:23",
+            "comments_type": "clearance",
+            "comments_text": "Mario Rui (Napoli) crosses the ball forward but it is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:00",
+            "comments_type": "injury",
+            "comments_text": "Victor Osimhen (Napoli) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Leonardo Spinazzola (AS Roma) sends a cross into the box, but Alex Meret comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:16",
+            "comments_type": "shot off target",
+            "comments_text": "Victor Osimhen (Napoli) jumps for a cross in the goal area and produces a fine header which goes just a few inches over the bar! What a huge opportunity!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps for a cross in the goal area and produces a fine header which goes just a few inches over the bar! What a huge opportunity!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:55",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Nicola Zalewski (AS Roma) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:30",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Victor Osimhen (Napoli) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:08",
+            "comments_type": "corner",
+            "comments_text": "Paulo Dybala (AS Roma) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:30",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Leonardo Spinazzola makes his way off the pitch and Stephan El Shaarawy (AS Roma) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:50",
+            "comments_type": "clearance",
+            "comments_text": "Khvicha Kvaratskhelia (Napoli) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:35",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner, taken by Paulo Dybala (AS Roma), comes to nothing.",
+            "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Tammy Abraham (AS Roma) races towards goal but the defender gets back well to make a challenge. AS Roma will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:34",
+            "comments_type": "corner",
+            "comments_text": "A good clearance by a defender means the corner comes to nothing for AS Roma.",
+            "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:28",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Victor Osimhen (Napoli) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:10",
+            "comments_type": "clearance",
+            "comments_text": "Gianluca Mancini (AS Roma) attempts a long crossfield pass, but the defence does well to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:19",
+            "comments_type": "clearance",
+            "comments_text": "Khvicha Kvaratskhelia receives a short pass from Hirving Lozano (Napoli), but the opposition's defence thwarts his effort.",
+            "comments_text_anonymized": "[PLAYER] receives a short pass from [PLAYER] ([TEAM]), but the opposition's defence thwarts his effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:46",
+            "comments_type": "shot off target",
+            "comments_text": "Lorenzo Pellegrini is the provider with a good cross and Nicola Zalewski (AS Roma) shows great determination to get to the ball on the edge of the box, but he blazes it high over the bar.",
+            "comments_text_anonymized": "[PLAYER] is the provider with a good cross and [PLAYER] ([TEAM]) shows great determination to get to the ball on the edge of the box, but he blazes it high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:20",
+            "comments_type": "clearance",
+            "comments_text": "Piotr Zielinski (Napoli) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "clearance",
+            "comments_text": "Nicola Zalewski (AS Roma) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:06",
+            "comments_type": "corner",
+            "comments_text": "Now AS Roma have a corner.",
+            "comments_text_anonymized": "Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:48",
+            "comments_type": "corner",
+            "comments_text": "A pass lands at the feet of Roger Ibanez (AS Roma) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender. The referee and one of his assistants signal for a corner kick to AS Roma.",
+            "comments_text_anonymized": "A pass lands at the feet of Roger [PLAYER] ([TEAM]) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:37",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from AS Roma is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:15",
+            "comments_type": "corner",
+            "comments_text": "Napoli take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:40",
+            "comments_type": "clearance",
+            "comments_text": "Nemanja Matic (AS Roma) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:50",
+            "comments_type": "clearance",
+            "comments_text": "Tammy Abraham (AS Roma) sends a chip pass into the box, but Alex Meret is quickest to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:23",
+            "comments_type": "yellow card",
+            "comments_text": "Victor Osimhen (Napoli) is booked after bringing down an opponent. Daniele Orsato had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:12",
+            "comments_type": "substitution",
+            "comments_text": "Mario Rui goes off the pitch and Mathias Olivera (Napoli) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:14",
+            "comments_type": "substitution",
+            "comments_text": "Luciano Spalletti prepares a substitution. Khvicha Kvaratskhelia is replaced by Eljif Elmas (Napoli).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:54",
+            "comments_type": "yellow card",
+            "comments_text": "Daniele Orsato shows a yellow card to Stephan El Shaarawy (AS Roma) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:09",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by Napoli, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:40",
+            "comments_type": "ball possession",
+            "comments_text": "Napoli seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:50",
+            "comments_type": "substitution",
+            "comments_text": "Jose Mourinho has decided to make a change. Andrea Belotti (AS Roma) replaces Tammy Abraham.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:20",
+            "comments_type": "goal",
+            "comments_text": "Stephan El Shaarawy (AS Roma) gets on the end of a perfect cross after one of the defenders fails to clear and strikes the ball inside the left post!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a perfect cross after one of the defenders fails to clear and strikes the ball inside the left post!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:22",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Hirving Lozano leaves the pitch and is replaced by Giovanni Simeone (Napoli).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:26",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Victor Osimhen is going off and Luciano Spalletti gives the last tactical orders to Giacomo Raspadori (Napoli).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "The total number of attempts is 8:9.",
+            "comments_text_anonymized": "The total number of attempts is 8:9."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Nemanja Matic (AS Roma) fouls an opponent. At least that's what referee Daniele Orsato signals. Napoli have been awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. [TEAM] have been awarded a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:45",
+            "comments_type": "free kick",
+            "comments_text": "Giacomo Raspadori (Napoli) takes the free-kick from mid-range but it's blocked by the defensive wall.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free-kick from mid-range but it's blocked by the defensive wall."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:55",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Lorenzo Pellegrini did his best and is replaced by Edoardo Bove (AS Roma).",
+            "comments_text_anonymized": "Substitution. [PLAYER] did his best and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:15",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Nemanja Matic (AS Roma) trots off the pitch and is replaced by Benjamin Tahirovic.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) trots off the pitch and is replaced by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:20",
+            "comments_type": "goal",
+            "comments_text": "Brilliant finish! Giovanni Simeone (Napoli) perfectly collected a pass on the edge of the penalty area from Piotr Zielinski, then produced a nice strike into the top right corner. The score is 2:1.",
+            "comments_text_anonymized": "Brilliant finish! [PLAYER] ([TEAM]) perfectly collected a pass on the edge of the penalty area from [PLAYER], then produced a nice strike into the top right corner. The score is 2:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:28",
+            "comments_type": "substitution",
+            "comments_text": "That will be all from Bryan Cristante who is being replaced by the fresh legs of Cristian Volpato (AS Roma).",
+            "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "6 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "6 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:07",
+            "comments_type": "substitution",
+            "comments_text": "Luciano Spalletti has decided to substitute Piotr Zielinski and he is replaced by Tanguy Ndombele (Napoli).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:53",
+            "comments_type": "foul with no card",
+            "comments_text": "Giovanni Simeone (Napoli) tackles a bit over-zealously and Daniele Orsato blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:00",
+            "comments_type": "corner",
+            "comments_text": "Paulo Dybala (AS Roma) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:20",
+            "comments_type": "clearance",
+            "comments_text": "Stephan El Shaarawy (AS Roma) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:12",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

@@ -1,0 +1,1202 @@
+{
+    "match_info": {
+        "timestamp": "2022-10-13 03:00:00",
+        "score": "2 - 4",
+        "home_team": "Plzen",
+        "away_team": "Bayern Munich",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Doosan Arena (Plzen)",
+        "capacity": "11 700",
+        "attendance": "11 326",
+        "home_jersey_color": "red and blue",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Frankowski B. (Pol)",
+        "first_name": "Frankowski",
+        "abbr_last_name": "B",
+        "country": "Pol",
+        "detected_name": "Bartosz Frankowski"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Nagelsmann J.",
+                "players_number": "",
+                "Full Name": "Julian Nagelsmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "36,  (23.07.1987)",
+                "Market Value": "",
+                "unicode": "WrA6TDDO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Davies A.",
+                "players_number": "",
+                "Full Name": "Alphonso Davies",
+                "players_rating": "",
+                "Country": "Canada",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.11.2000)",
+                "Market Value": "€72.5m",
+                "unicode": "4r3PXV20"
+            },
+            {
+                "players_name": "de Ligt M.",
+                "players_number": "",
+                "Full Name": "Matthijs de Ligt",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (12.08.1999)",
+                "Market Value": "€62.7m",
+                "unicode": "hhRKVBXN"
+            },
+            {
+                "players_name": "Gnabry S.",
+                "players_number": "",
+                "Full Name": "Serge Gnabry",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (14.07.1995)",
+                "Market Value": "€44.5m",
+                "unicode": "6iZjDNFC"
+            },
+            {
+                "players_name": "Hernandez L.",
+                "players_number": "",
+                "Full Name": "Lucas Hernandez",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (14.02.1996)",
+                "Market Value": "€43.4m",
+                "unicode": "x2fvnkud"
+            },
+            {
+                "players_name": "Musiala J.",
+                "players_number": "",
+                "Full Name": "Jamal Musiala",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (26.02.2003)",
+                "Market Value": "€112.3m",
+                "unicode": "nVzSNrOf"
+            },
+            {
+                "players_name": "Neuer M.",
+                "players_number": "",
+                "Full Name": "Manuel Neuer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (27.03.1986)",
+                "Market Value": "€4.8m",
+                "unicode": "Sh5KwIo6"
+            },
+            {
+                "players_name": "Sarr B.",
+                "players_number": "",
+                "Full Name": "Bouna Sarr",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (31.01.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "MDuWBWXr"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Coman K.",
+                "players_number": "11",
+                "Full Name": "Kingsley Coman",
+                "players_rating": 7.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (13.06.1996)",
+                "Market Value": "€64.5m",
+                "unicode": "zHWLJOHq"
+            },
+            {
+                "players_name": "Goretzka L.",
+                "players_number": "8",
+                "Full Name": "Leon Goretzka",
+                "players_rating": 8.4,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (06.02.1995)",
+                "Market Value": "€37.4m",
+                "unicode": "l2JpsMjB"
+            },
+            {
+                "players_name": "Kimmich J.",
+                "players_number": "6",
+                "Full Name": "Joshua Kimmich",
+                "players_rating": 7.4,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.02.1995)",
+                "Market Value": "€77.7m",
+                "unicode": "MkMrkZLc"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "17",
+                "Full Name": "Sadio Mane",
+                "players_rating": 7.6,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Mazraoui N.",
+                "players_number": "40",
+                "Full Name": "Noussair Mazraoui",
+                "players_rating": 6.9,
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€28.9m",
+                "unicode": "2ajowGAq"
+            },
+            {
+                "players_name": "Muller T. (C)",
+                "players_number": "25",
+                "Full Name": "Thomas Muller",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (13.09.1989)",
+                "Market Value": "€9.6m",
+                "unicode": "8KpOJV2B"
+            },
+            {
+                "players_name": "Pavard B.",
+                "players_number": "5",
+                "Full Name": "Benjamin Pavard",
+                "players_rating": 7.4,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (28.03.1996)",
+                "Market Value": "€39.7m",
+                "unicode": "xxuEya3O"
+            },
+            {
+                "players_name": "Sane L.",
+                "players_number": "10",
+                "Full Name": "Leroy Sane",
+                "players_rating": 8.0,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (11.01.1996)",
+                "Market Value": "€81.7m",
+                "unicode": "GlTyfr8U"
+            },
+            {
+                "players_name": "Stanisic J.",
+                "players_number": "44",
+                "Full Name": "Josip Stanisic",
+                "players_rating": 6.5,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.04.2000)",
+                "Market Value": "€9.8m",
+                "unicode": "SfawK0Y3"
+            },
+            {
+                "players_name": "Ulreich S. (G)",
+                "players_number": "26",
+                "Full Name": "Sven Ulreich",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (03.08.1988)",
+                "Market Value": "€665k",
+                "unicode": "8CE8Sho8"
+            },
+            {
+                "players_name": "Upamecano D.",
+                "players_number": "2",
+                "Full Name": "Dayot Upamecano",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.10.1998)",
+                "Market Value": "€58.7m",
+                "unicode": "OMhLhEJB"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Choupo-Moting E. M.",
+                "players_number": "13",
+                "Full Name": "Eric Maxim Choupo-Moting",
+                "players_rating": 6.6,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.03.1989)",
+                "Market Value": "€2.9m",
+                "unicode": "YBBM9RBF"
+            },
+            {
+                "players_name": "Gravenberch R.",
+                "players_number": "38",
+                "Full Name": "Ryan Gravenberch",
+                "players_rating": 6.5,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (16.05.2002)",
+                "Market Value": "€34.3m",
+                "unicode": "Y5aFd8V4"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "18",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": 6.2,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.4m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Tel M.",
+                "players_number": "39",
+                "Full Name": "Mathys Tel",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "18, (27.04.2005)",
+                "Market Value": "€44.7m",
+                "unicode": "drANB1N8"
+            },
+            {
+                "players_name": "Wanner P.",
+                "players_number": "14",
+                "Full Name": "Paul Wanner",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (23.12.2005)",
+                "Market Value": "€3.2m",
+                "unicode": "hpGfyeg0"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Schenk J. (G)",
+                "players_number": "35",
+                "Full Name": "Johannes Schenk",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "21, (13.01.2003)",
+                "Market Value": "€277k",
+                "unicode": "xbHTqKPs"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Bilek M.",
+                "players_number": "",
+                "Full Name": "Michal Bilek",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "coach",
+                "Age and Birthdate": "58,  (13.04.1965)",
+                "Market Value": "",
+                "unicode": "Oj03XwDH"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Dedic R.",
+                "players_number": "",
+                "Full Name": "Rene Dedic",
+                "players_rating": "",
+                "Country": "Slovakia",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (07.08.1993)",
+                "Market Value": "",
+                "unicode": "6slxzXzl"
+            },
+            {
+                "players_name": "Kasa F.",
+                "players_number": "",
+                "Full Name": "Filip Kasa",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (01.01.1994)",
+                "Market Value": "€389k",
+                "unicode": "2e8JeGMk"
+            },
+            {
+                "players_name": "Reznik R.",
+                "players_number": "",
+                "Full Name": "Radim Reznik",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (20.01.1989)",
+                "Market Value": "€134k",
+                "unicode": "K0FTKSWf"
+            },
+            {
+                "players_name": "Sykora J.",
+                "players_number": "",
+                "Full Name": "Jan Sykora",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (29.12.1993)",
+                "Market Value": "€760k",
+                "unicode": "WKswzjhD"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bucha P.",
+                "players_number": "20",
+                "Full Name": "Pavel Bucha",
+                "players_rating": 7.1,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (11.03.1998)",
+                "Market Value": "€2.2m",
+                "unicode": "Wb24z4qm"
+            },
+            {
+                "players_name": "Chory T.",
+                "players_number": "15",
+                "Full Name": "Tomas Chory",
+                "players_rating": 6.2,
+                "Country": "Czech Republic",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (26.01.1995)",
+                "Market Value": "€2.1m",
+                "unicode": "EgGI8vM6"
+            },
+            {
+                "players_name": "Havel M.",
+                "players_number": "24",
+                "Full Name": "Milan Havel",
+                "players_rating": 5.8,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (07.08.1994)",
+                "Market Value": "€655k",
+                "unicode": "l0Cy8gzp"
+            },
+            {
+                "players_name": "Hejda L. (C)",
+                "players_number": "2",
+                "Full Name": "Lukas Hejda",
+                "players_rating": 5.9,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.03.1990)",
+                "Market Value": "€702k",
+                "unicode": "YBuoYE72"
+            },
+            {
+                "players_name": "Jemelka V.",
+                "players_number": "21",
+                "Full Name": "Vaclav Jemelka",
+                "players_rating": 5.8,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (23.06.1995)",
+                "Market Value": "€979k",
+                "unicode": "dldY3lBa"
+            },
+            {
+                "players_name": "Kalvach L.",
+                "players_number": "23",
+                "Full Name": "Lukas Kalvach",
+                "players_rating": 6.8,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (19.07.1995)",
+                "Market Value": "€2.5m",
+                "unicode": "r5QQwMak"
+            },
+            {
+                "players_name": "Kopic J.",
+                "players_number": "10",
+                "Full Name": "Jan Kopic",
+                "players_rating": 6.0,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (04.06.1990)",
+                "Market Value": "€713k",
+                "unicode": "zXmrwTAq"
+            },
+            {
+                "players_name": "Mosquera J.",
+                "players_number": "18",
+                "Full Name": "Jhon Mosquera",
+                "players_rating": 7.1,
+                "Country": "Colombia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (08.05.1990)",
+                "Market Value": "€587k",
+                "unicode": "4dlyhImg"
+            },
+            {
+                "players_name": "Stanek J. (G)",
+                "players_number": "36",
+                "Full Name": "Jindrich Stanek",
+                "players_rating": 6.1,
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (27.04.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "xjKD0WQe"
+            },
+            {
+                "players_name": "Tijani M.",
+                "players_number": "3",
+                "Full Name": "Mohamed Tijani",
+                "players_rating": 5.9,
+                "Country": "Benin",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (10.07.1997)",
+                "Market Value": "€369k",
+                "unicode": "KWtWOgDR"
+            },
+            {
+                "players_name": "Vlkanova A.",
+                "players_number": "88",
+                "Full Name": "Adam Vlkanova",
+                "players_rating": 6.9,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (04.09.1994)",
+                "Market Value": "€1.3m",
+                "unicode": "8bbcnwTe"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Holik L.",
+                "players_number": "44",
+                "Full Name": "Libor Holik",
+                "players_rating": 6.8,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (12.05.1998)",
+                "Market Value": "€675k",
+                "unicode": "23lJ1uwg"
+            },
+            {
+                "players_name": "Jirka E.",
+                "players_number": "77",
+                "Full Name": "Erik Jirka",
+                "players_rating": 6.5,
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (19.09.1997)",
+                "Market Value": "€820k",
+                "unicode": "zs2S35lU"
+            },
+            {
+                "players_name": "Kliment J.",
+                "players_number": "9",
+                "Full Name": "Jan Kliment",
+                "players_rating": 7.1,
+                "Country": "Czech Republic",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (01.09.1993)",
+                "Market Value": "€665k",
+                "unicode": "8hRwt7Me"
+            },
+            {
+                "players_name": "Pernica L.",
+                "players_number": "4",
+                "Full Name": "Ludek Pernica",
+                "players_rating": 6.1,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (16.06.1990)",
+                "Market Value": "€338k",
+                "unicode": "UXTPGo8i"
+            },
+            {
+                "players_name": "Pilar V.",
+                "players_number": "6",
+                "Full Name": "Vaclav Pilar",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (13.10.1988)",
+                "Market Value": "€285k",
+                "unicode": "lCVTGyAS"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bassey F.",
+                "players_number": "90",
+                "Full Name": "Fortune Bassey",
+                "players_rating": "",
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (06.10.1998)",
+                "Market Value": "€454k",
+                "unicode": "GdRk3KxB"
+            },
+            {
+                "players_name": "Cermak A.",
+                "players_number": "25",
+                "Full Name": "Ales Cermak",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (01.10.1994)",
+                "Market Value": "€460k",
+                "unicode": "Qk8WS2Jn"
+            },
+            {
+                "players_name": "Jedlicka M. (G)",
+                "players_number": "16",
+                "Full Name": "Martin Jedlicka",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (24.01.1998)",
+                "Market Value": "€664k",
+                "unicode": "Q1wSa2Rk"
+            },
+            {
+                "players_name": "N'Diaye M.",
+                "players_number": "99",
+                "Full Name": "Modou N'Diaye",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (29.10.1996)",
+                "Market Value": "",
+                "unicode": "SvtS2XU9"
+            },
+            {
+                "players_name": "Tvrdon M. (G)",
+                "players_number": "13",
+                "Full Name": "Marian Tvrdon",
+                "players_rating": "",
+                "Country": "Slovakia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (18.08.1994)",
+                "Market Value": "€230k",
+                "unicode": "zcr46BZJ"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Bartosz Frankowski is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Bayern Munich will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:45",
+            "comments_type": "shot off target",
+            "comments_text": "Leroy Sane (Bayern Munich) drives into the box and hits a tremendous shot that, unluckily for him, flashes just wide of the left post. The ball is off of the pitch and it's a goal kick for Plzen.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) drives into the box and hits a tremendous shot that, unluckily for him, flashes just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:30",
+            "comments_type": "ball out of play",
+            "comments_text": "Kingsley Coman (Bayern Munich) does his best to latch onto a cross into the box, but he can't get to the ball. The ball goes out of play and Plzen will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:00",
+            "comments_type": "clearance",
+            "comments_text": "Jhon Mosquera (Plzen) creates a yard of space for himself and tries an effort from distance, but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates a yard of space for himself and tries an effort from distance, but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Bartosz Frankowski couldn't ignore the rough tackle by Adam Vlkanova (Plzen) and blew his whistle.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:47",
+            "comments_type": "clearance",
+            "comments_text": "Jan Kopic (Plzen) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Tomas Chory (Plzen) makes a strong challenge and Bartosz Frankowski blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:37",
+            "comments_type": "goal",
+            "comments_text": "Goal! Leon Goretzka provides Sadio Mane (Bayern Munich) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom left corner. 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom left corner. 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "ball possession",
+            "comments_text": "The Bayern Munich players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:03",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Superb work from Kingsley Coman, who plays a vital role in the build-up. He squares it to Thomas Muller (Bayern Munich), who beats Jindrich Stanek with a brilliant shot into the bottom right corner. 0:2.",
+            "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the bottom right corner. 0:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Benjamin Pavard (Bayern Munich) makes an overly-aggressive challenge and Bartosz Frankowski blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:10",
+            "comments_type": "clearance",
+            "comments_text": "Lukas Kalvach (Plzen) fails to deliver a cross from the free kick as his attempt is thwarted by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to deliver a cross from the free kick as his attempt is thwarted by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:26",
+            "comments_type": "shot off target",
+            "comments_text": "Tomas Chory (Plzen) latches on to a cross to head the ball wide of the net. A poor header. The ball goes out of play and Bayern Munich will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a cross to head the ball wide of the net. A poor header. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:50",
+            "comments_type": "injury",
+            "comments_text": "Dayot Upamecano (Bayern Munich) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:39",
+            "comments_type": "injury",
+            "comments_text": "Dayot Upamecano (Bayern Munich) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:49",
+            "comments_type": "statistics and summary",
+            "comments_text": "39:61 – this is the current ball possession ratio.",
+            "comments_text_anonymized": "39:61 – this is the current ball possession ratio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:26",
+            "comments_type": "ball out of play",
+            "comments_text": "Milan Havel (Plzen) looks to break free, but his touch lets him down and he loses the ball. The ball is off of the pitch and it's a goal kick for Bayern Munich.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:03",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Superb work from Thomas Muller, who plays a vital role in the build-up. He squares it to Leon Goretzka (Bayern Munich), who beats Jindrich Stanek with a brilliant shot into the right side of the net. 0:3.",
+            "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the right side of the net. 0:3."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:42",
+            "comments_type": "substitution",
+            "comments_text": "Jan Kopic (Plzen) just cannot continue due to injury and has to be substituted. Erik Jirka replaces him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) just cannot continue due to injury and has to be substituted. [PLAYER] replaces him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:04",
+            "comments_type": "foul with no card",
+            "comments_text": "Bartosz Frankowski blows for a foul after Benjamin Pavard (Bayern Munich) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:20",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann is forced to make a change. Thomas Muller (Bayern Munich) is not able to carry on due to injury. He is replaced by Mathys Tel.",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] ([TEAM]) is not able to carry on due to injury. He is replaced by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jhon Mosquera (Plzen) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:21",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Tomas Chory (Plzen) finds himself some space inside the box, collects a rebound and sends an effort in on goal. Sven Ulreich pulls off a fantastic reflex save to stop the ball going into the middle of the target.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself some space inside the box, collects a rebound and sends an effort in on goal. [PLAYER] pulls off a fantastic reflex save to stop the ball going into the middle of the target."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:30",
+            "comments_type": "ball possession",
+            "comments_text": "A spell of possession for Bayern Munich in an attempt to control the game.",
+            "comments_text_anonymized": "A spell of possession for [TEAM] in an attempt to control the game."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:42",
+            "comments_type": "shot off target",
+            "comments_text": "Sadio Mane (Bayern Munich) get himself out of a tight corner inside the box then shoots. The keeper leaps for the ball but it flies just wide of the left post. The ball goes out of play and Plzen will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) get himself out of a tight corner inside the box then shoots. The keeper leaps for the ball but it flies just wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:10",
+            "comments_type": "goal",
+            "comments_text": "Goal! Leroy Sane displays great vision and sends a pass to Leon Goretzka (Bayern Munich), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:4.",
+            "comments_text_anonymized": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:4."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:19",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Kingsley Coman (Bayern Munich) decided to shoot after receiving a sweet pass. The ball went to the middle of the goal, but Jindrich Stanek made an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decided to shoot after receiving a sweet pass. The ball went to the middle of the goal, but [PLAYER] made an easy save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "The current number of shots on goal is 2:5.",
+            "comments_text_anonymized": "The current number of shots on goal is 2:5."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:20",
+            "comments_type": "ball out of play",
+            "comments_text": "Erik Jirka (Plzen) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. The ball is out of play. Plzen will have a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:14",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lukas Kalvach (Plzen) steadies himself and bends in a shot from the edge of the box towards the bottom right corner, but Sven Ulreich has it covered and makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steadies himself and bends in a shot from the edge of the box towards the bottom right corner, but [PLAYER] has it covered and makes a comfortable save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:04",
+            "comments_type": "shot off target",
+            "comments_text": "Jhon Mosquera (Plzen) receives a lofted pass from the flank and shoots from close range, but the ball flies just over the crossbar, almost brushing it. The ball goes out of play and Bayern Munich will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a lofted pass from the flank and shoots from close range, but the ball flies just over the crossbar, almost brushing it. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:55",
+            "comments_type": "corner",
+            "comments_text": "This corner kick is taken with a short pass by Lukas Kalvach (Plzen).",
+            "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:11",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann has made a change at the break. Eric Maxim Choupo-Moting has come on in place of Kingsley Coman (Bayern Munich).",
+            "comments_text_anonymized": "[PLAYER] has made a change at the break. [PLAYER] has come on in place of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change after the half-time break. Vaclav Jemelka (Plzen) is replaced by Ludek Pernica.",
+            "comments_text_anonymized": "Here is a change after the half-time break. [PLAYER] ([TEAM]) is replaced by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "There will be a change on the pitch for the second half. Michal Bilek probably wasn't satisfied with the performance of Milan Havel (Plzen). He is replaced by Libor Holik.",
+            "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER] ([TEAM]). He is replaced by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Tomas Chory (Plzen) will not participate anymore and Jan Kliment is coming on.",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] ([TEAM]) will not participate anymore and [PLAYER] is coming on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:27",
+            "comments_type": "corner",
+            "comments_text": "Lukas Kalvach (Plzen) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:45",
+            "comments_type": "shot off target",
+            "comments_text": "Adam Vlkanova (Plzen) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the left post! The ball is off of the pitch and it's a goal kick for Bayern Munich.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the left post! The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:23",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Leon Goretzka (Bayern Munich) had time and space inside the box after picking up a neat pass, but his shot low towards the middle of the goal was comfortably saved by Jindrich Stanek.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) had time and space inside the box after picking up a neat pass, but his shot low towards the middle of the goal was comfortably saved by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:26",
+            "comments_type": "corner",
+            "comments_text": "Joshua Kimmich (Bayern Munich) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:45",
+            "comments_type": "off side",
+            "comments_text": "Mathys Tel (Bayern Munich) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Noussair Mazraoui (Bayern Munich) commits a rough challenge and Bartosz Frankowski blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:37",
+            "comments_type": "clearance",
+            "comments_text": "Noussair Mazraoui (Bayern Munich) crosses the ball into the box, but one of the defending players averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:53",
+            "comments_type": "shot off target",
+            "comments_text": "Leroy Sane (Bayern Munich) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick! The ball goes out of play and Plzen will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "substitution",
+            "comments_text": "Leon Goretzka goes off the pitch and Ryan Gravenberch (Bayern Munich) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:49",
+            "comments_type": "shot off target",
+            "comments_text": "Joshua Kimmich (Bayern Munich) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball is off of the pitch and it's a goal kick for Plzen.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:16",
+            "comments_type": "foul with no card",
+            "comments_text": "Noussair Mazraoui (Bayern Munich) was too fierce in his attempt to get the ball from his opponent and Bartosz Frankowski blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:56",
+            "comments_type": "corner",
+            "comments_text": "Lukas Kalvach (Plzen) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:02",
+            "comments_type": "goal",
+            "comments_text": "Goal! Adam Vlkanova (Plzen) shows perfect technique and produces a first-time effort from just outside the box that goes into the bottom left corner. It's 1:4.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) shows perfect technique and produces a first-time effort from just outside the box that goes into the bottom left corner. It's 1:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:42",
+            "comments_type": "yellow card",
+            "comments_text": "Bartosz Frankowski shows a yellow card to Noussair Mazraoui (Bayern Munich) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:05",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Plzen couldn't find the way to score from a mid-range free kick as Sven Ulreich (Bayern Munich) leaped high and intercepted the cross.",
+            "comments_text_anonymized": "[TEAM] couldn't find the way to score from a mid-range free kick as [PLAYER] ([TEAM]) leaped high and intercepted the cross."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Josip Stanisic (Bayern Munich) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:44",
+            "comments_type": "clearance",
+            "comments_text": "Lukas Kalvach (Plzen) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:41",
+            "comments_type": "shot off target",
+            "comments_text": "The ball rebounds back to Erik Jirka (Plzen) on the edge of the box and he produces another shot, just to see it fly wide of the target. The ball goes out of play and Bayern Munich will have a goal kick.",
+            "comments_text_anonymized": "The ball rebounds back to [PLAYER] ([TEAM]) on the edge of the box and he produces another shot, just to see it fly wide of the target. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Lukas Kalvach (Plzen) commits a rough foul. Bartosz Frankowski stops the game and makes a call.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Josip Stanisic (Bayern Munich). The referee blows his whistle for a foul.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:52",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Paul Wanner (Bayern Munich) coming on for Dayot Upamecano.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:30",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann has decided to substitute Leroy Sane and he is replaced by Marcel Sabitzer (Bayern Munich).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Lukas Kalvach (Plzen) commits a rough challenge and Bartosz Frankowski blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:23",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Jan Kliment (Plzen) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:43",
+            "comments_type": "shot off target",
+            "comments_text": "Mathys Tel (Bayern Munich) pounces on a pass inside the box but flashes his shot just over the bar. That was a great chance! The ball is off of the pitch and it's a goal kick for Plzen.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pounces on a pass inside the box but flashes his shot just over the bar. That was a great chance! The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:24",
+            "comments_type": "goal",
+            "comments_text": "Goal! Libor Holik produces a great pass that finds Jan Kliment (Plzen) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom left corner. 2:4.",
+            "comments_text_anonymized": "Goal! [PLAYER] produces a great pass that finds [PLAYER] ([TEAM]) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom left corner. 2:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:51",
+            "comments_type": "foul with no card",
+            "comments_text": "Adam Vlkanova (Plzen) robs an opponent of the ball and explodes in anger when Bartosz Frankowski blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:40",
+            "comments_type": "yellow card",
+            "comments_text": "Jhon Mosquera (Plzen) is booked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:28",
+            "comments_type": "shot off target",
+            "comments_text": "A rebound falls to Ryan Gravenberch (Bayern Munich) in space inside the box. He looks up and fires in a powerful shot at goal that flies just over the bar. The ball goes out of play and Plzen will have a goal kick.",
+            "comments_text_anonymized": "A rebound falls to [PLAYER] ([TEAM]) in space inside the box. He looks up and fires in a powerful shot at goal that flies just over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Sadio Mane (Bayern Munich) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Bartosz Frankowski with no other option than to blow for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:52",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Adam Vlkanova makes way for Vaclav Pilar (Plzen).",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:40",
+            "comments_type": "clearance",
+            "comments_text": "Jhon Mosquera (Plzen) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Benjamin Pavard (Bayern Munich) makes a rough challenge and Bartosz Frankowski blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:18",
+            "comments_type": "shot off target",
+            "comments_text": "Vaclav Pilar (Plzen) takes a neat pass, dummies a defender and slams the ball well wide of the left post from the edge of the box. The ball is off of the pitch and it's a goal kick for Bayern Munich.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a neat pass, dummies a defender and slams the ball well wide of the left post from the edge of the box. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Sadio Mane (Bayern Munich) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "Corner kicks – 3:1.",
+            "comments_text_anonymized": "Corner kicks – 3:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Mohamed Tijani (Plzen) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:04",
+            "comments_type": "clearance",
+            "comments_text": "Joshua Kimmich (Bayern Munich) floats the free kick into the box, but it's easily cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:50",
+            "comments_type": "yellow card",
+            "comments_text": "Marcel Sabitzer (Bayern Munich) is booked after bringing down an opponent. Bartosz Frankowski had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 2 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 2 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:36",
+            "comments_type": "shot off target",
+            "comments_text": "Vaclav Pilar (Plzen) challenges for the lofted pass into the centre of the box, but has to stretch too much and sends his header narrowly wide of the left post. The ball is off of the pitch and it's a goal kick for Bayern Munich.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) challenges for the lofted pass into the centre of the box, but has to stretch too much and sends his header narrowly wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:18",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

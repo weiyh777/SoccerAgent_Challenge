@@ -1,0 +1,911 @@
+{
+    "match_info": {
+        "timestamp": "2017-08-19 02:15:00",
+        "score": "1 - 0",
+        "home_team": "Leganes",
+        "away_team": "Alaves",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Estadio Municipal de Butarque (Leganes)",
+        "capacity": "12 454",
+        "attendance": "9 231",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Munuera Montero J. (Esp)",
+        "first_name": "Munuera Montero",
+        "abbr_last_name": "J",
+        "country": "Esp",
+        "detected_name": "Jose Luis Munuera Montero"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Zubeldia L.",
+                "players_number": "",
+                "Full Name": "Luis Francisco Zubeldia",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "coach",
+                "Age and Birthdate": "43,  (13.01.1981)",
+                "Market Value": "",
+                "unicode": "IgeEMVcA"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Galilea E.",
+                "players_number": "",
+                "Full Name": "Einar Galilea",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (22.05.1994)",
+                "Market Value": "€408k",
+                "unicode": "nqdEHSMq"
+            },
+            {
+                "players_name": "Laguardia V.",
+                "players_number": "",
+                "Full Name": "Victor Laguardia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.11.1989)",
+                "Market Value": "",
+                "unicode": "pzTvWn61"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alexis",
+                "players_number": "4",
+                "Full Name": "Alexis",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.08.1985)",
+                "Market Value": "",
+                "unicode": "hMTvdnm2"
+            },
+            {
+                "players_name": "Burgui",
+                "players_number": "14",
+                "Full Name": "Burgui",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (29.10.1993)",
+                "Market Value": "",
+                "unicode": "WODeaE1j"
+            },
+            {
+                "players_name": "Garcia M.",
+                "players_number": "19",
+                "Full Name": "Manu Garcia",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (26.04.1986)",
+                "Market Value": "",
+                "unicode": "4pQawjUd"
+            },
+            {
+                "players_name": "Ibai",
+                "players_number": "11",
+                "Full Name": "Gomez Perez Ibai",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (11.11.1989)",
+                "Market Value": "",
+                "unicode": "ET7rkX7N"
+            },
+            {
+                "players_name": "Pacheco F. (G)",
+                "players_number": "1",
+                "Full Name": "Fernando Pacheco",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (18.05.1992)",
+                "Market Value": "€2.3m",
+                "unicode": "27U3P9mT"
+            },
+            {
+                "players_name": "Pedraza A.",
+                "players_number": "17",
+                "Full Name": "Alfonso Pedraza",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "KxSmFSum"
+            },
+            {
+                "players_name": "Rodrigo Ely",
+                "players_number": "12",
+                "Full Name": "Rodrigo Ely",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (03.11.1993)",
+                "Market Value": "€2.8m",
+                "unicode": "OW3Q3NP7"
+            },
+            {
+                "players_name": "Santos C.",
+                "players_number": "9",
+                "Full Name": "Christian Santos",
+                "players_rating": 6.2,
+                "Country": "Venezuela",
+                "Role": "Forward",
+                "Age and Birthdate": "€179k, (24.03.1988)",
+                "Market Value": "",
+                "unicode": "AkmgASBG"
+            },
+            {
+                "players_name": "Sobrino R.",
+                "players_number": "7",
+                "Full Name": "Ruben Sobrino",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (01.06.1992)",
+                "Market Value": "€1.7m",
+                "unicode": "YioE1eTi"
+            },
+            {
+                "players_name": "Vigaray C.",
+                "players_number": "2",
+                "Full Name": "Carlos Vigaray",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (07.09.1994)",
+                "Market Value": "€140k",
+                "unicode": "dzTHD7a3"
+            },
+            {
+                "players_name": "Wakaso M.",
+                "players_number": "22",
+                "Full Name": "Mubarak Wakaso",
+                "players_rating": 6.5,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (25.07.1990)",
+                "Market Value": "€383k",
+                "unicode": "M3zx3P4E"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Hernandez H.",
+                "players_number": "20",
+                "Full Name": "Hector Hernandez",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (23.05.1991)",
+                "Market Value": "",
+                "unicode": "SOvDwtB0"
+            },
+            {
+                "players_name": "Pina Tomas",
+                "players_number": "18",
+                "Full Name": "Tomas Pina",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (14.10.1987)",
+                "Market Value": "€143k",
+                "unicode": "faDnJNSq"
+            },
+            {
+                "players_name": "Romero O.",
+                "players_number": "10",
+                "Full Name": "Oscar Romero",
+                "players_rating": 6.3,
+                "Country": "Paraguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (04.07.1992)",
+                "Market Value": "€2.0m",
+                "unicode": "WOyo830b"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Enzo",
+                "players_number": "21",
+                "Full Name": "Enzo",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (24.03.1995)",
+                "Market Value": "",
+                "unicode": "pzvUelMt"
+            },
+            {
+                "players_name": "Maripan G.",
+                "players_number": "6",
+                "Full Name": "Guillermo Maripan",
+                "players_rating": "",
+                "Country": "Chile",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (06.05.1994)",
+                "Market Value": "€9.8m",
+                "unicode": "UZiNdd1Q"
+            },
+            {
+                "players_name": "Sivera A. (G)",
+                "players_number": "13",
+                "Full Name": "Antonio Sivera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (11.08.1996)",
+                "Market Value": "€1.9m",
+                "unicode": "lMLBCMLN"
+            },
+            {
+                "players_name": "Torres D.",
+                "players_number": "16",
+                "Full Name": "Daniel Torres",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (15.11.1989)",
+                "Market Value": "€289k",
+                "unicode": "pdZ7LxRt"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Garitano A.",
+                "players_number": "",
+                "Full Name": "Asier Garitano",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "54,  (06.12.1969)",
+                "Market Value": "",
+                "unicode": "IilCZTta"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Serantes J.",
+                "players_number": "",
+                "Full Name": "Jon Serantes",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (24.10.1989)",
+                "Market Value": "31.01.2025",
+                "unicode": "44Gx43ai"
+            },
+            {
+                "players_name": "Siovas D.",
+                "players_number": "",
+                "Full Name": "Dimitrios Siovas",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.09.1988)",
+                "Market Value": "€391k",
+                "unicode": "WzHBybWs"
+            },
+            {
+                "players_name": "Tito",
+                "players_number": "",
+                "Full Name": "Tito",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (11.07.1985)",
+                "Market Value": "",
+                "unicode": "ryTQK8GE"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Eraso J.",
+                "players_number": "17",
+                "Full Name": "Javier Eraso",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (22.03.1990)",
+                "Market Value": "€268k",
+                "unicode": "dptayS6p"
+            },
+            {
+                "players_name": "Gabriel Pires",
+                "players_number": "8",
+                "Full Name": "Gabriel Pires",
+                "players_rating": 8.8,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (18.09.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "vHBRBWUr"
+            },
+            {
+                "players_name": "Guerrero",
+                "players_number": "9",
+                "Full Name": "Miguel Guerrero",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (12.07.1990)",
+                "Market Value": "€415k",
+                "unicode": "UBeRBdqA"
+            },
+            {
+                "players_name": "Mantovani M.",
+                "players_number": "5",
+                "Full Name": "Martin Mantovani",
+                "players_rating": 7.6,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (07.07.1984)",
+                "Market Value": "",
+                "unicode": "YB5SkBb5"
+            },
+            {
+                "players_name": "Munoz E.",
+                "players_number": "19",
+                "Full Name": "Ezequiel Munoz",
+                "players_rating": 8.1,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (08.10.1990)",
+                "Market Value": "€95k",
+                "unicode": "4KyA8LIf"
+            },
+            {
+                "players_name": "Omar",
+                "players_number": "23",
+                "Full Name": "Omar Ramos",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (26.01.1988)",
+                "Market Value": "",
+                "unicode": "GhJuTAI3"
+            },
+            {
+                "players_name": "Perez R.",
+                "players_number": "21",
+                "Full Name": "Ruben Perez",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (26.04.1989)",
+                "Market Value": "€783k",
+                "unicode": "Qq5xfUS4"
+            },
+            {
+                "players_name": "Pichu Cuellar (G)",
+                "players_number": "1",
+                "Full Name": "Ivan Cuellar",
+                "players_rating": 7.6,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (27.05.1984)",
+                "Market Value": "€104k",
+                "unicode": "lx119mnI"
+            },
+            {
+                "players_name": "Rico D.",
+                "players_number": "15",
+                "Full Name": "Diego Rico",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (23.02.1993)",
+                "Market Value": "€3.5m",
+                "unicode": "l0v5oji3"
+            },
+            {
+                "players_name": "Szymanowski A.",
+                "players_number": "11",
+                "Full Name": "Alexander Szymanowski",
+                "players_rating": 7.4,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (13.10.1988)",
+                "Market Value": "30.06.2024",
+                "unicode": "fkgV8Xah"
+            },
+            {
+                "players_name": "Zaldua J.",
+                "players_number": "20",
+                "Full Name": "Joseba Zaldua",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.06.1992)",
+                "Market Value": "€1.1m",
+                "unicode": "xbrr5N5M"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bustinza U.",
+                "players_number": "3",
+                "Full Name": "Unai Bustinza",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (02.02.1992)",
+                "Market Value": "",
+                "unicode": "O0o3t73q"
+            },
+            {
+                "players_name": "El Zhar N.",
+                "players_number": "10",
+                "Full Name": "Nabil El Zhar",
+                "players_rating": 6.6,
+                "Country": "Morocco",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (27.08.1986)",
+                "Market Value": "",
+                "unicode": "fPGb3VzU"
+            },
+            {
+                "players_name": "Moran E.",
+                "players_number": "4",
+                "Full Name": "Erik Moran",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (25.05.1991)",
+                "Market Value": "€369k",
+                "unicode": "nL9ueELt"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Champagne N. (G)",
+                "players_number": "25",
+                "Full Name": "Nereo Champagne",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (20.01.1985)",
+                "Market Value": "31.12.2024",
+                "unicode": "YHF4GbK2"
+            },
+            {
+                "players_name": "Dos Santos M.",
+                "players_number": "16",
+                "Full Name": "Mauro Dos Santos",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (07.07.1989)",
+                "Market Value": "30.06.2024",
+                "unicode": "QDZnBMMt"
+            },
+            {
+                "players_name": "Garcia R.",
+                "players_number": "14",
+                "Full Name": "Raul Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (30.04.1989)",
+                "Market Value": "",
+                "unicode": "KI3A2f8L"
+            },
+            {
+                "players_name": "Rocha L.",
+                "players_number": "",
+                "Full Name": "Leonardo Rocha",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€443k",
+                "unicode": "xKwbgQB2"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Leganes have made some new signings: Robert Ibanez (Osasuna), Diego Jose Conde Alcoado (Atl. Madrid), Sabin (Dep. La Coruna), Luis Perea Hernandez (Osasuna), Sergio Gonzalez Poirrier (Mirandes), Javi Rubio (Rayo Vallecano).",
+            "comments_text_anonymized": "[TEAM] have made some new signings: Robert Ibanez ([TEAM]), Diego Jose Conde Alcoado ([TEAM]), Sabin ([TEAM]), Luis Perea [PLAYER] ([TEAM]), Sergio Gonzalez Poirrier ([TEAM]), Javi Rubio ([TEAM])."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Alaves have made new signings during the transfer window and they have welcomed: Rodrigo Battaglia (Braga), Deyverson (Palmeiras).",
+            "comments_text_anonymized": "[TEAM] have made new signings during the transfer window and they have welcomed: [PLAYER] Battaglia ([TEAM]), Deyverson ([TEAM])."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Jose Luis Munuera Montero is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Alaves will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Rodrigo Ely (Alaves) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. A free kick to Leganes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. A free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:40",
+            "comments_type": "free kick",
+            "comments_text": "Miguel Guerrero (Leganes) crosses the ball in from a free kick, but Fernando Pacheco reads it well and gathers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball in from a free kick, but [PLAYER] reads it well and gathers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:40",
+            "comments_type": "clearance",
+            "comments_text": "Miguel Guerrero (Leganes) shoots from outside the box, but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:21",
+            "comments_type": "shot off target",
+            "comments_text": "A lofted pass finds Miguel Guerrero (Leganes) free in the box, but his first-time effort sails well wide of the right post.",
+            "comments_text_anonymized": "A lofted pass finds [PLAYER] ([TEAM]) free in the box, but his first-time effort sails well wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "clearance",
+            "comments_text": "Ruben Sobrino (Alaves) sends a cross into the box, but Ivan Cuellar comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A pass travels right across the box to Ruben Sobrino (Alaves) and gives him a sight of goal. He tries to beat the keeper in the bottom right corner, but Ivan Cuellar denies him with a decent save.",
+            "comments_text_anonymized": "A pass travels right across the box to [PLAYER] ([TEAM]) and gives him a sight of goal. He tries to beat the keeper in the bottom right corner, but [PLAYER] denies him with a decent save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:27",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Diego Rico (Leganes) commits a rough foul. Jose Luis Munuera Montero stops the game and makes a call. PENALTY to Alaves!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. PENALTY to [TEAM]!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:43",
+            "comments_type": "free kick",
+            "comments_text": "Manu Garcia (Alaves) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:12",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Manu Garcia (Alaves) places the ball on the penalty spot and sends it towards the middle of the target. His effort isn't powerful nor precise enough, allowing Ivan Cuellar to keep the ball out of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) places the ball on the penalty spot and sends it towards the middle of the target. His effort isn't powerful nor precise enough, allowing [PLAYER] to keep the ball out of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:00",
+            "comments_type": "corner",
+            "comments_text": "Burgui (Alaves) races towards goal but the defender gets back well to make a challenge. Alaves have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:35",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. Alaves will have a chance to score from a corner.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:33",
+            "comments_type": "foul with no card",
+            "comments_text": "Jose Luis Munuera Montero blows his whistle and it's Mubarak Wakaso (Alaves) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:07",
+            "comments_type": "yellow card",
+            "comments_text": "Mubarak Wakaso (Alaves) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision. Leganes have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! Gabriel (Leganes) has the simplest of tasks to roll the ball into an empty net from close range after a rebound left the keeper stranded. 1:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) has the simplest of tasks to roll the ball into an empty net from close range after a rebound left the keeper stranded. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:36",
+            "comments_type": "foul with no card",
+            "comments_text": "Mubarak Wakaso (Alaves) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jose Luis Munuera Montero no option but to blow his whistle. Another situation results in a direct free kick for Leganes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. Another situation results in a direct free kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:38",
+            "comments_type": "free kick",
+            "comments_text": "The resulting free kick from 23 metres out taken by Miguel Guerrero (Leganes) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "comments_text_anonymized": "The resulting free kick from 23 metres out taken by [PLAYER] ([TEAM]) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Jose Luis Munuera Montero blows his whistle. Gabriel (Leganes) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:22",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A neat pass is well received by Gabriel (Leganes), who is lurking on the edge of the box and produces a low drive directed towards the middle of the goal. The goalkeeper makes a decent save to block his shot.",
+            "comments_text_anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and produces a low drive directed towards the middle of the goal. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:56",
+            "comments_type": "clearance",
+            "comments_text": "That's unlucky! Omar Ramos (Leganes) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared.",
+            "comments_text_anonymized": "That's unlucky! [PLAYER] ([TEAM]) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:07",
+            "comments_type": "lead to corner",
+            "comments_text": "Gabriel (Leganes) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. Leganes earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. [TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:36",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Leganes is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:06",
+            "comments_type": "off side",
+            "comments_text": "Diego Rico (Leganes) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:53",
+            "comments_type": "corner",
+            "comments_text": "Alaves have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 1 min. of added time.",
+            "comments_text_anonymized": "We will have 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:25",
+            "comments_type": "corner",
+            "comments_text": "Leganes failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:49",
+            "comments_type": "end of half game",
+            "comments_text": "Jose Luis Munuera Montero has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:08",
+            "comments_type": "shot off target",
+            "comments_text": "Gomez Perez Ibai (Alaves) gets a shot away from distance, but wasn't really set to take it and fires high and wide.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets a shot away from distance, but wasn't really set to take it and fires high and wide."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:38",
+            "comments_type": "corner",
+            "comments_text": "Diego Rico (Leganes) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Leganes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:50",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Leganes.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:52",
+            "comments_type": "shot off target",
+            "comments_text": "The keeper doesn't have to worry about this one. Mubarak Wakaso (Alaves) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "comments_text_anonymized": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "5:3 – this is the current number of shots on target.",
+            "comments_text_anonymized": "5:3 – this is the current number of shots on target."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:08",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Oscar Romero (Alaves) is coming onto the pitch as Ruben Sobrino cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:20",
+            "comments_type": "substitution",
+            "comments_text": "Luis Francisco Zubeldia decides to make a substitution. Mubarak Wakaso will be replaced by Tomas Pina (Alaves).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:05",
+            "comments_type": "substitution",
+            "comments_text": "Omar Ramos will be replaced by Erik Moran (Leganes).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:54",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted, a clear handball by Oscar Romero (Alaves).",
+            "comments_text_anonymized": "The game is interrupted, a clear handball by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:39",
+            "comments_type": "off side",
+            "comments_text": "Miguel Guerrero (Leganes) is caught offside after the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside after the linesman raises his flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:10",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Javier Eraso is replaced by Nabil El Zhar (Leganes).",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:14",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 9231.",
+            "comments_text_anonymized": "The attendance for today's match is 9231."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:38",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Diego Rico (Leganes). Jose Luis Munuera Montero blows his whistle for a foul. A free kick has been awarded to Alaves.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:23",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by Alaves, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:16",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Litri (Alaves) coming on for Alfonso.",
+            "comments_text_anonymized": "The manager makes a subsitution with Litri ([TEAM]) coming on for Alfonso."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:35",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ivan Cuellar hears the fans clapping his superb goalkeeping. Oscar Romero (Alaves) shoots from the edge of the box towards the left side of the goal, but the goalkeeper makes a magnificent save.",
+            "comments_text_anonymized": "[PLAYER] hears the fans clapping his superb goalkeeping. [PLAYER] ([TEAM]) shoots from the edge of the box towards the left side of the goal, but the goalkeeper makes a magnificent save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:46",
+            "comments_type": "substitution",
+            "comments_text": "Asier Garitano has decided to substitute Joseba Zaldua and he is replaced by Unai Bustinza (Leganes).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:58",
+            "comments_type": "shot off target",
+            "comments_text": "Nabil El Zhar (Leganes) unleashes a shot, but his effort is poor and flies well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot, but his effort is poor and flies well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Christian Santos (Alaves) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Jose Luis Munuera Montero with no other option than to blow for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:38",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. Leganes win a corner kick.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:58",
+            "comments_type": "end of half game",
+            "comments_text": "Nothing more will happen in this game as the referee blows for full time.",
+            "comments_text_anonymized": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ]
+}

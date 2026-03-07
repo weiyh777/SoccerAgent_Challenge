@@ -1,0 +1,913 @@
+{
+    "match_info": {
+        "timestamp": "2021-05-23 23:00:00",
+        "score": "3 - 0",
+        "home_team": "West Ham",
+        "away_team": "Southampton",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 4 - 2",
+        "venue": "London Stadium (London)",
+        "capacity": "62 500",
+        "attendance": "10 000",
+        "home_jersey_color": "red and blue",
+        "away_jersey_color": "white and red"
+    },
+    "referee_data": {
+        "short_name_country": "Atkinson M. (Eng)",
+        "first_name": "Atkinson",
+        "abbr_last_name": "M",
+        "country": "Eng",
+        "detected_name": "Martin Atkinson"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Hasenhuttl R.",
+                "players_number": "",
+                "Full Name": "Ralph Hasenhuttl",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (09.08.1967)",
+                "Market Value": "",
+                "unicode": "f3ddUIXs"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Adams C.",
+                "players_number": "",
+                "Full Name": "Che Adams",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (13.07.1996)",
+                "Market Value": "€13.8m",
+                "unicode": "4C0YmOaJ"
+            },
+            {
+                "players_name": "Bertrand R.",
+                "players_number": "",
+                "Full Name": "Ryan Bertrand",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.08.1989)",
+                "Market Value": "",
+                "unicode": "8ra7I5SI"
+            },
+            {
+                "players_name": "Smallbone W.",
+                "players_number": "",
+                "Full Name": "William Smallbone",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (21.02.2000)",
+                "Market Value": "€3.5m",
+                "unicode": "KnkXb6uj"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Armstrong S.",
+                "players_number": "17",
+                "Full Name": "Stuart Armstrong",
+                "players_rating": 6.8,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (30.03.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "bNMGoy7K"
+            },
+            {
+                "players_name": "Bednarek J.",
+                "players_number": "35",
+                "Full Name": "Jan Bednarek",
+                "players_rating": 6.4,
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.04.1996)",
+                "Market Value": "€10.6m",
+                "unicode": "l4MMmL5S"
+            },
+            {
+                "players_name": "Diallo I.",
+                "players_number": "27",
+                "Full Name": "Ibrahima Diallo",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (08.03.1999)",
+                "Market Value": "",
+                "unicode": "SI73nSfI"
+            },
+            {
+                "players_name": "Ings D.",
+                "players_number": "9",
+                "Full Name": "Danny Ings",
+                "players_rating": 6.0,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (23.07.1992)",
+                "Market Value": "€8.3m",
+                "unicode": "S0QG044b"
+            },
+            {
+                "players_name": "McCarthy A. (G)",
+                "players_number": "1",
+                "Full Name": "Alex McCarthy",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (03.12.1989)",
+                "Market Value": "€440k",
+                "unicode": "WIqv3LGU"
+            },
+            {
+                "players_name": "Minamino T.",
+                "players_number": "19",
+                "Full Name": "Takumi Minamino",
+                "players_rating": 6.2,
+                "Country": "Japan",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (16.01.1995)",
+                "Market Value": "€11.7m",
+                "unicode": "hIwtloy3"
+            },
+            {
+                "players_name": "Redmond N.",
+                "players_number": "11",
+                "Full Name": "Nathan Redmond",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.03.1994)",
+                "Market Value": "€6.6m",
+                "unicode": "APp1STK6"
+            },
+            {
+                "players_name": "Salisu M.",
+                "players_number": "22",
+                "Full Name": "Mohammed Salisu",
+                "players_rating": 6.7,
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (17.04.1999)",
+                "Market Value": "€14.7m",
+                "unicode": "zuFTjQI5"
+            },
+            {
+                "players_name": "Vestergaard J.",
+                "players_number": "4",
+                "Full Name": "Jannik Vestergaard",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (03.08.1992)",
+                "Market Value": "€3.6m",
+                "unicode": "2mkPasKP"
+            },
+            {
+                "players_name": "Walker-Peters K.",
+                "players_number": "2",
+                "Full Name": "Kyle Walker-Peters",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (13.04.1997)",
+                "Market Value": "€19.9m",
+                "unicode": "re5e7Ssq"
+            },
+            {
+                "players_name": "Ward-Prowse J. (C)",
+                "players_number": "8",
+                "Full Name": "James Ward-Prowse",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (01.11.1994)",
+                "Market Value": "€41.5m",
+                "unicode": "GxdkTszJ"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Obafemi M.",
+                "players_number": "14",
+                "Full Name": "Michael Obafemi",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (06.07.2000)",
+                "Market Value": "€3.3m",
+                "unicode": "l4b14SHS"
+            },
+            {
+                "players_name": "Romeu O.",
+                "players_number": "6",
+                "Full Name": "Oriol Romeu",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (24.09.1991)",
+                "Market Value": "€2.9m",
+                "unicode": "WCC5IrWg"
+            },
+            {
+                "players_name": "Tella N.",
+                "players_number": "23",
+                "Full Name": "Nathan Tella",
+                "players_rating": 6.1,
+                "Country": "Nigeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (05.07.1999)",
+                "Market Value": "€23.2m",
+                "unicode": "QRtPmK69"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Djenepo M.",
+                "players_number": "12",
+                "Full Name": "Moussa Djenepo",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (15.06.1998)",
+                "Market Value": "€4.8m",
+                "unicode": "pGkLZUDM"
+            },
+            {
+                "players_name": "Ferry W.",
+                "players_number": "47",
+                "Full Name": "Will Ferry",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (07.12.2001)",
+                "Market Value": "€309k",
+                "unicode": "YyUlHRjq"
+            },
+            {
+                "players_name": "Forster F. (G)",
+                "players_number": "44",
+                "Full Name": "Fraser Forster",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (17.03.1988)",
+                "Market Value": "€1.1m",
+                "unicode": "SWLt6Trt"
+            },
+            {
+                "players_name": "N'Lundulu D.",
+                "players_number": "40",
+                "Full Name": "Dan N'Lundulu",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (05.02.1999)",
+                "Market Value": "€553k",
+                "unicode": "dO4EtkMt"
+            },
+            {
+                "players_name": "Stephens J.",
+                "players_number": "5",
+                "Full Name": "Jack Stephens",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (27.01.1994)",
+                "Market Value": "€2.4m",
+                "unicode": "lxFOy0k5"
+            },
+            {
+                "players_name": "Walcott T.",
+                "players_number": "32",
+                "Full Name": "Theo Walcott",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (16.03.1989)",
+                "Market Value": "",
+                "unicode": "2cpouZhq"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Moyes D.",
+                "players_number": "",
+                "Full Name": "David Moyes",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (25.04.1963)",
+                "Market Value": "",
+                "unicode": "hUGEt9yf"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Lanzini M.",
+                "players_number": "",
+                "Full Name": "Manuel Lanzini",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.02.1993)",
+                "Market Value": "€3.4m",
+                "unicode": "QT3lIj4N"
+            },
+            {
+                "players_name": "Masuaku A.",
+                "players_number": "",
+                "Full Name": "Arthur Masuaku",
+                "players_rating": "",
+                "Country": "DR Congo",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (07.11.1993)",
+                "Market Value": "€5.1m",
+                "unicode": "4YoV0hmC"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Antonio M.",
+                "players_number": "30",
+                "Full Name": "Michail Antonio",
+                "players_rating": 7.1,
+                "Country": "Jamaica",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (28.03.1990)",
+                "Market Value": "€5.8m",
+                "unicode": "p8tt85Xn"
+            },
+            {
+                "players_name": "Bowen J.",
+                "players_number": "20",
+                "Full Name": "Jarrod Bowen",
+                "players_rating": 7.5,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (20.12.1996)",
+                "Market Value": "€50.3m",
+                "unicode": "pW170H9K"
+            },
+            {
+                "players_name": "Coufal V.",
+                "players_number": "5",
+                "Full Name": "Vladimir Coufal",
+                "players_rating": 7.3,
+                "Country": "Czech Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (22.08.1992)",
+                "Market Value": "€8.8m",
+                "unicode": "n92l9Tl1"
+            },
+            {
+                "players_name": "Cresswell A.",
+                "players_number": "3",
+                "Full Name": "Aaron Cresswell",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (15.12.1989)",
+                "Market Value": "€842k",
+                "unicode": "fcMqoMcH"
+            },
+            {
+                "players_name": "Dawson C.",
+                "players_number": "15",
+                "Full Name": "Craig Dawson",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (06.05.1990)",
+                "Market Value": "€1.9m",
+                "unicode": "Who0H1fJ"
+            },
+            {
+                "players_name": "Fabianski L. (G)",
+                "players_number": "1",
+                "Full Name": "Lukasz Fabianski",
+                "players_rating": 7.9,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "38, (18.04.1985)",
+                "Market Value": "€685k",
+                "unicode": "bRKKNZwj"
+            },
+            {
+                "players_name": "Fornals P.",
+                "players_number": "18",
+                "Full Name": "Pablo Fornals",
+                "players_rating": 9.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (22.02.1996)",
+                "Market Value": "€15.9m",
+                "unicode": "CfghB0gf"
+            },
+            {
+                "players_name": "Lingard J.",
+                "players_number": "11",
+                "Full Name": "Jesse Lingard",
+                "players_rating": 6.7,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            },
+            {
+                "players_name": "Ogbonna A.",
+                "players_number": "21",
+                "Full Name": "Angelo Ogbonna",
+                "players_rating": 6.6,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (23.05.1988)",
+                "Market Value": "€665k",
+                "unicode": "xtEnn3rQ"
+            },
+            {
+                "players_name": "Rice D. (C)",
+                "players_number": "41",
+                "Full Name": "Declan Rice",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (14.01.1999)",
+                "Market Value": "€109.2m",
+                "unicode": "zkQ8Cm6n"
+            },
+            {
+                "players_name": "Soucek T.",
+                "players_number": "28",
+                "Full Name": "Tomas Soucek",
+                "players_rating": 7.8,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (27.02.1995)",
+                "Market Value": "€36.2m",
+                "unicode": "8zWzYFRF"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Benrahma S.",
+                "players_number": "9",
+                "Full Name": "Said Benrahma",
+                "players_rating": 6.3,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.08.1995)",
+                "Market Value": "€20.6m",
+                "unicode": "Qyrn555R"
+            },
+            {
+                "players_name": "Diop I.",
+                "players_number": "23",
+                "Full Name": "Issa Diop",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (09.01.1997)",
+                "Market Value": "€20.9m",
+                "unicode": "Eyqbicqr"
+            },
+            {
+                "players_name": "Noble M.",
+                "players_number": "16",
+                "Full Name": "Mark Noble",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (08.05.1987)",
+                "Market Value": "",
+                "unicode": "GxzuJFFG"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Fabian Balbuena",
+                "players_number": "4",
+                "Full Name": "Fabian Balbuena",
+                "players_rating": "",
+                "Country": "Paraguay",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (23.08.1991)",
+                "Market Value": "€3.0m",
+                "unicode": "ELMR4PLj"
+            },
+            {
+                "players_name": "Fredericks R.",
+                "players_number": "24",
+                "Full Name": "Ryan Fredericks",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (10.10.1992)",
+                "Market Value": "€1.3m",
+                "unicode": "YRGWmYP5"
+            },
+            {
+                "players_name": "Johnson B.",
+                "players_number": "31",
+                "Full Name": "Benjamin Johnson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (24.01.2000)",
+                "Market Value": "€7.6m",
+                "unicode": "jRgdGLMG"
+            },
+            {
+                "players_name": "Odubeko A.",
+                "players_number": "45",
+                "Full Name": "Ademipo Odubeko",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (21.10.2002)",
+                "Market Value": "€179k",
+                "unicode": "f3tFZuf8"
+            },
+            {
+                "players_name": "Randolph D. (G)",
+                "players_number": "35",
+                "Full Name": "Darren Randolph",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (12.05.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "8QL8VjKD"
+            },
+            {
+                "players_name": "Yarmolenko A.",
+                "players_number": "7",
+                "Full Name": "Andriy Yarmolenko",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.10.1989)",
+                "Market Value": "€1.9m",
+                "unicode": "O00J9ZLN"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun.",
+            "comments_text_anonymized": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Martin Atkinson is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Southampton will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:10",
+            "comments_type": "clearance",
+            "comments_text": "Michail Antonio (West Ham) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:10",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Nathan Redmond (Southampton) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:28",
+            "comments_type": "shot off target",
+            "comments_text": "Ibrahima Diallo (Southampton) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:42",
+            "comments_type": "clearance",
+            "comments_text": "Tomas Soucek (West Ham) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:30",
+            "comments_type": "ball possession",
+            "comments_text": "Southampton show off their ball retention skills as they exchange one-two passes and the move is only interrupted when the final pass is intercepted.",
+            "comments_text_anonymized": "[TEAM] show off their ball retention skills as they exchange one-two passes and the move is only interrupted when the final pass is intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:30",
+            "comments_type": "clearance",
+            "comments_text": "Jarrod Bowen (West Ham) crosses the ball into the box, but one of the defending players averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:23",
+            "comments_type": "clearance",
+            "comments_text": "Jesse Lingard (West Ham) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:27",
+            "comments_type": "off side",
+            "comments_text": "One of the players from Southampton times his run too early and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:26",
+            "comments_type": "clearance",
+            "comments_text": "Jesse Lingard (West Ham) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:25",
+            "comments_type": "corner",
+            "comments_text": "Jarrod Bowen (West Ham) sends the corner into the box, but Alex McCarthy intercepts it and averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the corner into the box, but [PLAYER] intercepts it and averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "James Ward-Prowse (Southampton) connects with a pass but sees his shot from the edge of the box blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:13",
+            "comments_type": "corner",
+            "comments_text": "Southampton failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Kyle Walker-Peters (Southampton) peeled away from his marker and got on the end of a cross inside the box. He attempted to strike with a header to the left post, but it missed accuracy and the keeper made an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) peeled away from his marker and got on the end of a cross inside the box. He attempted to strike with a header to the left post, but it missed accuracy and the keeper made an easy save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Ibrahima Diallo (Southampton) makes an overly-aggressive challenge and Martin Atkinson blows his whistle for a foul. It's a free kick to West Ham, but they probably won't attempt a direct shot on goal from here.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:23",
+            "comments_type": "shot off target",
+            "comments_text": "Craig Dawson (West Ham) rises high to meet a perfect cross, but luckily for the goalkeeper he steers his header just over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises high to meet a perfect cross, but luckily for the goalkeeper he steers his header just over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:31",
+            "comments_type": "goal",
+            "comments_text": "Goal! Pablo Fornals (West Ham) fires the rebound inside the left post after the ball breaks to him in the box. The score is 1:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) fires the rebound inside the left post after the ball breaks to him in the box. The score is 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:31",
+            "comments_type": "goal",
+            "comments_text": "Fantastic team goal! Pablo Fornals (West Ham) was set free in the area by Vladimir Coufal and made no mistake with a lovely finish into the bottom right corner. 2:0.",
+            "comments_text_anonymized": "Fantastic team goal! [PLAYER] ([TEAM]) was set free in the area by [PLAYER] and made no mistake with a lovely finish into the bottom right corner. 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:55",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jarrod Bowen (West Ham) sends a cross into the box, but Alex McCarthy comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:03",
+            "comments_type": "ball possession",
+            "comments_text": "Southampton seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:48",
+            "comments_type": "end of half game",
+            "comments_text": "Martin Atkinson has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The game restarts for the second half.",
+            "comments_text_anonymized": "The game restarts for the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:37",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Issa Diop (West Ham) comes onto the pitch so that Declan Rice can be given a rest.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:34",
+            "comments_type": "yellow card",
+            "comments_text": "It's like he was asking for a caution. Jan Bednarek (Southampton) receives a yellow card.",
+            "comments_text_anonymized": "It's like he was asking for a caution. [PLAYER] ([TEAM]) receives a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:53",
+            "comments_type": "injury",
+            "comments_text": "Michail Antonio (West Ham) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Vladimir Coufal (West Ham) whips a promising cross into the box, but the opposition's defence intercepts the ball. West Ham have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:28",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Aaron Cresswell (West Ham) comes to nothing.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:49",
+            "comments_type": "corner",
+            "comments_text": "Southampton failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:35",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Kyle Walker-Peters. He has contributed as much as he could today. He will be replaced by the fresh legs of Oriol Romeu (Southampton).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:49",
+            "comments_type": "substitution",
+            "comments_text": "Ralph Hasenhuttl decides to make a substitution. Takumi Minamino will be replaced by Nathan Tella (Southampton).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:50",
+            "comments_type": "ball possession",
+            "comments_text": "West Ham are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:29",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card for a tackle by Ibrahima Diallo (Southampton). Martin Atkinson doesn't hesitate at all to make this decision.",
+            "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:10",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Michail Antonio leaves the pitch and Mohamed Said Benrahma (West Ham) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and Mohamed [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:30",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Nathan Tella (Southampton) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:40",
+            "comments_type": "ball out of play",
+            "comments_text": "A long ball forward to Danny Ings (Southampton) is intercepted. The ball goes out of play and West Ham will have a goal kick.",
+            "comments_text_anonymized": "A long ball forward to [PLAYER] ([TEAM]) is intercepted. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:18",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Mohammed Salisu (Southampton) is worthy of a card and a yellow is duly shown by Martin Atkinson.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:54",
+            "comments_type": "corner",
+            "comments_text": "James Ward-Prowse (Southampton) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:03",
+            "comments_type": "shot off target",
+            "comments_text": "Nathan Tella (Southampton) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Lukasz Fabianski.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:40",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Michael Obafemi (Southampton) on for Danny Ings.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:36",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Jarrod Bowen is going off and David William Moyes gives the last tactical orders to Mark Noble (West Ham).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and David William [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:13",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Pablo Fornals (West Ham) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:20",
+            "comments_type": "goal",
+            "comments_text": "An amazing individual effort from Declan Rice (West Ham) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 3:0. Alex McCarthy was helpless.",
+            "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 3:0. [PLAYER] was helpless."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:27",
+            "comments_type": "clearance",
+            "comments_text": "A promising cross into the box is nearly received by the lurking Mohamed Said Benrahma (West Ham), but one of the defending players cuts it out to avert the threat.",
+            "comments_text_anonymized": "A promising cross into the box is nearly received by the lurking Mohamed [PLAYER] ([TEAM]), but one of the defending players cuts it out to avert the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:42",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Issa Diop comes onto the pitch for Declan Rice (West Ham).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] comes onto the pitch for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:32",
+            "comments_type": "end of half game",
+            "comments_text": "Nothing more will happen in this game as the referee blows for full time.",
+            "comments_text_anonymized": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ]
+}

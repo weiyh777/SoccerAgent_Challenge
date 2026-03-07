@@ -1,0 +1,1414 @@
+{
+    "match_info": {
+        "timestamp": "2020-10-05 03:00:00",
+        "score": "1 - 1",
+        "home_team": "Barcelona",
+        "away_team": "Sevilla",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Camp Nou (Barcelona)",
+        "capacity": "99 354",
+        "attendance": "",
+        "home_jersey_color": "red and blue",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Manzano J. (Esp)",
+        "first_name": "Manzano",
+        "abbr_last_name": "J",
+        "country": "Esp",
+        "detected_name": "Jesus [ PLAYER ] Manzano"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Koeman R.",
+                "players_number": "",
+                "Full Name": "Ronald Koeman",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (21.03.1963)",
+                "Market Value": "",
+                "unicode": "vHeYAvb2"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Firpo J.",
+                "players_number": "",
+                "Full Name": "Junior Firpo",
+                "players_rating": "",
+                "Country": "Dominican Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (22.08.1996)",
+                "Market Value": "€4.9m",
+                "unicode": "hhe17rb7"
+            },
+            {
+                "players_name": "Lenglet C.",
+                "players_number": "",
+                "Full Name": "Clement Lenglet",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (17.06.1995)",
+                "Market Value": "€7.8m",
+                "unicode": "rH0mL7ws"
+            },
+            {
+                "players_name": "Matheus Fernandes",
+                "players_number": "",
+                "Full Name": "Matheus Fernandes",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€2.0m",
+                "unicode": "6HUilY58"
+            },
+            {
+                "players_name": "ter Stegen M.",
+                "players_number": "",
+                "Full Name": "Marc-Andre ter Stegen",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (30.04.1992)",
+                "Market Value": "€33.8m",
+                "unicode": "byxc46yl"
+            },
+            {
+                "players_name": "Umtiti S.",
+                "players_number": "",
+                "Full Name": "Samuel Umtiti",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (14.11.1993)",
+                "Market Value": "€2.9m",
+                "unicode": "zsH7aMfI"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alba J.",
+                "players_number": "18",
+                "Full Name": "Jordi Alba",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (21.03.1989)",
+                "Market Value": "€3.0m",
+                "unicode": "42SIX9sl"
+            },
+            {
+                "players_name": "Araujo R.",
+                "players_number": "30",
+                "Full Name": "Ronald Araujo",
+                "players_rating": 7.0,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (07.03.1999)",
+                "Market Value": "€67.5m",
+                "unicode": "M3sbJix9"
+            },
+            {
+                "players_name": "Busquets S.",
+                "players_number": "5",
+                "Full Name": "Sergio Busquets",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (16.07.1988)",
+                "Market Value": "€2.9m",
+                "unicode": "CU4pL3ue"
+            },
+            {
+                "players_name": "Coutinho",
+                "players_number": "14",
+                "Full Name": "Philippe Coutinho",
+                "players_rating": 7.1,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (12.06.1992)",
+                "Market Value": "€8.7m",
+                "unicode": "QP6r8H7O"
+            },
+            {
+                "players_name": "de Jong F.",
+                "players_number": "21",
+                "Full Name": "Frenkie de Jong",
+                "players_rating": 6.7,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.05.1997)",
+                "Market Value": "€80.6m",
+                "unicode": "A1F3rz9c"
+            },
+            {
+                "players_name": "Fati A.",
+                "players_number": "22",
+                "Full Name": "Ansu Fati",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (31.10.2002)",
+                "Market Value": "€27.4m",
+                "unicode": "dUPVnxzP"
+            },
+            {
+                "players_name": "Griezmann A.",
+                "players_number": "7",
+                "Full Name": "Antoine Griezmann",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (21.03.1991)",
+                "Market Value": "€26.9m",
+                "unicode": "OxCa1jdT"
+            },
+            {
+                "players_name": "Messi L. (C)",
+                "players_number": "10",
+                "Full Name": "Lionel Messi",
+                "players_rating": 7.4,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (24.06.1987)",
+                "Market Value": "€40.2m",
+                "unicode": "vgOOdZbd"
+            },
+            {
+                "players_name": "Neto (G)",
+                "players_number": "13",
+                "Full Name": "Neto",
+                "players_rating": 6.2,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (19.07.1989)",
+                "Market Value": "€2.5m",
+                "unicode": "dbGArTGd"
+            },
+            {
+                "players_name": "Pique G.",
+                "players_number": "3",
+                "Full Name": "Gerard Pique",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (02.02.1987)",
+                "Market Value": "",
+                "unicode": "fRBrHCRh"
+            },
+            {
+                "players_name": "Roberto S.",
+                "players_number": "20",
+                "Full Name": "Sergi Roberto",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (07.02.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "W2R804U4"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Dest S.",
+                "players_number": "2",
+                "Full Name": "Sergino Dest",
+                "players_rating": 6.4,
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.11.2000)",
+                "Market Value": "€17.6m",
+                "unicode": "lOQwOgTR"
+            },
+            {
+                "players_name": "Pedri",
+                "players_number": "16",
+                "Full Name": "Pedri",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (25.11.2002)",
+                "Market Value": "€88.1m",
+                "unicode": "baBG8QuI"
+            },
+            {
+                "players_name": "Pjanic M.",
+                "players_number": "8",
+                "Full Name": "Miralem Pjanic",
+                "players_rating": 6.2,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.04.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "ObHi3HbL"
+            },
+            {
+                "players_name": "Trincao",
+                "players_number": "17",
+                "Full Name": "Trincao",
+                "players_rating": 6.3,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (29.12.1999)",
+                "Market Value": "€9.9m",
+                "unicode": "vmYemyQS"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Alena C.",
+                "players_number": "6",
+                "Full Name": "Carles Alena",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (05.01.1998)",
+                "Market Value": "€2.8m",
+                "unicode": "vP5uwPQf"
+            },
+            {
+                "players_name": "Braithwaite M.",
+                "players_number": "19",
+                "Full Name": "Martin Braithwaite",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (05.06.1991)",
+                "Market Value": "€3.3m",
+                "unicode": "IsfUI7H4"
+            },
+            {
+                "players_name": "de la Fuente K.",
+                "players_number": "29",
+                "Full Name": "Konrad de la Fuente",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (16.07.2001)",
+                "Market Value": "€922k",
+                "unicode": "I1DZYWNr"
+            },
+            {
+                "players_name": "Dembele O.",
+                "players_number": "11",
+                "Full Name": "Ousmane Dembele",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (15.05.1997)",
+                "Market Value": "€61.3m",
+                "unicode": "zsMC2Ec0"
+            },
+            {
+                "players_name": "Pena I. (G)",
+                "players_number": "26",
+                "Full Name": "Inaki Pena",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (02.03.1999)",
+                "Market Value": "30.06.2026",
+                "unicode": "M1W3ZQSs"
+            },
+            {
+                "players_name": "Puig R.",
+                "players_number": "28",
+                "Full Name": "Riqui Puig",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (13.08.1999)",
+                "Market Value": "€12.8m",
+                "unicode": "GxVEgL1o"
+            },
+            {
+                "players_name": "Ramos S.",
+                "players_number": "32",
+                "Full Name": "Santiago Ramos",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (21.11.2001)",
+                "Market Value": "€428k",
+                "unicode": "WAALqV8H"
+            },
+            {
+                "players_name": "Tenas A. (G)",
+                "players_number": "36",
+                "Full Name": "Arnau Tenas",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (30.05.2001)",
+                "Market Value": "€5.0m",
+                "unicode": "CnNoZhXr"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Lopetegui J.",
+                "players_number": "",
+                "Full Name": "Julen Lopetegui",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "57,  (28.08.1966)",
+                "Market Value": "",
+                "unicode": "joAFj9hO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Gil B.",
+                "players_number": "",
+                "Full Name": "Bryan Gil",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (11.02.2001)",
+                "Market Value": "€14.8m",
+                "unicode": "xSXBYlvl"
+            },
+            {
+                "players_name": "Perez P.",
+                "players_number": "",
+                "Full Name": "Pablo Perez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (18.08.2001)",
+                "Market Value": "30.06.2025",
+                "unicode": "hxQ4iV6r"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Acuna M.",
+                "players_number": "19",
+                "Full Name": "Marcos Acuna",
+                "players_rating": 6.7,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (28.10.1991)",
+                "Market Value": "€5.8m",
+                "unicode": "pUC5RnIj"
+            },
+            {
+                "players_name": "Bono (G)",
+                "players_number": "13",
+                "Full Name": "Bono",
+                "players_rating": 7.3,
+                "Country": "Morocco",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "32, (05.04.1991)",
+                "Market Value": "€10.6m",
+                "unicode": "ne0lafKc"
+            },
+            {
+                "players_name": "de Jong L.",
+                "players_number": "9",
+                "Full Name": "Luuk de Jong",
+                "players_rating": 7.5,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (27.08.1990)",
+                "Market Value": "€3.5m",
+                "unicode": "fVuRxt84"
+            },
+            {
+                "players_name": "Diego Carlos",
+                "players_number": "20",
+                "Full Name": "Diego Carlos",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€15.2m",
+                "unicode": "lrFXrN1U"
+            },
+            {
+                "players_name": "Fernando",
+                "players_number": "25",
+                "Full Name": "Fernando",
+                "players_rating": 6.7,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (25.07.1987)",
+                "Market Value": "€2.4m",
+                "unicode": "rJlzoALP"
+            },
+            {
+                "players_name": "Jordan J.",
+                "players_number": "8",
+                "Full Name": "Joan Jordan",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.07.1994)",
+                "Market Value": "€4.8m",
+                "unicode": "nmjvsTy0"
+            },
+            {
+                "players_name": "Kounde J.",
+                "players_number": "12",
+                "Full Name": "Jules Kounde",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (12.11.1998)",
+                "Market Value": "€59.6m",
+                "unicode": "v36QVRPu"
+            },
+            {
+                "players_name": "Navas J. (C)",
+                "players_number": "16",
+                "Full Name": "Jesus Navas",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (21.11.1985)",
+                "Market Value": "€2.9m",
+                "unicode": "hWt5ZIrn"
+            },
+            {
+                "players_name": "Ocampos L.",
+                "players_number": "5",
+                "Full Name": "Lucas Ocampos",
+                "players_rating": 6.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (11.07.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "2s2ATpKI"
+            },
+            {
+                "players_name": "Rakitic I.",
+                "players_number": "10",
+                "Full Name": "Ivan Rakitic",
+                "players_rating": 6.4,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (10.03.1988)",
+                "Market Value": "€3.9m",
+                "unicode": "pC6dfyG5"
+            },
+            {
+                "players_name": "Suso",
+                "players_number": "7",
+                "Full Name": "Suso",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.11.1993)",
+                "Market Value": "€4.8m",
+                "unicode": "Aexbrioc"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "En Nesyri Y.",
+                "players_number": "15",
+                "Full Name": "Youssef En Nesyri",
+                "players_rating": 6.5,
+                "Country": "Morocco",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (01.06.1997)",
+                "Market Value": "€17.4m",
+                "unicode": "UqBaaAqo"
+            },
+            {
+                "players_name": "Fernandez C.",
+                "players_number": "24",
+                "Full Name": "Carlos Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (22.05.1996)",
+                "Market Value": "€2.7m",
+                "unicode": "2aQwSdeL"
+            },
+            {
+                "players_name": "Gudelj N.",
+                "players_number": "6",
+                "Full Name": "Nemanja Gudelj",
+                "players_rating": 6.2,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (16.11.1991)",
+                "Market Value": "€3.7m",
+                "unicode": "SKLFEpf6"
+            },
+            {
+                "players_name": "Munir El Haddadi",
+                "players_number": "11",
+                "Full Name": "Munir El Haddadi",
+                "players_rating": 6.5,
+                "Country": "Morocco",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (01.09.1995)",
+                "Market Value": "€1.9m",
+                "unicode": "CKYnnUEo"
+            },
+            {
+                "players_name": "Torres O.",
+                "players_number": "21",
+                "Full Name": "Oliver Torres",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (10.11.1994)",
+                "Market Value": "€5.7m",
+                "unicode": "6cK1wOfD"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Diaz J. (G)",
+                "players_number": "31",
+                "Full Name": "Javi Diaz",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (15.05.1997)",
+                "Market Value": "",
+                "unicode": "O4TqLcq8"
+            },
+            {
+                "players_name": "Escudero S.",
+                "players_number": "18",
+                "Full Name": "Sergio Escudero",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (02.09.1989)",
+                "Market Value": "€964k",
+                "unicode": "8fZSyUbm"
+            },
+            {
+                "players_name": "Gomez S.",
+                "players_number": "3",
+                "Full Name": "Sergi Gomez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (28.03.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "v1bRsEDN"
+            },
+            {
+                "players_name": "Pozo A.",
+                "players_number": "17",
+                "Full Name": "Alejandro Pozo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (22.02.1999)",
+                "Market Value": "€2.8m",
+                "unicode": "lEgtMYw4"
+            },
+            {
+                "players_name": "Rodriguez O.",
+                "players_number": "14",
+                "Full Name": "Oscar Rodriguez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (28.06.1998)",
+                "Market Value": "€2.3m",
+                "unicode": "WWNny3e7"
+            },
+            {
+                "players_name": "Vaclik T. (G)",
+                "players_number": "1",
+                "Full Name": "Tomas Vaclik",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "€1.1m, (29.03.1989)",
+                "Market Value": "31.12.2024",
+                "unicode": "6D9ZNa5g"
+            },
+            {
+                "players_name": "Vazquez F.",
+                "players_number": "22",
+                "Full Name": "Franco Vazquez",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (22.02.1989)",
+                "Market Value": "€1.1m",
+                "unicode": "vJItNu2r"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Today's referee will be Jesus Gil Manzano.",
+            "comments_text_anonymized": "Today's referee will be Jesus [PLAYER] Manzano."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Barcelona will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:20",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross from Lucas Ocampos (Sevilla) fails to reach the box as the defence clears the ball away to safety. Sevilla have been awarded a corner kick.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:53",
+            "comments_type": "corner",
+            "comments_text": "Joan Jordan (Sevilla) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:22",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Ocampos (Sevilla) anticipates the cross from Suso, but powers his header way over the bar from the edge of the six-yard box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) anticipates the cross from [PLAYER], but powers his header way over the bar from the edge of the six-yard box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:30",
+            "comments_type": "clearance",
+            "comments_text": "Lucas Ocampos (Sevilla) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:06",
+            "comments_type": "lead to corner",
+            "comments_text": "Luuk de Jong (Sevilla) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. The referee points to the corner flag and Sevilla will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:05",
+            "comments_type": "corner",
+            "comments_text": "Joan Jordan (Sevilla) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:25",
+            "comments_type": "goal",
+            "comments_text": "Goal! Luuk de Jong (Sevilla) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the middle of the net. He makes it 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the middle of the net. He makes it 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:40",
+            "comments_type": "goal",
+            "comments_text": "Philippe Coutinho (Barcelona) has a great chance inside the box and slams the ball into the roof of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a great chance inside the box and slams the ball into the roof of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Philippe Coutinho (Barcelona) was too forceful with his tackle and Jesus Gil Manzano interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and Jesus [PLAYER] Manzano interrupted the game to signal a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:40",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Frenkie de Jong (Barcelona) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Marcos Acuna (Sevilla) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:38",
+            "comments_type": "foul with no card",
+            "comments_text": "Suso (Sevilla) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Jesus Gil Manzano blows for the foul but keeps his cards in his pocket on this occasion.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Jesus [PLAYER] Manzano blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:16",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano blows for a foul after Jordi Alba (Barcelona) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "Jesus [PLAYER] Manzano blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "free kick",
+            "comments_text": "Frenkie de Jong (Barcelona) fires the resulting free kick on goal from long distance, but the goalkeeper blocks his effort. The referee points to the corner flag. It's a corner to Barcelona.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the resulting free kick on goal from long distance, but the goalkeeper blocks his effort. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:00",
+            "comments_type": "corner",
+            "comments_text": "Barcelona failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:38",
+            "comments_type": "foul with no card",
+            "comments_text": "Antoine Griezmann (Barcelona) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:20",
+            "comments_type": "clearance",
+            "comments_text": "Fernando (Sevilla) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:30",
+            "comments_type": "ball possession",
+            "comments_text": "Neat passing move from Barcelona in order to create new attacking opportunities.",
+            "comments_text_anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:39",
+            "comments_type": "clearance",
+            "comments_text": "Jordi Alba (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:50",
+            "comments_type": "ball possession",
+            "comments_text": "Some patient build-up play from Sevilla as they look to unlock the defence.",
+            "comments_text_anonymized": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:52",
+            "comments_type": "clearance",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Ivan Rakitic (Sevilla).",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:06",
+            "comments_type": "ball possession",
+            "comments_text": "Long passes, short passes and one-two passes. Barcelona are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment.",
+            "comments_text_anonymized": "Long passes, short passes and one-two passes. [TEAM] are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:30",
+            "comments_type": "clearance",
+            "comments_text": "Frenkie de Jong (Barcelona) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "That didn't go as planned! Anssumane Fati (Barcelona) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past Bono, who easily kept it out.",
+            "comments_text_anonymized": "That didn't go as planned! Anssumane [PLAYER] ([TEAM]) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past [PLAYER], who easily kept it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:12",
+            "comments_type": "lead to corner",
+            "comments_text": "Sergi Roberto (Barcelona) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Corner kick. Barcelona will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:22",
+            "comments_type": "corner",
+            "comments_text": "Philippe Coutinho (Barcelona) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:20",
+            "comments_type": "clearance",
+            "comments_text": "Anssumane Fati (Barcelona) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "Anssumane [PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:27",
+            "comments_type": "ball possession",
+            "comments_text": "Sevilla enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "comments_text_anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:59",
+            "comments_type": "ball out of play",
+            "comments_text": "Suso (Sevilla) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball is off of the pitch and it's a goal kick for Barcelona.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Ivan Rakitic (Sevilla) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano has a clear sight and sees a foul from Joan Jordan (Sevilla).",
+            "comments_text_anonymized": "Jesus [PLAYER] Manzano has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano blows the whistle, Joan Jordan (Sevilla) is penalised for a foul.",
+            "comments_text_anonymized": "Jesus [PLAYER] Manzano blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:26",
+            "comments_type": "shot off target",
+            "comments_text": "Anssumane Fati (Barcelona) gets himself into a promising goalscoring position, but he blazes the ball high over the crossbar.",
+            "comments_text_anonymized": "Anssumane [PLAYER] ([TEAM]) gets himself into a promising goalscoring position, but he blazes the ball high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:40",
+            "comments_type": "clearance",
+            "comments_text": "Lionel Messi (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:56",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Sergio Busquets (Barcelona) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:00",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Lionel Messi (Barcelona) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:38",
+            "comments_type": "clearance",
+            "comments_text": "Suso (Sevilla) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:17",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Suso (Sevilla) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:55",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Joan Jordan (Sevilla) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Lionel Messi (Barcelona) makes an overly-aggressive challenge and Jesus Gil Manzano blows his whistle for a foul. Sevilla are awarded the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and Jesus [PLAYER] Manzano blows his whistle for a foul. [TEAM] are awarded the free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:00",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by Sevilla, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Philippe Coutinho (Barcelona) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Antoine Griezmann (Barcelona) aims for the middle of the goal, but that's an easy job for the goalkeeper. It will take more than that to test him!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) aims for the middle of the goal, but that's an easy job for the goalkeeper. It will take more than that to test him!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:38",
+            "comments_type": "clearance",
+            "comments_text": "Suso (Sevilla) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Suso (Sevilla) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jesus Gil Manzano no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jesus [PLAYER] Manzano no option but to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:20",
+            "comments_type": "ball possession",
+            "comments_text": "Great teamplay by Barcelona as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "comments_text_anonymized": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:25",
+            "comments_type": "foul with no card",
+            "comments_text": "Joan Jordan (Sevilla) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:10",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Jesus Navas (Sevilla) is cleared. Now Sevilla have a corner.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:28",
+            "comments_type": "corner",
+            "comments_text": "Sevilla take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:40",
+            "comments_type": "shot off target",
+            "comments_text": "Joan Jordan (Sevilla) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Jesus Gil Manzano blows his whistle. Diego Carlos (Sevilla) commits a foul after dangerous play.",
+            "comments_text_anonymized": "Jesus [PLAYER] Manzano blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:36",
+            "comments_type": "ball possession",
+            "comments_text": "Barcelona control the tempo of the game by exchanging some accurate short passes.",
+            "comments_text_anonymized": "[TEAM] control the tempo of the game by exchanging some accurate short passes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:05",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross into the box from Sergi Roberto (Barcelona) is cleared. The referee signals a corner kick to Barcelona.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:01",
+            "comments_type": "corner",
+            "comments_text": "Philippe Coutinho (Barcelona) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:10",
+            "comments_type": "clearance",
+            "comments_text": "Sergi Roberto (Barcelona) produces a dangerous lofted cross into the box which is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:08",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Lucas Ocampos (Sevilla) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:24",
+            "comments_type": "lead to corner",
+            "comments_text": "Sergi Roberto (Barcelona) looks to break free, but an opposing player clears the ball away. Barcelona force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:52",
+            "comments_type": "corner",
+            "comments_text": "Barcelona fail to score from a corner as Bono (Sevilla) leaps to collect the ball.",
+            "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:15",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Trincao (Barcelona) comes on in place of Antoine Griezmann.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:07",
+            "comments_type": "substitution",
+            "comments_text": "Ronald Koeman decides to make a substitution. Ansu Fati will be replaced by Pedri (Barcelona).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:40",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Suso is given a rest as he is replaced by Munir El Haddadi (Sevilla).",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:46",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Lucas Ocampos. He has contributed as much as he could today. He will be replaced by the fresh legs of Youssef En Nesyri (Sevilla).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:20",
+            "comments_type": "clearance",
+            "comments_text": "Joan Jordan (Sevilla) attempted to pick out a free teammate inside the box, but Neto comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Gerard Pique (Barcelona) gives away a foul for a clumsy challenge. Referee Jesus Gil Manzano saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee Jesus [PLAYER] Manzano saw the whole situation."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:00",
+            "comments_type": "clearance",
+            "comments_text": "Youssef En Nesyri (Sevilla) tries to pass the ball into the penalty area but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:11",
+            "comments_type": "shot off target",
+            "comments_text": "Ivan Rakitic (Sevilla) is lurking on the edge of the box and receives a pass from Munir El Haddadi. He shows nice control before hitting a soft shot just wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is lurking on the edge of the box and receives a pass from [PLAYER]. He shows nice control before hitting a soft shot just wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:52",
+            "comments_type": "corner",
+            "comments_text": "Joan Jordan (Sevilla) prepares to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:23",
+            "comments_type": "shot off target",
+            "comments_text": "Jules Kounde (Sevilla) outjumps his marker inside the box and heads the resulting corner way wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) outjumps his marker inside the box and heads the resulting corner way wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Luuk de Jong (Sevilla) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Good work from Sevilla as they win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:19",
+            "comments_type": "corner",
+            "comments_text": "Joan Jordan (Sevilla) will deliver the ball into the penalty box from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:18",
+            "comments_type": "shot off target",
+            "comments_text": "Jules Kounde (Sevilla) loses his marker in the box from the resulting corner, times his jump well but flashes his close-range header well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) loses his marker in the box from the resulting corner, times his jump well but flashes his close-range header well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:03",
+            "comments_type": "corner",
+            "comments_text": "A fine lofted pass into the box, sent by Trincao (Barcelona), is intercepted by the opposition's defence. The referee and one of his assistants signal for a corner kick to Barcelona.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:20",
+            "comments_type": "corner",
+            "comments_text": "Bono comes off his line to intercept the corner from Philippe Coutinho (Barcelona).",
+            "comments_text_anonymized": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:49",
+            "comments_type": "foul with no card",
+            "comments_text": "Lionel Messi (Barcelona) brings an opponent down and Jesus Gil Manzano interrupts the game.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and Jesus [PLAYER] Manzano interrupts the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Ivan Rakitic (Sevilla) fouls an opponent. At least that's what referee Jesus Gil Manzano signals.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee Jesus [PLAYER] Manzano signals."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:20",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Jordi Alba (Barcelona) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:29",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Philippe Coutinho did his best and is replaced by Miralem Pjanic (Barcelona).",
+            "comments_text_anonymized": "Substitution. [PLAYER] did his best and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:31",
+            "comments_type": "substitution",
+            "comments_text": "Jordi Alba (Barcelona) just cannot continue due to injury and has to be substituted. Sergino Dest replaces him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) just cannot continue due to injury and has to be substituted. [PLAYER] replaces him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Marcos Acuna (Sevilla) robs an opponent of the ball and explodes in anger when Jesus Gil Manzano blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when Jesus [PLAYER] Manzano blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:50",
+            "comments_type": "clearance",
+            "comments_text": "The resulting set piece, sent into the penalty area by Lionel Messi (Barcelona), was easily dealt with by one of the defenders.",
+            "comments_text_anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:58",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow-coloured card is received by Miralem Pjanic (Barcelona).",
+            "comments_text_anonymized": "A yellow-coloured card is received by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:20",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Nemanja Gudelj (Sevilla) is brought on as a substitute for Ivan Rakitic.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "ball possession",
+            "comments_text": "The Sevilla players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:56",
+            "comments_type": "foul with no card",
+            "comments_text": "Diego Carlos (Sevilla) commits a rough challenge and Jesus Gil Manzano blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and Jesus [PLAYER] Manzano blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Fernando (Sevilla). The referee blows his whistle for a foul.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lionel Messi (Barcelona) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Bono, who pulls off a superb save to keep the ball out of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by [PLAYER], who pulls off a superb save to keep the ball out of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:51",
+            "comments_type": "clearance",
+            "comments_text": "Frenkie de Jong (Barcelona) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:11",
+            "comments_type": "corner",
+            "comments_text": "Lionel Messi (Barcelona) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:10",
+            "comments_type": "ball possession",
+            "comments_text": "Youssef En Nesyri (Sevilla) looks to break free, but his touch lets him down and he loses the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:58",
+            "comments_type": "shot off target",
+            "comments_text": "Joan Jordan (Sevilla) cracks a shot goalwards from the edge of the box, but his radar is off and it sails well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) cracks a shot goalwards from the edge of the box, but his radar is off and it sails well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:22",
+            "comments_type": "substitution",
+            "comments_text": "Julen Lopetegui has decided to make a change. Carlos Fernandez (Sevilla) replaces Luuk de Jong.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:42",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Oliver Torres (Sevilla) coming on for Joan Jordan.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:14",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Sergi Roberto (Barcelona).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Oliver Torres (Sevilla) gives away a foul for a fierce tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:19",
+            "comments_type": "yellow card",
+            "comments_text": "The whistle is blown for an infringement and Nemanja Gudelj (Sevilla) receives a yellow card!",
+            "comments_text_anonymized": "The whistle is blown for an infringement and [PLAYER] ([TEAM]) receives a yellow card!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:10",
+            "comments_type": "clearance",
+            "comments_text": "The free kick is taken by Lionel Messi (Barcelona), but ball is cleared.",
+            "comments_text_anonymized": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:10",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Gerard Pique (Barcelona) was seen by Jesus Gil Manzano who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by Jesus [PLAYER] Manzano who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:20",
+            "comments_type": "clearance",
+            "comments_text": "Youssef En Nesyri (Sevilla) attempted to pick out a free teammate inside the box, but Neto comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:33",
+            "comments_type": "shot off target",
+            "comments_text": "Sergi Roberto (Barcelona) gets to the rebound and shoots, but the effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:27",
+            "comments_type": "shot off target",
+            "comments_text": "Lionel Messi (Barcelona) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:06",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

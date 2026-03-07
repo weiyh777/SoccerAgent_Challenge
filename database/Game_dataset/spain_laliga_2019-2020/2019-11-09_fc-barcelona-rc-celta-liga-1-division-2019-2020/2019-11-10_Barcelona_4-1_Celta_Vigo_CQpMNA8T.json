@@ -1,0 +1,978 @@
+{
+    "match_info": {
+        "timestamp": "2019-11-10 04:00:00",
+        "score": "4 - 1",
+        "home_team": "Barcelona",
+        "away_team": "Celta Vigo",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Camp Nou (Barcelona)",
+        "capacity": "99 354",
+        "attendance": "69 626",
+        "home_jersey_color": "blue and red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Cuadra G. (Esp)",
+        "first_name": "Cuadra",
+        "abbr_last_name": "G",
+        "country": "Esp",
+        "detected_name": "Guillermo Cuadra"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Valverde E.",
+                "players_number": "",
+                "Full Name": "Ernesto Valverde Tejedor",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "59,  (09.02.1964)",
+                "Market Value": "",
+                "unicode": "EJmuzs93"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Alba J.",
+                "players_number": "",
+                "Full Name": "Jordi Alba",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (21.03.1989)",
+                "Market Value": "€3.0m",
+                "unicode": "42SIX9sl"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Arthur Melo",
+                "players_number": "8",
+                "Full Name": "Arthur Melo",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (12.08.1996)",
+                "Market Value": "€14.0m",
+                "unicode": "UaXWh1Wj"
+            },
+            {
+                "players_name": "de Jong F.",
+                "players_number": "21",
+                "Full Name": "Frenkie de Jong",
+                "players_rating": 6.8,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.05.1997)",
+                "Market Value": "€80.6m",
+                "unicode": "A1F3rz9c"
+            },
+            {
+                "players_name": "Fati A.",
+                "players_number": "31",
+                "Full Name": "Ansu Fati",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (31.10.2002)",
+                "Market Value": "€27.4m",
+                "unicode": "dUPVnxzP"
+            },
+            {
+                "players_name": "Firpo J.",
+                "players_number": "24",
+                "Full Name": "Junior Firpo",
+                "players_rating": 6.9,
+                "Country": "Dominican Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (22.08.1996)",
+                "Market Value": "€4.8m",
+                "unicode": "hhe17rb7"
+            },
+            {
+                "players_name": "Griezmann A.",
+                "players_number": "17",
+                "Full Name": "Antoine Griezmann",
+                "players_rating": 6.5,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (21.03.1991)",
+                "Market Value": "€26.9m",
+                "unicode": "OxCa1jdT"
+            },
+            {
+                "players_name": "Messi L. (C)",
+                "players_number": "10",
+                "Full Name": "Lionel Messi",
+                "players_rating": 9.2,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (24.06.1987)",
+                "Market Value": "€40.2m",
+                "unicode": "vgOOdZbd"
+            },
+            {
+                "players_name": "Pique G.",
+                "players_number": "3",
+                "Full Name": "Gerard Pique",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (02.02.1987)",
+                "Market Value": "",
+                "unicode": "fRBrHCRh"
+            },
+            {
+                "players_name": "Roberto S.",
+                "players_number": "20",
+                "Full Name": "Sergi Roberto",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (07.02.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "W2R804U4"
+            },
+            {
+                "players_name": "Semedo N.",
+                "players_number": "2",
+                "Full Name": "Nelson Semedo",
+                "players_rating": 6.4,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.11.1993)",
+                "Market Value": "€14.3m",
+                "unicode": "EyHywivj"
+            },
+            {
+                "players_name": "ter Stegen M. (G)",
+                "players_number": "1",
+                "Full Name": "Marc-Andre ter Stegen",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (30.04.1992)",
+                "Market Value": "€33.8m",
+                "unicode": "byxc46yl"
+            },
+            {
+                "players_name": "Umtiti S.",
+                "players_number": "23",
+                "Full Name": "Samuel Umtiti",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (14.11.1993)",
+                "Market Value": "€2.9m",
+                "unicode": "zsH7aMfI"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Busquets S.",
+                "players_number": "5",
+                "Full Name": "Sergio Busquets",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (16.07.1988)",
+                "Market Value": "€2.9m",
+                "unicode": "CU4pL3ue"
+            },
+            {
+                "players_name": "Dembele O.",
+                "players_number": "11",
+                "Full Name": "Ousmane Dembele",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (15.05.1997)",
+                "Market Value": "€61.3m",
+                "unicode": "zsMC2Ec0"
+            },
+            {
+                "players_name": "Suarez L.",
+                "players_number": "9",
+                "Full Name": "Luis Suarez",
+                "players_rating": 6.2,
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (24.01.1987)",
+                "Market Value": "€3.8m",
+                "unicode": "dUShzrBp"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Lenglet C.",
+                "players_number": "15",
+                "Full Name": "Clement Lenglet",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (17.06.1995)",
+                "Market Value": "€7.8m",
+                "unicode": "rH0mL7ws"
+            },
+            {
+                "players_name": "Neto (G)",
+                "players_number": "13",
+                "Full Name": "Neto",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (19.07.1989)",
+                "Market Value": "€2.5m",
+                "unicode": "dbGArTGd"
+            },
+            {
+                "players_name": "Rakitic I.",
+                "players_number": "4",
+                "Full Name": "Ivan Rakitic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (10.03.1988)",
+                "Market Value": "€3.9m",
+                "unicode": "pC6dfyG5"
+            },
+            {
+                "players_name": "Vidal A.",
+                "players_number": "22",
+                "Full Name": "Arturo Vidal",
+                "players_rating": "",
+                "Country": "Chile",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€579k, (22.05.1987)",
+                "Market Value": "",
+                "unicode": "jg1LwcpG"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Garcia O.",
+                "players_number": "",
+                "Full Name": "Oscar Garcia Junyent",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (26.04.1973)",
+                "Market Value": "",
+                "unicode": "E56Bz10M"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Beauvue C.",
+                "players_number": "",
+                "Full Name": "Claudio Beauvue",
+                "players_rating": "",
+                "Country": "Guadeloupe",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (16.04.1988)",
+                "Market Value": "",
+                "unicode": "jJKCedbt"
+            },
+            {
+                "players_name": "Hernandez Garcia J.",
+                "players_number": "",
+                "Full Name": "Juan Hernandez Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (06.12.1994)",
+                "Market Value": "€357k",
+                "unicode": "2PFbHmNb"
+            },
+            {
+                "players_name": "Mina S.",
+                "players_number": "",
+                "Full Name": "Santi Mina",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (07.12.1995)",
+                "Market Value": "",
+                "unicode": "b5l7D0x5"
+            },
+            {
+                "players_name": "Rafinha",
+                "players_number": "",
+                "Full Name": "Rafinha",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.02.1993)",
+                "Market Value": "€4.3m",
+                "unicode": "8jE1xUrf"
+            },
+            {
+                "players_name": "Vazquez K.",
+                "players_number": "",
+                "Full Name": "Kevin Vazquez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (23.03.1993)",
+                "Market Value": "€922k",
+                "unicode": "r5JymbUu"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Aidoo J.",
+                "players_number": "18",
+                "Full Name": "Joseph Aidoo",
+                "players_rating": 5.7,
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (29.09.1995)",
+                "Market Value": "€3.8m",
+                "unicode": "AVpwhNL9"
+            },
+            {
+                "players_name": "Araujo N.",
+                "players_number": "4",
+                "Full Name": "Nestor Araujo",
+                "players_rating": 6.0,
+                "Country": "Mexico",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (29.08.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "AwjrVCWj"
+            },
+            {
+                "players_name": "Aspas I.",
+                "players_number": "10",
+                "Full Name": "Iago Aspas",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (01.08.1987)",
+                "Market Value": "€3.9m",
+                "unicode": "rVBGggAd"
+            },
+            {
+                "players_name": "Beltran F.",
+                "players_number": "8",
+                "Full Name": "Fran Beltran",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (03.02.1999)",
+                "Market Value": "€5.7m",
+                "unicode": "zykz5SJb"
+            },
+            {
+                "players_name": "Blanco R. (G)",
+                "players_number": "13",
+                "Full Name": "Ruben Blanco",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (25.07.1995)",
+                "Market Value": "€2.3m",
+                "unicode": "4WfxXiUm"
+            },
+            {
+                "players_name": "Cheikh P.",
+                "players_number": "24",
+                "Full Name": "Pape Cheikh",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (08.08.1997)",
+                "Market Value": "",
+                "unicode": "GArB5kuJ"
+            },
+            {
+                "players_name": "Junca D.",
+                "players_number": "17",
+                "Full Name": "David Junca",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.11.1993)",
+                "Market Value": "30.06.2024",
+                "unicode": "EFHWV7vB"
+            },
+            {
+                "players_name": "Lobotka S.",
+                "players_number": "14",
+                "Full Name": "Stanislav Lobotka",
+                "players_rating": 6.0,
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (25.11.1994)",
+                "Market Value": "€34.7m",
+                "unicode": "0Qcw6Yy1"
+            },
+            {
+                "players_name": "Mallo H. (C)",
+                "players_number": "2",
+                "Full Name": "Hugo Mallo",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (22.06.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "EkcGN4fs"
+            },
+            {
+                "players_name": "Olaza L.",
+                "players_number": "15",
+                "Full Name": "Lucas Olaza",
+                "players_rating": 6.9,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (21.07.1994)",
+                "Market Value": "€2.9m",
+                "unicode": "zyk0MTBN"
+            },
+            {
+                "players_name": "Sisto P.",
+                "players_number": "11",
+                "Full Name": "Pione Sisto",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (04.02.1995)",
+                "Market Value": "€1.6m",
+                "unicode": "88uNKOQp"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Fernandez G.",
+                "players_number": "19",
+                "Full Name": "Gabriel Fernandez",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (13.05.1994)",
+                "Market Value": "€2.8m",
+                "unicode": "0xyfuyhJ"
+            },
+            {
+                "players_name": "Mendez B.",
+                "players_number": "23",
+                "Full Name": "Brais Mendez",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (07.01.1997)",
+                "Market Value": "€40.8m",
+                "unicode": "Ey5XjmJt"
+            },
+            {
+                "players_name": "Suarez D.",
+                "players_number": "6",
+                "Full Name": "Denis Suarez",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (06.01.1994)",
+                "Market Value": "€1.8m",
+                "unicode": "xWwucZ71"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Alvarez S. (G)",
+                "players_number": "1",
+                "Full Name": "Sergio Alvarez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (03.08.1986)",
+                "Market Value": "",
+                "unicode": "dIHFGGH9"
+            },
+            {
+                "players_name": "Costas D.",
+                "players_number": "3",
+                "Full Name": "David Costas",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (26.03.1995)",
+                "Market Value": "€1.5m",
+                "unicode": "bD41lxAF"
+            },
+            {
+                "players_name": "Saenz J.",
+                "players_number": "16",
+                "Full Name": "Jorge Saenz de Miera Colmeiro",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (17.11.1996)",
+                "Market Value": "€979k",
+                "unicode": "EwStt8o4"
+            },
+            {
+                "players_name": "Yokuslu O.",
+                "players_number": "5",
+                "Full Name": "Okay Yokuslu",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (09.03.1994)",
+                "Market Value": "€2.9m",
+                "unicode": "Y7D5mIPe"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Guillermo Cuadra will supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Celta Vigo will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:03",
+            "comments_type": "shot off target",
+            "comments_text": "Hugo Mallo (Celta Vigo) sends a long ball across the pitch, but it misses its target.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:39",
+            "comments_type": "clearance",
+            "comments_text": "Nelson Semedo (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:10",
+            "comments_type": "clearance",
+            "comments_text": "Hugo Mallo (Celta Vigo) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Frenkie de Jong (Barcelona) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "clearance",
+            "comments_text": "Lionel Messi (Barcelona) passes the ball onto Firpo Junior, but one of the defenders dispossesses him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball onto [PLAYER] Junior, but one of the defenders dispossesses him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pione Sisto (Celta Vigo) sends the free kick into the box, but Marc-Andre ter Stegen leaps to intercept it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the free kick into the box, but [PLAYER] leaps to intercept it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:38",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A snap shot by Lionel Messi (Barcelona) from the edge of the area flies towards the left side of the goal, but Ruben Blanco produces a good save to thwart him.",
+            "comments_text_anonymized": "A snap shot by [PLAYER] ([TEAM]) from the edge of the area flies towards the left side of the goal, but [PLAYER] produces a good save to thwart him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:23",
+            "comments_type": "foul with no card",
+            "comments_text": "commits a foul and Guillermo Cuadra immediately signals a free kick.",
+            "comments_text_anonymized": "commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:59",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Anssumane Fati (Barcelona) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after Anssumane [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:37",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Joseph Aidoo (Celta Vigo) handles the ball inside the box. PENALTY! One of the players from Barcelona is about to take a penalty kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) handles the ball inside the box. PENALTY! One of the players from [TEAM] is about to take a penalty kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "free kick",
+            "comments_text": "Lionel Messi (Barcelona) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:46",
+            "comments_type": "substitution",
+            "comments_text": "Nelson Semedo has picked up an injury and is replaced by Sergio Busquets (Barcelona).",
+            "comments_text_anonymized": "[PLAYER] has picked up an injury and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:35",
+            "comments_type": "goal",
+            "comments_text": "Goal! Lionel Messi (Barcelona) wins the battle of wills and sends an unstoppable penalty past Ruben Blanco into the bottom left corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom left corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:17",
+            "comments_type": "yellow card",
+            "comments_text": "Samuel Umtiti (Barcelona) sees a yellow card from Guillermo Cuadra after he sent one of the opposing players to the ground.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:17",
+            "comments_type": "shot off target",
+            "comments_text": "Iago Aspas (Celta Vigo) takes a mid-range free kick, but his miskick goes way wide to the right. Poor shot!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range free kick, but his miskick goes way wide to the right. Poor shot!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:34",
+            "comments_type": "clearance",
+            "comments_text": "Hugo Mallo (Celta Vigo) sends a cross into the box, but Marc-Andre ter Stegen comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Guillermo Cuadra has a clear sight and sees a foul from Sergi Roberto (Barcelona).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:22",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lionel Messi (Barcelona) receives the ball and fires a first-time shot from long range. His brilliant effort towards the left post is blocked by Ruben Blanco, who pulls off a stunning save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives the ball and fires a first-time shot from long range. His brilliant effort towards the left post is blocked by [PLAYER], who pulls off a stunning save!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:55",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Samuel Umtiti (Barcelona) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:17",
+            "comments_type": "off side",
+            "comments_text": "The game is interrupted as Lucas Olaza (Celta Vigo) is flagged offside.",
+            "comments_text_anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:52",
+            "comments_type": "var",
+            "comments_text": "Lionel Messi (Barcelona) puts the ball into the back of the net, but referee Guillermo Cuadra immediately signals a VAR review. Let's see what happens. Big moment in the game.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts the ball into the back of the net, but referee [REFEREE] immediately signals a VAR review. Let's see what happens. Big moment in the game."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:20",
+            "comments_type": "var",
+            "comments_text": "Referee Guillermo Cuadra takes one last look at the VAR monitor and decides the ball went out of play. NO GOAL, much to the annoyance of the Barcelona players!",
+            "comments_text_anonymized": "Referee [REFEREE] takes one last look at the VAR monitor and decides the ball went out of play. NO GOAL, much to the annoyance of the [TEAM] players!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:24",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Lionel Messi (Barcelona) is worthy of a card and a yellow is duly shown by Guillermo Cuadra.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:23",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Lucas Olaza (Celta Vigo) stands over the free kick and from 23 metres out curls the ball into the right side of the net. Excellent free kick!",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) stands over the free kick and from 23 metres out curls the ball into the right side of the net. Excellent free kick!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:00",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card for a tackle by Francisco Beltran (Celta Vigo). Guillermo Cuadra doesn't hesitate at all to make this decision.",
+            "comments_text_anonymized": "A yellow card for a tackle by Francisco [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:57",
+            "comments_type": "goal",
+            "comments_text": "Lionel Messi (Barcelona) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:00",
+            "comments_type": "end of half game",
+            "comments_text": "There will be nothing more to see in the first half. The whistle blowing of Guillermo Cuadra has ended it.",
+            "comments_text_anonymized": "There will be nothing more to see in the first half. The whistle blowing of [REFEREE] has ended it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half gets underway.",
+            "comments_text_anonymized": "The second half gets underway."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Ernesto Valverde Tejedor has made a change at the break. Ousmane Dembele (Barcelona) has come on in place of Anssumane Fati.",
+            "comments_text_anonymized": "[PLAYER] has made a change at the break. [PLAYER] ([TEAM]) has come on in place of Anssumane [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by . Guillermo Cuadra blows his whistle for a foul. A free kick is awarded to Barcelona.",
+            "comments_text_anonymized": "Dangerous play by . [REFEREE] blows his whistle for a foul. A free kick is awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:38",
+            "comments_type": "goal",
+            "comments_text": "Lionel Messi (Barcelona) scores from a 22-metre free kick. He curled the ball inside the right post, leaving the goalkeeper helpless.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) scores from a 22-metre free kick. He curled the ball inside the right post, leaving the goalkeeper helpless."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:24",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pione Sisto (Celta Vigo) shows good awareness inside the box, but his attempt is stopped by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shows good awareness inside the box, but his attempt is stopped by the goalkeeper."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:06",
+            "comments_type": "yellow card",
+            "comments_text": "Sergi Roberto (Barcelona) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Guillermo Cuadra didn't think twice about pulling it out of his pocket.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:24",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Francisco Beltran (Celta Vigo) latches on to a low pass and without any hesitation whatsoever releases a first-time rocket towards the top left corner. Unfortunately for him, his long-distance effort is blocked by Marc-Andre ter Stegen who makes a glorious save!",
+            "comments_text_anonymized": "Francisco [PLAYER] ([TEAM]) latches on to a low pass and without any hesitation whatsoever releases a first-time rocket towards the top left corner. Unfortunately for him, his long-distance effort is blocked by [PLAYER] who makes a glorious save!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:31",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pione Sisto (Celta Vigo) runs onto a loose pass inside the box and releases a tremendous shot low towards the middle of the goal. However, Marc-Andre ter Stegen anticipates the shot and makes an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) runs onto a loose pass inside the box and releases a tremendous shot low towards the middle of the goal. However, [PLAYER] anticipates the shot and makes an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Guillermo Cuadra blows his whistle. Firpo Junior (Barcelona) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] Junior ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:10",
+            "comments_type": "clearance",
+            "comments_text": "Ousmane Dembele (Barcelona) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:17",
+            "comments_type": "corner",
+            "comments_text": "This corner kick is taken with a short pass by Ousmane Dembele (Barcelona).",
+            "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:35",
+            "comments_type": "substitution",
+            "comments_text": "The referee allows time for a substitution. Pione Sisto will be replaced by Brais Mendez (Celta Vigo).",
+            "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:26",
+            "comments_type": "clearance",
+            "comments_text": "A pass from Antoine Griezmann (Barcelona) is intercepted by Ruben Blanco and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:40",
+            "comments_type": "ball out of play",
+            "comments_text": "Arthur (Barcelona) is unable to feed a through ball into the path of his teammates. The ball is off of the pitch and it's a goal kick for Celta Vigo.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:00",
+            "comments_type": "ball possession",
+            "comments_text": "Barcelona are showing great team chemistry. They are passing the ball around seamlessly.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:41",
+            "comments_type": "lead to corner",
+            "comments_text": "Ousmane Dembele (Barcelona) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play. Barcelona will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:28",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Luis Suarez (Barcelona) receives a signal from the referee and is now allowed to enter the pitch as Antoine Griezmann walks off.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:14",
+            "comments_type": "corner",
+            "comments_text": "Ousmane Dembele (Barcelona) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:10",
+            "comments_type": "clearance",
+            "comments_text": "Sergi Roberto (Barcelona) fizzes over a cross which doesn't cause any problems.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:14",
+            "comments_type": "substitution",
+            "comments_text": "Oscar Garcia prepares a substitution. Stanislav Lobotka is replaced by Denis Suarez (Celta Vigo).",
+            "comments_text_anonymized": "Oscar [PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Junior Firpo (Barcelona) skips past his man but can't keep the ball in play. The ball goes out of play and Celta Vigo will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:52",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Gabriel Fernandez (Celta Vigo) is coming onto the pitch as cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 69626.",
+            "comments_text_anonymized": "The attendance for today's match is 69626."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:50",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Gabriel Fernandez (Celta Vigo) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:29",
+            "comments_type": "corner",
+            "comments_text": "Brais Mendez (Celta Vigo) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:50",
+            "comments_type": "goal",
+            "comments_text": "The ball rebounds and arrives at the feet of Sergio Busquets (Barcelona) just outside the box. He doesn't think twice and fires a brilliant shot inside the left post. His attempt was beyond the reach of Ruben Blanco, so the score changes to 4:1.",
+            "comments_text_anonymized": "The ball rebounds and arrives at the feet of [PLAYER] ([TEAM]) just outside the box. He doesn't think twice and fires a brilliant shot inside the left post. His attempt was beyond the reach of [PLAYER], so the score changes to 4:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:40",
+            "comments_type": "yellow card",
+            "comments_text": "Guillermo Cuadra shows a yellow card to Sergio Busquets (Barcelona), who isn't surprised as the tackle was really hard and late.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:56",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Lucas Olaza (Celta Vigo) fires the resulting free kick to the right side of the goal from the edge of the box, but Marc-Andre ter Stegen pulls off a superb save to deny him. The ball goes out of play. Celta Vigo are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the resulting free kick to the right side of the goal from the edge of the box, but [PLAYER] pulls off a superb save to deny him. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:56",
+            "comments_type": "corner",
+            "comments_text": "Brais Mendez (Celta Vigo) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:14",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

@@ -1,0 +1,1162 @@
+{
+    "match_info": {
+        "timestamp": "2019-02-20 04:00:00",
+        "score": "0 - 0",
+        "home_team": "Liverpool",
+        "away_team": "Bayern Munich",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Anfield (Liverpool)",
+        "capacity": "61 276",
+        "attendance": "52 250",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Rocchi G. (Ita)",
+        "first_name": "Rocchi",
+        "abbr_last_name": "G",
+        "country": "Ita",
+        "detected_name": "Gianluca Rocchi"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Kovac N.",
+                "players_number": "",
+                "Full Name": "Niko Kovac",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (15.10.1971)",
+                "Market Value": "",
+                "unicode": "C4T3u731"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Boateng J.",
+                "players_number": "",
+                "Full Name": "Jerome Boateng",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (03.09.1988)",
+                "Market Value": "",
+                "unicode": "0bDEBms3"
+            },
+            {
+                "players_name": "Goretzka L.",
+                "players_number": "",
+                "Full Name": "Leon Goretzka",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (06.02.1995)",
+                "Market Value": "€37.4m",
+                "unicode": "l2JpsMjB"
+            },
+            {
+                "players_name": "Hoffmann R.",
+                "players_number": "",
+                "Full Name": "Ron-Thorben Hoffmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (04.04.1999)",
+                "Market Value": "€760k",
+                "unicode": "6DQejPXt"
+            },
+            {
+                "players_name": "Muller T.",
+                "players_number": "",
+                "Full Name": "Thomas Muller",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (13.09.1989)",
+                "Market Value": "€9.6m",
+                "unicode": "8KpOJV2B"
+            },
+            {
+                "players_name": "Robben A.",
+                "players_number": "",
+                "Full Name": "Arjen Robben",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (23.01.1984)",
+                "Market Value": "",
+                "unicode": "tQAq3jaB"
+            },
+            {
+                "players_name": "Tolisso C.",
+                "players_number": "",
+                "Full Name": "Corentin Tolisso",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (03.08.1994)",
+                "Market Value": "€5.0m",
+                "unicode": "hQOIoFOs"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alaba D.",
+                "players_number": "27",
+                "Full Name": "David Alaba",
+                "players_rating": 6.5,
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.06.1992)",
+                "Market Value": "€30.0m",
+                "unicode": "hKx3nCTp"
+            },
+            {
+                "players_name": "Coman K.",
+                "players_number": "29",
+                "Full Name": "Kingsley Coman",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (13.06.1996)",
+                "Market Value": "€64.5m",
+                "unicode": "zHWLJOHq"
+            },
+            {
+                "players_name": "Gnabry S.",
+                "players_number": "22",
+                "Full Name": "Serge Gnabry",
+                "players_rating": 7.2,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (14.07.1995)",
+                "Market Value": "€44.5m",
+                "unicode": "6iZjDNFC"
+            },
+            {
+                "players_name": "Hummels M.",
+                "players_number": "5",
+                "Full Name": "Mats Hummels",
+                "players_rating": 7.5,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.12.1988)",
+                "Market Value": "€6.1m",
+                "unicode": "2c4AueOM"
+            },
+            {
+                "players_name": "Kimmich J.",
+                "players_number": "32",
+                "Full Name": "Joshua Kimmich",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.02.1995)",
+                "Market Value": "€77.7m",
+                "unicode": "MkMrkZLc"
+            },
+            {
+                "players_name": "Lewandowski R.",
+                "players_number": "9",
+                "Full Name": "Robert Lewandowski",
+                "players_rating": 6.8,
+                "Country": "Poland",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (21.08.1988)",
+                "Market Value": "€20.1m",
+                "unicode": "MVC8zHZD"
+            },
+            {
+                "players_name": "Martinez J.",
+                "players_number": "8",
+                "Full Name": "Javi Martinez",
+                "players_rating": 7.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (02.09.1988)",
+                "Market Value": "€1.5m",
+                "unicode": "IiVRUCYs"
+            },
+            {
+                "players_name": "Neuer M. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Manuel Neuer",
+                "players_rating": 6.9,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (27.03.1986)",
+                "Market Value": "€4.8m",
+                "unicode": "Sh5KwIo6"
+            },
+            {
+                "players_name": "Rodriguez J.",
+                "players_number": "11",
+                "Full Name": "James Rodriguez",
+                "players_rating": 7.4,
+                "Country": "Colombia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (12.07.1991)",
+                "Market Value": "€5.0m",
+                "unicode": "MPaioN57"
+            },
+            {
+                "players_name": "Sule N.",
+                "players_number": "4",
+                "Full Name": "Niklas Sule",
+                "players_rating": 6.9,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (03.09.1995)",
+                "Market Value": "€20.9m",
+                "unicode": "G43Lp4in"
+            },
+            {
+                "players_name": "Thiago",
+                "players_number": "6",
+                "Full Name": "Thiago",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (11.04.1991)",
+                "Market Value": "€9.8m",
+                "unicode": "vcSKqUSq"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Rafinha",
+                "players_number": "13",
+                "Full Name": "Rafinha",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (07.09.1985)",
+                "Market Value": "€193k",
+                "unicode": "pxvTBxot"
+            },
+            {
+                "players_name": "Ribery F.",
+                "players_number": "7",
+                "Full Name": "Franck Ribery",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "40, (07.04.1983)",
+                "Market Value": "",
+                "unicode": "KfUDhfqS"
+            },
+            {
+                "players_name": "Sanches R.",
+                "players_number": "35",
+                "Full Name": "Renato Sanches",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.08.1997)",
+                "Market Value": "€9.3m",
+                "unicode": "Kbo7UsAS"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Davies A.",
+                "players_number": "19",
+                "Full Name": "Alphonso Davies",
+                "players_rating": "",
+                "Country": "Canada",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.11.2000)",
+                "Market Value": "€72.5m",
+                "unicode": "4r3PXV20"
+            },
+            {
+                "players_name": "Mai L.",
+                "players_number": "33",
+                "Full Name": "Lukas Mai",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (31.03.2000)",
+                "Market Value": "€2.1m",
+                "unicode": "EFij7d45"
+            },
+            {
+                "players_name": "Shabani M.",
+                "players_number": "37",
+                "Full Name": "Meritan Shabani",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (15.03.1999)",
+                "Market Value": "€279k",
+                "unicode": "jXd3kaep"
+            },
+            {
+                "players_name": "Ulreich S. (G)",
+                "players_number": "26",
+                "Full Name": "Sven Ulreich",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (03.08.1988)",
+                "Market Value": "€665k",
+                "unicode": "8CE8Sho8"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Klopp J.",
+                "players_number": "",
+                "Full Name": "Jurgen Klopp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (16.06.1967)",
+                "Market Value": "",
+                "unicode": "x6CvOHH9"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Gomez J.",
+                "players_number": "",
+                "Full Name": "Joe Gomez",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€21.5m",
+                "unicode": "SKt9dxk8"
+            },
+            {
+                "players_name": "Lovren D.",
+                "players_number": "",
+                "Full Name": "Dejan Lovren",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.07.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "GAcQF9Z6"
+            },
+            {
+                "players_name": "Oxlade-Chamberlain A.",
+                "players_number": "",
+                "Full Name": "Alex Oxlade-Chamberlain",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.08.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "WzNLf7VR"
+            },
+            {
+                "players_name": "van Dijk V.",
+                "players_number": "",
+                "Full Name": "Virgil van Dijk",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.07.1991)",
+                "Market Value": "€32.2m",
+                "unicode": "U59RNqOr"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alexander-Arnold T.",
+                "players_number": "66",
+                "Full Name": "Trent Alexander-Arnold",
+                "players_rating": 7.9,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (07.10.1998)",
+                "Market Value": "€71.5m",
+                "unicode": "CEVJy6Bc"
+            },
+            {
+                "players_name": "Alisson (G)",
+                "players_number": "13",
+                "Full Name": "Alisson",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (02.10.1992)",
+                "Market Value": "€31.5m",
+                "unicode": "UZrQ3bwP"
+            },
+            {
+                "players_name": "Fabinho",
+                "players_number": "3",
+                "Full Name": "Fabinho",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (23.10.1993)",
+                "Market Value": "€33.3m",
+                "unicode": "nqldMgYf"
+            },
+            {
+                "players_name": "Firmino R.",
+                "players_number": "9",
+                "Full Name": "Roberto Firmino",
+                "players_rating": 7.1,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (02.10.1991)",
+                "Market Value": "€9.7m",
+                "unicode": "CCNtplZe"
+            },
+            {
+                "players_name": "Henderson J. (C)",
+                "players_number": "14",
+                "Full Name": "Jordan Henderson",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (17.06.1990)",
+                "Market Value": "€7.3m",
+                "unicode": "UFMlUD6r"
+            },
+            {
+                "players_name": "Keita N.",
+                "players_number": "8",
+                "Full Name": "Naby Keita",
+                "players_rating": 7.5,
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.02.1995)",
+                "Market Value": "€5.5m",
+                "unicode": "4MB78NvI"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "10",
+                "Full Name": "Sadio Mane",
+                "players_rating": 6.3,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Matip J.",
+                "players_number": "32",
+                "Full Name": "Joel Matip",
+                "players_rating": 7.3,
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.08.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "tpHWp8Am"
+            },
+            {
+                "players_name": "Robertson A.",
+                "players_number": "26",
+                "Full Name": "Andrew Robertson",
+                "players_rating": 6.7,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (11.03.1994)",
+                "Market Value": "€34.3m",
+                "unicode": "6e7Be9VI"
+            },
+            {
+                "players_name": "Salah M.",
+                "players_number": "11",
+                "Full Name": "Mohamed Salah",
+                "players_rating": 6.5,
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.06.1992)",
+                "Market Value": "€69.1m",
+                "unicode": "08FBycgB"
+            },
+            {
+                "players_name": "Wijnaldum G.",
+                "players_number": "5",
+                "Full Name": "Georginio Wijnaldum",
+                "players_rating": 7.2,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.11.1990)",
+                "Market Value": "€4.8m",
+                "unicode": "f9KgUUZu"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Milner J.",
+                "players_number": "7",
+                "Full Name": "James Milner",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (04.01.1986)",
+                "Market Value": "€936k",
+                "unicode": "QLY3kAEt"
+            },
+            {
+                "players_name": "Origi D.",
+                "players_number": "27",
+                "Full Name": "Divock Origi",
+                "players_rating": 6.2,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.04.1995)",
+                "Market Value": "€4.5m",
+                "unicode": "jeRaNgKg"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Lallana A.",
+                "players_number": "20",
+                "Full Name": "Adam Lallana",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (10.05.1988)",
+                "Market Value": "€929k",
+                "unicode": "65ZQWgft"
+            },
+            {
+                "players_name": "Mignolet S. (G)",
+                "players_number": "22",
+                "Full Name": "Simon Mignolet",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (06.03.1988)",
+                "Market Value": "€2.7m",
+                "unicode": "YVcnMAp6"
+            },
+            {
+                "players_name": "Moreno A.",
+                "players_number": "18",
+                "Full Name": "Alberto Moreno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.07.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pdBI3oS8"
+            },
+            {
+                "players_name": "Shaqiri X.",
+                "players_number": "23",
+                "Full Name": "Xherdan Shaqiri",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (10.10.1991)",
+                "Market Value": "€2.6m",
+                "unicode": "CKcCpcKN"
+            },
+            {
+                "players_name": "Sturridge D.",
+                "players_number": "15",
+                "Full Name": "Daniel Sturridge",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (01.09.1989)",
+                "Market Value": "",
+                "unicode": "fwlDnzTg"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action.",
+            "comments_text_anonymized": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "In the details of this match, you can glance at the lineups while the game is about to begin.",
+            "comments_text_anonymized": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Gianluca Rocchi will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Liverpool will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Javi Martinez (Bayern Munich) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:10",
+            "comments_type": "ball possession",
+            "comments_text": "Mohamed Salah (Liverpool) tries to find Andrew Robertson, but he puts too much power on the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Gianluca Rocchi blows his whistle for a foul after Sadio Mane (Liverpool) hacks down one of his opponents.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:56",
+            "comments_type": "clearance",
+            "comments_text": "Kingsley Coman (Bayern Munich) delivers a low pass into the box which is intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Sadio Mane (Liverpool) gives away a foul during an attacking move and the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul during an attacking move and the referee blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:21",
+            "comments_type": "clearance",
+            "comments_text": "Serge Gnabry (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:27",
+            "comments_type": "foul with no card",
+            "comments_text": "Thiago Alcantara (Bayern Munich) was too fierce in his attempt to get the ball from his opponent and Gianluca Rocchi blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] Alcantara ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:10",
+            "comments_type": "clearance",
+            "comments_text": "Joshua Kimmich (Bayern Munich) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:16",
+            "comments_type": "shot off target",
+            "comments_text": "Sadio Mane (Liverpool) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:33",
+            "comments_type": "shot off target",
+            "comments_text": "Naby Keita (Liverpool) goes for goal, but his effort isn't precise at all and it flies yards wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes for goal, but his effort isn't precise at all and it flies yards wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:05",
+            "comments_type": "foul with no card",
+            "comments_text": "It looks like Niklas Sule (Bayern Munich) saw red with that tackle. Gianluca Rocchi won't tolerate such behaviour on the pitch and blows for a foul. Liverpool will take a free kick near the side line.",
+            "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:40",
+            "comments_type": "free kick",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) will take the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:52",
+            "comments_type": "yellow card",
+            "comments_text": "Gianluca Rocchi shows a yellow card to Joshua Kimmich (Bayern Munich) for a tough tackle.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:33",
+            "comments_type": "clearance",
+            "comments_text": "Andrew Robertson (Liverpool) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross, but he can't find any teammate inside the box. Poor delivery."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:05",
+            "comments_type": "clearance",
+            "comments_text": "This shall not pass! Naby Keita (Liverpool) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "comments_text_anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:10",
+            "comments_type": "injury",
+            "comments_text": "Joshua Kimmich (Bayern Munich) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:44",
+            "comments_type": "injury",
+            "comments_text": "Joshua Kimmich (Bayern Munich) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:01",
+            "comments_type": "lead to corner",
+            "comments_text": "David Alaba (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee signals a corner kick to Bayern Munich.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:34",
+            "comments_type": "corner",
+            "comments_text": "James Rodriguez (Bayern Munich) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Serge Gnabry (Bayern Munich) beats his marker and unleashes a thunderbolt of a shot from the edge of the box. Alisson sees the ball late but does well to stop it going into the bottom left corner. Bayern Munich have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) beats his marker and unleashes a thunderbolt of a shot from the edge of the box. [PLAYER] sees the ball late but does well to stop it going into the bottom left corner. [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:25",
+            "comments_type": "corner",
+            "comments_text": "James Rodriguez (Bayern Munich) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:21",
+            "comments_type": "shot off target",
+            "comments_text": "Sadio Mane (Liverpool) darts into the box and immediately fires a first-time effort that ends well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) darts into the box and immediately fires a first-time effort that ends well wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:29",
+            "comments_type": "corner",
+            "comments_text": "James Rodriguez (Bayern Munich) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:29",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Robert Lewandowski (Bayern Munich) jumps for a header from the resulting corner kick inside the box and sends the ball in on goal, but the goalkeeper makes a very good save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps for a header from the resulting corner kick inside the box and sends the ball in on goal, but the goalkeeper makes a very good save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "lead to corner",
+            "comments_text": "A promising cross into the box is nearly received by the lurking Sadio Mane (Liverpool), but one of the defending players cuts it out to avert the threat. The linesman makes the right call and Liverpool will have a corner.",
+            "comments_text_anonymized": "A promising cross into the box is nearly received by the lurking [PLAYER] ([TEAM]), but one of the defending players cuts it out to avert the threat. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:40",
+            "comments_type": "corner",
+            "comments_text": "Mohamed Salah (Liverpool) overhits the corner kick and none of his teammates can their head on it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:55",
+            "comments_type": "lead to corner",
+            "comments_text": "Serge Gnabry (Bayern Munich) flights in the cross, but the defender is alert and clears to safety. Bayern Munich have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:25",
+            "comments_type": "corner",
+            "comments_text": "James Rodriguez (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:04",
+            "comments_type": "clearance",
+            "comments_text": "Roberto Firmino (Liverpool) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "1 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "1 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:59",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Roberto Firmino (Liverpool) pounces on the cross and fires in a shot on goal from close range, but Manuel Neuer is alert and makes a decent save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pounces on the cross and fires in a shot on goal from close range, but [PLAYER] is alert and makes a decent save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:57",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The game restarts for the second half.",
+            "comments_text_anonymized": "The game restarts for the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:22",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:14",
+            "comments_type": "clearance",
+            "comments_text": "Roberto Firmino (Liverpool) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:30",
+            "comments_type": "ball out of play",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) sends in a lofted cross from a long-range free kick, but it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick, but it goes out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:40",
+            "comments_type": "clearance",
+            "comments_text": "Robert Lewandowski (Bayern Munich) is picked out by his teammate with a brilliant short pass, but it takes him too long to control the ball inside the box and this allows one of the defending players to rob him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is picked out by his teammate with a brilliant short pass, but it takes him too long to control the ball inside the box and this allows one of the defending players to rob him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Gianluca Rocchi blows his whistle. Trent Alexander-Arnold (Liverpool) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:40",
+            "comments_type": "yellow card",
+            "comments_text": "Jordan Henderson (Liverpool) violates the laws of the game and is shown a deserved yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a deserved yellow card by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Fabinho (Liverpool) brings an opponent down and Gianluca Rocchi interrupts the game.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:50",
+            "comments_type": "lead to corner",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Serge Gnabry (Bayern Munich). The ball is out of play and the linesman points at the corner flag. Corner to Bayern Munich.",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:50",
+            "comments_type": "corner",
+            "comments_text": "Joshua Kimmich (Bayern Munich) takes the corner kick but the ball only finds the head of an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:20",
+            "comments_type": "lead to corner",
+            "comments_text": "James Rodriguez (Bayern Munich) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. Bayern Munich will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:10",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from James Rodriguez (Bayern Munich) is cleared by the opposition's defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:25",
+            "comments_type": "off side",
+            "comments_text": "The game is interrupted as Mohamed Salah (Liverpool) is flagged offside.",
+            "comments_text_anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:07",
+            "comments_type": "ball possession",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) makes a driving run into the box but he cannot work any space for a shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:25",
+            "comments_type": "injury",
+            "comments_text": "Jordan Henderson (Liverpool) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:10",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Joel Matip (Liverpool) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:00",
+            "comments_type": "clearance",
+            "comments_text": "Andrew Robertson (Liverpool) tries to send a pass but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:05",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:13",
+            "comments_type": "clearance",
+            "comments_text": "Mohamed Salah (Liverpool) tries to find Roberto Firmino, but he puts too much power on the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Robert Lewandowski (Bayern Munich) commits a foul after unfairly battling his opponent for the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:49",
+            "comments_type": "lead to corner",
+            "comments_text": "The free kick into the penalty area from Trent Alexander-Arnold (Liverpool) is cleared. Liverpool will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:00",
+            "comments_type": "corner",
+            "comments_text": "Nothing comes of the resulting corner from Mohamed Salah (Liverpool). The defence is alert and manages to cut it out.",
+            "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:00",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Trent Alexander-Arnold (Liverpool) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:47",
+            "comments_type": "clearance",
+            "comments_text": "Mohamed Salah (Liverpool) finds himself in a promising position after receiving an excellent pass into the box, but one of the defenders produces a timely intervention to avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving an excellent pass into the box, but one of the defenders produces a timely intervention to avert the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:06",
+            "comments_type": "shot off target",
+            "comments_text": "Serge Gnabry (Bayern Munich) has a crack at goal from the edge of the box, but it drifts high over the bar to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a crack at goal from the edge of the box, but it drifts high over the bar to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:09",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Naby Keita leaves the pitch and is replaced by James Milner (Liverpool).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:01",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Roberto Firmino is going off and Jurgen Norbert Klopp gives the last tactical orders to Divock Origi (Liverpool).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and Jurgen Norbert [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:20",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that David Alaba (Bayern Munich) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:03",
+            "comments_type": "shot off target",
+            "comments_text": "James Rodriguez (Bayern Munich) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:43",
+            "comments_type": "corner",
+            "comments_text": "Andrew Robertson (Liverpool) sends a pass into the box, but his attempt is thwarted and cleared. Liverpool have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:12",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Trent Alexander-Arnold (Liverpool) only finds one of the defenders, who heads it out of danger.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:48",
+            "comments_type": "substitution",
+            "comments_text": "Niko Kovac prepares a substitution. Kingsley Coman is replaced by Franck Ribery (Bayern Munich).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:13",
+            "comments_type": "lead to corner",
+            "comments_text": "Mohamed Salah (Liverpool) fails to find any of his teammates inside the box as his pass is blocked. The referee points to the corner flag and Liverpool will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:40",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:05",
+            "comments_type": "shot off target",
+            "comments_text": "Joel Matip (Liverpool) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:47",
+            "comments_type": "corner",
+            "comments_text": "Corner kick. Trent Alexander-Arnold (Liverpool) is ready to send the ball into the box.",
+            "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:50",
+            "comments_type": "shot off target",
+            "comments_text": "Joel Matip (Liverpool) connects with the corner kick around the penalty spot, but steers his header inches over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with the corner kick around the penalty spot, but steers his header inches over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:28",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Javi Martinez (Bayern Munich) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:50",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. James Rodriguez walks off the pitch and Renato Sanches (Bayern Munich) comes on as a substitute.",
+            "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Mats Hummels (Bayern Munich) makes a reckless foul in order to win the ball from his opponent. Gianluca Rocchi has a clear sight of it and blows his whistle. That's a free kick to Liverpool.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:38",
+            "comments_type": "ball out of play",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) sends in a lofted cross from a long-range free kick in order to find one of his teammates. His poor effort, however, sails way out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick in order to find one of his teammates. His poor effort, however, sails way out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 additional min. will be played.",
+            "comments_text_anonymized": "4 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:23",
+            "comments_type": "substitution",
+            "comments_text": "Niko Kovac has decided to make a change. Rafinha (Bayern Munich) replaces Serge Gnabry.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:14",
+            "comments_type": "clearance",
+            "comments_text": "Sadio Mane (Liverpool) fails to send a pass into the box as his effort is cut out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Gianluca Rocchi blows the whistle, Andrew Robertson (Liverpool) is penalised for a foul.",
+            "comments_text_anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:41",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

@@ -1,0 +1,1127 @@
+{
+    "match_info": {
+        "timestamp": "2019-09-19 03:00:00",
+        "score": "3 - 0",
+        "home_team": "PSG",
+        "away_team": "Real Madrid",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Parc des Princes (Paris)",
+        "capacity": "48 229",
+        "attendance": "46 361"
+    },
+    "referee_data": {
+        "short_name_country": "Taylor A. (Eng)",
+        "first_name": "Taylor",
+        "abbr_last_name": "A",
+        "country": "Eng",
+        "detected_name": "Anthony Taylor"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Tuchel T.",
+                "players_number": "",
+                "Full Name": "Thomas Tuchel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (29.08.1973)",
+                "Market Value": "",
+                "unicode": "CQTUFgPk"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Cavani E.",
+                "players_number": "",
+                "Full Name": "Edinson Cavani",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Dagba C.",
+                "players_number": "",
+                "Full Name": "Colin Dagba",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (09.09.1998)",
+                "Market Value": "€1.7m",
+                "unicode": "r7kInW0E"
+            },
+            {
+                "players_name": "Draxler J.",
+                "players_number": "",
+                "Full Name": "Julian Draxler",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.09.1993)",
+                "Market Value": "€4.9m",
+                "unicode": "plO3S4gF"
+            },
+            {
+                "players_name": "Kehrer T.",
+                "players_number": "",
+                "Full Name": "Thilo Kehrer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (21.09.1996)",
+                "Market Value": "€8.3m",
+                "unicode": "UXQPdpOB"
+            },
+            {
+                "players_name": "Mbappe K.",
+                "players_number": "",
+                "Full Name": "Kylian Mbappe",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (20.12.1998)",
+                "Market Value": "€204.2m",
+                "unicode": "Wn6E2SED"
+            },
+            {
+                "players_name": "Neymar",
+                "players_number": "",
+                "Full Name": "Neymar",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€49.6m",
+                "unicode": "jNOPwl3h"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bernat J.",
+                "players_number": "14",
+                "Full Name": "Juan Bernat",
+                "players_rating": 8.8,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (01.03.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "Cd1ieN88"
+            },
+            {
+                "players_name": "Di Maria A.",
+                "players_number": "11",
+                "Full Name": "Angel Di Maria",
+                "players_rating": 8.4,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.02.1988)",
+                "Market Value": "€5.3m",
+                "unicode": "SISkkDSQ"
+            },
+            {
+                "players_name": "Gueye I.",
+                "players_number": "27",
+                "Full Name": "Idrissa Gueye",
+                "players_rating": 8.2,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (26.09.1989)",
+                "Market Value": "€3.9m",
+                "unicode": "f12b2WQA"
+            },
+            {
+                "players_name": "Icardi M.",
+                "players_number": "18",
+                "Full Name": "Mauro Icardi",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (19.02.1993)",
+                "Market Value": "€21.0m",
+                "unicode": "xKyjFkf6"
+            },
+            {
+                "players_name": "Kimpembe P.",
+                "players_number": "3",
+                "Full Name": "Presnel Kimpembe",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (13.08.1995)",
+                "Market Value": "€18.7m",
+                "unicode": "dMyiR1D8"
+            },
+            {
+                "players_name": "Marquinhos",
+                "players_number": "5",
+                "Full Name": "Marquinhos",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.05.1994)",
+                "Market Value": "€58.7m",
+                "unicode": "UFfev8HP"
+            },
+            {
+                "players_name": "Meunier T.",
+                "players_number": "12",
+                "Full Name": "Thomas Meunier",
+                "players_rating": 7.7,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (12.09.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "WUyrShAL"
+            },
+            {
+                "players_name": "Navas K. (G)",
+                "players_number": "1",
+                "Full Name": "Keylor Navas",
+                "players_rating": 6.5,
+                "Country": "Costa Rica",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.12.1986)",
+                "Market Value": "€2.0m",
+                "unicode": "dQEusiKl"
+            },
+            {
+                "players_name": "Sarabia P.",
+                "players_number": "19",
+                "Full Name": "Pablo Sarabia",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (11.05.1992)",
+                "Market Value": "€11.2m",
+                "unicode": "lSX6pGT4"
+            },
+            {
+                "players_name": "Silva T. (C)",
+                "players_number": "2",
+                "Full Name": "Thiago Silva",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            },
+            {
+                "players_name": "Verratti M.",
+                "players_number": "6",
+                "Full Name": "Marco Verratti",
+                "players_rating": 7.5,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (05.11.1992)",
+                "Market Value": "€24.8m",
+                "unicode": "fmn5agXI"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Choupo-Moting E. M.",
+                "players_number": "17",
+                "Full Name": "Eric Maxim Choupo-Moting",
+                "players_rating": 6.5,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.03.1989)",
+                "Market Value": "€2.9m",
+                "unicode": "YBBM9RBF"
+            },
+            {
+                "players_name": "Diallo A.",
+                "players_number": "22",
+                "Full Name": "Abdou Diallo",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (04.05.1996)",
+                "Market Value": "€8.7m",
+                "unicode": "M5WugaXi"
+            },
+            {
+                "players_name": "Herrera A.",
+                "players_number": "21",
+                "Full Name": "Ander Herrera",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (14.08.1989)",
+                "Market Value": "€2.4m",
+                "unicode": "jyzWX8yk"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Kurzawa L.",
+                "players_number": "20",
+                "Full Name": "Layvin Kurzawa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (04.09.1992)",
+                "Market Value": "€2.2m",
+                "unicode": "joeqPtde"
+            },
+            {
+                "players_name": "Nianzou T.",
+                "players_number": "35",
+                "Full Name": "Tanguy Nianzou",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (07.06.2002)",
+                "Market Value": "€4.8m",
+                "unicode": "zHxpGqc8"
+            },
+            {
+                "players_name": "Paredes L.",
+                "players_number": "8",
+                "Full Name": "Leandro Paredes",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (29.06.1994)",
+                "Market Value": "€7.7m",
+                "unicode": "lbNnSBiA"
+            },
+            {
+                "players_name": "Rico S. (G)",
+                "players_number": "16",
+                "Full Name": "Sergio Rico",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (01.09.1993)",
+                "Market Value": "30.06.2024",
+                "unicode": "OYp32022"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Zidane Z.",
+                "players_number": "",
+                "Full Name": "Zinedine Zidane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "51,  (23.06.1972)",
+                "Market Value": "",
+                "unicode": "b7zuQEqO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Asensio M.",
+                "players_number": "",
+                "Full Name": "Marco Asensio",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (21.01.1996)",
+                "Market Value": "€19.3m",
+                "unicode": "GQMMQo6m"
+            },
+            {
+                "players_name": "Diaz B.",
+                "players_number": "",
+                "Full Name": "Brahim Diaz",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (03.08.1999)",
+                "Market Value": "€19.9m",
+                "unicode": "nm2Qvnyk"
+            },
+            {
+                "players_name": "Fernandez N.",
+                "players_number": "",
+                "Full Name": "Nacho Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (18.01.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "8Wp8ZCLG"
+            },
+            {
+                "players_name": "Isco",
+                "players_number": "",
+                "Full Name": "Isco",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (21.04.1992)",
+                "Market Value": "€8.2m",
+                "unicode": "ULLmpdEb"
+            },
+            {
+                "players_name": "Marcelo",
+                "players_number": "",
+                "Full Name": "Marcelo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (12.05.1988)",
+                "Market Value": "€1.4m",
+                "unicode": "zmAm2AEH"
+            },
+            {
+                "players_name": "Modric L.",
+                "players_number": "",
+                "Full Name": "Luka Modric",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (09.09.1985)",
+                "Market Value": "€10.5m",
+                "unicode": "bZWyoJnA"
+            },
+            {
+                "players_name": "Ramos S.",
+                "players_number": "",
+                "Full Name": "Sergio Ramos",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (30.03.1986)",
+                "Market Value": "€4.0m",
+                "unicode": "db8mbBaO"
+            },
+            {
+                "players_name": "Valverde F.",
+                "players_number": "",
+                "Full Name": "Federico Valverde",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (22.07.1998)",
+                "Market Value": "€105.0m",
+                "unicode": "nscfER6B"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Bale G.",
+                "players_number": "11",
+                "Full Name": "Gareth Bale",
+                "players_rating": 6.6,
+                "Country": "Wales",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (16.07.1989)",
+                "Market Value": "",
+                "unicode": "4SPjLLiR"
+            },
+            {
+                "players_name": "Benzema K. (C)",
+                "players_number": "9",
+                "Full Name": "Karim Benzema",
+                "players_rating": 6.5,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "€15.9m",
+                "unicode": "tpV0VX0S"
+            },
+            {
+                "players_name": "Carvajal D.",
+                "players_number": "2",
+                "Full Name": "Daniel Carvajal",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (11.01.1992)",
+                "Market Value": "€12.1m",
+                "unicode": "rZh5FTHE"
+            },
+            {
+                "players_name": "Casemiro",
+                "players_number": "14",
+                "Full Name": "Casemiro",
+                "players_rating": 6.7,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.02.1992)",
+                "Market Value": "€30.4m",
+                "unicode": "Ukeq3c0b"
+            },
+            {
+                "players_name": "Courtois T. (G)",
+                "players_number": "13",
+                "Full Name": "Thibaut Courtois",
+                "players_rating": 6.1,
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (11.05.1992)",
+                "Market Value": "€35.7m",
+                "unicode": "MVExOq3n"
+            },
+            {
+                "players_name": "Hazard E.",
+                "players_number": "7",
+                "Full Name": "Eden Hazard",
+                "players_rating": 6.9,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (07.01.1991)",
+                "Market Value": "",
+                "unicode": "QH2of5sJ"
+            },
+            {
+                "players_name": "Kroos T.",
+                "players_number": "8",
+                "Full Name": "Toni Kroos",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (04.01.1990)",
+                "Market Value": "€14.3m",
+                "unicode": "CloE7jjr"
+            },
+            {
+                "players_name": "Mendy F.",
+                "players_number": "23",
+                "Full Name": "Ferland Mendy",
+                "players_rating": 6.5,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (08.06.1995)",
+                "Market Value": "€19.3m",
+                "unicode": "KnytnSKl"
+            },
+            {
+                "players_name": "Militao E.",
+                "players_number": "3",
+                "Full Name": "Eder Militao",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€67.5m",
+                "unicode": "zX2Rm9YG"
+            },
+            {
+                "players_name": "Rodriguez J.",
+                "players_number": "16",
+                "Full Name": "James Rodriguez",
+                "players_rating": 6.2,
+                "Country": "Colombia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (12.07.1991)",
+                "Market Value": "€5.0m",
+                "unicode": "MPaioN57"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "5",
+                "Full Name": "Raphael Varane",
+                "players_rating": 5.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Jovic L.",
+                "players_number": "18",
+                "Full Name": "Luka Jovic",
+                "players_rating": 5.9,
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.12.1997)",
+                "Market Value": "€4.6m",
+                "unicode": "viIS0FT7"
+            },
+            {
+                "players_name": "Lucas",
+                "players_number": "17",
+                "Full Name": "Lucas Vazquez",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (01.07.1991)",
+                "Market Value": "€4.9m",
+                "unicode": "pEjBDsSH"
+            },
+            {
+                "players_name": "Vinicius Junior",
+                "players_number": "25",
+                "Full Name": "Vinicius Junior",
+                "players_rating": 5.8,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (12.07.2000)",
+                "Market Value": "€163.8m",
+                "unicode": "CbwQ4Mws"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Areola A. (G)",
+                "players_number": "1",
+                "Full Name": "Alphonse Areola",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (27.02.1993)",
+                "Market Value": "€9.8m",
+                "unicode": "phOf2OAa"
+            },
+            {
+                "players_name": "de la Fuente A.",
+                "players_number": "35",
+                "Full Name": "Adrian de la Fuente",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (26.02.1999)",
+                "Market Value": "€749k",
+                "unicode": "O6MiTbze"
+            },
+            {
+                "players_name": "Odriozola A.",
+                "players_number": "19",
+                "Full Name": "Alvaro Odriozola",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.12.1995)",
+                "Market Value": "€2.9m",
+                "unicode": "0zO9SfkA"
+            },
+            {
+                "players_name": "Rodrygo",
+                "players_number": "27",
+                "Full Name": "Rodrygo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.01.2001)",
+                "Market Value": "€103.5m",
+                "unicode": "zPUyR5Up"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Today's referee will be Anthony Taylor.",
+            "comments_text_anonymized": "Today's referee will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Paris SG will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Idrissa Gueye (Paris SG) fouls an opponent during an attacking move. It's a free kick to Real Madrid, but they probably won't attempt a direct shot on goal from here.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent during an attacking move. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Karim Benzema (Real Madrid) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:07",
+            "comments_type": "shot off target",
+            "comments_text": "Angel Di Maria (Paris SG) tries to find the head of a teammate in the box but overhits the cross.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:30",
+            "comments_type": "ball possession",
+            "comments_text": "Juan Bernat (Paris SG) sprays a pass out to Angel Di Maria, but he can't beat his man inside the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man inside the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Half-chance! Gareth Bale (Real Madrid) plays a pass into the box, but Keylor Navas reacts well to snuff out the attack.",
+            "comments_text_anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Meunier (Paris SG) looks to break free, but an opposing player clears the ball away. Thomas Meunier (Paris SG) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [PLAYER] ([TEAM]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Meunier (Paris SG) was trying to get to the ball but clattered into the legs of the opponent as well. Anthony Taylor blows his whistle for an infringement. Real Madrid will take a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM] will take a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:10",
+            "comments_type": "clearance",
+            "comments_text": "The free kick is taken by James Rodriguez (Real Madrid), but ball is cleared.",
+            "comments_text_anonymized": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:07",
+            "comments_type": "goal",
+            "comments_text": "What a hit! Angel Di Maria (Paris SG) shows good composure inside the box to fire a first-time shot inside the left post. 1:0.",
+            "comments_text_anonymized": "What a hit! [PLAYER] ([TEAM]) shows good composure inside the box to fire a first-time shot inside the left post. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Juan Bernat (Paris SG) is penalised for holding. Anthony Taylor signals a set piece.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:20",
+            "comments_type": "clearance",
+            "comments_text": "Pablo Sarabia (Paris SG) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:57",
+            "comments_type": "shot off target",
+            "comments_text": "James Rodriguez (Real Madrid) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:56",
+            "comments_type": "clearance",
+            "comments_text": "Thomas Meunier (Paris SG) serves up a nice cross, but Thibaut Courtois punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:48",
+            "comments_type": "shot off target",
+            "comments_text": "What a chance that is! Karim Benzema (Real Madrid) squanders a huge opportunity as he latches on to a perfect cross from the wing. He and produces a bullet header from around the penalty spot which goes well wide of the left post!",
+            "comments_text_anonymized": "What a chance that is! [PLAYER] ([TEAM]) squanders a huge opportunity as he latches on to a perfect cross from the wing. He and produces a bullet header from around the penalty spot which goes well wide of the left post!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:20",
+            "comments_type": "clearance",
+            "comments_text": "Raphael Varane (Real Madrid) fails to find a teammate across the pitch with a long ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:00",
+            "comments_type": "shot off target",
+            "comments_text": "Marco Verratti (Paris SG) sends a long ball forward to Angel Di Maria, but he put too much power and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball forward to [PLAYER], but he put too much power and the chance is gone."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:10",
+            "comments_type": "clearance",
+            "comments_text": "Pablo Sarabia (Paris SG) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Toni Kroos (Real Madrid) is penalised after knocking an opponent down. Paris SG are awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down. [TEAM] are awarded a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Anthony Taylor blows his whistle for a foul after Idrissa Gueye (Paris SG) hacks down one of his opponents. Real Madrid earn a free kick which could lead to a goal-scoring opportunity.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] earn a free kick which could lead to a goal-scoring opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:36",
+            "comments_type": "yellow card",
+            "comments_text": "Daniel Carvajal (Real Madrid) sees a yellow card from Anthony Taylor after he sent one of the opposing players to the ground.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:30",
+            "comments_type": "goal",
+            "comments_text": "Goal! Angel Di Maria (Paris SG) neatly controls a decent pass from Idrissa Gueye. He looks up and smashes an unstoppable drive into the right side of the goal from the edge of the box. 2:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) neatly controls a decent pass from [PLAYER]. He looks up and smashes an unstoppable drive into the right side of the goal from the edge of the box. 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:14",
+            "comments_type": "goal",
+            "comments_text": "What a finish that is! Gareth Bale (Real Madrid) gets behind the defence with a burst of pace and from the edge of the box he keeps his cool to lift the ball over Keylor Navas. He makes it 2:1.",
+            "comments_text_anonymized": "What a finish that is! [PLAYER] ([TEAM]) gets behind the defence with a burst of pace and from the edge of the box he keeps his cool to lift the ball over [PLAYER]. He makes it 2:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:10",
+            "comments_type": "var",
+            "comments_text": "Wait! Referee Anthony Taylor has indicated he is going to review the Real Madrid goal using VAR. It’s probably to see if there was a handball in the build-up.",
+            "comments_text_anonymized": "Wait! Referee [REFEREE] has indicated he is going to review the [TEAM] goal using VAR. It’s probably to see if there was a handball in the build-up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:41",
+            "comments_type": "var",
+            "comments_text": "Here comes the VAR verdict. NO GOAL for Real Madrid due to a handball in the build-up play.",
+            "comments_text_anonymized": "Here comes the VAR verdict. NO GOAL for [TEAM] due to a handball in the build-up play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:55",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Excellent touch by Mauro Icardi (Paris SG)! He latches on to an inch-perfect pass deep into the box and unleashes a low drive towards the middle of the goal. The goalkeeper reacts superbly and makes a save.",
+            "comments_text_anonymized": "Excellent touch by [PLAYER] ([TEAM])! He latches on to an inch-perfect pass deep into the box and unleashes a low drive towards the middle of the goal. The goalkeeper reacts superbly and makes a save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Anthony Taylor blows his whistle and it's Presnel Kimpembe (Paris SG) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Pablo Sarabia (Paris SG) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender. The referee blows his whistle, Paris SG are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:48",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) swings in a cross from the corner, but Thibaut Courtois reads it well and gathers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:57",
+            "comments_type": "foul with no card",
+            "comments_text": "Marco Verratti (Paris SG) brings his opponent down with a tackle and Anthony Taylor blows his whistle for a foul. Real Madrid have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:02",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:38",
+            "comments_type": "foul with no card",
+            "comments_text": "Pablo Sarabia (Paris SG) fouls an opponent. At least that's what referee Anthony Taylor signals. Real Madrid get a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. [TEAM] get a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:30",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Thomas Meunier (Paris SG) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:14",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A snap shot from distance by Toni Kroos (Real Madrid) after a precise pass is brilliantly blocked by a defender.",
+            "comments_text_anonymized": "A snap shot from distance by [PLAYER] ([TEAM]) after a precise pass is brilliantly blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:39",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Daniel Carvajal (Real Madrid).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Daniel Carvajal (Real Madrid) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. It will be a corner kick for Real Madrid.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:10",
+            "comments_type": "corner",
+            "comments_text": "James Rodriguez (Real Madrid) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:04",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Paris SG) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:10",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Paris SG) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:38",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Half-chance! Juan Bernat (Paris SG) plays a pass into the box, but Thibaut Courtois reacts well to snuff out the attack.",
+            "comments_text_anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:47",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a substitution. Maxim Choupo-Moting (Paris SG) is replacing Mauro Icardi.",
+            "comments_text_anonymized": "We are about to witness a substitution. Maxim [PLAYER] ([TEAM]) is replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:00",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:37",
+            "comments_type": "foul with no card",
+            "comments_text": "Toni Kroos (Real Madrid) trips an opponent with a slide tackle. Anthony Taylor stops the game and he could give him a card, but eventually decides on just a warning. Paris SG have been awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. [TEAM] have been awarded a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:45",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Pablo Sarabia (Paris SG) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Anthony Taylor interrupts the game for a tactical foul by Casemiro (Real Madrid). Paris SG win a free kick.",
+            "comments_text_anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). [TEAM] win a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:30",
+            "comments_type": "clearance",
+            "comments_text": "Eden Hazard (Real Madrid) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:14",
+            "comments_type": "injury",
+            "comments_text": "Marquinhos (Paris SG) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:16",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Lucas (Real Madrid) replaces Eden Hazard.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:11",
+            "comments_type": "substitution",
+            "comments_text": "Zinedine Zidane has decided to substitute James Rodriguez and he is replaced by Luka Jovic (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:42",
+            "comments_type": "substitution",
+            "comments_text": "Marquinhos is not able to continue due to his injury and will be replaced by Ander Herrera (Paris SG).",
+            "comments_text_anonymized": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Juan Bernat (Paris SG) attempted to dribble past an opposing player. The ball goes out of play. Paris SG are awarded a corner kick.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:33",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:17",
+            "comments_type": "statistics and summary",
+            "comments_text": "We can have a look at the statistics now, particularly the total attempts – 10:9. 5:0 - the latest stats for both teams in respect of shots on target.",
+            "comments_text_anonymized": "We can have a look at the statistics now, particularly the total attempts – 10:9. 5:0 - the latest stats for both teams in respect of shots on target."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Gareth Bale is going off and Zinedine Zidane gives the last tactical orders to Junior Vinicius (Real Madrid).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to Junior [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Anthony Taylor sees the trip by Pablo Sarabia (Paris SG) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:35",
+            "comments_type": "yellow card",
+            "comments_text": "Junior Vinicius (Real Madrid) has received a yellow card for his foul.",
+            "comments_text_anonymized": "Junior [PLAYER] ([TEAM]) has received a yellow card for his foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:45",
+            "comments_type": "yellow card",
+            "comments_text": "Angel Di Maria (Paris SG) was probably a bit loose with his words to Anthony Taylor, who decides to show him a yellow.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Toni Kroos (Real Madrid) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:11",
+            "comments_type": "shot off target",
+            "comments_text": "Maxim Choupo-Moting (Paris SG) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar.",
+            "comments_text_anonymized": "Maxim [PLAYER] ([TEAM]) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:44",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Lucas (Real Madrid). Anthony Taylor blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:30",
+            "comments_type": "yellow card",
+            "comments_text": "Raphael Varane (Real Madrid) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:33",
+            "comments_type": "substitution",
+            "comments_text": "Thomas Tuchel has decided to introduce fresh legs, with Abdou Diallo (Paris SG) replacing Pablo Sarabia.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:12",
+            "comments_type": "goal",
+            "comments_text": "Goal! Juan Bernat puts the ball across the area and Thomas Meunier (Paris SG) has the easiest task in the world to tuck the ball into an empty net. 3:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] puts the ball across the area and [PLAYER] ([TEAM]) has the easiest task in the world to tuck the ball into an empty net. 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:41",
+            "comments_type": "yellow card",
+            "comments_text": "Anthony Taylor shows a yellow card to Juan Bernat (Paris SG), who isn't surprised as the tackle was really hard and late.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:02",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas (Real Madrid) connects with the resulting free kick on the edge of the box, but can't find the target as his effort goes well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with the resulting free kick on the edge of the box, but can't find the target as his effort goes well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:17",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

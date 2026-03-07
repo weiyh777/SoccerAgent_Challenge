@@ -1,0 +1,993 @@
+{
+    "match_info": {
+        "timestamp": "2019-11-10 19:00:00",
+        "score": "3 - 1",
+        "home_team": "Mallorca",
+        "away_team": "Villarreal",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Estadi Mallorca Son Moix (Palma de Mallorca)",
+        "capacity": "26 020",
+        "attendance": "8 174",
+        "home_jersey_color": "red",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Del Cerro C. (Esp)",
+        "first_name": "Del Cerro",
+        "abbr_last_name": "C",
+        "country": "Esp",
+        "detected_name": "Carlos Del Cerro"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Moreno V.",
+                "players_number": "",
+                "Full Name": "Vicente Moreno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (26.10.1974)",
+                "Market Value": "",
+                "unicode": "25GxoIxN"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Baba A. R.",
+                "players_number": "",
+                "Full Name": "Abdul Rahman Baba",
+                "players_rating": "",
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (02.07.1994)",
+                "Market Value": "€1.4m",
+                "unicode": "K2yVXyhU"
+            },
+            {
+                "players_name": "Cucho",
+                "players_number": "",
+                "Full Name": "Cucho",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (20.04.1999)",
+                "Market Value": "€14.0m",
+                "unicode": "65KF7LTO"
+            },
+            {
+                "players_name": "Sedlar A.",
+                "players_number": "",
+                "Full Name": "Aleksandar Sedlar",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (13.12.1991)",
+                "Market Value": "€482k",
+                "unicode": "h4BWTxSF"
+            },
+            {
+                "players_name": "Sevilla S.",
+                "players_number": "",
+                "Full Name": "Salva Sevilla",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (18.03.1984)",
+                "Market Value": "€98k",
+                "unicode": "rFMIs7n0"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Agbenyenu L.",
+                "players_number": "3",
+                "Full Name": "Lumor Agbenyenu",
+                "players_rating": 7.3,
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (15.08.1996)",
+                "Market Value": "€234k",
+                "unicode": "fqp0LFEF"
+            },
+            {
+                "players_name": "Baba I.",
+                "players_number": "12",
+                "Full Name": "Iddrisu Baba",
+                "players_rating": 7.3,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (22.01.1996)",
+                "Market Value": "€2.3m",
+                "unicode": "8YnlOgwC"
+            },
+            {
+                "players_name": "Budimir A.",
+                "players_number": "22",
+                "Full Name": "Ante Budimir",
+                "players_rating": 6.8,
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (22.07.1991)",
+                "Market Value": "€4.8m",
+                "unicode": "IeVXGQOi"
+            },
+            {
+                "players_name": "Febas A.",
+                "players_number": "23",
+                "Full Name": "Aleix Febas",
+                "players_rating": 8.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (02.02.1996)",
+                "Market Value": "€2.0m",
+                "unicode": "IylSu6Jk"
+            },
+            {
+                "players_name": "Junior L.",
+                "players_number": "11",
+                "Full Name": "Lago Junior",
+                "players_rating": 7.9,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (31.12.1990)",
+                "Market Value": "€749k",
+                "unicode": "Ysb0B298"
+            },
+            {
+                "players_name": "Kubo T.",
+                "players_number": "26",
+                "Full Name": "Takefusa Kubo",
+                "players_rating": 8.3,
+                "Country": "Japan",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (04.06.2001)",
+                "Market Value": "€61.3m",
+                "unicode": "fqdLdpc3"
+            },
+            {
+                "players_name": "Raillo A.",
+                "players_number": "21",
+                "Full Name": "Antonio Raillo",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.10.1991)",
+                "Market Value": "€2.5m",
+                "unicode": "p8RSvp74"
+            },
+            {
+                "players_name": "Reina M. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Manolo Reina",
+                "players_rating": 8.0,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "38, (01.04.1985)",
+                "Market Value": "",
+                "unicode": "vTAwUGzd"
+            },
+            {
+                "players_name": "Rodriguez D.",
+                "players_number": "14",
+                "Full Name": "Daniel Rodriguez",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (06.06.1988)",
+                "Market Value": "€1.2m",
+                "unicode": "n7jmYVFc"
+            },
+            {
+                "players_name": "Sastre J.",
+                "players_number": "2",
+                "Full Name": "Joan Sastre",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (30.04.1997)",
+                "Market Value": "",
+                "unicode": "67e2HvRR"
+            },
+            {
+                "players_name": "Valjent M.",
+                "players_number": "24",
+                "Full Name": "Martin Valjent",
+                "players_rating": 7.2,
+                "Country": "Slovakia",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (11.12.1995)",
+                "Market Value": "€4.3m",
+                "unicode": "pbb8dhGG"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Campos X.",
+                "players_number": "5",
+                "Full Name": "Xisco Campos",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "41, (10.03.1982)",
+                "Market Value": "",
+                "unicode": "zcdI3wY3"
+            },
+            {
+                "players_name": "Prats A.",
+                "players_number": "9",
+                "Full Name": "Abdon Prats",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.12.1992)",
+                "Market Value": "€1.8m",
+                "unicode": "zB1s0lKl"
+            },
+            {
+                "players_name": "Sene J.",
+                "players_number": "4",
+                "Full Name": "Josep Sene",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (10.12.1991)",
+                "Market Value": "€489k",
+                "unicode": "6i10QpDe"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Cabrera A.",
+                "players_number": "7",
+                "Full Name": "Ariday Cabrera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (26.09.1988)",
+                "Market Value": "30.06.2024",
+                "unicode": "Y5w5w3mj"
+            },
+            {
+                "players_name": "Chavarria P.",
+                "players_number": "19",
+                "Full Name": "Pablo Chavarria",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (02.01.1988)",
+                "Market Value": "€190k",
+                "unicode": "Mq2sSDT8"
+            },
+            {
+                "players_name": "Fabricio (G)",
+                "players_number": "13",
+                "Full Name": "Fabricio",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (31.12.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "4Cmpp5sT"
+            },
+            {
+                "players_name": "Pedraza M.",
+                "players_number": "6",
+                "Full Name": "Marc Pedraza",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (06.02.1987)",
+                "Market Value": "",
+                "unicode": "Qs4G84SQ"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Calleja J.",
+                "players_number": "",
+                "Full Name": "Javier Calleja",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (12.05.1978)",
+                "Market Value": "",
+                "unicode": "QmLgLqap"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bruno",
+                "players_number": "",
+                "Full Name": "Bruno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (12.06.1984)",
+                "Market Value": "",
+                "unicode": "bcy6CWV1"
+            },
+            {
+                "players_name": "Guerra R.",
+                "players_number": "",
+                "Full Name": "Ramiro Guerra",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (21.03.1997)",
+                "Market Value": "",
+                "unicode": "t4nuc7Qg"
+            },
+            {
+                "players_name": "Moreno A.",
+                "players_number": "",
+                "Full Name": "Alberto Moreno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.07.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pdBI3oS8"
+            },
+            {
+                "players_name": "Morlanes M.",
+                "players_number": "",
+                "Full Name": "Manu Morlanes",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (12.01.1999)",
+                "Market Value": "€2.4m",
+                "unicode": "nerrfVfR"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Albiol R.",
+                "players_number": "3",
+                "Full Name": "Raul Albiol",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.09.1985)",
+                "Market Value": "€2.4m",
+                "unicode": "AkMslDtA"
+            },
+            {
+                "players_name": "Anguissa F.",
+                "players_number": "19",
+                "Full Name": "Frank Anguissa",
+                "players_rating": 7.9,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (16.11.1995)",
+                "Market Value": "€34.7m",
+                "unicode": "OtLZCB8S"
+            },
+            {
+                "players_name": "Asenjo S. (G)",
+                "players_number": "1",
+                "Full Name": "Sergio Asenjo",
+                "players_rating": 4.9,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (28.06.1989)",
+                "Market Value": "",
+                "unicode": "2wlnGZ6O"
+            },
+            {
+                "players_name": "Cazorla S.",
+                "players_number": "8",
+                "Full Name": "Santi Cazorla",
+                "players_rating": 7.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (13.12.1984)",
+                "Market Value": "€298k",
+                "unicode": "rVt0F12N"
+            },
+            {
+                "players_name": "Gomez M.",
+                "players_number": "23",
+                "Full Name": "Moi Gomez",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (23.06.1994)",
+                "Market Value": "€4.7m",
+                "unicode": "8b86g1el"
+            },
+            {
+                "players_name": "Iborra V.",
+                "players_number": "10",
+                "Full Name": "Vicente Iborra",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (16.01.1988)",
+                "Market Value": "€489k",
+                "unicode": "nRwS5Ild"
+            },
+            {
+                "players_name": "Mario Gaspar (C)",
+                "players_number": "2",
+                "Full Name": "Mario Gaspar",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (24.11.1990)",
+                "Market Value": "€950k",
+                "unicode": "bqApK6mO"
+            },
+            {
+                "players_name": "Moreno G.",
+                "players_number": "7",
+                "Full Name": "Gerard Moreno",
+                "players_rating": 7.6,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.04.1992)",
+                "Market Value": "€15.1m",
+                "unicode": "UwfDD083"
+            },
+            {
+                "players_name": "Pena R.",
+                "players_number": "20",
+                "Full Name": "Ruben Pena",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (18.07.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "hvSbhBpg"
+            },
+            {
+                "players_name": "Toko Ekambi K.",
+                "players_number": "17",
+                "Full Name": "Karl Toko Ekambi",
+                "players_rating": 6.4,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (14.09.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "jNJxcqy5"
+            },
+            {
+                "players_name": "Torres P.",
+                "players_number": "4",
+                "Full Name": "Pau Torres",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (16.01.1997)",
+                "Market Value": "€43.4m",
+                "unicode": "AVUHg8JU"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Chukwueze S.",
+                "players_number": "11",
+                "Full Name": "Samuel Chukwueze",
+                "players_rating": 6.9,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (22.05.1999)",
+                "Market Value": "€22.5m",
+                "unicode": "niW1cP0k"
+            },
+            {
+                "players_name": "Ontiveros J.",
+                "players_number": "24",
+                "Full Name": "Javier Ontiveros",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (09.09.1997)",
+                "Market Value": "€1.4m",
+                "unicode": "lAD5z2Ck"
+            },
+            {
+                "players_name": "Trigueros M.",
+                "players_number": "14",
+                "Full Name": "Manu Trigueros",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (17.10.1991)",
+                "Market Value": "€2.3m",
+                "unicode": "E77oeEa6"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bacca C.",
+                "players_number": "9",
+                "Full Name": "Carlos Bacca",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (08.09.1986)",
+                "Market Value": "€447k",
+                "unicode": "lGLvSJ65"
+            },
+            {
+                "players_name": "Fernandez A. (G)",
+                "players_number": "13",
+                "Full Name": "Andres Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (16.12.1986)",
+                "Market Value": "€496k",
+                "unicode": "E34WEy2D"
+            },
+            {
+                "players_name": "Mori R.",
+                "players_number": "6",
+                "Full Name": "Ramiro Mori",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (05.03.1991)",
+                "Market Value": "€755k",
+                "unicode": "bwISPvDT"
+            },
+            {
+                "players_name": "Quintilla X.",
+                "players_number": "16",
+                "Full Name": "Xavier Quintilla",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (23.08.1996)",
+                "Market Value": "€468k",
+                "unicode": "jwprPxuI"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Carlos Del Cerro was nominated as the referee for this game.",
+            "comments_text_anonymized": "[REFEREE] was nominated as the referee for this game."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Villarreal will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Pau Francisco Torres (Villarreal) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "comments_text_anonymized": "Pau Francisco [PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Karl Toko Ekambi (Villarreal) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Carlos Del Cerro blows for the foul but keeps his cards in his pocket on this occasion.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. [REFEREE] blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Daniel Rodriguez (Mallorca) trips an opponent with a slide tackle. Carlos Del Cerro stops the game and he could give him a card, but eventually decides on just a warning.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Aleix Febas (Mallorca) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:36",
+            "comments_type": "shot off target",
+            "comments_text": "Mario Gaspar (Villarreal) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar. The ball is off of the pitch and it's a goal kick for Mallorca.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:45",
+            "comments_type": "corner",
+            "comments_text": "Mallorca have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Iborra (Villarreal) brings his opponent down with a tackle and Carlos Del Cerro blows his whistle for a foul. Mallorca are given a huge opportunity to score - it's a penalty kick!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. [TEAM] are given a huge opportunity to score - it's a penalty kick!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:52",
+            "comments_type": "var",
+            "comments_text": "Referee Carlos Del Cerro makes the VAR signal and is going to check whether it’s a penalty for Mallorca. Let’s see what happens!",
+            "comments_text_anonymized": "Referee [REFEREE] makes the VAR signal and is going to check whether it’s a penalty for [TEAM]. Let’s see what happens!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The Mallorca players are happy as the referee awards a PENALTY after the VAR review!",
+            "comments_text_anonymized": "The [TEAM] players are happy as the referee awards a PENALTY after the VAR review!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:40",
+            "comments_type": "penalty",
+            "comments_text": "Lago Junior (Mallorca) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:51",
+            "comments_type": "goal",
+            "comments_text": "Goal! Lago Junior (Mallorca) wins the battle of wills and sends an unstoppable penalty past Sergio Asenjo into the bottom left corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom left corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:27",
+            "comments_type": "foul with no card",
+            "comments_text": "Carlos Del Cerro blows the whistle, Ante Budimir (Mallorca) is penalised for a foul.",
+            "comments_text_anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:02",
+            "comments_type": "clearance",
+            "comments_text": "Andre-Frank Zambo Anguissa (Villarreal) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "Andre-Frank Zambo [PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Ruben Pena (Villarreal) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:00",
+            "comments_type": "yellow card",
+            "comments_text": "It's a penalty to Mallorca! Let's see who's going to take it. This yellow card was deserved. The tackle by Sergio Asenjo (Villarreal) was quite harsh and Carlos Del Cerro didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "It's a penalty to [TEAM]! Let's see who's going to take it. This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:35",
+            "comments_type": "penalty",
+            "comments_text": "Daniel Rodriguez (Mallorca) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:01",
+            "comments_type": "goal",
+            "comments_text": "Goal! Daniel Rodriguez (Mallorca) puts the ball into the bottom left corner past the outstretched arm of Sergio Asenjo.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) puts the ball into the bottom left corner past the outstretched arm of [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Iborra (Villarreal) unleashes a shot from the edge of the box, but it goes straight at Manolo Reina.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot from the edge of the box, but it goes straight at [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:59",
+            "comments_type": "clearance",
+            "comments_text": "Lumor Agbenyenu (Mallorca) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:26",
+            "comments_type": "lead to corner",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Lumor Agbenyenu (Mallorca). The referee points to the corner flag. It's a corner to Mallorca.",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:10",
+            "comments_type": "corner",
+            "comments_text": "Takefusa Kubo (Mallorca) launches an inaccurate corner kick into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:44",
+            "comments_type": "shot off target",
+            "comments_text": "Santi Cazorla (Villarreal) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the left post! The ball goes out of play and Mallorca will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the left post! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Ante Budimir (Mallorca) makes a slide tackle, but referee Carlos Del Cerro blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Andre-Frank Zambo Anguissa (Villarreal) came close to scoring but should have done much better. His poor attempt from close range ended up in the gloves of Manolo Reina.",
+            "comments_text_anonymized": "Andre-Frank Zambo [PLAYER] ([TEAM]) came close to scoring but should have done much better. His poor attempt from close range ended up in the gloves of [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Iborra (Villarreal) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:10",
+            "comments_type": "end of half game",
+            "comments_text": "Carlos Del Cerro has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "There will be a change on the pitch for the second half. Javier Calleja Revilla probably wasn't satisfied with the performance of Iborra. He is replaced by Samuel Chukwueze (Villarreal).",
+            "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] Revilla probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:32",
+            "comments_type": "corner",
+            "comments_text": "Santi Cazorla (Villarreal) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:05",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The referee blows his whistle and awards Villarreal a penalty after chaos inside the box. Antonio Raillo (Mallorca) gives away a foul for a clumsy challenge. Referee Carlos Del Cerro saw the whole situation.",
+            "comments_text_anonymized": "The referee blows his whistle and awards [TEAM] a penalty after chaos inside the box. [PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:40",
+            "comments_type": "corner",
+            "comments_text": "Santi Cazorla (Villarreal) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:24",
+            "comments_type": "free kick",
+            "comments_text": "Santi Cazorla (Villarreal) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:34",
+            "comments_type": "goal",
+            "comments_text": "Santi Cazorla (Villarreal) coolly converts his spot kick! He sends the ball low into the middle of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) coolly converts his spot kick! He sends the ball low into the middle of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:11",
+            "comments_type": "goal",
+            "comments_text": "Goal! Aleix Febas plays a short, square pass into the path of Takefusa Kubo (Mallorca), who bends a shot straight into the top right corner to make it 3:1. Fabulous goal!",
+            "comments_text_anonymized": "Goal! [PLAYER] plays a short, square pass into the path of [PLAYER] ([TEAM]), who bends a shot straight into the top right corner to make it 3:1. Fabulous goal!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:48",
+            "comments_type": "corner",
+            "comments_text": "Villarreal failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:16",
+            "comments_type": "yellow card",
+            "comments_text": "Carlos Del Cerro shows a yellow card to Daniel Rodriguez (Mallorca) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "yellow card",
+            "comments_text": "Ruben Pena (Villarreal) makes a bad challenge on his opponent and is booked by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 8174.",
+            "comments_text_anonymized": "The attendance is 8174."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:48",
+            "comments_type": "substitution",
+            "comments_text": "Vicente Moreno has decided to make a change. Josep Sene (Mallorca) replaces Takefusa Kubo.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:39",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Moi Gomez makes his way off the pitch and Javier Ontiveros Parra (Villarreal) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] Parra ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:26",
+            "comments_type": "injury",
+            "comments_text": "Iddrisu Baba Mohammed (Mallorca) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] Mohammed ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:53",
+            "comments_type": "injury",
+            "comments_text": "Iddrisu Baba Mohammed (Mallorca) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] Mohammed ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:19",
+            "comments_type": "clearance",
+            "comments_text": "Javier Ontiveros Parra (Villarreal) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] Parra ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Andre-Frank Zambo Anguissa (Villarreal) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "Andre-Frank Zambo [PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:11",
+            "comments_type": "yellow card",
+            "comments_text": "Raul Albiol (Villarreal) is booked after bringing down an opponent. Carlos Del Cerro had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:21",
+            "comments_type": "injury",
+            "comments_text": "Aleix Febas (Mallorca) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "injury",
+            "comments_text": "Aleix Febas (Mallorca) is able to continue to play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is able to continue to play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:13",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Mario Gaspar is given a rest as he is replaced by Manuel Trigueros (Villarreal).",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by Manuel [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:20",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Villarreal is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:21",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Ante Budimir is going off and Vicente Moreno gives the last tactical orders to Abdon Prats (Mallorca).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:46",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Lumor Agbenyenu walks off the pitch and Xisco Campos (Mallorca) comes on as a substitute.",
+            "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 5 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Carlos Del Cerro sees the trip by Abdon Prats (Mallorca) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:47",
+            "comments_type": "foul with no card",
+            "comments_text": "Xisco Campos (Mallorca) is penalised after knocking an opponent down.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:54",
+            "comments_type": "yellow card",
+            "comments_text": "Aleix Febas (Mallorca) makes it easy for the referee to show him a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes it easy for the referee to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:20",
+            "comments_type": "corner",
+            "comments_text": "Villarreal work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:56",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

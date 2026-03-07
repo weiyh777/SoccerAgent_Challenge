@@ -34,14 +34,12 @@ ffmpeg==1.4
 ffmpeg-python==0.2.0
 filelock==3.18.0
 fire==0.7.0
-flash_attn==2.7.4.post1
 flatbuffers==25.2.10
 fonttools==4.56.0
 frozenlist==1.6.0
 fsspec==2025.3.0
 future==1.0.0
 gast==0.6.0
-genai==2.1.0
 google-auth==2.39.0
 google-genai==1.12.1
 google-pasta==0.2.0
@@ -160,7 +158,6 @@ tiktoken==0.3.3
 timm==1.0.15
 tokenizers==0.21.1
 tomli==2.2.1
-torch==2.6.0
 torchaudio==2.6.0
 torchvision==0.21.0
 tornado==6.4.2

@@ -1,0 +1,1384 @@
+{
+    "match_info": {
+        "timestamp": "2023-11-09 04:00:00",
+        "score": "4 - 3",
+        "home_team": "FC Copenhagen",
+        "away_team": "Manchester Utd",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Parken Stadium (Copenhagen)",
+        "capacity": "38 065",
+        "attendance": "36 099",
+        "home_jersey_color": "white",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Rumsas D. (Ltu)",
+        "first_name": "Rumsas",
+        "abbr_last_name": "D",
+        "country": "Ltu",
+        "detected_name": "Donatas Rumsas"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Neestrup J.",
+                "players_number": "",
+                "Full Name": "Jacob Neestrup",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "coach",
+                "Age and Birthdate": "35,  (08.03.1988)",
+                "Market Value": "",
+                "unicode": "Spau9dXc"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Clem W.",
+                "players_number": "",
+                "Full Name": "",
+                "players_rating": "",
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "OWz0DM54"
+            },
+            {
+                "players_name": "Cornelius A.",
+                "players_number": "",
+                "Full Name": "Andreas Cornelius",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (16.03.1993)",
+                "Market Value": "€1.4m",
+                "unicode": "CCv6fske"
+            },
+            {
+                "players_name": "Khocholava D.",
+                "players_number": "",
+                "Full Name": "Davit Khocholava",
+                "players_rating": "",
+                "Country": "Georgia",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (08.02.1993)",
+                "Market Value": "€950k",
+                "unicode": "xr83eEXu"
+            },
+            {
+                "players_name": "Meling B.",
+                "players_number": "",
+                "Full Name": "Birger Meling",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.12.1994)",
+                "Market Value": "€3.8m",
+                "unicode": "pUnJhSZe"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Achouri E.",
+                "players_number": "30",
+                "Full Name": "Elias Achouri",
+                "players_rating": 6.5,
+                "Country": "Tunisia",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.02.1999)",
+                "Market Value": "€2.4m",
+                "unicode": "8MxHX431"
+            },
+            {
+                "players_name": "Ankersen P.",
+                "players_number": "22",
+                "Full Name": "Peter Ankersen",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (22.09.1990)",
+                "Market Value": "€333k",
+                "unicode": "bBPm3fW6"
+            },
+            {
+                "players_name": "Claesson V. (C)",
+                "players_number": "7",
+                "Full Name": "Viktor Claesson",
+                "players_rating": 6.7,
+                "Country": "Sweden",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (02.01.1992)",
+                "Market Value": "€4.9m",
+                "unicode": "SKEuDPoq"
+            },
+            {
+                "players_name": "Diks K.",
+                "players_number": "2",
+                "Full Name": "Kevin Diks",
+                "players_rating": 7.0,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (06.10.1996)",
+                "Market Value": "€3.5m",
+                "unicode": "0hwq3S9a"
+            },
+            {
+                "players_name": "Elyounoussi M.",
+                "players_number": "10",
+                "Full Name": "Mohamed Elyounoussi",
+                "players_rating": 7.5,
+                "Country": "Norway",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (04.08.1994)",
+                "Market Value": "€5.8m",
+                "unicode": "jmod3iU2"
+            },
+            {
+                "players_name": "Falk R.",
+                "players_number": "33",
+                "Full Name": "Rasmus Falk",
+                "players_rating": 8.3,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (15.01.1992)",
+                "Market Value": "€993k",
+                "unicode": "pdMeVSjE"
+            },
+            {
+                "players_name": "Goncalves D.",
+                "players_number": "9",
+                "Full Name": "Diogo Goncalves",
+                "players_rating": 8.1,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (06.02.1997)",
+                "Market Value": "€4.9m",
+                "unicode": "KETkW3uG"
+            },
+            {
+                "players_name": "Grabara K. (G)",
+                "players_number": "1",
+                "Full Name": "Kamil Grabara",
+                "players_rating": 7.6,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (08.01.1999)",
+                "Market Value": "€10.9m",
+                "unicode": "0MhuM4YL"
+            },
+            {
+                "players_name": "Jelert E.",
+                "players_number": "19",
+                "Full Name": "Elias Jelert",
+                "players_rating": 6.9,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (12.06.2003)",
+                "Market Value": "€4.9m",
+                "unicode": "08YCnhbB"
+            },
+            {
+                "players_name": "Lerager L.",
+                "players_number": "12",
+                "Full Name": "Lukas Lerager",
+                "players_rating": 7.4,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.07.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "GrCo5km3"
+            },
+            {
+                "players_name": "Vavro D.",
+                "players_number": "3",
+                "Full Name": "Denis Vavro",
+                "players_rating": 6.4,
+                "Country": "Slovakia",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (10.04.1996)",
+                "Market Value": "€4.0m",
+                "unicode": "0QxPEivg"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bardghji R.",
+                "players_number": "40",
+                "Full Name": "Roony Bardghji",
+                "players_rating": 7.4,
+                "Country": "Sweden",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (15.11.2005)",
+                "Market Value": "€8.7m",
+                "unicode": "YgzDTaqN"
+            },
+            {
+                "players_name": "Boilesen N.",
+                "players_number": "20",
+                "Full Name": "Nicolai Boilesen",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (16.02.1992)",
+                "Market Value": "€328k",
+                "unicode": "fHtwJSLo"
+            },
+            {
+                "players_name": "Larsson J.",
+                "players_number": "11",
+                "Full Name": "Jordan Larsson",
+                "players_rating": 6.2,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (20.06.1997)",
+                "Market Value": "€2.3m",
+                "unicode": "EHQtR0f6"
+            },
+            {
+                "players_name": "Oskarsson O.",
+                "players_number": "18",
+                "Full Name": "Orri Oskarsson",
+                "players_rating": 6.2,
+                "Country": "Iceland",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (29.08.2004)",
+                "Market Value": "€1.9m",
+                "unicode": "K2gCwDJE"
+            },
+            {
+                "players_name": "Sorensen C.",
+                "players_number": "6",
+                "Full Name": "Christian Sorensen",
+                "players_rating": 6.6,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (06.08.1992)",
+                "Market Value": "€511k",
+                "unicode": "zFxtEhKu"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Babacar K.",
+                "players_number": "15",
+                "Full Name": "Khouma Babacar",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (17.03.1993)",
+                "Market Value": "€260k",
+                "unicode": "8YTQNhQ9"
+            },
+            {
+                "players_name": "Dithmer A. (G)",
+                "players_number": "41",
+                "Full Name": "Andreas Dithmer",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "18, (01.08.2005)",
+                "Market Value": "30.06.2025",
+                "unicode": "z7rRl21P"
+            },
+            {
+                "players_name": "Froholdt V.",
+                "players_number": "47",
+                "Full Name": "Victor Froholdt",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Player",
+                "Age and Birthdate": "17, (25.02.2006)",
+                "Market Value": "31.12.2025",
+                "unicode": "MT3X8wqn"
+            },
+            {
+                "players_name": "Hojlund O.",
+                "players_number": "39",
+                "Full Name": "Oscar Hojlund",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (04.01.2005)",
+                "Market Value": "€475k",
+                "unicode": "WWSwmP1d"
+            },
+            {
+                "players_name": "Lund V.",
+                "players_number": "27",
+                "Full Name": "",
+                "players_rating": "",
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "GjzhDIN8"
+            },
+            {
+                "players_name": "Sander T. (G)",
+                "players_number": "21",
+                "Full Name": "Theo Sander",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "19, (08.01.2005)",
+                "Market Value": "€720k",
+                "unicode": "YZqtOkC9"
+            },
+            {
+                "players_name": "Tanlongo M.",
+                "players_number": "8",
+                "Full Name": "Mateo Tanlongo",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (12.08.2003)",
+                "Market Value": "€1.9m",
+                "unicode": "UJGaLaL2"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "ten Hag E.",
+                "players_number": "",
+                "Full Name": "Erik ten Hag",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (02.02.1970)",
+                "Market Value": "",
+                "unicode": "dpjHQ7zJ"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Casemiro",
+                "players_number": "",
+                "Full Name": "Casemiro",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.02.1992)",
+                "Market Value": "€30.4m",
+                "unicode": "Ukeq3c0b"
+            },
+            {
+                "players_name": "Diallo A.",
+                "players_number": "",
+                "Full Name": "Amad Diallo",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (11.07.2002)",
+                "Market Value": "€16.8m",
+                "unicode": "I5Rhq1WL"
+            },
+            {
+                "players_name": "Malacia T.",
+                "players_number": "",
+                "Full Name": "Tyrell Malacia",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (17.08.1999)",
+                "Market Value": "€16.6m",
+                "unicode": "OdyMQkkR"
+            },
+            {
+                "players_name": "Martinez Li.",
+                "players_number": "",
+                "Full Name": "Lisandro Martinez",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€47.5m",
+                "unicode": "GIzJAqQs"
+            },
+            {
+                "players_name": "Sancho J.",
+                "players_number": "",
+                "Full Name": "Jadon Sancho",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.03.2000)",
+                "Market Value": "€24.1m",
+                "unicode": "n5mG9yn6"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "",
+                "Full Name": "Luke Shaw",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Dalot D.",
+                "players_number": "20",
+                "Full Name": "Diogo Dalot",
+                "players_rating": 6.3,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (18.03.1999)",
+                "Market Value": "€34.7m",
+                "unicode": "rZZKJVOS"
+            },
+            {
+                "players_name": "Eriksen C.",
+                "players_number": "14",
+                "Full Name": "Christian Eriksen",
+                "players_rating": 6.3,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (14.02.1992)",
+                "Market Value": "€13.1m",
+                "unicode": "nBRuYbqs"
+            },
+            {
+                "players_name": "Evans J.",
+                "players_number": "35",
+                "Full Name": "Jonny Evans",
+                "players_rating": 6.5,
+                "Country": "Northern Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (03.01.1988)",
+                "Market Value": "€1.9m",
+                "unicode": "vo08q1o2"
+            },
+            {
+                "players_name": "Fernandes B. (C)",
+                "players_number": "8",
+                "Full Name": "Bruno Fernandes",
+                "players_rating": 7.7,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€77.4m",
+                "unicode": "GYvAMDm2"
+            },
+            {
+                "players_name": "Garnacho A.",
+                "players_number": "17",
+                "Full Name": "Alejandro Garnacho",
+                "players_rating": 7.4,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (01.07.2004)",
+                "Market Value": "€28.5m",
+                "unicode": "jqrfFKsi"
+            },
+            {
+                "players_name": "Hojlund R.",
+                "players_number": "11",
+                "Full Name": "Rasmus Hojlund",
+                "players_rating": 7.7,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (04.02.2003)",
+                "Market Value": "€64.5m",
+                "unicode": "0lk9Mt7D"
+            },
+            {
+                "players_name": "Maguire H.",
+                "players_number": "5",
+                "Full Name": "Harry Maguire",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€19.6m",
+                "unicode": "xG8v3YRA"
+            },
+            {
+                "players_name": "McTominay S.",
+                "players_number": "39",
+                "Full Name": "Scott McTominay",
+                "players_rating": 7.0,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (08.12.1996)",
+                "Market Value": "€27.8m",
+                "unicode": "A7S3y397"
+            },
+            {
+                "players_name": "Onana A. (G)",
+                "players_number": "24",
+                "Full Name": "Andre Onana",
+                "players_rating": 6.9,
+                "Country": "Cameroon",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (02.04.1996)",
+                "Market Value": "€38.6m",
+                "unicode": "OCuLGTrI"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "10",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 4.9,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            },
+            {
+                "players_name": "Wan-Bissaka A.",
+                "players_number": "29",
+                "Full Name": "Aaron Wan-Bissaka",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (26.11.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "faGmGOOh"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Amrabat S.",
+                "players_number": "4",
+                "Full Name": "Sofyan Amrabat",
+                "players_rating": 6.4,
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (21.08.1996)",
+                "Market Value": "€27.0m",
+                "unicode": "r5WUFzf3"
+            },
+            {
+                "players_name": "Mount M.",
+                "players_number": "7",
+                "Full Name": "Mason Mount",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (10.01.1999)",
+                "Market Value": "€42.8m",
+                "unicode": "lOA8VKIK"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "19",
+                "Full Name": "Raphael Varane",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Antony",
+                "players_number": "21",
+                "Full Name": "Antony",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (24.02.2000)",
+                "Market Value": "€34.3m",
+                "unicode": "dIe4SZEK"
+            },
+            {
+                "players_name": "Bayindir A. (G)",
+                "players_number": "1",
+                "Full Name": "Altay Bayindir",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (14.04.1998)",
+                "Market Value": "€9.2m",
+                "unicode": "GxVeO5x1"
+            },
+            {
+                "players_name": "Forson O.",
+                "players_number": "62",
+                "Full Name": "Omari Forson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (20.07.2004)",
+                "Market Value": "€964k",
+                "unicode": "lh4Ryd2l"
+            },
+            {
+                "players_name": "Heaton T. (G)",
+                "players_number": "22",
+                "Full Name": "Tom Heaton",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.04.1986)",
+                "Market Value": "€262k",
+                "unicode": "MoaXS53r"
+            },
+            {
+                "players_name": "Lindelof V.",
+                "players_number": "2",
+                "Full Name": "Victor Lindelof",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.07.1994)",
+                "Market Value": "€17.4m",
+                "unicode": "OIp0Le1f"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "9",
+                "Full Name": "Anthony Martial",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "Mejbri H.",
+                "players_number": "46",
+                "Full Name": "Hannibal Mejbri",
+                "players_rating": "",
+                "Country": "Tunisia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (21.01.2003)",
+                "Market Value": "€11.2m",
+                "unicode": "8ECeKtyS"
+            },
+            {
+                "players_name": "Pellistri F.",
+                "players_number": "28",
+                "Full Name": "Facundo Pellistri",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (20.12.2001)",
+                "Market Value": "€9.6m",
+                "unicode": "jN7eev32"
+            },
+            {
+                "players_name": "Reguilon S.",
+                "players_number": "15",
+                "Full Name": "Sergio Reguilon",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (16.12.1996)",
+                "Market Value": "€9.2m",
+                "unicode": "l0lnJteM"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "In the details of this match, you can glance at the lineups while the game is about to begin.",
+            "comments_text_anonymized": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Donatas Rumsas got the nomination for today's game and will try his best to be a fair judge and not make any mistakes.",
+            "comments_text_anonymized": "[REFEREE] got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. FC Copenhagen will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:30",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Lukas Lerager (FC Copenhagen) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:46",
+            "comments_type": "goal",
+            "comments_text": "Goal! Scott McTominay feeds Rasmus Hojlund (Manchester United), who taps the ball into an empty net. He makes it 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] feeds [PLAYER] ([TEAM]), who taps the ball into an empty net. He makes it 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:40",
+            "comments_type": "ball possession",
+            "comments_text": "The Manchester Utd players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:30",
+            "comments_type": "clearance",
+            "comments_text": "Christian Eriksen (Manchester United) fails to find a teammate across the pitch with a long ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:40",
+            "comments_type": "ball out of play",
+            "comments_text": "A fan invades the pitch and the game has to be interrupted!",
+            "comments_text_anonymized": "A fan invades the pitch and the game has to be interrupted!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Rasmus Hojlund (Manchester United). The referee blows his whistle for a foul.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:58",
+            "comments_type": "ball possession",
+            "comments_text": "Alejandro Garnacho (Manchester United) breaks past challenges inside the box, but puts too much pace on his pass to Scott McTominay.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks past challenges inside the box, but puts too much pace on his pass to [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:04",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Rasmus Falk (FC Copenhagen) steadies himself and bends in a shot from the edge of the box towards the bottom left corner, but Andre Onana has it covered and makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steadies himself and bends in a shot from the edge of the box towards the bottom left corner, but [PLAYER] has it covered and makes a comfortable save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:45",
+            "comments_type": "injury",
+            "comments_text": "Jonny Evans (Manchester United) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:30",
+            "comments_type": "substitution",
+            "comments_text": "Jonny Evans is not able to continue due to his injury and will be replaced by Raphael Varane (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:01",
+            "comments_type": "end of half game",
+            "comments_text": "The game is interrupted.",
+            "comments_text_anonymized": "The game is interrupted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:20",
+            "comments_type": "end of half game",
+            "comments_text": "Everything seems to be alright after the game was interrupted, the referee blows his whistle and the match can continue.",
+            "comments_text_anonymized": "Everything seems to be alright after the game was interrupted, the referee blows his whistle and the match can continue."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:50",
+            "comments_type": "clearance",
+            "comments_text": "Marcus Rashford (Manchester United) attempts a long crossfield pass, but the defence does well to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:10",
+            "comments_type": "clearance",
+            "comments_text": "Alejandro Garnacho (Manchester United) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:10",
+            "comments_type": "clearance",
+            "comments_text": "Andre Onana steps in and intercepts a long pass from Mohamed Elyounoussi (FC Copenhagen).",
+            "comments_text_anonymized": "[PLAYER] steps in and intercepts a long pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:54",
+            "comments_type": "shot off target",
+            "comments_text": "Elias Achouri (FC Copenhagen) plays a through ball but overhits it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:11",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Elias Achouri (FC Copenhagen) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:18",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Alejandro Garnacho (Manchester United) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the bottom right corner is thwarted by Kamil Grabara.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the bottom right corner is thwarted by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:18",
+            "comments_type": "goal",
+            "comments_text": "Goal! Rasmus Hojlund (Manchester United) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 0:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 0:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:14",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) will deliver the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Harry Maguire (Manchester United) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:52",
+            "comments_type": "clearance",
+            "comments_text": "Mohamed Elyounoussi (FC Copenhagen) passes the ball into the box but an opposing player clears.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:10",
+            "comments_type": "clearance",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:52",
+            "comments_type": "clearance",
+            "comments_text": "Peter Ankersen (FC Copenhagen) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:00",
+            "comments_type": "",
+            "comments_text": "Elias Achouri (FC Copenhagen) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:10",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:40",
+            "comments_type": "clearance",
+            "comments_text": "Marcus Rashford (Manchester United) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:03",
+            "comments_type": "clearance",
+            "comments_text": "Elias Achouri (FC Copenhagen) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "injury",
+            "comments_text": "Elias Jelert (FC Copenhagen) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:00",
+            "comments_type": "var",
+            "comments_text": "There's a break in play and the referee must have got a signal in his ear as he indicates he will check that earlier infringement by Marcus Rashford (Manchester United) using VAR. This could result in a red card!",
+            "comments_text_anonymized": "There's a break in play and the referee must have got a signal in his ear as he indicates he will check that earlier infringement by [PLAYER] ([TEAM]) using VAR. This could result in a red card!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:35",
+            "comments_type": "red card",
+            "comments_text": "He’s off! Marcus Rashford (Manchester United) gets his marching orders from referee Donatas Rumsas after the VAR review.",
+            "comments_text_anonymized": "He’s off! [PLAYER] ([TEAM]) gets his marching orders from referee [REFEREE] after the VAR review."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:19",
+            "comments_type": "injury",
+            "comments_text": "Elias Jelert (FC Copenhagen) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:31",
+            "comments_type": "goal",
+            "comments_text": "Goal! Mohamed Elyounoussi (FC Copenhagen) beautifully controls a strongly hit pass from Diogo Goncalves inside the box. He cuts inside his marker and rifles the ball into the bottom right corner. 1:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) beautifully controls a strongly hit pass from [PLAYER] inside the box. He cuts inside his marker and rifles the ball into the bottom right corner. 1:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 13 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 13 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:10",
+            "comments_type": "clearance",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:01",
+            "comments_type": "shot off target",
+            "comments_text": "What a great effort! Kevin Diks (FC Copenhagen) decides to unleash a long-range shot. Despite hitting it very well, it scorches inches wide of the left post. We could have witnessed a magnificent goal.",
+            "comments_text_anonymized": "What a great effort! [PLAYER] ([TEAM]) decides to unleash a long-range shot. Despite hitting it very well, it scorches inches wide of the left post. We could have witnessed a magnificent goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:59",
+            "comments_type": "lead to corner",
+            "comments_text": "Bruno Fernandes (Manchester United) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. Manchester Utd are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:16",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) takes the corner which is cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "50:20",
+            "comments_type": "shot off target",
+            "comments_text": "Good play from Denis Vavro (FC Copenhagen) gives him some space for the shot from distance, but it's lacking accuracy and goes well wide of the left post.",
+            "comments_text_anonymized": "Good play from [PLAYER] ([TEAM]) gives him some space for the shot from distance, but it's lacking accuracy and goes well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "51:22",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The players claim that Harry Maguire (Manchester United) handled the ball inside the box and it seems they are right. The referee uncompromisingly points to the spot and it's a penalty to FC Copenhagen.",
+            "comments_text_anonymized": "The players claim that [PLAYER] ([TEAM]) handled the ball inside the box and it seems they are right. The referee uncompromisingly points to the spot and it's a penalty to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "53:11",
+            "comments_type": "penalty",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "53:41",
+            "comments_type": "goal",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) makes no mistake from the penalty spot after firing the ball into the bottom left corner of the goal to give the goalkeeper no chance!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes no mistake from the penalty spot after firing the ball into the bottom left corner of the goal to give the goalkeeper no chance!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "56:09",
+            "comments_type": "yellow card",
+            "comments_text": "Donatas Rumsas shows the yellow card to Denis Vavro (FC Copenhagen) for a heavy challenge.",
+            "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "56:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Lukas Lerager (FC Copenhagen) sends a lofted cross into the box which is headed clear. The ball is out of play. FC Copenhagen will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "56:50",
+            "comments_type": "corner",
+            "comments_text": "The corner from Diogo Goncalves (FC Copenhagen) is cleared away by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "57:42",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The whistle blows and Donatas Rumsas starts the second half.",
+            "comments_text_anonymized": "The whistle blows and [REFEREE] starts the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Christian Eriksen is replaced by Sofyan Amrabat (Manchester United).",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:30",
+            "comments_type": "ball possession",
+            "comments_text": "A spell of possession for Manchester Utd in an attempt to control the game.",
+            "comments_text_anonymized": "A spell of possession for [TEAM] in an attempt to control the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:20",
+            "comments_type": "foul with no card",
+            "comments_text": "The ball spins up and hits the hand of Viktor Claesson (FC Copenhagen) after he fails to control it and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Bruno Fernandes (Manchester United). Donatas Rumsas blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:41",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Denis Vavro (FC Copenhagen) had a good opportunity from long range. His shot was directed towards the bottom left corner, but Andre Onana was alert and made a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) had a good opportunity from long range. His shot was directed towards the bottom left corner, but [PLAYER] was alert and made a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:23",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Viktor Claesson (FC Copenhagen) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and Andre Onana makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and [PLAYER] makes a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:52",
+            "comments_type": "clearance",
+            "comments_text": "Elias Achouri (FC Copenhagen) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) picks up a pass and tries his luck from mid-range low towards the middle of the goal, but Andre Onana is equal to it and makes an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a pass and tries his luck from mid-range low towards the middle of the goal, but [PLAYER] is equal to it and makes an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:32",
+            "comments_type": "clearance",
+            "comments_text": "Viktor Claesson (FC Copenhagen) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:38",
+            "comments_type": "off side",
+            "comments_text": "Mohamed Elyounoussi (FC Copenhagen) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:55",
+            "comments_type": "clearance",
+            "comments_text": "Peter Ankersen (FC Copenhagen) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:22",
+            "comments_type": "shot off target",
+            "comments_text": "Diogo Goncalves (FC Copenhagen) finds space on the edge of the box, but his wild shot goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds space on the edge of the box, but his wild shot goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:39",
+            "comments_type": "substitution",
+            "comments_text": "It will be a substitution. Roony Bardghji (FC Copenhagen) is ready to enter the pitch as Mohamed Elyounoussi walks off.",
+            "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:33",
+            "comments_type": "shot off target",
+            "comments_text": "Roony Bardghji (FC Copenhagen) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Denis Vavro (FC Copenhagen) robs an opponent of the ball and explodes in anger when Donatas Rumsas blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:12",
+            "comments_type": "clearance",
+            "comments_text": "Bruno Fernandes (Manchester United) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:30",
+            "comments_type": "var",
+            "comments_text": "There's a break in play and referee Donatas Rumsas must have got a signal in his ear as he indicates he will check that earlier penalty claim by Manchester Utd using VAR. This could be interesting!",
+            "comments_text_anonymized": "There's a break in play and referee [REFEREE] must have got a signal in his ear as he indicates he will check that earlier penalty claim by [TEAM] using VAR. This could be interesting!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:17",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Here comes the VAR decision. YES, it's a penalty!",
+            "comments_text_anonymized": "Here comes the VAR decision. YES, it's a penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:25",
+            "comments_type": "free kick",
+            "comments_text": "Bruno Fernandes (Manchester United) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:30",
+            "comments_type": "goal",
+            "comments_text": "GOAL! That’s a perfect strike from the spot by Bruno Fernandes (Manchester United) into the top left hand corner, giving goalkeeper Kamil Grabara no chance!",
+            "comments_text_anonymized": "GOAL! That’s a perfect strike from the spot by [PLAYER] ([TEAM]) into the top left hand corner, giving goalkeeper [PLAYER] no chance!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:39",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Christian Sorensen (FC Copenhagen) comes on in place of Peter Ankersen.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:53",
+            "comments_type": "substitution",
+            "comments_text": "Jacob Neestrup has decided to make a change. Orri Oskarsson (FC Copenhagen) replaces Diogo Goncalves.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:31",
+            "comments_type": "clearance",
+            "comments_text": "Kamil Grabara displays his ability to read the game and clears the danger after Alejandro Garnacho (Manchester United) threatened to latch onto a through ball from just outside the box.",
+            "comments_text_anonymized": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:00",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Elias Achouri (FC Copenhagen) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Christian Sorensen (FC Copenhagen) tackles a bit over-zealously and Donatas Rumsas blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:34",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Roony Bardghji (FC Copenhagen) swings a cross into the box, but it's far too close to Andre Onana, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Elias Achouri (FC Copenhagen) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "clearance",
+            "comments_text": "Elias Jelert (FC Copenhagen) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Elias Achouri (FC Copenhagen) sends a pass into the penalty area, but the opponent manages to cut it out. The ball goes out for a corner. FC Copenhagen can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:02",
+            "comments_type": "substitution",
+            "comments_text": "Jacob Neestrup has decided to introduce fresh legs, with Nicolai Boilesen (FC Copenhagen) replacing Denis Vavro.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:09",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Jordan Larsson (FC Copenhagen) receives a signal from the referee and is now allowed to enter the pitch as Elias Achouri walks off.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:33",
+            "comments_type": "clearance",
+            "comments_text": "Christian Sorensen (FC Copenhagen) attempts to find one of his teammates with a free kick, but the defence is well positioned and clears the ball away from danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a free kick, but the defence is well positioned and clears the ball away from danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:30",
+            "comments_type": "clearance",
+            "comments_text": "Christian Sorensen (FC Copenhagen) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Lukas Lerager (FC Copenhagen) gives away a foul for a clumsy challenge. Referee Donatas Rumsas saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:10",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Alejandro Garnacho (Manchester United) attempted to dribble past an opposing player. Manchester Utd have been awarded a corner kick.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:35",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:52",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Christian Sorensen (FC Copenhagen) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:59",
+            "comments_type": "shot off target",
+            "comments_text": "Lukas Lerager (FC Copenhagen) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:10",
+            "comments_type": "goal",
+            "comments_text": "It's in the back of the net! Rasmus Falk plays it into the box, and Lukas Lerager (FC Copenhagen) gets on the end of the cross to put it into the bottom right corner. 3:3.",
+            "comments_text_anonymized": "It's in the back of the net! [PLAYER] plays it into the box, and [PLAYER] ([TEAM]) gets on the end of the cross to put it into the bottom right corner. 3:3."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:06",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Mason Mount (Manchester United) coming on for Rasmus Hojlund.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:14",
+            "comments_type": "clearance",
+            "comments_text": "Christian Sorensen (FC Copenhagen) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "clearance",
+            "comments_text": "A fine lofted pass into the box, sent by Roony Bardghji (FC Copenhagen), is intercepted by the opposition's defence.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:20",
+            "comments_type": "shot off target",
+            "comments_text": "Viktor Claesson (FC Copenhagen) is first to the rebound inside the box but sends his effort well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to the rebound inside the box but sends his effort well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:58",
+            "comments_type": "goal",
+            "comments_text": "What a hit! Roony Bardghji (FC Copenhagen) shows good composure inside the box to fire a first-time shot inside the right post. 4:3.",
+            "comments_text_anonymized": "What a hit! [PLAYER] ([TEAM]) shows good composure inside the box to fire a first-time shot inside the right post. 4:3."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 additional min. will be played.",
+            "comments_text_anonymized": "5 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:32",
+            "comments_type": "yellow card",
+            "comments_text": "The main referee, Donatas Rumsas, is apparently not going to tolerate any discussions. Harry Maguire (Manchester United) is given a yellow card for dissent.",
+            "comments_text_anonymized": "The main referee, [REFEREE], is apparently not going to tolerate any discussions. [PLAYER] ([TEAM]) is given a yellow card for dissent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:29",
+            "comments_type": "foul with no card",
+            "comments_text": "Harry Maguire (Manchester United) shows too much aggression during an attacking move and ends up fouling his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shows too much aggression during an attacking move and ends up fouling his opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:20",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

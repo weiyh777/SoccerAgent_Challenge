@@ -1,0 +1,969 @@
+{
+    "match_info": {
+        "timestamp": "2019-10-27 02:00:00",
+        "score": "2 - 0",
+        "home_team": "Lyon",
+        "away_team": "Metz",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Groupama Academy Stadium (Decines-Charpieu)",
+        "capacity": "3 000",
+        "attendance": "48 889",
+        "home_jersey_color": "white",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Hamel J. (Fra)",
+        "first_name": "Hamel",
+        "abbr_last_name": "J",
+        "country": "Fra",
+        "detected_name": "Johan Hamel"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Garcia R.",
+                "players_number": "",
+                "Full Name": "Rudi Garcia",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "59,  (20.02.1964)",
+                "Market Value": "",
+                "unicode": "bHMAdJc7"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Marcal",
+                "players_number": "",
+                "Full Name": "Marcal",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (19.02.1989)",
+                "Market Value": "€919k",
+                "unicode": "EusknHOI"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Andersen J.",
+                "players_number": "3",
+                "Full Name": "Joachim Andersen",
+                "players_rating": 7.5,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (31.05.1996)",
+                "Market Value": "€35.2m",
+                "unicode": "AmMLTTJU"
+            },
+            {
+                "players_name": "Aouar H.",
+                "players_number": "8",
+                "Full Name": "Houssem Aouar",
+                "players_rating": 6.6,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€12.0m",
+                "unicode": "E7gaowFp"
+            },
+            {
+                "players_name": "Dembele M.",
+                "players_number": "9",
+                "Full Name": "Moussa Dembele",
+                "players_rating": 8.0,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (12.07.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "jBP2q6F0"
+            },
+            {
+                "players_name": "Denayer J.",
+                "players_number": "5",
+                "Full Name": "Jason Denayer",
+                "players_rating": 7.4,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (28.06.1995)",
+                "Market Value": "€3.2m",
+                "unicode": "pj0IHOI1"
+            },
+            {
+                "players_name": "Depay M. (C)",
+                "players_number": "11",
+                "Full Name": "Memphis Depay",
+                "players_rating": 9.2,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (13.02.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "zo1h8MrD"
+            },
+            {
+                "players_name": "Dubois L.",
+                "players_number": "14",
+                "Full Name": "Leo Dubois",
+                "players_rating": 7.9,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.09.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "KUybYEfM"
+            },
+            {
+                "players_name": "Kone Y.",
+                "players_number": "28",
+                "Full Name": "Youssouf Kone",
+                "players_rating": 7.0,
+                "Country": "Mali",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (05.07.1995)",
+                "Market Value": "€1.1m",
+                "unicode": "2yCTLI53"
+            },
+            {
+                "players_name": "Lopes A. (G)",
+                "players_number": "1",
+                "Full Name": "Anthony Lopes",
+                "players_rating": 7.7,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (01.10.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "dKmI2jJT"
+            },
+            {
+                "players_name": "Mendes T.",
+                "players_number": "12",
+                "Full Name": "Thiago Mendes",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.03.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "ruoGJp6S"
+            },
+            {
+                "players_name": "Reine-Adelaide J.",
+                "players_number": "17",
+                "Full Name": "Jeff Reine-Adelaide",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (17.01.1998)",
+                "Market Value": "€2.8m",
+                "unicode": "MTQaLOIC"
+            },
+            {
+                "players_name": "Tousart L.",
+                "players_number": "29",
+                "Full Name": "Lucas Tousart",
+                "players_rating": 7.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (29.04.1997)",
+                "Market Value": "€6.6m",
+                "unicode": "YJUO3rKf"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Cornet M.",
+                "players_number": "27",
+                "Full Name": "Maxwel Cornet",
+                "players_rating": 6.7,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (27.09.1996)",
+                "Market Value": "€9.4m",
+                "unicode": "IuMQIrXk"
+            },
+            {
+                "players_name": "Jean Lucas",
+                "players_number": "22",
+                "Full Name": "Jean Lucas",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (22.06.1998)",
+                "Market Value": "€5.9m",
+                "unicode": "C0KKp9c7"
+            },
+            {
+                "players_name": "Terrier M.",
+                "players_number": "7",
+                "Full Name": "Martin Terrier",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (04.03.1997)",
+                "Market Value": "€22.8m",
+                "unicode": "xlu6948L"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Cherki R.",
+                "players_number": "18",
+                "Full Name": "Rayan Cherki",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (17.08.2003)",
+                "Market Value": "€25.5m",
+                "unicode": "vm0eu2V3"
+            },
+            {
+                "players_name": "Marcelo",
+                "players_number": "6",
+                "Full Name": "Marcelo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (20.05.1987)",
+                "Market Value": "€695k",
+                "unicode": "hfN9pT8t"
+            },
+            {
+                "players_name": "Rafael",
+                "players_number": "4",
+                "Full Name": "Rafael",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.07.1990)",
+                "Market Value": "€579k",
+                "unicode": "K2lhc6jE"
+            },
+            {
+                "players_name": "Tatarusanu C. (G)",
+                "players_number": "30",
+                "Full Name": "Ciprian Tatarusanu",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (09.02.1986)",
+                "Market Value": "€380k",
+                "unicode": "OMyqC9DS"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Hognon V.",
+                "players_number": "",
+                "Full Name": "Vincent Hognon",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (16.08.1974)",
+                "Market Value": "",
+                "unicode": "pALHhtd1"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Delecroix P.",
+                "players_number": "",
+                "Full Name": "Paul Delecroix",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (14.10.1988)",
+                "Market Value": "30.06.2024",
+                "unicode": "YLdYHaqN"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Ambrose T.",
+                "players_number": "9",
+                "Full Name": "Thierry Ambrose",
+                "players_rating": 6.6,
+                "Country": "Guadeloupe",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (28.03.1997)",
+                "Market Value": "€950k",
+                "unicode": "lUJAsncB"
+            },
+            {
+                "players_name": "Boulaya F.",
+                "players_number": "27",
+                "Full Name": "Farid Boulaya",
+                "players_rating": 7.1,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (25.02.1993)",
+                "Market Value": "€2.1m",
+                "unicode": "CIwUPH56"
+            },
+            {
+                "players_name": "Cabit M.",
+                "players_number": "28",
+                "Full Name": "Manuel Cabit",
+                "players_rating": 5.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (03.06.1993)",
+                "Market Value": "",
+                "unicode": "b9lPybFI"
+            },
+            {
+                "players_name": "Centonze F.",
+                "players_number": "18",
+                "Full Name": "Fabien Centonze",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.01.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "hYtVzJ13"
+            },
+            {
+                "players_name": "Diallo H. (C)",
+                "players_number": "20",
+                "Full Name": "Habib Diallo",
+                "players_rating": 6.9,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.06.1995)",
+                "Market Value": "€11.6m",
+                "unicode": "QDDmLhK6"
+            },
+            {
+                "players_name": "Fofana M.",
+                "players_number": "6",
+                "Full Name": "Mamadou Fofana",
+                "players_rating": 6.4,
+                "Country": "Mali",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (21.01.1998)",
+                "Market Value": "€1.8m",
+                "unicode": "6944n3Fq"
+            },
+            {
+                "players_name": "Maiga H.",
+                "players_number": "19",
+                "Full Name": "Habib Maiga",
+                "players_rating": 6.5,
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (01.01.1996)",
+                "Market Value": "€1.9m",
+                "unicode": "tEZGHJfR"
+            },
+            {
+                "players_name": "N'Doram K.",
+                "players_number": "4",
+                "Full Name": "Kevin N'Doram",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (22.01.1996)",
+                "Market Value": "€1.4m",
+                "unicode": "MPflkjJR"
+            },
+            {
+                "players_name": "Oukidja A. (G)",
+                "players_number": "16",
+                "Full Name": "Alexandre Oukidja",
+                "players_rating": 7.4,
+                "Country": "Algeria",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (19.07.1988)",
+                "Market Value": "€489k",
+                "unicode": "tCw122Zu"
+            },
+            {
+                "players_name": "Sunzu S.",
+                "players_number": "13",
+                "Full Name": "Stoppila Sunzu",
+                "players_rating": 7.0,
+                "Country": "Zambia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.06.1989)",
+                "Market Value": "€122k",
+                "unicode": "hMcLnCHG"
+            },
+            {
+                "players_name": "Traore A.",
+                "players_number": "25",
+                "Full Name": "Adama Traore",
+                "players_rating": 6.7,
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (28.06.1995)",
+                "Market Value": "",
+                "unicode": "f9wg26qB"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Angban V.",
+                "players_number": "5",
+                "Full Name": "Victorien Angban",
+                "players_rating": 6.4,
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (29.09.1996)",
+                "Market Value": "€1.4m",
+                "unicode": "r9uK1lje"
+            },
+            {
+                "players_name": "Gakpa M.",
+                "players_number": "10",
+                "Full Name": "Marvin Gakpa",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (03.11.1993)",
+                "Market Value": "€434k",
+                "unicode": "lYR7MO3c"
+            },
+            {
+                "players_name": "Nguette O.",
+                "players_number": "11",
+                "Full Name": "Opa Nguette",
+                "players_rating": 6.6,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.07.1994)",
+                "Market Value": "",
+                "unicode": "M7w629fP"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Dietsch G. (G)",
+                "players_number": "30",
+                "Full Name": "Guillaume Dietsch",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (17.04.2001)",
+                "Market Value": "€645k",
+                "unicode": "8x14ZxKF"
+            },
+            {
+                "players_name": "Niane I.",
+                "players_number": "7",
+                "Full Name": "Ibrahima Niane",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (11.03.1999)",
+                "Market Value": "€1.4m",
+                "unicode": "ba3tpFaU"
+            },
+            {
+                "players_name": "Traore B.",
+                "players_number": "8",
+                "Full Name": "Boubacar Traore",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (20.08.2001)",
+                "Market Value": "€5.7m",
+                "unicode": "I3feMxCH"
+            },
+            {
+                "players_name": "Udol M.",
+                "players_number": "3",
+                "Full Name": "Matthieu Udol",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (20.03.1996)",
+                "Market Value": "€2.6m",
+                "unicode": "AuzyopRB"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Johan Hamel will officiate today.",
+            "comments_text_anonymized": "[REFEREE] will officiate today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Lyon will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:55",
+            "comments_type": "injury",
+            "comments_text": "Memphis Depay (Lyon) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:45",
+            "comments_type": "injury",
+            "comments_text": "Memphis Depay (Lyon) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:52",
+            "comments_type": "clearance",
+            "comments_text": "Houssem Aouar (Lyon) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Memphis Depay (Lyon) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender. The ball is out of play. Lyon will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:09",
+            "comments_type": "corner",
+            "comments_text": "Lyon have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:26",
+            "comments_type": "clearance",
+            "comments_text": "A crossfield pass from Memphis Depay (Lyon) fails to find any of his teammates.",
+            "comments_text_anonymized": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:18",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Tousart (Lyon) takes a wild swing at a rebound from mid-range and it goes well wide of the right post. The ball is off of the pitch and it's a goal kick for Metz.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a wild swing at a rebound from mid-range and it goes well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:00",
+            "comments_type": "shot off target",
+            "comments_text": "Habibou Mouhamadou Diallo (Metz) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker.",
+            "comments_text_anonymized": "Habibou Mouhamadou [PLAYER] ([TEAM]) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:53",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Mamadou Fofana (Metz) was quite harsh and Johan Hamel didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:12",
+            "comments_type": "shot off target",
+            "comments_text": "Moussa Dembele (Lyon) plays a through ball but overhits it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "66:34 – the ratio of ball possession.",
+            "comments_text_anonymized": "66:34 – the ratio of ball possession."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Memphis Depay (Lyon) had a good chance to change the score. He ran towards the goal and unleashed a shot from just outside the penalty area which went towards the top left corner, but the goalkeeper was ready and made an amazing save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) had a good chance to change the score. He ran towards the goal and unleashed a shot from just outside the penalty area which went towards the top left corner, but the goalkeeper was ready and made an amazing save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:26",
+            "comments_type": "clearance",
+            "comments_text": "Fabien Centonze (Metz) attempts a long crossfield pass, but the defence does well to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:02",
+            "comments_type": "clearance",
+            "comments_text": "Thierry Ambrose (Metz) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. Now Metz have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:39",
+            "comments_type": "corner",
+            "comments_text": "Metz take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:40",
+            "comments_type": "shot off target",
+            "comments_text": "Habib Maiga (Metz) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post. The ball goes out of play and Lyon will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "Lucas Tousart (Lyon) attempted to pick out a free teammate inside the box, but Alexandre Oukidja comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:34",
+            "comments_type": "goal",
+            "comments_text": "Memphis Depay (Lyon) finishes his beautiful individual effort with a superb strike from inside the box. Alexandre Oukidja is just a bystander as the ball flies into bottom right corner. The score is 1:0.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finishes his beautiful individual effort with a superb strike from inside the box. [PLAYER] is just a bystander as the ball flies into bottom right corner. The score is 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:36",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "One of the Metz players tripped an opponent and conceded a foul. It's a penalty! Great chance to score for Lyon!",
+            "comments_text_anonymized": "One of the [TEAM] players tripped an opponent and conceded a foul. It's a penalty! Great chance to score for [TEAM]!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:47",
+            "comments_type": "yellow card",
+            "comments_text": "Manuel Cabit (Metz) gets a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:14",
+            "comments_type": "free kick",
+            "comments_text": "Moussa Dembele (Lyon) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:29",
+            "comments_type": "goal",
+            "comments_text": "Goal! Moussa Dembele (Lyon) puts the ball into the bottom left corner past the outstretched arm of Alexandre Oukidja.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) puts the ball into the bottom left corner past the outstretched arm of [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:26",
+            "comments_type": "foul with no card",
+            "comments_text": "One of the Lyon players unfairly tackled his opponent and conceded a foul.",
+            "comments_text_anonymized": "One of the [TEAM] players unfairly tackled his opponent and conceded a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:30",
+            "comments_type": "yellow card",
+            "comments_text": "The expression of the referee Johan Hamel is crystal clear. This behaviour won't be tolerated. Lucas Tousart (Lyon) is shown a yellow card.",
+            "comments_text_anonymized": "The expression of the referee [REFEREE] is crystal clear. This behaviour won't be tolerated. [PLAYER] ([TEAM]) is shown a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:11",
+            "comments_type": "injury",
+            "comments_text": "Adama Traore (Metz) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:33",
+            "comments_type": "free kick",
+            "comments_text": "Metz are awarded a free kick from long range.",
+            "comments_text_anonymized": "[TEAM] are awarded a free kick from long range."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:01",
+            "comments_type": "shot off target",
+            "comments_text": "Adama Traore (Metz) neatly controls a driven pass on the edge of the box, glances up and cracks a beautiful drive goalwards that sails just over the bar. The ball is off of the pitch and it's a goal kick for Lyon.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) neatly controls a driven pass on the edge of the box, glances up and cracks a beautiful drive goalwards that sails just over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:11",
+            "comments_type": "clearance",
+            "comments_text": "Leo Dubois (Lyon) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:50",
+            "comments_type": "clearance",
+            "comments_text": "Alexandre Oukidja steps in and intercepts a long pass from Youssouf Kone (Lyon).",
+            "comments_text_anonymized": "[PLAYER] steps in and intercepts a long pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:02",
+            "comments_type": "corner",
+            "comments_text": "Memphis Depay (Lyon) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:24",
+            "comments_type": "end of half game",
+            "comments_text": "Johan Hamel has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:51",
+            "comments_type": "clearance",
+            "comments_text": "Habib Diallo (Metz) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:22",
+            "comments_type": "foul with no card",
+            "comments_text": "An opponent rises to his feet after being downed by Lucas Tousart (Lyon). Johan Hamel saw the sliding tackle and blows for a foul.",
+            "comments_text_anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:00",
+            "comments_type": "free kick",
+            "comments_text": "A free kick will be taken by Metz 24 metres from goal.",
+            "comments_text_anonymized": "A free kick will be taken by [TEAM] 24 metres from goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:45",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Adama Traore (Metz) hits a dangerous effort towards the roof of the net from the promising free kick. His shot is stopped by a well prepared Anthony Lopes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hits a dangerous effort towards the roof of the net from the promising free kick. His shot is stopped by a well prepared [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:29",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Moussa Dembele (Lyon) unleashes a close-range volley towards the top left corner, but his effort is thwarted by the keeper, and the score remains unchanged.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a close-range volley towards the top left corner, but his effort is thwarted by the keeper, and the score remains unchanged."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:01",
+            "comments_type": "off side",
+            "comments_text": "Thierry Ambrose (Metz) tries to latch onto a through ball, but it's too long.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to latch onto a through ball, but it's too long."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:30",
+            "comments_type": "corner",
+            "comments_text": "Lyon failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:24",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Lyon is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:26",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Thierry Ambrose did his best and is replaced by Opa Nguette (Metz).",
+            "comments_text_anonymized": "Substitution. [PLAYER] did his best and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:00",
+            "comments_type": "ball out of play",
+            "comments_text": "Habib Diallo (Metz) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Lyon.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:04",
+            "comments_type": "lead to corner",
+            "comments_text": "Memphis Depay (Lyon) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. Lyon force their opponents to concede a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:09",
+            "comments_type": "corner",
+            "comments_text": "Lyon take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:37",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Habib Maiga (Metz) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:40",
+            "comments_type": "substitution",
+            "comments_text": "Houssem Aouar goes off the pitch and Maxwel Cornet (Lyon) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:37",
+            "comments_type": "substitution",
+            "comments_text": "Vincent Hognon prepares a substitution. Adama Traore is replaced by Marvin Gakpa (Metz).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:19",
+            "comments_type": "corner",
+            "comments_text": "Lyon get a corner.",
+            "comments_text_anonymized": "[TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Jeff Reine-Adelaide (Lyon) jumps into a tackle and Johan Hamel blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:57",
+            "comments_type": "throw in",
+            "comments_text": "The ball is behind the sideline. Manuel Cabit (Metz) takes a throw-in.",
+            "comments_text_anonymized": "The ball is behind the sideline. [PLAYER] ([TEAM]) takes a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:36",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Habib Maiga makes his way off the pitch and Victorien Angban (Metz) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:42",
+            "comments_type": "ball possession",
+            "comments_text": "Jason Denayer (Lyon) smashes the ball upfield and Memphis Depay brings it down with a fine first touch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) smashes the ball upfield and [PLAYER] brings it down with a fine first touch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:56",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Jeff Reine-Adelaide (Lyon) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:03",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Jeff Reine-Adelaide is replaced by Martin Terrier (Lyon).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:56",
+            "comments_type": "statistics and summary",
+            "comments_text": "Shots on target – 7:3.",
+            "comments_text_anonymized": "Shots on target – 7:3."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:01",
+            "comments_type": "clearance",
+            "comments_text": "Leo Dubois (Lyon) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:01",
+            "comments_type": "corner",
+            "comments_text": "Lyon have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:07",
+            "comments_type": "shot off target",
+            "comments_text": "Opa Nguette (Metz) unleashes a bullet of a shot that is blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a bullet of a shot that is blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:53",
+            "comments_type": "corner",
+            "comments_text": "Metz have a corner.",
+            "comments_text_anonymized": "[TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:42",
+            "comments_type": "substitution",
+            "comments_text": "It will be a substitution. Jean Lucas (Lyon) is ready to enter the pitch as Memphis Depay walks off.",
+            "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:45",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by Metz, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:10",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

@@ -1,0 +1,951 @@
+{
+    "match_info": {
+        "timestamp": "2018-05-13 03:00:00",
+        "score": "0 - 2",
+        "home_team": "PSG",
+        "away_team": "Rennes",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 1 - 4 - 1",
+        "venue": "Parc des Princes (Paris)",
+        "capacity": "48 229",
+        "attendance": "47 352",
+        "home_jersey_color": "blue and red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Brisard J. (Fra)",
+        "first_name": "Brisard",
+        "abbr_last_name": "J",
+        "country": "Fra",
+        "detected_name": "Jerome Brisard"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Emery U.",
+                "players_number": "",
+                "Full Name": "Unai Emery",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (03.11.1971)",
+                "Market Value": "",
+                "unicode": "8QQVnKh9"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Ben Arfa H.",
+                "players_number": "",
+                "Full Name": "Hatem Ben Arfa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (07.03.1987)",
+                "Market Value": "",
+                "unicode": "Yo6cQVwd"
+            },
+            {
+                "players_name": "Cavani E.",
+                "players_number": "",
+                "Full Name": "Edinson Cavani",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Dani Alves",
+                "players_number": "",
+                "Full Name": "Dani Alves",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (06.05.1983)",
+                "Market Value": "",
+                "unicode": "6m8LRsMC"
+            },
+            {
+                "players_name": "Neymar",
+                "players_number": "",
+                "Full Name": "Neymar",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€49.6m",
+                "unicode": "jNOPwl3h"
+            },
+            {
+                "players_name": "Silva T.",
+                "players_number": "",
+                "Full Name": "Thiago Silva",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            },
+            {
+                "players_name": "Verratti M.",
+                "players_number": "",
+                "Full Name": "Marco Verratti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (05.11.1992)",
+                "Market Value": "€24.8m",
+                "unicode": "fmn5agXI"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Berchiche Y.",
+                "players_number": "17",
+                "Full Name": "Yuri Berchiche",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (10.02.1990)",
+                "Market Value": "€2.0m",
+                "unicode": "OCA7UnaC"
+            },
+            {
+                "players_name": "Di Maria A.",
+                "players_number": "11",
+                "Full Name": "Angel Di Maria",
+                "players_rating": 7.6,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.02.1988)",
+                "Market Value": "€5.3m",
+                "unicode": "SISkkDSQ"
+            },
+            {
+                "players_name": "Diarra L.",
+                "players_number": "19",
+                "Full Name": "Lassana Diarra",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (10.03.1985)",
+                "Market Value": "",
+                "unicode": "rcFAeNko"
+            },
+            {
+                "players_name": "Kimpembe P.",
+                "players_number": "3",
+                "Full Name": "Presnel Kimpembe",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (13.08.1995)",
+                "Market Value": "€18.7m",
+                "unicode": "dMyiR1D8"
+            },
+            {
+                "players_name": "Lo Celso G.",
+                "players_number": "18",
+                "Full Name": "Giovani Lo Celso",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€16.1m",
+                "unicode": "UZeyLfKI"
+            },
+            {
+                "players_name": "Marquinhos",
+                "players_number": "5",
+                "Full Name": "Marquinhos",
+                "players_rating": 6.8,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.05.1994)",
+                "Market Value": "€58.7m",
+                "unicode": "UFfev8HP"
+            },
+            {
+                "players_name": "Mbappe K.",
+                "players_number": "29",
+                "Full Name": "Kylian Mbappe",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (20.12.1998)",
+                "Market Value": "€204.2m",
+                "unicode": "Wn6E2SED"
+            },
+            {
+                "players_name": "Meunier T.",
+                "players_number": "12",
+                "Full Name": "Thomas Meunier",
+                "players_rating": 6.8,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (12.09.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "WUyrShAL"
+            },
+            {
+                "players_name": "Motta T. (C)",
+                "players_number": "8",
+                "Full Name": "Thiago Motta",
+                "players_rating": 6.2,
+                "Country": "Italy",
+                "Role": "Coach",
+                "Age and Birthdate": "41, (28.08.1982)",
+                "Market Value": "",
+                "unicode": "bBhpZV2s"
+            },
+            {
+                "players_name": "Nkunku C.",
+                "players_number": "24",
+                "Full Name": "Christopher Nkunku",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€72.3m",
+                "unicode": "8liaG2W0"
+            },
+            {
+                "players_name": "Trapp K. (G)",
+                "players_number": "1",
+                "Full Name": "Kevin Trapp",
+                "players_rating": 5.9,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (08.07.1990)",
+                "Market Value": "€6.6m",
+                "unicode": "QqugudYS"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Draxler J.",
+                "players_number": "23",
+                "Full Name": "Julian Draxler",
+                "players_rating": 6.1,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.09.1993)",
+                "Market Value": "€4.9m",
+                "unicode": "plO3S4gF"
+            },
+            {
+                "players_name": "Pastore J.",
+                "players_number": "27",
+                "Full Name": "Javier Pastore",
+                "players_rating": 6.2,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (20.06.1989)",
+                "Market Value": "",
+                "unicode": "zJQlpJzt"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Areola A. (G)",
+                "players_number": "16",
+                "Full Name": "Alphonse Areola",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (27.02.1993)",
+                "Market Value": "€9.8m",
+                "unicode": "phOf2OAa"
+            },
+            {
+                "players_name": "Kurzawa L.",
+                "players_number": "20",
+                "Full Name": "Layvin Kurzawa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (04.09.1992)",
+                "Market Value": "€2.2m",
+                "unicode": "joeqPtde"
+            },
+            {
+                "players_name": "Rimane K.",
+                "players_number": "33",
+                "Full Name": "Kevin Rimane",
+                "players_rating": "",
+                "Country": "French Guiana",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (23.02.1991)",
+                "Market Value": "",
+                "unicode": "0GyMwBW6"
+            },
+            {
+                "players_name": "Weah T.",
+                "players_number": "37",
+                "Full Name": "Timothy Weah",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (22.02.2000)",
+                "Market Value": "€13.5m",
+                "unicode": "4KWCbTaQ"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Lamouchi S.",
+                "players_number": "",
+                "Full Name": "Sabri Lamouchi",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (09.11.1971)",
+                "Market Value": "",
+                "unicode": "MsIwkg1k"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Diallo N.",
+                "players_number": "",
+                "Full Name": "Namakoro Diallo",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (29.03.1996)",
+                "Market Value": "30.06.2026",
+                "unicode": "xWT6jZan"
+            },
+            {
+                "players_name": "Thomas B.",
+                "players_number": "",
+                "Full Name": "Brandon Thomas",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (04.02.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "rDhT47pC"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Andre B. (C)",
+                "players_number": "21",
+                "Full Name": "Benjamin Andre",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (03.08.1990)",
+                "Market Value": "€8.2m",
+                "unicode": "YPYwQXje"
+            },
+            {
+                "players_name": "Bensebaini R.",
+                "players_number": "15",
+                "Full Name": "Ramy Bensebaini",
+                "players_rating": 7.0,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.04.1995)",
+                "Market Value": "€12.1m",
+                "unicode": "jag6GVQG"
+            },
+            {
+                "players_name": "Bourigeaud B.",
+                "players_number": "14",
+                "Full Name": "Benjamin Bourigeaud",
+                "players_rating": 7.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (14.01.1994)",
+                "Market Value": "€18.4m",
+                "unicode": "AqUEemK2"
+            },
+            {
+                "players_name": "Gelin J.",
+                "players_number": "26",
+                "Full Name": "Jeremy Gelin",
+                "players_rating": 8.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (24.04.1997)",
+                "Market Value": "€1.8m",
+                "unicode": "Sz7iLW02"
+            },
+            {
+                "players_name": "Gnagnon J.",
+                "players_number": "5",
+                "Full Name": "Joris Gnagnon",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (13.01.1997)",
+                "Market Value": "",
+                "unicode": "6BDKdONO"
+            },
+            {
+                "players_name": "Hunou A.",
+                "players_number": "23",
+                "Full Name": "Adrien Hunou",
+                "players_rating": 8.1,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (19.01.1994)",
+                "Market Value": "€908k",
+                "unicode": "AkJNyh3q"
+            },
+            {
+                "players_name": "Koubek T. (G)",
+                "players_number": "40",
+                "Full Name": "Tomas Koubek",
+                "players_rating": 8.0,
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (26.08.1992)",
+                "Market Value": "€794k",
+                "unicode": "fglrE6w7"
+            },
+            {
+                "players_name": "Lea S. J.",
+                "players_number": "12",
+                "Full Name": "James Lea Siliki",
+                "players_rating": 7.0,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (12.06.1996)",
+                "Market Value": "",
+                "unicode": "hWVUztZS"
+            },
+            {
+                "players_name": "Prcic S.",
+                "players_number": "10",
+                "Full Name": "Sanjin Prcic",
+                "players_rating": 7.0,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (20.11.1993)",
+                "Market Value": "€2.4m",
+                "unicode": "KAFGP2Gk"
+            },
+            {
+                "players_name": "Traore H.",
+                "players_number": "27",
+                "Full Name": "Hamari Traore",
+                "players_rating": 6.8,
+                "Country": "Mali",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (27.01.1992)",
+                "Market Value": "€8.9m",
+                "unicode": "fRSnvKQG"
+            },
+            {
+                "players_name": "Zeffane M.",
+                "players_number": "2",
+                "Full Name": "Mehdi Zeffane",
+                "players_rating": 7.6,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (19.05.1992)",
+                "Market Value": "€562k",
+                "unicode": "dQgbk4nd"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Maouassa F.",
+                "players_number": "17",
+                "Full Name": "Faitout Maouassa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (06.07.1998)",
+                "Market Value": "€4.8m",
+                "unicode": "S6ReM436"
+            },
+            {
+                "players_name": "Sarr I.",
+                "players_number": "7",
+                "Full Name": "Ismaila Sarr",
+                "players_rating": 6.0,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (25.02.1998)",
+                "Market Value": "€20.1m",
+                "unicode": "ll2uTDkB"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Danze R.",
+                "players_number": "29",
+                "Full Name": "Romain Danze",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (03.07.1986)",
+                "Market Value": "",
+                "unicode": "bc7w5yZJ"
+            },
+            {
+                "players_name": "Diallo A. (G)",
+                "players_number": "1",
+                "Full Name": "Abdoulaye Diallo",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (30.03.1992)",
+                "Market Value": "",
+                "unicode": "2LpR1PN3"
+            },
+            {
+                "players_name": "Gourcuff Y.",
+                "players_number": "28",
+                "Full Name": "Yoann Gourcuff",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (11.07.1986)",
+                "Market Value": "",
+                "unicode": "rqr9DuP8"
+            },
+            {
+                "players_name": "Lauriente A.",
+                "players_number": "33",
+                "Full Name": "Armand Lauriente",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (04.12.1998)",
+                "Market Value": "€16.6m",
+                "unicode": "EZVZoGs8"
+            },
+            {
+                "players_name": "Mexer",
+                "players_number": "4",
+                "Full Name": "Mexer",
+                "players_rating": "",
+                "Country": "Mozambique",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (08.09.1988)",
+                "Market Value": "€190k",
+                "unicode": "xr7LaZkT"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Jerome Brisard will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Rennes will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:48",
+            "comments_type": "clearance",
+            "comments_text": "Thomas Meunier (Paris SG) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:09",
+            "comments_type": "off side",
+            "comments_text": "Adrien Hunou (Rennes) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:19",
+            "comments_type": "ball possession",
+            "comments_text": "Paris SG seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Benjamin Andre (Rennes) makes a slide tackle, but referee Jerome Brisard blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:15",
+            "comments_type": "corner",
+            "comments_text": "Paris SG failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Presnel Kimpembe (Paris SG) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jerome Brisard no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:30",
+            "comments_type": "corner",
+            "comments_text": "Adrien Hunou (Rennes) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Presnel Kimpembe (Paris SG) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. It's a free kick to Rennes, but they probably won't attempt a direct shot on goal from here.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:15",
+            "comments_type": "corner",
+            "comments_text": "James Lea Siliki (Rennes) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:13",
+            "comments_type": "corner",
+            "comments_text": "James Lea Siliki (Rennes) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:50",
+            "comments_type": "clearance",
+            "comments_text": "Mehdi Zeffane (Rennes) does his best to latch onto a cross into the box, but he can't get to the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:47",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from James Lea Siliki (Rennes) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:07",
+            "comments_type": "corner",
+            "comments_text": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders.",
+            "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:18",
+            "comments_type": "corner",
+            "comments_text": "James Lea Siliki (Rennes) takes the corner kick but the ball only finds the head of an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:06",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross from Yuri Berchiche (Paris SG) fails to reach the box as the defence clears the ball away to safety. The referee points to the corner flag. It's a corner to Paris SG.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:50",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:26",
+            "comments_type": "foul with no card",
+            "comments_text": "Adrien Hunou (Rennes) was too fierce in his attempt to get the ball from his opponent and Jerome Brisard blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:57",
+            "comments_type": "corner",
+            "comments_text": "Adrien Hunou (Rennes) takes the corner, but it's intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:33",
+            "comments_type": "clearance",
+            "comments_text": "Mehdi Zeffane (Rennes) serves up a nice cross, but Kevin Trapp punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:20",
+            "comments_type": "injury",
+            "comments_text": "Adrien Hunou (Rennes) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:41",
+            "comments_type": "off side",
+            "comments_text": "Adrien Hunou (Rennes) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 1 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:15",
+            "comments_type": "end of half game",
+            "comments_text": "Jerome Brisard has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:32",
+            "comments_type": "ball possession",
+            "comments_text": "Paris SG are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:28",
+            "comments_type": "yellow card",
+            "comments_text": "Presnel Kimpembe (Paris SG) earns the yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) earns the yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:30",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross from a mid-range free kick, taken by Rennes, is intercepted by one of the defenders. The ball goes out of play. Rennes are awarded a corner kick.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:10",
+            "comments_type": "corner",
+            "comments_text": "James Lea Siliki (Rennes) launches an inaccurate corner kick into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:43",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Thiago Motta (Paris SG) makes an unfair challenge by holding his opponent to prevent him from getting the ball. It's a penalty! Great chance to score for Rennes!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an unfair challenge by holding his opponent to prevent him from getting the ball. It's a penalty! Great chance to score for [TEAM]!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:59",
+            "comments_type": "penalty",
+            "comments_text": "Benjamin Bourigeaud (Rennes) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:10",
+            "comments_type": "goal",
+            "comments_text": "Goal! Benjamin Bourigeaud (Rennes) wins the battle of wills and sends an unstoppable penalty past Kevin Trapp into the bottom right corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom right corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Meunier (Paris SG) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Jerome Brisard blows for the foul but keeps his cards in his pocket on this occasion.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. [REFEREE] blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:47",
+            "comments_type": "clearance",
+            "comments_text": "Benjamin Bourigeaud (Rennes) crosses the ball into the box, but one of the defending players averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:31",
+            "comments_type": "shot off target",
+            "comments_text": "Ramy Bensebaini (Rennes) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:43",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Christopher Nkunku is going off and Unai Emery gives the last tactical orders to Julian Draxler (Paris SG).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:48",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Adrien Rabiot (Paris SG) is on for Lassana Diarra.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:24",
+            "comments_type": "ball possession",
+            "comments_text": "The most active player in today's match is definitely Giovani Lo Celso (Paris SG). He's trying to be on the ball as much as possible and you can literally see the enthusiasm in his play. He keeps exchanging some one touch passes and waits for the right moment to send a killer pass. What a player!",
+            "comments_text_anonymized": "The most active player in today's match is definitely [PLAYER] ([TEAM]). He's trying to be on the ball as much as possible and you can literally see the enthusiasm in his play. He keeps exchanging some one touch passes and waits for the right moment to send a killer pass. What a player!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:53",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Giovani Lo Celso (Paris SG) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Jerome Brisard blows his whistle and signals a foul after Ramy Bensebaini (Rennes) brought his opponent down.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:40",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Adrien Hunou (Rennes) collects a pass and from inside the box he lifts the ball over Kevin Trapp, who was off his line. What a finish that is! 0:2.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) collects a pass and from inside the box he lifts the ball over [PLAYER], who was off his line. What a finish that is! 0:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:48",
+            "comments_type": "substitution",
+            "comments_text": "Hamari Traore goes off the pitch and Ismaila Sarr (Rennes) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:28",
+            "comments_type": "corner",
+            "comments_text": "Paris SG have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:32",
+            "comments_type": "substitution",
+            "comments_text": "Unai Emery has decided to introduce fresh legs, with Javier Pastore (Paris SG) replacing Thiago Motta.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:01",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence had a hard time blocking out the strike from Julian Draxler (Paris SG). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Paris SG force a corner. They send men into the box.",
+            "comments_text_anonymized": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:08",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Paris SG is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:52",
+            "comments_type": "off side",
+            "comments_text": "Presnel Kimpembe (Paris SG) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:57",
+            "comments_type": "lead to corner",
+            "comments_text": "Angel Di Maria (Paris SG) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball goes out of play and Paris SG have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:48",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) takes the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:08",
+            "comments_type": "corner",
+            "comments_text": "Paris SG take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "Paris SG take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "2 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:15",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Sanjin Prcic is given a rest as he is replaced by Faitout Maouassa (Rennes).",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:08",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

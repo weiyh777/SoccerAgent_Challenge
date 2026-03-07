@@ -1,0 +1,969 @@
+{
+    "match_info": {
+        "timestamp": "2018-04-20 01:30:00",
+        "score": "3 - 0",
+        "home_team": "Real Sociedad",
+        "away_team": "Atl. Madrid",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Reale Arena (San Sebastian)",
+        "capacity": "39 313",
+        "attendance": "21 404"
+    },
+    "referee_data": {
+        "short_name_country": "Rojas J. A. (Esp)",
+        "first_name": "Rojas J.",
+        "abbr_last_name": "A",
+        "country": "Esp",
+        "detected_name": ""
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Simeone D.",
+                "players_number": "",
+                "Full Name": "Diego Simeone",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (28.04.1970)",
+                "Market Value": "",
+                "unicode": "AZ18LjKN"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Costa D.",
+                "players_number": "",
+                "Full Name": "Diego Costa",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€1.5m, (07.10.1988)",
+                "Market Value": "",
+                "unicode": "vBw5nir8"
+            },
+            {
+                "players_name": "Filipe Luis",
+                "players_number": "",
+                "Full Name": "Filipe Luis",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (09.08.1985)",
+                "Market Value": "",
+                "unicode": "CCTRYs3a"
+            },
+            {
+                "players_name": "Hernandez L.",
+                "players_number": "",
+                "Full Name": "Lucas Hernandez",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (14.02.1996)",
+                "Market Value": "€43.4m",
+                "unicode": "x2fvnkud"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Correa A.",
+                "players_number": "11",
+                "Full Name": "Angel Correa",
+                "players_rating": 6.0,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (09.03.1995)",
+                "Market Value": "€18.4m",
+                "unicode": "McWkid34"
+            },
+            {
+                "players_name": "Gameiro K.",
+                "players_number": "21",
+                "Full Name": "Kevin Gameiro",
+                "players_rating": 5.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (09.05.1987)",
+                "Market Value": "€936k",
+                "unicode": "jXicQsm7"
+            },
+            {
+                "players_name": "Godin D. (C)",
+                "players_number": "2",
+                "Full Name": "Diego Godin",
+                "players_rating": 6.6,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "€495k, (16.02.1986)",
+                "Market Value": "",
+                "unicode": "AXQzJq3b"
+            },
+            {
+                "players_name": "Griezmann A.",
+                "players_number": "7",
+                "Full Name": "Antoine Griezmann",
+                "players_rating": 6.5,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (21.03.1991)",
+                "Market Value": "€26.9m",
+                "unicode": "OxCa1jdT"
+            },
+            {
+                "players_name": "Juanfran",
+                "players_number": "20",
+                "Full Name": "Juanfran",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (09.01.1985)",
+                "Market Value": "",
+                "unicode": "jLwtE6Rq"
+            },
+            {
+                "players_name": "Koke",
+                "players_number": "6",
+                "Full Name": "Koke",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (08.01.1992)",
+                "Market Value": "€13.3m",
+                "unicode": "v9hLv1xJ"
+            },
+            {
+                "players_name": "Niguez S.",
+                "players_number": "8",
+                "Full Name": "Saul Niguez",
+                "players_rating": 7.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (21.11.1994)",
+                "Market Value": "€11.4m",
+                "unicode": "hSbvVwW7"
+            },
+            {
+                "players_name": "Oblak J. (G)",
+                "players_number": "13",
+                "Full Name": "Jan Oblak",
+                "players_rating": 5.5,
+                "Country": "Slovenia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (07.01.1993)",
+                "Market Value": "€32.8m",
+                "unicode": "SYy8ZHN9"
+            },
+            {
+                "players_name": "Partey T.",
+                "players_number": "5",
+                "Full Name": "Thomas Partey",
+                "players_rating": 6.8,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (13.06.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "pMErKGnf"
+            },
+            {
+                "players_name": "Savic S.",
+                "players_number": "15",
+                "Full Name": "Stefan Savic",
+                "players_rating": 6.0,
+                "Country": "Montenegro",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (08.01.1991)",
+                "Market Value": "€4.8m",
+                "unicode": "rXcV9ZCT"
+            },
+            {
+                "players_name": "Vrsaljko S.",
+                "players_number": "16",
+                "Full Name": "Sime Vrsaljko",
+                "players_rating": 6.5,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (10.01.1992)",
+                "Market Value": "",
+                "unicode": "QeDP63jB"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Gabi",
+                "players_number": "14",
+                "Full Name": "Gabi",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "End of career",
+                "Age and Birthdate": "40, (10.07.1983)",
+                "Market Value": "",
+                "unicode": "Q3asrkFf"
+            },
+            {
+                "players_name": "Torres F.",
+                "players_number": "9",
+                "Full Name": "Fernando Torres",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "End of career",
+                "Age and Birthdate": "39, (20.03.1984)",
+                "Market Value": "",
+                "unicode": "65srZ2Lb"
+            },
+            {
+                "players_name": "Vitolo",
+                "players_number": "23",
+                "Full Name": "Vitolo",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (02.11.1989)",
+                "Market Value": "€272k",
+                "unicode": "QuSgm0F2"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Aguero J.",
+                "players_number": "54",
+                "Full Name": "Juan Aguero Nunez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (27.05.1999)",
+                "Market Value": "30.06.2024",
+                "unicode": "Aaj6Rinb"
+            },
+            {
+                "players_name": "Gimenez J. M.",
+                "players_number": "24",
+                "Full Name": "Jose Maria Gimenez",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (20.01.1995)",
+                "Market Value": "€28.9m",
+                "unicode": "IgRLzKhM"
+            },
+            {
+                "players_name": "Gonzalez S.",
+                "players_number": "29",
+                "Full Name": "Sergio Gonzalez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (26.05.1995)",
+                "Market Value": "",
+                "unicode": "OxPTUYqA"
+            },
+            {
+                "players_name": "Werner A. (G)",
+                "players_number": "25",
+                "Full Name": "Axel Werner",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (28.02.1996)",
+                "Market Value": "€528k",
+                "unicode": "rgCmL997"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Alguacil I.",
+                "players_number": "",
+                "Full Name": "Imanol Alguacil",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (04.07.1971)",
+                "Market Value": "",
+                "unicode": "IJEltJ2H"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Guridi J.",
+                "players_number": "",
+                "Full Name": "Jon Guridi",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (28.02.1995)",
+                "Market Value": "€3.9m",
+                "unicode": "WhV8JXPD"
+            },
+            {
+                "players_name": "Martinez C.",
+                "players_number": "",
+                "Full Name": "Carlos Martinez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (09.04.1986)",
+                "Market Value": "",
+                "unicode": "IwCf9VyA"
+            },
+            {
+                "players_name": "Prieto X.",
+                "players_number": "",
+                "Full Name": "Xabi Prieto",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "40, (29.08.1983)",
+                "Market Value": "",
+                "unicode": "pnVGYfYu"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Canales S.",
+                "players_number": "16",
+                "Full Name": "Sergio Canales",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (16.02.1991)",
+                "Market Value": "€10.6m",
+                "unicode": "CUnZ9W5g"
+            },
+            {
+                "players_name": "de La Bella A.",
+                "players_number": "24",
+                "Full Name": "Alberto De La Bella",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (02.12.1985)",
+                "Market Value": "",
+                "unicode": "Isj3Fthh"
+            },
+            {
+                "players_name": "Elustondo A.",
+                "players_number": "15",
+                "Full Name": "Aritz Elustondo",
+                "players_rating": 7.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (28.03.1994)",
+                "Market Value": "€8.6m",
+                "unicode": "6qVwC9AH"
+            },
+            {
+                "players_name": "Illarramendi A. (C)",
+                "players_number": "4",
+                "Full Name": "Asier Illarramendi",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (08.03.1990)",
+                "Market Value": "€1.7m",
+                "unicode": "INTB796M"
+            },
+            {
+                "players_name": "Januzaj A.",
+                "players_number": "8",
+                "Full Name": "Adnan Januzaj",
+                "players_rating": 8.3,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (05.02.1995)",
+                "Market Value": "€2.8m",
+                "unicode": "6qyeYCYO"
+            },
+            {
+                "players_name": "Moreno H.",
+                "players_number": "6",
+                "Full Name": "Hector Moreno",
+                "players_rating": 7.2,
+                "Country": "Mexico",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (17.01.1988)",
+                "Market Value": "€964k",
+                "unicode": "Q5Mj5mwa"
+            },
+            {
+                "players_name": "Navas R.",
+                "players_number": "22",
+                "Full Name": "Raul Navas",
+                "players_rating": 7.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (11.05.1988)",
+                "Market Value": "€96k",
+                "unicode": "8OTUIJhp"
+            },
+            {
+                "players_name": "Oyarzabal M.",
+                "players_number": "18",
+                "Full Name": "Mikel Oyarzabal",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (21.04.1997)",
+                "Market Value": "€47.5m",
+                "unicode": "dQ1P695O"
+            },
+            {
+                "players_name": "Pardo R.",
+                "players_number": "14",
+                "Full Name": "Ruben Pardo",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (22.10.1992)",
+                "Market Value": "€1.2m",
+                "unicode": "OYZcxhyo"
+            },
+            {
+                "players_name": "Rulli G. (G)",
+                "players_number": "1",
+                "Full Name": "Geronimo Rulli",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (20.05.1992)",
+                "Market Value": "€7.9m",
+                "unicode": "rcbM0Dd8"
+            },
+            {
+                "players_name": "Willian Jose",
+                "players_number": "12",
+                "Full Name": "Willian Jose",
+                "players_rating": 8.3,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (23.11.1991)",
+                "Market Value": "€5.7m",
+                "unicode": "jD7L6o7T"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Jon B.",
+                "players_number": "21",
+                "Full Name": "Bautista Jon",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (03.07.1995)",
+                "Market Value": "€894k",
+                "unicode": "Y7dM1nsL"
+            },
+            {
+                "players_name": "Juanmi",
+                "players_number": "7",
+                "Full Name": "Juanmi",
+                "players_rating": 8.0,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.05.1993)",
+                "Market Value": "€7.3m",
+                "unicode": "0vLnUdTa"
+            },
+            {
+                "players_name": "Zurutuza D.",
+                "players_number": "17",
+                "Full Name": "David Zurutuza",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (19.07.1986)",
+                "Market Value": "",
+                "unicode": "r5ctdJiU"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Odriozola A.",
+                "players_number": "19",
+                "Full Name": "Alvaro Odriozola",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.12.1995)",
+                "Market Value": "€2.9m",
+                "unicode": "0zO9SfkA"
+            },
+            {
+                "players_name": "Rodrigues K.",
+                "players_number": "20",
+                "Full Name": "Kevin Rodrigues",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "€2.0m, (05.03.1994)",
+                "Market Value": "30.06.2025",
+                "unicode": "xnl3WgEP"
+            },
+            {
+                "players_name": "Tono (G)",
+                "players_number": "13",
+                "Full Name": "Tono",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (23.11.1986)",
+                "Market Value": "30.06.2024",
+                "unicode": "vmDjABM3"
+            },
+            {
+                "players_name": "Zubeldia I.",
+                "players_number": "5",
+                "Full Name": "Igor Zubeldia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (30.03.1997)",
+                "Market Value": "€21.2m",
+                "unicode": "phTjGNq0"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action.",
+            "comments_text_anonymized": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Javier Alberola Rojas was nominated as the referee for this game.",
+            "comments_text_anonymized": "Javier Alberola Rojas was nominated as the referee for this game."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:00",
+            "comments_type": "clearance",
+            "comments_text": "Adnan Januzaj (Real Sociedad) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Saul Niguez (Atl. Madrid) tackles a bit over-zealously and Javier Alberola Rojas blows for a foul. A free kick is awarded to Real Sociedad.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and Javier Alberola Rojas blows for a foul. A free kick is awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:00",
+            "comments_type": "free kick",
+            "comments_text": "Sergio Canales (Real Sociedad) sends in a lofted cross from a long-range free kick, but it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick, but it goes out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Angel Correa (Atl. Madrid) attempted to dribble past an opposing player. It will be a corner kick for Atl. Madrid.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:34",
+            "comments_type": "corner",
+            "comments_text": "Koke (Atl. Madrid) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:02",
+            "comments_type": "foul with no card",
+            "comments_text": "Juanfran (Atl. Madrid) robs an opponent of the ball and explodes in anger when Javier Alberola Rojas blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when Javier Alberola Rojas blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Willian Jose (Real Sociedad) is penalised for a foul. Javier Alberola Rojas had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. Javier Alberola Rojas had a clear view and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:03",
+            "comments_type": "clearance",
+            "comments_text": "Raul Navas (Real Sociedad) produces a long-range volley, but the ball was blocked by a defender on its way.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a long-range volley, but the ball was blocked by a defender on its way."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Adnan Januzaj (Real Sociedad) makes a reckless foul in order to win the ball from his opponent. Javier Alberola Rojas has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. Javier Alberola Rojas has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:19",
+            "comments_type": "clearance",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Kevin Gameiro (Atl. Madrid).",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:18",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. Atl. Madrid will have a chance to score from a corner.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Alberto De La Bella (Real Sociedad). Javier Alberola Rojas blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). Javier Alberola Rojas blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:32",
+            "comments_type": "goal",
+            "comments_text": "Willian Jose (Real Sociedad) collected a superb pass and fired a terrific shot into the bottom left corner off the goalpost. Wonderful piece of finishing!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collected a superb pass and fired a terrific shot into the bottom left corner off the goalpost. Wonderful piece of finishing!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:14",
+            "comments_type": "shot off target",
+            "comments_text": "Antoine Griezmann (Atl. Madrid) finds space on the edge of the box, but his wild shot goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds space on the edge of the box, but his wild shot goes high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Kevin Gameiro (Atl. Madrid) commits a foul after unfairly battling his opponent for the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:10",
+            "comments_type": "shot off target",
+            "comments_text": "Aritz Elustondo (Real Sociedad) tries to catch the keeper off guard from long range, but the effort sails well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to catch the keeper off guard from long range, but the effort sails well wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:10",
+            "comments_type": "clearance",
+            "comments_text": "Sergio Canales (Real Sociedad) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:51",
+            "comments_type": "lead to corner",
+            "comments_text": "Adnan Januzaj (Real Sociedad) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Real Sociedad have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:21",
+            "comments_type": "corner",
+            "comments_text": "Sergio Canales (Real Sociedad) sends in a poor cross from the corner and Jan Oblak has no trouble gathering it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a poor cross from the corner and [PLAYER] has no trouble gathering it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:03",
+            "comments_type": "off side",
+            "comments_text": "Kevin Gameiro (Atl. Madrid) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:21",
+            "comments_type": "foul with no card",
+            "comments_text": "Koke (Atl. Madrid) makes a rough challenge and Javier Alberola Rojas blows his whistle for a foul. Real Sociedad are given an advantage. They have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and Javier Alberola Rojas blows his whistle for a foul. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:29",
+            "comments_type": "clearance",
+            "comments_text": "Sergio Canales (Real Sociedad) puts a cross into the box from the free kick, but the defender gets there first.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:15",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half gets underway.",
+            "comments_text_anonymized": "The second half gets underway."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Diego Simeone makes a switch. Fernando Torres (Atl. Madrid) is coming on in place of Angel Correa at the start of the second period.",
+            "comments_text_anonymized": "[PLAYER] makes a switch. [PLAYER] ([TEAM]) is coming on in place of [PLAYER] at the start of the second period."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:46",
+            "comments_type": "foul with no card",
+            "comments_text": "Sime Vrsaljko (Atl. Madrid) gives away a foul for a clumsy challenge. Referee Javier Alberola Rojas saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee Javier Alberola Rojas saw the whole situation."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Alberto De La Bella (Real Sociedad) tries to send a pass but it's blocked. The ball goes out of play. Real Sociedad are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:21",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Ruben Pardo (Real Sociedad) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:30",
+            "comments_type": "clearance",
+            "comments_text": "Sergio Canales (Real Sociedad) sends a pass into the penalty area, but the opponent manages to cut it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:44",
+            "comments_type": "corner",
+            "comments_text": "The linesman makes the right call and Real Sociedad will have a corner.",
+            "comments_text_anonymized": "The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:49",
+            "comments_type": "shot off target",
+            "comments_text": "Raul Navas (Real Sociedad) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:53",
+            "comments_type": "lead to corner",
+            "comments_text": "An attempted cross from Saul (Atl. Madrid) is cleared. Atl. Madrid will take a corner kick.",
+            "comments_text_anonymized": "An attempted cross from Saul ([TEAM]) is cleared. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:09",
+            "comments_type": "corner",
+            "comments_text": "The ball is whipped in from the corner by Koke (Atl. Madrid), but one of the defenders gets it clear.",
+            "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:16",
+            "comments_type": "lead to corner",
+            "comments_text": "Koke (Atl. Madrid) delivers a promising cross into the box, but it's cleared. Atl. Madrid force their opponents to concede a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:50",
+            "comments_type": "corner",
+            "comments_text": "Koke (Atl. Madrid) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:56",
+            "comments_type": "substitution",
+            "comments_text": "Diego Simeone has decided to introduce fresh legs, with Victor Vitolo (Atl. Madrid) replacing Juanfran.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with Victor [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:17",
+            "comments_type": "corner",
+            "comments_text": "Adnan Januzaj (Real Sociedad) sends a pass into the box, but his attempt is thwarted and cleared. Real Sociedad have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:14",
+            "comments_type": "corner",
+            "comments_text": "Sergio Canales (Real Sociedad) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:20",
+            "comments_type": "lead to corner",
+            "comments_text": "A fine lofted pass into the box, sent by Adnan Januzaj (Real Sociedad), is intercepted by the opposition's defence. The ball is out of play. A goal-scoring opportunity from a corner for Real Sociedad.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:38",
+            "comments_type": "corner",
+            "comments_text": "Sergio Canales (Real Sociedad) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:02",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Ruben Pardo leaves the pitch and is replaced by David Zurutuza (Real Sociedad).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:45",
+            "comments_type": "shot off target",
+            "comments_text": "Fernando Torres (Atl. Madrid) missed a great opportunity! He finds himself some space near the penalty spot and plants a header goalwards which lacks both power and accuracy. The ball sails well over the bar!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) missed a great opportunity! He finds himself some space near the penalty spot and plants a header goalwards which lacks both power and accuracy. The ball sails well over the bar!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:19",
+            "comments_type": "shot off target",
+            "comments_text": "Willian Jose (Real Sociedad) receives a precise pass on the edge of the box and bends his effort inches wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and bends his effort inches wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:24",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Juanmi (Real Sociedad) is on for Mikel Oyarzabal.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:23",
+            "comments_type": "shot off target",
+            "comments_text": "What a chance that is! Sergio Canales (Real Sociedad) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post.",
+            "comments_text_anonymized": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:32",
+            "comments_type": "substitution",
+            "comments_text": "Diego Simeone prepares a substitution. Thomas is replaced by Gabi (Atl. Madrid).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. Thomas is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:30",
+            "comments_type": "off side",
+            "comments_text": "Fernando Torres (Atl. Madrid) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:45",
+            "comments_type": "corner",
+            "comments_text": "Atl. Madrid have been awarded a corner kick.",
+            "comments_text_anonymized": "[TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:04",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Juanmi (Real Sociedad) collects a pass and from inside the box he lifts the ball over Jan Oblak, who was off his line. What a finish that is! 2:0.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) collects a pass and from inside the box he lifts the ball over [PLAYER], who was off his line. What a finish that is! 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:58",
+            "comments_type": "shot off target",
+            "comments_text": "A bullet header by Fernando Torres (Atl. Madrid) from inside the box has the power, but goes totally in the wrong direction, yards over the crossbar.",
+            "comments_text_anonymized": "A bullet header by [PLAYER] ([TEAM]) from inside the box has the power, but goes totally in the wrong direction, yards over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:50",
+            "comments_type": "substitution",
+            "comments_text": "The substitution has been made. Bautista Orgilles Jon (Real Sociedad) has replaced Da Silva Willian Jose.",
+            "comments_text_anonymized": "The substitution has been made. Bautista Orgilles [PLAYER] ([TEAM]) has replaced Da Silva [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Adnan Januzaj (Real Sociedad) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Real Sociedad win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:19",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Sergio Canales (Real Sociedad) comes to nothing. The referee and one of his assistants signal for a corner kick to Real Sociedad.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:19",
+            "comments_type": "corner",
+            "comments_text": "The corner kick from Sergio Canales (Real Sociedad) is headed out of the penalty area by one of the defenders.",
+            "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:36",
+            "comments_type": "goal",
+            "comments_text": "Juanmi (Real Sociedad) gets on the end of a fine cross and heads the ball into the top left corner!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a fine cross and heads the ball into the top left corner!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Unsporting behaviour by Juanmi (Real Sociedad).",
+            "comments_text_anonymized": "Unsporting behaviour by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:52",
+            "comments_type": "yellow card",
+            "comments_text": "Juanmi (Real Sociedad) receives a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:59",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Javier Alberola Rojas has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, Javier Alberola Rojas has blown his whistle and the game is over."
+        }
+    ]
+}

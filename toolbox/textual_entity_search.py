@@ -4,8 +4,8 @@ from tqdm import tqdm
 import argparse
 
 ######################## Parameters ########################
-PROJECT_PATH = "YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE"
-client = OpenAI(api_key="your-deepseek-api-key", base_url="https://api.deepseek.com")
+PROJECT_PATH = "/root/autodl-tmp/SoccerAgent"
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 def workflow(input_text, Instruction, follow_up_prompt=None, max_tokens_followup=1500):
 
@@ -160,7 +160,7 @@ def find_json_path(base_folder, entity_type, entity_name):
     # If no match is found at all, return None
     return "No matching file found."
 
-def TEXTUAL_ENTITY_SEARCH(question, material=None, base_folder = os.path.join(PROJECT_PATH, "database/SoccerWiki/data")):
+def TEXTUAL_ENTITY_SEARCH(question, material=None, base_folder = "/root/autodl-tmp/SoccerWiki/data"):
     entity_type, entity_name = extract_entity_info(question)
     if entity_type == "unknown" or entity_name == "unknown":
         return "No matching file found."

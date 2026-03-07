@@ -3,7 +3,7 @@ import face_recognition
 import numpy as np
 import pickle
 
-PROJECT_PATH = "PROJECT_PATH" # Replace with actual project path
+PROJECT_PATH = "/root/autodl-tmp/SoccerAgent" # Replace with actual project path
 
 def build_face_library(base_path): # Base path to the SoccerWiki directory containing players' images.
     VALID_IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png'}
@@ -27,7 +27,7 @@ def build_face_library(base_path): # Base path to the SoccerWiki directory conta
                 print(f"Added {person_folder} to the face library.")
                 break
 
-    with open("face_library.pkl", 'wb') as f:
+    with open("/root/autodl-tmp/SoccerAgent/toolbox/utils/face_library.pkl", 'wb') as f:
         pickle.dump(face_library, f)
     print(f"Face library saved to face_library.pkl.")
 
@@ -35,7 +35,7 @@ def build_face_library(base_path): # Base path to the SoccerWiki directory conta
 
 
 def FACE_RECOGNITION(query=None, material=[]):
-    filename = f"{PROJECT_PATH}/pipeline/toolbox/utils/face_library.pkl" # Replace with actual path to the face library
+    filename = f"{PROJECT_PATH}/toolbox/utils/face_library.pkl" # Replace with actual path to the face library
     with open(filename, 'rb') as f:
         face_library = pickle.load(f)
 

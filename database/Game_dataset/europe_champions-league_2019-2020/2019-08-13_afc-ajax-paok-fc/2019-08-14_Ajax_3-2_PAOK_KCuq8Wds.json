@@ -1,0 +1,998 @@
+{
+    "match_info": {
+        "timestamp": "2019-08-14 02:30:00",
+        "score": "3 - 2",
+        "home_team": "Ajax",
+        "away_team": "PAOK",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 4 - 3",
+        "venue": "Johan Cruijff Arena (Amsterdam)",
+        "capacity": "55 865",
+        "attendance": "53 942",
+        "home_jersey_color": "red and white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Pawson C. (Eng)",
+        "first_name": "Pawson",
+        "abbr_last_name": "C",
+        "country": "Eng",
+        "detected_name": "Craig Pawson"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "ten Hag E.",
+                "players_number": "",
+                "Full Name": "Erik ten Hag",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (02.02.1970)",
+                "Market Value": "",
+                "unicode": "dpjHQ7zJ"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Eiting C.",
+                "players_number": "",
+                "Full Name": "Carel Eiting",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (11.02.1998)",
+                "Market Value": "€2.2m",
+                "unicode": "WK92xgm3"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Blind D.",
+                "players_number": "17",
+                "Full Name": "Daley Blind",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.03.1990)",
+                "Market Value": "€3.0m",
+                "unicode": "U5mPqlh6"
+            },
+            {
+                "players_name": "David Neres",
+                "players_number": "7",
+                "Full Name": "David Neres",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (03.03.1997)",
+                "Market Value": "€24.1m",
+                "unicode": "r9dHjC84"
+            },
+            {
+                "players_name": "Marin R.",
+                "players_number": "18",
+                "Full Name": "Razvan Marin",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.05.1996)",
+                "Market Value": "€2.4m",
+                "unicode": "WYOcFAQk"
+            },
+            {
+                "players_name": "Martinez Li.",
+                "players_number": "21",
+                "Full Name": "Lisandro Martinez",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€47.5m",
+                "unicode": "GIzJAqQs"
+            },
+            {
+                "players_name": "Mazraoui N.",
+                "players_number": "12",
+                "Full Name": "Noussair Mazraoui",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€28.9m",
+                "unicode": "2ajowGAq"
+            },
+            {
+                "players_name": "Onana A. (G)",
+                "players_number": "24",
+                "Full Name": "Andre Onana",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (02.04.1996)",
+                "Market Value": "€38.6m",
+                "unicode": "OCuLGTrI"
+            },
+            {
+                "players_name": "Tadic D. (C)",
+                "players_number": "10",
+                "Full Name": "Dusan Tadic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (20.11.1988)",
+                "Market Value": "€5.0m",
+                "unicode": "Ic4oPYSF"
+            },
+            {
+                "players_name": "Tagliafico N.",
+                "players_number": "31",
+                "Full Name": "Nicolas Tagliafico",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (31.08.1992)",
+                "Market Value": "€7.8m",
+                "unicode": "jgaGiVOl"
+            },
+            {
+                "players_name": "van de Beek D.",
+                "players_number": "6",
+                "Full Name": "Donny van de Beek",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.04.1997)",
+                "Market Value": "€8.0m",
+                "unicode": "bs2gvblF"
+            },
+            {
+                "players_name": "Veltman J.",
+                "players_number": "3",
+                "Full Name": "Joel Veltman",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (15.01.1992)",
+                "Market Value": "€9.6m",
+                "unicode": "hIP2ytZb"
+            },
+            {
+                "players_name": "Ziyech H.",
+                "players_number": "22",
+                "Full Name": "Hakim Ziyech",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.03.1993)",
+                "Market Value": "€11.9m",
+                "unicode": "2F0HARqq"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "de Wit D.",
+                "players_number": "30",
+                "Full Name": "Dani de Wit",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (28.01.1998)",
+                "Market Value": "€4.5m",
+                "unicode": "Egd7aMH9"
+            },
+            {
+                "players_name": "Dest S.",
+                "players_number": "28",
+                "Full Name": "Sergino Dest",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.11.2000)",
+                "Market Value": "€17.6m",
+                "unicode": "lOQwOgTR"
+            },
+            {
+                "players_name": "Huntelaar K.",
+                "players_number": "9",
+                "Full Name": "Klaas-Jan Huntelaar",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "40, (12.08.1983)",
+                "Market Value": "",
+                "unicode": "QqVZuTYl"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Alvarez E.",
+                "players_number": "4",
+                "Full Name": "Edson Alvarez",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (24.10.1997)",
+                "Market Value": "€34.7m",
+                "unicode": "UkdzkdDr"
+            },
+            {
+                "players_name": "Promes Q.",
+                "players_number": "11",
+                "Full Name": "Quincy Promes",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (04.01.1992)",
+                "Market Value": "€6.5m",
+                "unicode": "UoxZYLrK"
+            },
+            {
+                "players_name": "Schuurs P.",
+                "players_number": "2",
+                "Full Name": "Perr Schuurs",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (26.11.1999)",
+                "Market Value": "€23.9m",
+                "unicode": "ARdXOcOJ"
+            },
+            {
+                "players_name": "Varela B. (G)",
+                "players_number": "1",
+                "Full Name": "Bruno Varela",
+                "players_rating": "",
+                "Country": "Cape Verde",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (04.11.1994)",
+                "Market Value": "€3.9m",
+                "unicode": "IarQbYUt"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Ferreira A.",
+                "players_number": "",
+                "Full Name": "Abel Ferreira",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (22.12.1978)",
+                "Market Value": "",
+                "unicode": "pE9yBTcG"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Akpom Ch.",
+                "players_number": "47",
+                "Full Name": "Chuba Akpom",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (09.10.1995)",
+                "Market Value": "€12.1m",
+                "unicode": "r3FhGWO6"
+            },
+            {
+                "players_name": "Biseswar D.",
+                "players_number": "21",
+                "Full Name": "Diego Biseswar",
+                "players_rating": "",
+                "Country": "Suriname",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (08.03.1988)",
+                "Market Value": "",
+                "unicode": "K6tYoqMF"
+            },
+            {
+                "players_name": "Crespo J.",
+                "players_number": "15",
+                "Full Name": "Jose Crespo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (09.02.1987)",
+                "Market Value": "€265k",
+                "unicode": "ttsrXXtN"
+            },
+            {
+                "players_name": "El Kaddouri O.",
+                "players_number": "7",
+                "Full Name": "Omar El Kaddouri",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (21.08.1990)",
+                "Market Value": "€545k",
+                "unicode": "8E92JyZC"
+            },
+            {
+                "players_name": "Esiti A.",
+                "players_number": "24",
+                "Full Name": "Anderson Esiti",
+                "players_rating": "",
+                "Country": "Nigeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (24.05.1994)",
+                "Market Value": "€936k",
+                "unicode": "j5WEbj31"
+            },
+            {
+                "players_name": "Giannoulis D.",
+                "players_number": "23",
+                "Full Name": "Dimitrios Giannoulis",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (17.10.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "r9fp8Nk5"
+            },
+            {
+                "players_name": "Leo Jaba",
+                "players_number": "98",
+                "Full Name": "Leo Jaba",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (02.08.1998)",
+                "Market Value": "€1.2m",
+                "unicode": "n1VY6R8J"
+            },
+            {
+                "players_name": "Leo Matos",
+                "players_number": "3",
+                "Full Name": "Leo Matos",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (02.04.1986)",
+                "Market Value": "",
+                "unicode": "4fMhooBd"
+            },
+            {
+                "players_name": "Paschalakis A. (G)",
+                "players_number": "31",
+                "Full Name": "Alexandros Paschalakis",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (28.07.1989)",
+                "Market Value": "€772k",
+                "unicode": "CrkeWOVp"
+            },
+            {
+                "players_name": "Pelkas D. (C)",
+                "players_number": "10",
+                "Full Name": "Dimitrios Pelkas",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (26.10.1993)",
+                "Market Value": "€2.3m",
+                "unicode": "0S1Sm7c0"
+            },
+            {
+                "players_name": "Varela F.",
+                "players_number": "5",
+                "Full Name": "Fernando Varela",
+                "players_rating": "",
+                "Country": "Cape Verde",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (26.11.1987)",
+                "Market Value": "€191k",
+                "unicode": "2yeyyeU7"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Limnios D.",
+                "players_number": "18",
+                "Full Name": "Dimitrios Limnios",
+                "players_rating": "",
+                "Country": "Greece",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (27.05.1998)",
+                "Market Value": "€817k",
+                "unicode": "fF8VtkpU"
+            },
+            {
+                "players_name": "Misic J.",
+                "players_number": "27",
+                "Full Name": "Josip Misic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (28.06.1994)",
+                "Market Value": "€2.5m",
+                "unicode": "fZGwievc"
+            },
+            {
+                "players_name": "Swiderski K.",
+                "players_number": "9",
+                "Full Name": "Karol Swiderski",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.01.1997)",
+                "Market Value": "€6.0m",
+                "unicode": "zkCQVwVh"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Augusto D.",
+                "players_number": "33",
+                "Full Name": "Douglas Augusto",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (13.01.1997)",
+                "Market Value": "€5.5m",
+                "unicode": "AsPIAoni"
+            },
+            {
+                "players_name": "Ingason S. I.",
+                "players_number": "4",
+                "Full Name": "Sverrir Ingi Ingason",
+                "players_rating": "",
+                "Country": "Iceland",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.08.1993)",
+                "Market Value": "€3.9m",
+                "unicode": "zHAc6d71"
+            },
+            {
+                "players_name": "Stoch M.",
+                "players_number": "99",
+                "Full Name": "Miroslav Stoch",
+                "players_rating": "",
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (19.10.1989)",
+                "Market Value": "",
+                "unicode": "dW58Y3b9"
+            },
+            {
+                "players_name": "Zivkovic Z. (G)",
+                "players_number": "88",
+                "Full Name": "Zivko Zivkovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (14.04.1989)",
+                "Market Value": "€298k",
+                "unicode": "2g0hfWbq"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Craig Pawson is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! PAOK will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:04",
+            "comments_type": "clearance",
+            "comments_text": "Dimitrios Pelkas (PAOK) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:15",
+            "comments_type": "foul with no card",
+            "comments_text": "Leo Matos (PAOK) brings his opponent down. Craig Pawson has a clear sight of it and blows his whistle for a foul. Ajax are awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] are awarded a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:50",
+            "comments_type": "clearance",
+            "comments_text": "Hakim Ziyech (Ajax) whips in the resulting set piece but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:48",
+            "comments_type": "lead to corner",
+            "comments_text": "Half-chance! Donny van de Beek (Ajax) plays a pass into the box, but Alexandros Paschalakis reacts well to snuff out the attack. The ball goes out of play. Ajax are awarded a corner kick.",
+            "comments_text_anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:38",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Ajax.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:49",
+            "comments_type": "corner",
+            "comments_text": "Ajax take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Dusan Tadic (Ajax) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The referee signals a corner kick to Ajax.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "corner",
+            "comments_text": "Ajax failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:51",
+            "comments_type": "shot off target",
+            "comments_text": "Chuba Akpom (PAOK) lacks options so fires a shot at goal from the edge of box, but it's a wasted effort and goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lacks options so fires a shot at goal from the edge of box, but it's a wasted effort and goes high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Hakim Ziyech (Ajax) commits a foul and Craig Pawson immediately signals a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:11",
+            "comments_type": "clearance",
+            "comments_text": "David Neres (Ajax) plays a through ball inside the box, but it's too strong and Alexandros Paschalakis comes off his line to intercept.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:55",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from PAOK is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:40",
+            "comments_type": "injury",
+            "comments_text": "Leo Matos (PAOK) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:50",
+            "comments_type": "goal",
+            "comments_text": "Diego Biseswar (PAOK) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:41",
+            "comments_type": "yellow card",
+            "comments_text": "Tempers flare after a clattering challenge by Lisandro Martinez (Ajax), who receives a yellow card from the referee. It could have been worse for him!",
+            "comments_text_anonymized": "Tempers flare after a clattering challenge by [PLAYER] ([TEAM]), who receives a yellow card from the referee. It could have been worse for him!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:20",
+            "comments_type": "clearance",
+            "comments_text": "Ajax couldn't find the way to score from a mid-range free kick as Alexandros Paschalakis (PAOK) leaped high and intercepted the cross.",
+            "comments_text_anonymized": "[TEAM] couldn't find the way to score from a mid-range free kick as [PLAYER] ([TEAM]) leaped high and intercepted the cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:28",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Craig Pawson blows his whistle. Fernando Varela (PAOK) commits a foul after dangerous play. That's a penalty to Ajax! They have a good chance to score now.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. That's a penalty to [TEAM]! They have a good chance to score now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:38",
+            "comments_type": "yellow card",
+            "comments_text": "Dimitrios Pelkas (PAOK) attempts to discuss the decision with Craig Pawson, but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to discuss the decision with [REFEREE], but he soon realises that it's not the right thing to do as he sees the yellow."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:40",
+            "comments_type": "free kick",
+            "comments_text": "Dusan Tadic (Ajax) will take the responsibility and he is already preparing the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:10",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Dusan Tadic (Ajax) has a great chance to score from the penalty. He shoots to the left post, but Alexandros Paschalakis leaps out to thwart his attempt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a great chance to score from the penalty. He shoots to the left post, but [PLAYER] leaps out to thwart his attempt."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:59",
+            "comments_type": "free kick",
+            "comments_text": "Hakim Ziyech (Ajax) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:19",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) takes the corner, but it's intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:34",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The ball spins up and hits the hand of Fernando Varela (PAOK) after he fails to control it and the referee blows his whistle for a foul. PENALTY AWARDED to Ajax!",
+            "comments_text_anonymized": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul. PENALTY AWARDED to [TEAM]!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:20",
+            "comments_type": "penalty",
+            "comments_text": "Dusan Tadic (Ajax) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:31",
+            "comments_type": "goal",
+            "comments_text": "Dusan Tadic (Ajax) sends Alexandros Paschalakis the wrong way and fires the penalty into the middle of the goal!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends [PLAYER] the wrong way and fires the penalty into the middle of the goal!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:30",
+            "comments_type": "clearance",
+            "comments_text": "Dimitrios Pelkas (PAOK) floats the free kick into the box, but it's easily cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:15",
+            "comments_type": "corner",
+            "comments_text": "PAOK have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:14",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:30",
+            "comments_type": "substitution",
+            "comments_text": "Erik Ten Hag makes a half-time substitution. Sergino Dest (Ajax) comes on in place of Razvan Marin.",
+            "comments_text_anonymized": "Erik Ten Hag makes a half-time substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "shot off target",
+            "comments_text": "Hakim Ziyech (Ajax) unleashes a shot, but his effort is poor and flies well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot, but his effort is poor and flies well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:30",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) steps up to send the ball in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:06",
+            "comments_type": "corner",
+            "comments_text": "The corner from Dimitrios Pelkas (PAOK) is hurriedly cleared.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:35",
+            "comments_type": "yellow card",
+            "comments_text": "Craig Pawson shows a yellow card to Omar El Kaddouri (PAOK) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:20",
+            "comments_type": "shot off target",
+            "comments_text": "Hakim Ziyech (Ajax) is unable to get the free-kick over the defensive wall from mid-range.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to get the free-kick over the defensive wall from mid-range."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:10",
+            "comments_type": "injury",
+            "comments_text": "Dusan Tadic (Ajax) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:25",
+            "comments_type": "injury",
+            "comments_text": "Dusan Tadic (Ajax) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:46",
+            "comments_type": "yellow card",
+            "comments_text": "Alexandros Paschalakis (PAOK) was probably a bit loose with his words to Craig Pawson, who decides to show him a yellow.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:54",
+            "comments_type": "corner",
+            "comments_text": "Ajax take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "off side",
+            "comments_text": "David Neres (Ajax) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:51",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Sergino Dest (Ajax) is worthy of a card and a yellow is duly shown by Craig Pawson.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:53",
+            "comments_type": "shot off target",
+            "comments_text": "David Neres (Ajax) leans back and sends a volley well wide of the left post from inside the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) leans back and sends a volley well wide of the left post from inside the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:30",
+            "comments_type": "substitution",
+            "comments_text": "Abel Ferreira decides to make a substitution. Dimitrios Pelkas will be replaced by Karol Swiderski (PAOK).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:13",
+            "comments_type": "yellow card",
+            "comments_text": "Dimitris Giannoulis (PAOK) is booked.",
+            "comments_text_anonymized": "Dimitris [PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:30",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Anderson Esiti (PAOK) should know this behaviour is beyond the rules. He was too careless with his challenge and left Craig Pawson no option but to blow his whistle. Ajax win a free kick. It's a promising situation for a direct shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Hakim Ziyech (Ajax) is cleared by the opposition's defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:48",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) serves up a nice cross, but Alexandros Paschalakis punches the ball away. The referee and his assistant both point at the corner flag. Ajax will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:37",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:34",
+            "comments_type": "substitution",
+            "comments_text": "The substitution is prepared. Dimitrios Limnios (PAOK) joins the action as a substitute, replacing Leo Jaba.",
+            "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "The ball possession at the moment is 61:39.",
+            "comments_text_anonymized": "The ball possession at the moment is 61:39."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:16",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:20",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Klaas-Jan Huntelaar (Ajax) will replace David Neres.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:54",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! Hakim Ziyech launched the corner kick and superbly found the head of Nicolas Tagliafico (Ajax), whose accurate effort from near the penalty spot went straight into the bottom left corner. It's 2:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] launched the corner kick and superbly found the head of [PLAYER] ([TEAM]), whose accurate effort from near the penalty spot went straight into the bottom left corner. It's 2:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:23",
+            "comments_type": "yellow card",
+            "comments_text": "Is that a yellow card in the referee's hand? It is! Diego Biseswar (PAOK) gets booked.",
+            "comments_text_anonymized": "Is that a yellow card in the referee's hand? It is! [PLAYER] ([TEAM]) gets booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:21",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Anderson Esiti is going off and Abel Ferreira gives the last tactical orders to Josip Misic (PAOK).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:55",
+            "comments_type": "corner",
+            "comments_text": "Hakim Ziyech (Ajax) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Leo Matos (PAOK) makes an overly-aggressive challenge and Craig Pawson blows his whistle for a foul. The referee gives a penalty kick to Ajax!!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. The referee gives a penalty kick to [TEAM]!!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:10",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card for a tackle by Leo Matos (PAOK). Craig Pawson doesn't hesitate at all to make this decision.",
+            "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:50",
+            "comments_type": "penalty",
+            "comments_text": "Dusan Tadic (Ajax) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:45",
+            "comments_type": "goal",
+            "comments_text": "Goal! Dusan Tadic (Ajax) wins the battle of wills and sends an unstoppable penalty past Alexandros Paschalakis into middle of the goal.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:30",
+            "comments_type": "substitution",
+            "comments_text": "Erik Ten Hag has decided to introduce fresh legs, with Dani de Wit (Ajax) replacing Donny van de Beek.",
+            "comments_text_anonymized": "Erik Ten Hag has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "4 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:08",
+            "comments_type": "goal",
+            "comments_text": "Diego Biseswar (PAOK) breaks through the defence and scores a brilliant goal from outside the penalty area after firing the ball inside the right post!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks through the defence and scores a brilliant goal from outside the penalty area after firing the ball inside the right post!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:10",
+            "comments_type": "yellow card",
+            "comments_text": "Yellow card! It's like Andre Onana (Ajax) was asking for a caution with his behaviour. Craig Pawson agrees and books him.",
+            "comments_text_anonymized": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:23",
+            "comments_type": "yellow card",
+            "comments_text": "Jose Angel Crespo (PAOK) picks up a yellow card.",
+            "comments_text_anonymized": "Jose Angel [PLAYER] ([TEAM]) picks up a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:00",
+            "comments_type": "yellow card",
+            "comments_text": "Dimitrios Limnios (PAOK) is penalised.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:36",
+            "comments_type": "end of half game",
+            "comments_text": "Craig Pawson is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

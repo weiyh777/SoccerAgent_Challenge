@@ -1,0 +1,1233 @@
+{
+    "match_info": {
+        "timestamp": "2021-05-23 00:00:00",
+        "score": "0 - 1",
+        "home_team": "Eibar",
+        "away_team": "Barcelona",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "3 - 4 - 2 - 1",
+        "venue": "Estadio Municipal de Ipurua (Eibar)",
+        "capacity": "8 164",
+        "attendance": "",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Latre S. (Esp)",
+        "first_name": "Latre",
+        "abbr_last_name": "S",
+        "country": "Esp",
+        "detected_name": "Santiago Jaime Latre"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Koeman R.",
+                "players_number": "",
+                "Full Name": "Ronald Koeman",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (21.03.1963)",
+                "Market Value": "",
+                "unicode": "vHeYAvb2"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Coutinho",
+                "players_number": "",
+                "Full Name": "Philippe Coutinho",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (12.06.1992)",
+                "Market Value": "€8.7m",
+                "unicode": "QP6r8H7O"
+            },
+            {
+                "players_name": "Fati A.",
+                "players_number": "",
+                "Full Name": "Ansu Fati",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (31.10.2002)",
+                "Market Value": "€27.4m",
+                "unicode": "dUPVnxzP"
+            },
+            {
+                "players_name": "Lenglet C.",
+                "players_number": "",
+                "Full Name": "Clement Lenglet",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (17.06.1995)",
+                "Market Value": "€7.8m",
+                "unicode": "rH0mL7ws"
+            },
+            {
+                "players_name": "Messi L.",
+                "players_number": "",
+                "Full Name": "Lionel Messi",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (24.06.1987)",
+                "Market Value": "€40.2m",
+                "unicode": "vgOOdZbd"
+            },
+            {
+                "players_name": "Pedri",
+                "players_number": "",
+                "Full Name": "Pedri",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (25.11.2002)",
+                "Market Value": "€88.1m",
+                "unicode": "baBG8QuI"
+            },
+            {
+                "players_name": "Roberto S.",
+                "players_number": "",
+                "Full Name": "Sergi Roberto",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (07.02.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "W2R804U4"
+            },
+            {
+                "players_name": "ter Stegen M.",
+                "players_number": "",
+                "Full Name": "Marc-Andre ter Stegen",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (30.04.1992)",
+                "Market Value": "€33.8m",
+                "unicode": "byxc46yl"
+            },
+            {
+                "players_name": "Wague M.",
+                "players_number": "",
+                "Full Name": "Moussa Wague",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (04.10.1998)",
+                "Market Value": "€726k",
+                "unicode": "rNqXaWzo"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Araujo R.",
+                "players_number": "4",
+                "Full Name": "Ronald Araujo",
+                "players_rating": 7.8,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (07.03.1999)",
+                "Market Value": "€67.5m",
+                "unicode": "M3sbJix9"
+            },
+            {
+                "players_name": "Busquets S. (C)",
+                "players_number": "5",
+                "Full Name": "Sergio Busquets",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (16.07.1988)",
+                "Market Value": "€2.9m",
+                "unicode": "CU4pL3ue"
+            },
+            {
+                "players_name": "de Jong F.",
+                "players_number": "21",
+                "Full Name": "Frenkie de Jong",
+                "players_rating": 6.9,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.05.1997)",
+                "Market Value": "€80.6m",
+                "unicode": "A1F3rz9c"
+            },
+            {
+                "players_name": "Dembele O.",
+                "players_number": "11",
+                "Full Name": "Ousmane Dembele",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (15.05.1997)",
+                "Market Value": "€61.3m",
+                "unicode": "zsMC2Ec0"
+            },
+            {
+                "players_name": "Dest S.",
+                "players_number": "2",
+                "Full Name": "Sergino Dest",
+                "players_rating": 7.0,
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.11.2000)",
+                "Market Value": "€17.6m",
+                "unicode": "lOQwOgTR"
+            },
+            {
+                "players_name": "Firpo J.",
+                "players_number": "24",
+                "Full Name": "Junior Firpo",
+                "players_rating": 6.3,
+                "Country": "Dominican Republic",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (22.08.1996)",
+                "Market Value": "€4.8m",
+                "unicode": "hhe17rb7"
+            },
+            {
+                "players_name": "Griezmann A.",
+                "players_number": "7",
+                "Full Name": "Antoine Griezmann",
+                "players_rating": 7.9,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (21.03.1991)",
+                "Market Value": "€26.9m",
+                "unicode": "OxCa1jdT"
+            },
+            {
+                "players_name": "Mingueza O.",
+                "players_number": "28",
+                "Full Name": "Oscar Mingueza",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (13.05.1999)",
+                "Market Value": "€5.7m",
+                "unicode": "YkHSwt2b"
+            },
+            {
+                "players_name": "Moriba I.",
+                "players_number": "27",
+                "Full Name": "Ilaix Moriba",
+                "players_rating": 6.6,
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (19.01.2003)",
+                "Market Value": "€2.9m",
+                "unicode": "MoAntFV8"
+            },
+            {
+                "players_name": "Neto (G)",
+                "players_number": "13",
+                "Full Name": "Neto",
+                "players_rating": 7.5,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (19.07.1989)",
+                "Market Value": "€2.5m",
+                "unicode": "dbGArTGd"
+            },
+            {
+                "players_name": "Trincao",
+                "players_number": "17",
+                "Full Name": "Trincao",
+                "players_rating": 6.7,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (29.12.1999)",
+                "Market Value": "€9.9m",
+                "unicode": "vmYemyQS"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Alba J.",
+                "players_number": "18",
+                "Full Name": "Jordi Alba",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (21.03.1989)",
+                "Market Value": "€3.0m",
+                "unicode": "42SIX9sl"
+            },
+            {
+                "players_name": "Braithwaite M.",
+                "players_number": "9",
+                "Full Name": "Martin Braithwaite",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (05.06.1991)",
+                "Market Value": "€3.3m",
+                "unicode": "IsfUI7H4"
+            },
+            {
+                "players_name": "Pjanic M.",
+                "players_number": "8",
+                "Full Name": "Miralem Pjanic",
+                "players_rating": 6.5,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.04.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "ObHi3HbL"
+            },
+            {
+                "players_name": "Puig R.",
+                "players_number": "12",
+                "Full Name": "Riqui Puig",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (13.08.1999)",
+                "Market Value": "€12.8m",
+                "unicode": "GxVEgL1o"
+            },
+            {
+                "players_name": "Umtiti S.",
+                "players_number": "23",
+                "Full Name": "Samuel Umtiti",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (14.11.1993)",
+                "Market Value": "€2.9m",
+                "unicode": "zsH7aMfI"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "de la Fuente K.",
+                "players_number": "29",
+                "Full Name": "Konrad de la Fuente",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (16.07.2001)",
+                "Market Value": "€922k",
+                "unicode": "I1DZYWNr"
+            },
+            {
+                "players_name": "Matheus Fernandes",
+                "players_number": "19",
+                "Full Name": "Matheus Fernandes",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€2.0m",
+                "unicode": "6HUilY58"
+            },
+            {
+                "players_name": "Pena I. (G)",
+                "players_number": "26",
+                "Full Name": "Inaki Pena",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (02.03.1999)",
+                "Market Value": "30.06.2026",
+                "unicode": "M1W3ZQSs"
+            },
+            {
+                "players_name": "Pique G.",
+                "players_number": "3",
+                "Full Name": "Gerard Pique",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (02.02.1987)",
+                "Market Value": "",
+                "unicode": "fRBrHCRh"
+            },
+            {
+                "players_name": "Tenas A. (G)",
+                "players_number": "36",
+                "Full Name": "Arnau Tenas",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (30.05.2001)",
+                "Market Value": "€5.0m",
+                "unicode": "CnNoZhXr"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Mendilibar J. L.",
+                "players_number": "",
+                "Full Name": "Jose Luis Mendilibar",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "62,  (14.03.1961)",
+                "Market Value": "",
+                "unicode": "vy8l9QZi"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Arbilla A.",
+                "players_number": "23",
+                "Full Name": "Anaitz Arbilla",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (15.05.1987)",
+                "Market Value": "€397k",
+                "unicode": "I5wpPbNu"
+            },
+            {
+                "players_name": "Atienza M.",
+                "players_number": "33",
+                "Full Name": "Miguel Atienza",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (27.05.1999)",
+                "Market Value": "€868k",
+                "unicode": "0poEwxl4"
+            },
+            {
+                "players_name": "Correa R.",
+                "players_number": "20",
+                "Full Name": "Roberto Correa",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.09.1992)",
+                "Market Value": "€363k",
+                "unicode": "vVQWw4MA"
+            },
+            {
+                "players_name": "Diop P.",
+                "players_number": "8",
+                "Full Name": "Pape Diop",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (19.03.1986)",
+                "Market Value": "",
+                "unicode": "0ExAawcP"
+            },
+            {
+                "players_name": "Enrich S.",
+                "players_number": "9",
+                "Full Name": "Sergio Enrich",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (26.02.1990)",
+                "Market Value": "€545k",
+                "unicode": "rF4Be8Yj"
+            },
+            {
+                "players_name": "Garcia K. (C)",
+                "players_number": "17",
+                "Full Name": "Kike Garcia",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (25.11.1989)",
+                "Market Value": "€1.4m",
+                "unicode": "GfoivbEm"
+            },
+            {
+                "players_name": "Gil B.",
+                "players_number": "25",
+                "Full Name": "Bryan Gil",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (11.02.2001)",
+                "Market Value": "€14.8m",
+                "unicode": "xSXBYlvl"
+            },
+            {
+                "players_name": "Inui T.",
+                "players_number": "14",
+                "Full Name": "Takashi Inui",
+                "players_rating": 6.7,
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (02.06.1988)",
+                "Market Value": "31.01.2025",
+                "unicode": "xrLbfBdj"
+            },
+            {
+                "players_name": "Oliveira P.",
+                "players_number": "4",
+                "Full Name": "Paulo Oliveira",
+                "players_rating": 6.9,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.01.1992)",
+                "Market Value": "€2.0m",
+                "unicode": "4Mw7teb8"
+            },
+            {
+                "players_name": "Rafa",
+                "players_number": "11",
+                "Full Name": "Rafa",
+                "players_rating": 6.7,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (09.05.1995)",
+                "Market Value": "€1.5m",
+                "unicode": "zyZYiZzt"
+            },
+            {
+                "players_name": "Yoel (G)",
+                "players_number": "13",
+                "Full Name": "Yoel",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (28.08.1988)",
+                "Market Value": "€369k",
+                "unicode": "vuG4kXUC"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Alvarez S.",
+                "players_number": "6",
+                "Full Name": "Sergio Alvarez",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.01.1992)",
+                "Market Value": "€1.2m",
+                "unicode": "WANBOspq"
+            },
+            {
+                "players_name": "Bigas P.",
+                "players_number": "3",
+                "Full Name": "Pedro Bigas",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (15.05.1990)",
+                "Market Value": "€950k",
+                "unicode": "8docB4Zn"
+            },
+            {
+                "players_name": "Leon P.",
+                "players_number": "21",
+                "Full Name": "Pedro Leon",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (24.11.1986)",
+                "Market Value": "30.06.2024",
+                "unicode": "UoZxWaTS"
+            },
+            {
+                "players_name": "Pozo A.",
+                "players_number": "22",
+                "Full Name": "Alejandro Pozo",
+                "players_rating": 5.9,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (22.02.1999)",
+                "Market Value": "€2.8m",
+                "unicode": "lEgtMYw4"
+            },
+            {
+                "players_name": "Quique",
+                "players_number": "7",
+                "Full Name": "Quique",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (16.05.1990)",
+                "Market Value": "€553k",
+                "unicode": "jPn4Eprf"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Burgos E.",
+                "players_number": "2",
+                "Full Name": "Esteban Burgos",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "€447k, (09.01.1992)",
+                "Market Value": "30.06.2024",
+                "unicode": "n5eS7cxL"
+            },
+            {
+                "players_name": "Cote",
+                "players_number": "15",
+                "Full Name": "Cote",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.09.1989)",
+                "Market Value": "",
+                "unicode": "IT0uBnYR"
+            },
+            {
+                "players_name": "Garcia A.",
+                "players_number": "19",
+                "Full Name": "Aleix Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (28.06.1997)",
+                "Market Value": "€20.1m",
+                "unicode": "QD7noPXB"
+            },
+            {
+                "players_name": "Magunagoitia J. (G)",
+                "players_number": "30",
+                "Full Name": "Jonmi Magunagoitia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "23, (06.08.2000)",
+                "Market Value": "€272k",
+                "unicode": "U97akWoJ"
+            },
+            {
+                "players_name": "Muto Y.",
+                "players_number": "12",
+                "Full Name": "Yoshinori Muto",
+                "players_rating": "",
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.07.1992)",
+                "Market Value": "€1.8m",
+                "unicode": "8bbTIqDq"
+            },
+            {
+                "players_name": "Recio",
+                "players_number": "18",
+                "Full Name": "Recio",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.01.1991)",
+                "Market Value": "30.06.2024",
+                "unicode": "KpulmyE9"
+            },
+            {
+                "players_name": "Rodrigues K.",
+                "players_number": "24",
+                "Full Name": "Kevin Rodrigues",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "€2.0m, (05.03.1994)",
+                "Market Value": "30.06.2025",
+                "unicode": "xnl3WgEP"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Santiago Jaime Latre will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Barcelona will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:53",
+            "comments_type": "foul with no card",
+            "comments_text": "A clumsy foul by Ilaix Moriba (Barcelona) and Santiago Jaime Latre blows his whistle.",
+            "comments_text_anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:55",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Rafa (Eibar) sends a cross into the box, but Neto comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:53",
+            "comments_type": "ball possession",
+            "comments_text": "Barcelona seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Trincao (Barcelona) is penalised after knocking an opponent down.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:24",
+            "comments_type": "lead to corner",
+            "comments_text": "Rafa (Eibar) tries to pass the ball into the penalty area but it's blocked. The ball goes out of play and Eibar have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:10",
+            "comments_type": "corner",
+            "comments_text": "Bryan Gil (Eibar) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:14",
+            "comments_type": "shot off target",
+            "comments_text": "Frenkie de Jong (Barcelona) plays a through ball but overhits it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:25",
+            "comments_type": "ball possession",
+            "comments_text": "Sergio Busquets (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Takashi Inui (Eibar) trips an opposition player and Santiago Jaime Latre signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:26",
+            "comments_type": "clearance",
+            "comments_text": "Ousmane Dembele (Barcelona) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A neat pass is well received by Bryan Gil (Eibar), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot.",
+            "comments_text_anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:12",
+            "comments_type": "clearance",
+            "comments_text": "Sergio Enrich (Eibar) attempts to release Takashi Inui with a through ball, but his effort is thwarted by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to release [PLAYER] with a through ball, but his effort is thwarted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:22",
+            "comments_type": "corner",
+            "comments_text": "What a great touch by Sergio Enrich (Eibar) as he controls a fine pass into the box and takes a shot to the bottom left corner, but an opposing player makes a clearance. Great defending. The referee and his assistant both point at the corner flag. Eibar will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the bottom left corner, but an opposing player makes a clearance. Great defending. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:36",
+            "comments_type": "corner",
+            "comments_text": "Bryan Gil (Eibar) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:45",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Bryan Gil (Eibar) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Pape Diop (Eibar) makes an overly-aggressive challenge and Santiago Jaime Latre blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:52",
+            "comments_type": "yellow card",
+            "comments_text": "The referee had an easy-decision to make. A yellow card is given to Junior Firpo (Barcelona) for a foul that he committed a little earlier.",
+            "comments_text_anonymized": "The referee had an easy-decision to make. A yellow card is given to [PLAYER] ([TEAM]) for a foul that he committed a little earlier."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:20",
+            "comments_type": "shot off target",
+            "comments_text": "Pape Diop (Eibar) misses a good chance to score. A perfect cross into the box finds Pape Diop (Eibar) who rises for a header, but he sends the ball well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. A perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:05",
+            "comments_type": "clearance",
+            "comments_text": "Frenkie de Jong (Barcelona) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Junior Firpo (Barcelona) pulls the jersey of one of the opposition players and Santiago Jaime Latre blows his whistle for a foul. A free kick has been awarded to Eibar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:08",
+            "comments_type": "shot off target",
+            "comments_text": "Paulo Oliveira (Eibar) expertly wins the ball from the free kick, but his effort from the edge of the penalty area isn't accurate at all and the ball goes high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) expertly wins the ball from the free kick, but his effort from the edge of the penalty area isn't accurate at all and the ball goes high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Garcia Kike (Eibar) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play. Eibar will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] Kike ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:41",
+            "comments_type": "corner",
+            "comments_text": "Bryan Gil (Eibar) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:40",
+            "comments_type": "clearance",
+            "comments_text": "Antoine Griezmann (Barcelona) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:37",
+            "comments_type": "foul with no card",
+            "comments_text": "Santiago Jaime Latre blows his whistle after Oscar Mingueza (Barcelona) brings one of his opponents down with a strong tackle.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:02",
+            "comments_type": "foul with no card",
+            "comments_text": "Pape Diop (Eibar) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:32",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Ousmane Dembele (Barcelona) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:08",
+            "comments_type": "injury",
+            "comments_text": "Bryan Gil (Eibar) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Antoine Griezmann (Barcelona) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. Barcelona earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. [TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:22",
+            "comments_type": "corner",
+            "comments_text": "Barcelona failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:38",
+            "comments_type": "injury",
+            "comments_text": "Bryan Gil (Eibar) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:40",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Takashi Inui (Eibar) attempted to dribble past an opposing player. Now Eibar have a corner.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:32",
+            "comments_type": "corner",
+            "comments_text": "Bryan Gil (Eibar) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:10",
+            "comments_type": "ball possession",
+            "comments_text": "Ilaix Moriba (Barcelona) tries to create a chance, but puts too much weight on his pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:42",
+            "comments_type": "shot off target",
+            "comments_text": "Garcia Kike (Eibar) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar!",
+            "comments_text_anonymized": "[PLAYER] Kike ([TEAM]) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 1 min. of added time.",
+            "comments_text_anonymized": "We will have 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Miguel Atienza (Eibar) robs an opponent of the ball and explodes in anger when Santiago Jaime Latre blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:26",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half gets underway.",
+            "comments_text_anonymized": "The second half gets underway."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Jose Mendilibar makes a switch. Pedro Leon is coming on in place of Bryan Gil (Eibar) at the start of the second period.",
+            "comments_text_anonymized": "Jose [PLAYER] makes a switch. [PLAYER] is coming on in place of [PLAYER] ([TEAM]) at the start of the second period."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Trincao (Barcelona) will not participate anymore and Martin Braithwaite is coming on.",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] ([TEAM]) will not participate anymore and [PLAYER] is coming on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "The teams are back out for the second half and here is a change on the pitch. Ronald Koeman gives a chance to Jordi Alba and Junior Firpo (Barcelona) is off.",
+            "comments_text_anonymized": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] and [PLAYER] ([TEAM]) is off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "Ronald Koeman makes a half-time substitution. Samuel Umtiti comes on in place of Oscar Mingueza (Barcelona).",
+            "comments_text_anonymized": "[PLAYER] makes a half-time substitution. [PLAYER] comes on in place of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:32",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Martin Braithwaite (Barcelona) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:10",
+            "comments_type": "clearance",
+            "comments_text": "Antoine Griezmann (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:56",
+            "comments_type": "clearance",
+            "comments_text": "Takashi Inui (Eibar) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:25",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ousmane Dembele (Barcelona) plays a through ball inside the box, but it's too strong and Yoel comes off his line to intercept.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:42",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Ilaix Moriba (Barcelona) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:16",
+            "comments_type": "substitution",
+            "comments_text": "Ronald Koeman is forced to make a change. Ilaix Moriba is not able to carry on due to injury. He is replaced by Ricard Puig (Barcelona).",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by Ricard [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Another attempt to send the ball beyond the defence by Ousmane Dembele (Barcelona) is thwarted and cleared to safety. The ball is out of play and Barcelona manage to earn a corner.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "corner",
+            "comments_text": "Nothing comes of the resulting corner from Ousmane Dembele (Barcelona). The defence is alert and manages to cut it out.",
+            "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Santiago Jaime Latre blows his whistle and it's Ousmane Dembele (Barcelona) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:40",
+            "comments_type": "clearance",
+            "comments_text": "Ousmane Dembele (Barcelona) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:21",
+            "comments_type": "lead to corner",
+            "comments_text": "Rafa (Eibar) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball goes out of play. Eibar are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:55",
+            "comments_type": "corner",
+            "comments_text": "Eibar failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:42",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Sergio Alvarez (Eibar) replaces Pape Diop.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Sergio Enrich (Eibar) fouls an opponent during an attacking move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent during an attacking move."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Santiago Jaime Latre sees the trip by Sergio Busquets (Barcelona) and doesn't hesitate to blow his whistle. Eibar have a free kick.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:40",
+            "comments_type": "shot off target",
+            "comments_text": "Pedro Leon (Eibar) steps up and sends the mid-range free kick miles over the bar. Strong but inaccurate shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up and sends the mid-range free kick miles over the bar. Strong but inaccurate shot."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:01",
+            "comments_type": "lead to corner",
+            "comments_text": "Martin Braithwaite (Barcelona) fails to find any of his teammates inside the box as his pass is blocked. Barcelona force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:21",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner, taken by Ousmane Dembele (Barcelona), comes to nothing.",
+            "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:33",
+            "comments_type": "shot off target",
+            "comments_text": "Ousmane Dembele (Barcelona) cuts inside after a good run and goes for glory from the edge of the box. The shot, though, flies high over the bar into row Z.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) cuts inside after a good run and goes for glory from the edge of the box. The shot, though, flies high over the bar into row Z."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:52",
+            "comments_type": "shot off target",
+            "comments_text": "Jordi Alba (Barcelona) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:07",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card is awarded to Sergio Busquets (Barcelona).",
+            "comments_text_anonymized": "A yellow card is awarded to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:30",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Miralem Pjanic (Barcelona) is brought on as a substitute for Frenkie de Jong.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:09",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Roberto Correa is going off and Jose Mendilibar gives the last tactical orders to Alejandro Pozo (Eibar).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and Jose [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:22",
+            "comments_type": "substitution",
+            "comments_text": "Jose Mendilibar prepares a substitution. Paulo Oliveira is replaced by Pedro Bigas (Eibar).",
+            "comments_text_anonymized": "Jose [PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:41",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Quique (Eibar) in, Sergio Enrich out.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:41",
+            "comments_type": "yellow card",
+            "comments_text": "Ronald Araujo (Barcelona) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:22",
+            "comments_type": "free kick",
+            "comments_text": "A free kick is awarded from a very dangerous distance. It's situated just a few metres from outside the box. Several players gather around the ball, but it seems like Anaitz Arbilla (Eibar) is going to have a crack himself.",
+            "comments_text_anonymized": "A free kick is awarded from a very dangerous distance. It's situated just a few metres from outside the box. Several players gather around the ball, but it seems like [PLAYER] ([TEAM]) is going to have a crack himself."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:00",
+            "comments_type": "free kick",
+            "comments_text": "Anaitz Arbilla (Eibar) takes the free-kick from mid-range but it's blocked by the defensive wall. Good work from Eibar as they win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free-kick from mid-range but it's blocked by the defensive wall. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:07",
+            "comments_type": "corner",
+            "comments_text": "Eibar failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:33",
+            "comments_type": "goal",
+            "comments_text": "Goal! Antoine Griezmann (Barcelona) gathered the ball off a rebound inside the box and fired home into the right side of the net.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) gathered the ball off a rebound inside the box and fired home into the right side of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:23",
+            "comments_type": "shot off target",
+            "comments_text": "Antoine Griezmann (Barcelona) plays a through ball but overhits it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:31",
+            "comments_type": "clearance",
+            "comments_text": "Antoine Griezmann (Barcelona) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:25",
+            "comments_type": "foul with no card",
+            "comments_text": "Miralem Pjanic (Barcelona) brings his opponent down. Santiago Jaime Latre has a clear sight of it and blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:50",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Jordi Alba (Barcelona) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:14",
+            "comments_type": "shot off target",
+            "comments_text": "Takashi Inui (Eibar) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:31",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

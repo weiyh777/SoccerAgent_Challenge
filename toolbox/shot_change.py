@@ -4,7 +4,7 @@ from scenedetect.detectors import ContentDetector
 from moviepy import *
 import os
 
-PROJECT_PATH = "PROJECT_PATH" # Replace with actual project path
+PROJECT_PATH = "/root/autodl-tmp/SoccerAgent" # Replace with actual project path
 
 def is_video_file(file_path):
     video_extensions = ['.mp4', '.avi', '.mov', '.mkv', '.flv', '.wmv', '.webm']
@@ -43,7 +43,7 @@ def SHOT_CHANGE(query=None, material=[]):
         # print(f"Scene {i+1}: Start = {start_time} sec, End = {end_time} sec")
         change_time.append(end_time)
         scene_clip = video_clip.subclipped(start_time, end_time)
-        shot_path = f"{PROJECT_PATH}/YOUR_HELPER_FILES" # Replace with actual helper files path to save the temporary clips
+        shot_path = f"/root/autodl-tmp/SoccerAgent/helper_files" # Replace with actual helper files path to save the temporary clips
         os.makedirs(shot_path, exist_ok=True)
         new_video_path = f"{shot_path}/scene_{i+1}.mp4"
         output_path.append(new_video_path)

@@ -1,0 +1,988 @@
+{
+    "match_info": {
+        "timestamp": "2017-11-30 04:00:00",
+        "score": "0 - 3",
+        "home_team": "Stoke",
+        "away_team": "Liverpool",
+        "home_formation": "3 - 4 - 2 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Bet365 Stadium (Stoke on Trent)",
+        "capacity": "30 089",
+        "attendance": "29 423",
+        "home_jersey_color": "white and red",
+        "away_jersey_color": "orange"
+    },
+    "referee_data": {
+        "short_name_country": "Atkinson M. (Eng)",
+        "first_name": "Atkinson",
+        "abbr_last_name": "M",
+        "country": "Eng",
+        "detected_name": "Martin Atkinson"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Klopp J.",
+                "players_number": "",
+                "Full Name": "Jurgen Klopp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (16.06.1967)",
+                "Market Value": "",
+                "unicode": "x6CvOHH9"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bogdan A.",
+                "players_number": "",
+                "Full Name": "Adam Bogdan",
+                "players_rating": "",
+                "Country": "Hungary",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (27.09.1987)",
+                "Market Value": "",
+                "unicode": "Eaz4EAXu"
+            },
+            {
+                "players_name": "Clyne N.",
+                "players_number": "",
+                "Full Name": "Nathaniel Clyne",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (05.04.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "Eo9X2cTu"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Can E.",
+                "players_number": "23",
+                "Full Name": "Emre Can",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.01.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "YJu3hSpk"
+            },
+            {
+                "players_name": "Firmino R.",
+                "players_number": "9",
+                "Full Name": "Roberto Firmino",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (02.10.1991)",
+                "Market Value": "€9.7m",
+                "unicode": "CCNtplZe"
+            },
+            {
+                "players_name": "Gomez J.",
+                "players_number": "12",
+                "Full Name": "Joe Gomez",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€21.5m",
+                "unicode": "SKt9dxk8"
+            },
+            {
+                "players_name": "Lovren D.",
+                "players_number": "6",
+                "Full Name": "Dejan Lovren",
+                "players_rating": 7.4,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.07.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "GAcQF9Z6"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "19",
+                "Full Name": "Sadio Mane",
+                "players_rating": 8.6,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Matip J.",
+                "players_number": "32",
+                "Full Name": "Joel Matip",
+                "players_rating": 8.1,
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.08.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "tpHWp8Am"
+            },
+            {
+                "players_name": "Mignolet S. (G) (C)",
+                "players_number": "22",
+                "Full Name": "Simon Mignolet",
+                "players_rating": 6.4,
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (06.03.1988)",
+                "Market Value": "€2.7m",
+                "unicode": "YVcnMAp6"
+            },
+            {
+                "players_name": "Moreno A.",
+                "players_number": "18",
+                "Full Name": "Alberto Moreno",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.07.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pdBI3oS8"
+            },
+            {
+                "players_name": "Oxlade-Chamberlain A.",
+                "players_number": "21",
+                "Full Name": "Alex Oxlade-Chamberlain",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.08.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "WzNLf7VR"
+            },
+            {
+                "players_name": "Solanke D.",
+                "players_number": "29",
+                "Full Name": "Dominic Solanke",
+                "players_rating": 8.2,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (14.09.1997)",
+                "Market Value": "€24.5m",
+                "unicode": "OrADwZse"
+            },
+            {
+                "players_name": "Wijnaldum G.",
+                "players_number": "5",
+                "Full Name": "Georginio Wijnaldum",
+                "players_rating": 6.8,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.11.1990)",
+                "Market Value": "€4.8m",
+                "unicode": "f9KgUUZu"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Henderson J.",
+                "players_number": "14",
+                "Full Name": "Jordan Henderson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (17.06.1990)",
+                "Market Value": "€7.3m",
+                "unicode": "UFMlUD6r"
+            },
+            {
+                "players_name": "Milner J.",
+                "players_number": "7",
+                "Full Name": "James Milner",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (04.01.1986)",
+                "Market Value": "€936k",
+                "unicode": "QLY3kAEt"
+            },
+            {
+                "players_name": "Salah M.",
+                "players_number": "11",
+                "Full Name": "Mohamed Salah",
+                "players_rating": 8.1,
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.06.1992)",
+                "Market Value": "€69.1m",
+                "unicode": "08FBycgB"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Alexander-Arnold T.",
+                "players_number": "66",
+                "Full Name": "Trent Alexander-Arnold",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (07.10.1998)",
+                "Market Value": "€71.5m",
+                "unicode": "CEVJy6Bc"
+            },
+            {
+                "players_name": "Coutinho",
+                "players_number": "10",
+                "Full Name": "Philippe Coutinho",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (12.06.1992)",
+                "Market Value": "€8.7m",
+                "unicode": "QP6r8H7O"
+            },
+            {
+                "players_name": "Karius L. (G)",
+                "players_number": "1",
+                "Full Name": "Loris Karius",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (22.06.1993)",
+                "Market Value": "€1.1m",
+                "unicode": "MgWRUFHG"
+            },
+            {
+                "players_name": "Sturridge D.",
+                "players_number": "15",
+                "Full Name": "Daniel Sturridge",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (01.09.1989)",
+                "Market Value": "",
+                "unicode": "fwlDnzTg"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Hughes M",
+                "players_number": "",
+                "Full Name": "Mark Hughes",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (01.11.1963)",
+                "Market Value": "",
+                "unicode": "hpacrV6s"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Butland J.",
+                "players_number": "",
+                "Full Name": "Jack Butland",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (10.03.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "C4qdueLP"
+            },
+            {
+                "players_name": "Cameron G.",
+                "players_number": "",
+                "Full Name": "Geoff Cameron",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (11.07.1985)",
+                "Market Value": "",
+                "unicode": "OhATZouf"
+            },
+            {
+                "players_name": "Ireland S.",
+                "players_number": "",
+                "Full Name": "Stephen Ireland",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (22.08.1986)",
+                "Market Value": "",
+                "unicode": "Ugstqk3e"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Allen J.",
+                "players_number": "4",
+                "Full Name": "Joe Allen",
+                "players_rating": 6.7,
+                "Country": "Wales",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (14.03.1990)",
+                "Market Value": "€318k",
+                "unicode": "IeoNr67S"
+            },
+            {
+                "players_name": "Choupo-Moting E. M.",
+                "players_number": "10",
+                "Full Name": "Eric Maxim Choupo-Moting",
+                "players_rating": 6.0,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.03.1989)",
+                "Market Value": "€2.9m",
+                "unicode": "YBBM9RBF"
+            },
+            {
+                "players_name": "Crouch P.",
+                "players_number": "25",
+                "Full Name": "Peter Crouch",
+                "players_rating": 7.7,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "42, (30.01.1981)",
+                "Market Value": "",
+                "unicode": "zZnYVvzU"
+            },
+            {
+                "players_name": "Diouf M.",
+                "players_number": "18",
+                "Full Name": "Mame Diouf",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (16.12.1987)",
+                "Market Value": "€294k",
+                "unicode": "fJTyEOgR"
+            },
+            {
+                "players_name": "Fletcher D.",
+                "players_number": "24",
+                "Full Name": "Darren Fletcher",
+                "players_rating": 6.3,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (01.02.1984)",
+                "Market Value": "",
+                "unicode": "j3pIFABB"
+            },
+            {
+                "players_name": "Grant L. (G)",
+                "players_number": "33",
+                "Full Name": "Lee Grant",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (27.01.1983)",
+                "Market Value": "",
+                "unicode": "E5eJOWm2"
+            },
+            {
+                "players_name": "Martins Indi B.",
+                "players_number": "15",
+                "Full Name": "Bruno Martins Indi",
+                "players_rating": 6.3,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (08.02.1992)",
+                "Market Value": "€2.0m",
+                "unicode": "x4YGK71J"
+            },
+            {
+                "players_name": "Pieters E.",
+                "players_number": "3",
+                "Full Name": "Erik Pieters",
+                "players_rating": 6.3,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (07.08.1988)",
+                "Market Value": "€289k",
+                "unicode": "p21JPDFB"
+            },
+            {
+                "players_name": "Shaqiri X.",
+                "players_number": "22",
+                "Full Name": "Xherdan Shaqiri",
+                "players_rating": 6.5,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (10.10.1991)",
+                "Market Value": "€2.6m",
+                "unicode": "CKcCpcKN"
+            },
+            {
+                "players_name": "Shawcross R. (C)",
+                "players_number": "17",
+                "Full Name": "Ryan Shawcross",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (04.10.1987)",
+                "Market Value": "",
+                "unicode": "IV7Rp8FD"
+            },
+            {
+                "players_name": "Zouma K.",
+                "players_number": "6",
+                "Full Name": "Kurt Zouma",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (27.10.1994)",
+                "Market Value": "€24.1m",
+                "unicode": "SKosf7jl"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Adam C.",
+                "players_number": "16",
+                "Full Name": "Charles Graham Adam",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Coach",
+                "Age and Birthdate": "38, (10.12.1985)",
+                "Market Value": "",
+                "unicode": "d6KwHx8i"
+            },
+            {
+                "players_name": "Jese",
+                "players_number": "11",
+                "Full Name": "Jese",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€804k, (26.02.1993)",
+                "Market Value": "",
+                "unicode": "6BdSXunk"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Afellay I.",
+                "players_number": "14",
+                "Full Name": "Ibrahim Afellay",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (02.04.1986)",
+                "Market Value": "",
+                "unicode": "UTRnmBtF"
+            },
+            {
+                "players_name": "Berahino S.",
+                "players_number": "9",
+                "Full Name": "Saido Berahino",
+                "players_rating": "",
+                "Country": "Burundi",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (04.08.1993)",
+                "Market Value": "€396k",
+                "unicode": "YwlOPb6r"
+            },
+            {
+                "players_name": "Haugaard J. (G)",
+                "players_number": "29",
+                "Full Name": "Jakob Haugaard",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (01.05.1992)",
+                "Market Value": "€685k",
+                "unicode": "8dJBjPXJ"
+            },
+            {
+                "players_name": "Sobhi R.",
+                "players_number": "32",
+                "Full Name": "Ramadan Sobhi",
+                "players_rating": "",
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.01.1997)",
+                "Market Value": "€3.0m",
+                "unicode": "Awmmp4NH"
+            },
+            {
+                "players_name": "Wimmer K.",
+                "players_number": "5",
+                "Full Name": "Kevin Wimmer",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (15.11.1992)",
+                "Market Value": "€475k",
+                "unicode": "ATAc2gd9"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Martin Atkinson will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Stoke will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "clearance",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) serves up a nice cross, but Lee Grant punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:29",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Atkinson has a clear sight and sees a foul from Maxim Choupo-Moting (Stoke City).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from Maxim [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Xherdan Shaqiri (Stoke City) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:50",
+            "comments_type": "clearance",
+            "comments_text": "Alberto Moreno (Liverpool) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Georginio Wijnaldum (Liverpool) clearly handles the ball, but he is surprised when the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly handles the ball, but he is surprised when the referee blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:38",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Peter Crouch (Stoke City) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "clearance",
+            "comments_text": "Mame Diouf (Stoke City) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Erik Pieters (Stoke City). Martin Atkinson blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:49",
+            "comments_type": "clearance",
+            "comments_text": "Mame Diouf (Stoke City) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:17",
+            "comments_type": "off side",
+            "comments_text": "Sadio Mane (Liverpool) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) almost finds himself in a very promising position, but he is flagged offside by the linesman."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Maxim Choupo-Moting (Stoke City) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "Maxim [PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:36",
+            "comments_type": "goal",
+            "comments_text": "Goal - 0:1! Dominic Solanke tees up Sadio Mane (Liverpool) inside the box and he slams the ball past Lee Grant.",
+            "comments_text_anonymized": "Goal - 0:1! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box and he slams the ball past [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:27",
+            "comments_type": "corner",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "clearance",
+            "comments_text": "Roberto Firmino (Liverpool) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:00",
+            "comments_type": "clearance",
+            "comments_text": "Xherdan Shaqiri (Stoke City) sends a teasing cross into the area, but Simon Mignolet intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) makes a rough challenge and Martin Atkinson blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:40",
+            "comments_type": "clearance",
+            "comments_text": "Xherdan Shaqiri (Stoke City) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:22",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Darren Fletcher (Stoke City) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Simon Mignolet (Liverpool) tackles a bit over-zealously and Martin Atkinson blows for a foul. Stoke have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:03",
+            "comments_type": "yellow card",
+            "comments_text": "Simon Mignolet (Liverpool) is booked after bringing down an opponent. Martin Atkinson had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:36",
+            "comments_type": "corner",
+            "comments_text": "Xherdan Shaqiri (Stoke City) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Peter Crouch (Stoke City) jumps inside the box to meet the resulting corner and steers his header into the roof of the net, but the goalkeeper pulls off an astonishing save to deny him. The ball is out of play and Stoke manage to earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps inside the box to meet the resulting corner and steers his header into the roof of the net, but the goalkeeper pulls off an astonishing save to deny him. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:07",
+            "comments_type": "corner",
+            "comments_text": "The corner kick from Xherdan Shaqiri (Stoke City) is headed out of the penalty area by one of the defenders.",
+            "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:56",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Ryan Shawcross (Stoke City). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 1 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:45",
+            "comments_type": "end of half game",
+            "comments_text": "Martin Atkinson has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half has just started.",
+            "comments_text_anonymized": "The second half has just started."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Roberto Firmino (Liverpool) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Liverpool will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:58",
+            "comments_type": "corner",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. Liverpool earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. [TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:23",
+            "comments_type": "corner",
+            "comments_text": "Nothing comes of the resulting corner from Alex Oxlade-Chamberlain (Liverpool). The defence is alert and manages to cut it out.",
+            "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:30",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Peter Crouch (Stoke City) attempted to dribble past an opposing player. Corner kick. Stoke will have an opportunity.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:35",
+            "comments_type": "corner",
+            "comments_text": "Maxim Choupo-Moting (Stoke City) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "comments_text_anonymized": "Maxim [PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:40",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Kurt Zouma (Stoke City). The referee points to the corner flag and Stoke will take a corner.",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:50",
+            "comments_type": "corner",
+            "comments_text": "A dangerous looking corner kick from Maxim Choupo-Moting (Stoke City) is cleared to safety by the defence.",
+            "comments_text_anonymized": "A dangerous looking corner kick from Maxim [PLAYER] ([TEAM]) is cleared to safety by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:16",
+            "comments_type": "corner",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Emre Can (Liverpool) is penalised for holding. Martin Atkinson signals a set piece.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:19",
+            "comments_type": "yellow card",
+            "comments_text": "The game has begun to heat up. Emre Can (Liverpool) challenges an opponent and receives a deserved yellow card for his ugly tackle.",
+            "comments_text_anonymized": "The game has begun to heat up. [PLAYER] ([TEAM]) challenges an opponent and receives a deserved yellow card for his ugly tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Georginio Wijnaldum (Liverpool) jumps into a tackle and Martin Atkinson blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:06",
+            "comments_type": "yellow card",
+            "comments_text": "Martin Atkinson shows a yellow card to Georginio Wijnaldum (Liverpool) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Bruno Martins Indi (Stoke City) commits a rough challenge and Martin Atkinson blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:41",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Bruno Martins Indi (Stoke City) was quite harsh and Martin Atkinson didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:52",
+            "comments_type": "yellow card",
+            "comments_text": "That will be a yellow card for one of the players. The one who gets booked is Alex Oxlade-Chamberlain (Liverpool).",
+            "comments_text_anonymized": "That will be a yellow card for one of the players. The one who gets booked is [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:50",
+            "comments_type": "substitution",
+            "comments_text": "Alex Oxlade-Chamberlain goes off the pitch and James Milner (Liverpool) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:04",
+            "comments_type": "substitution",
+            "comments_text": "Jurgen Klopp has decided to introduce fresh legs, with Mohamed Salah (Liverpool) replacing Dominic Solanke.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:23",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross into the box from James Milner (Liverpool) is cleared. The ball goes out for a corner. Liverpool can continue in their attacking effort.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:14",
+            "comments_type": "corner",
+            "comments_text": "James Milner (Liverpool) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:07",
+            "comments_type": "lead to corner",
+            "comments_text": "This shall not pass! James Milner (Liverpool) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Now Liverpool have a corner.",
+            "comments_text_anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:03",
+            "comments_type": "corner",
+            "comments_text": "James Milner (Liverpool) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Atkinson interrupts the game for a tactical foul by Sadio Mane (Liverpool).",
+            "comments_text_anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:40",
+            "comments_type": "yellow card",
+            "comments_text": "It must be a yellow card. It is. Sadio Mane (Liverpool) receives the caution after an awful tackle.",
+            "comments_text_anonymized": "It must be a yellow card. It is. [PLAYER] ([TEAM]) receives the caution after an awful tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:13",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Maxim Choupo-Moting, who is replaced by Jese (Stoke City).",
+            "comments_text_anonymized": "That's the end of the game for Maxim [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "goal",
+            "comments_text": "Goal! Mohamed Salah (Liverpool) unleashes a first-time shot from inside the box and beats the goalkeeper inside the left post. 0:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) unleashes a first-time shot from inside the box and beats the goalkeeper inside the left post. 0:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:39",
+            "comments_type": "corner",
+            "comments_text": "Mohamed Salah (Liverpool) will try to find the head of one of his teammates from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:40",
+            "comments_type": "goal",
+            "comments_text": "Mohamed Salah (Liverpool) bursts into the box after a great solo run and gets one-on-one with the keeper, who he neatly side steps and rolls the ball into an empty net. Wonderful effort!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) bursts into the box after a great solo run and gets one-on-one with the keeper, who he neatly side steps and rolls the ball into an empty net. Wonderful effort!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:29",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Darren Fletcher makes way for Charles Graham Adam (Stoke City).",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:20",
+            "comments_type": "substitution",
+            "comments_text": "Jurgen Klopp decides to make a substitution. Sadio Mane will be replaced by Jordan Henderson (Liverpool).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:01",
+            "comments_type": "corner",
+            "comments_text": "James Milner (Liverpool) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 3 min. of added time.",
+            "comments_text_anonymized": "We will have 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:47",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 29423.",
+            "comments_text_anonymized": "The attendance is 29423."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:30",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Mohamed Salah (Liverpool) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:21",
+            "comments_type": "corner",
+            "comments_text": "The ball goes out of play. Liverpool are awarded a corner kick.",
+            "comments_text_anonymized": "The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:56",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

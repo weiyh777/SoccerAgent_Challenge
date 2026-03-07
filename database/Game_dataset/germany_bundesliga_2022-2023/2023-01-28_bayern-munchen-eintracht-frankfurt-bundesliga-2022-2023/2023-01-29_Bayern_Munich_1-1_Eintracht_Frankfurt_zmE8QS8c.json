@@ -1,0 +1,1192 @@
+{
+    "match_info": {
+        "timestamp": "2023-01-29 01:30:00",
+        "score": "1 - 1",
+        "home_team": "Bayern Munich",
+        "away_team": "Eintracht Frankfurt",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "3 - 4 - 2 - 1",
+        "venue": "Allianz Arena (Munich)",
+        "capacity": "75 024",
+        "attendance": "75 000",
+        "home_jersey_color": "red",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Jablonski S. (Ger)",
+        "first_name": "Jablonski",
+        "abbr_last_name": "S",
+        "country": "Ger",
+        "detected_name": "Sven Jablonski"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Nagelsmann J.",
+                "players_number": "",
+                "Full Name": "Julian Nagelsmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "36,  (23.07.1987)",
+                "Market Value": "",
+                "unicode": "WrA6TDDO"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Goretzka L.",
+                "players_number": "",
+                "Full Name": "Leon Goretzka",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (06.02.1995)",
+                "Market Value": "€37.4m",
+                "unicode": "l2JpsMjB"
+            },
+            {
+                "players_name": "Hernandez L.",
+                "players_number": "",
+                "Full Name": "Lucas Hernandez",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (14.02.1996)",
+                "Market Value": "€43.4m",
+                "unicode": "x2fvnkud"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "",
+                "Full Name": "Sadio Mane",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Mazraoui N.",
+                "players_number": "",
+                "Full Name": "Noussair Mazraoui",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€28.9m",
+                "unicode": "2ajowGAq"
+            },
+            {
+                "players_name": "Neuer M.",
+                "players_number": "",
+                "Full Name": "Manuel Neuer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (27.03.1986)",
+                "Market Value": "€4.8m",
+                "unicode": "Sh5KwIo6"
+            },
+            {
+                "players_name": "Sarr B.",
+                "players_number": "",
+                "Full Name": "Bouna Sarr",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (31.01.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "MDuWBWXr"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Choupo-Moting E. M.",
+                "players_number": "13",
+                "Full Name": "Eric Maxim Choupo-Moting",
+                "players_rating": 6.4,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.03.1989)",
+                "Market Value": "€2.9m",
+                "unicode": "YBBM9RBF"
+            },
+            {
+                "players_name": "Coman K.",
+                "players_number": "11",
+                "Full Name": "Kingsley Coman",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (13.06.1996)",
+                "Market Value": "€64.5m",
+                "unicode": "zHWLJOHq"
+            },
+            {
+                "players_name": "Davies A.",
+                "players_number": "19",
+                "Full Name": "Alphonso Davies",
+                "players_rating": 7.2,
+                "Country": "Canada",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.11.2000)",
+                "Market Value": "€72.5m",
+                "unicode": "4r3PXV20"
+            },
+            {
+                "players_name": "de Ligt M.",
+                "players_number": "4",
+                "Full Name": "Matthijs de Ligt",
+                "players_rating": 6.7,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (12.08.1999)",
+                "Market Value": "€62.7m",
+                "unicode": "hhRKVBXN"
+            },
+            {
+                "players_name": "Kimmich J.",
+                "players_number": "6",
+                "Full Name": "Joshua Kimmich",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.02.1995)",
+                "Market Value": "€77.7m",
+                "unicode": "MkMrkZLc"
+            },
+            {
+                "players_name": "Muller T. (C)",
+                "players_number": "25",
+                "Full Name": "Thomas Muller",
+                "players_rating": 7.5,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (13.09.1989)",
+                "Market Value": "€9.6m",
+                "unicode": "8KpOJV2B"
+            },
+            {
+                "players_name": "Musiala J.",
+                "players_number": "42",
+                "Full Name": "Jamal Musiala",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (26.02.2003)",
+                "Market Value": "€112.3m",
+                "unicode": "nVzSNrOf"
+            },
+            {
+                "players_name": "Sane L.",
+                "players_number": "10",
+                "Full Name": "Leroy Sane",
+                "players_rating": 7.5,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (11.01.1996)",
+                "Market Value": "€81.7m",
+                "unicode": "GlTyfr8U"
+            },
+            {
+                "players_name": "Sommer Y. (G)",
+                "players_number": "27",
+                "Full Name": "Yann Sommer",
+                "players_rating": 5.7,
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (17.12.1988)",
+                "Market Value": "€4.9m",
+                "unicode": "4zA5n1UG"
+            },
+            {
+                "players_name": "Stanisic J.",
+                "players_number": "44",
+                "Full Name": "Josip Stanisic",
+                "players_rating": 7.0,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.04.2000)",
+                "Market Value": "€9.8m",
+                "unicode": "SfawK0Y3"
+            },
+            {
+                "players_name": "Upamecano D.",
+                "players_number": "2",
+                "Full Name": "Dayot Upamecano",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.10.1998)",
+                "Market Value": "€58.7m",
+                "unicode": "OMhLhEJB"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Gnabry S.",
+                "players_number": "7",
+                "Full Name": "Serge Gnabry",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (14.07.1995)",
+                "Market Value": "€44.5m",
+                "unicode": "6iZjDNFC"
+            },
+            {
+                "players_name": "Gravenberch R.",
+                "players_number": "38",
+                "Full Name": "Ryan Gravenberch",
+                "players_rating": 6.2,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (16.05.2002)",
+                "Market Value": "€34.3m",
+                "unicode": "Y5aFd8V4"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "18",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.7m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Tel M.",
+                "players_number": "39",
+                "Full Name": "Mathys Tel",
+                "players_rating": 6.1,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "18, (27.04.2005)",
+                "Market Value": "€44.7m",
+                "unicode": "drANB1N8"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Blind D.",
+                "players_number": "23",
+                "Full Name": "Daley Blind",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.03.1990)",
+                "Market Value": "€3.0m",
+                "unicode": "U5mPqlh6"
+            },
+            {
+                "players_name": "Ibrahimovic A.",
+                "players_number": "46",
+                "Full Name": "Arijon Ibrahimovic",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "18, (11.12.2005)",
+                "Market Value": "€3.9m",
+                "unicode": "fw8tPLtH"
+            },
+            {
+                "players_name": "Pavard B.",
+                "players_number": "5",
+                "Full Name": "Benjamin Pavard",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (28.03.1996)",
+                "Market Value": "€39.7m",
+                "unicode": "xxuEya3O"
+            },
+            {
+                "players_name": "Ulreich S. (G)",
+                "players_number": "26",
+                "Full Name": "Sven Ulreich",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (03.08.1988)",
+                "Market Value": "€665k",
+                "unicode": "8CE8Sho8"
+            },
+            {
+                "players_name": "Wanner P.",
+                "players_number": "14",
+                "Full Name": "Paul Wanner",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (23.12.2005)",
+                "Market Value": "€3.2m",
+                "unicode": "hpGfyeg0"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Glasner O.",
+                "players_number": "",
+                "Full Name": "Oliver Glasner",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (28.08.1974)",
+                "Market Value": "",
+                "unicode": "CznGurCt"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Aaronson P.",
+                "players_number": "",
+                "Full Name": "Paxten Aaronson",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (26.08.2003)",
+                "Market Value": "€4.1m",
+                "unicode": "ze2Rpql1"
+            },
+            {
+                "players_name": "Dina Ebimbe J.",
+                "players_number": "",
+                "Full Name": "Junior Dina Ebimbe",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (21.11.2000)",
+                "Market Value": "€13.7m",
+                "unicode": "0daEaUg4"
+            },
+            {
+                "players_name": "Pellegrini Lu.",
+                "players_number": "",
+                "Full Name": "Luca Pellegrini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (07.03.1999)",
+                "Market Value": "€3.7m",
+                "unicode": "WKey0InR"
+            },
+            {
+                "players_name": "Wenig M.",
+                "players_number": "",
+                "Full Name": "Marcel Wenig",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (04.05.2004)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "pYy1apYK"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Buta",
+                "players_number": "24",
+                "Full Name": "Buta",
+                "players_rating": 6.5,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (10.02.1997)",
+                "Market Value": "€7.7m",
+                "unicode": "SvBsKAPE"
+            },
+            {
+                "players_name": "Gotze M.",
+                "players_number": "27",
+                "Full Name": "Mario Gotze",
+                "players_rating": 6.4,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (03.06.1992)",
+                "Market Value": "€6.6m",
+                "unicode": "veaF8P5m"
+            },
+            {
+                "players_name": "Hasebe M.",
+                "players_number": "20",
+                "Full Name": "Makoto Hasebe",
+                "players_rating": 7.0,
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "40, (18.01.1984)",
+                "Market Value": "€482k",
+                "unicode": "v9huBzd3"
+            },
+            {
+                "players_name": "Knauff A.",
+                "players_number": "36",
+                "Full Name": "Ansgar Knauff",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (10.01.2002)",
+                "Market Value": "€7.5m",
+                "unicode": "2ebHJb1N"
+            },
+            {
+                "players_name": "Kolo Muani R.",
+                "players_number": "9",
+                "Full Name": "Randal Kolo Muani",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (05.12.1998)",
+                "Market Value": "€66.5m",
+                "unicode": "WKBRZ6Y6"
+            },
+            {
+                "players_name": "Lindstrom J.",
+                "players_number": "29",
+                "Full Name": "Jesper Lindstrom",
+                "players_rating": 6.6,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (29.02.2000)",
+                "Market Value": "€22.7m",
+                "unicode": "OEtozag4"
+            },
+            {
+                "players_name": "Ndicka E.",
+                "players_number": "2",
+                "Full Name": "Evan Ndicka",
+                "players_rating": 6.8,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (20.08.1999)",
+                "Market Value": "€22.8m",
+                "unicode": "0ORJzjri"
+            },
+            {
+                "players_name": "Rode S. (C)",
+                "players_number": "17",
+                "Full Name": "Sebastian Rode",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.10.1990)",
+                "Market Value": "€936k",
+                "unicode": "2ukcBSGo"
+            },
+            {
+                "players_name": "Sow D.",
+                "players_number": "8",
+                "Full Name": "Djibril Sow",
+                "players_rating": 6.9,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (06.02.1997)",
+                "Market Value": "€16.8m",
+                "unicode": "tUNr1qOE"
+            },
+            {
+                "players_name": "Trapp K. (G)",
+                "players_number": "1",
+                "Full Name": "Kevin Trapp",
+                "players_rating": 7.6,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (08.07.1990)",
+                "Market Value": "€6.6m",
+                "unicode": "QqugudYS"
+            },
+            {
+                "players_name": "Tuta",
+                "players_number": "35",
+                "Full Name": "Tuta",
+                "players_rating": 6.3,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (04.07.1999)",
+                "Market Value": "€14.5m",
+                "unicode": "z9f8RgUQ"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Alidou F.",
+                "players_number": "11",
+                "Full Name": "Faride Alidou",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (18.07.2001)",
+                "Market Value": "€1.6m",
+                "unicode": "AZfDAIPf"
+            },
+            {
+                "players_name": "Borre R.",
+                "players_number": "19",
+                "Full Name": "Rafael Borre",
+                "players_rating": 6.5,
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (15.09.1995)",
+                "Market Value": "€7.6m",
+                "unicode": "CjPOl7ml"
+            },
+            {
+                "players_name": "Jakic K.",
+                "players_number": "6",
+                "Full Name": "Kristijan Jakic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (14.05.1997)",
+                "Market Value": "€5.1m",
+                "unicode": "QkJGjOO2"
+            },
+            {
+                "players_name": "Kamada D.",
+                "players_number": "15",
+                "Full Name": "Daichi Kamada",
+                "players_rating": 7.0,
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (05.08.1996)",
+                "Market Value": "€19.3m",
+                "unicode": "bayITLyE"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Alario L.",
+                "players_number": "21",
+                "Full Name": "Lucas Alario",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (08.10.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "GC953Lzc"
+            },
+            {
+                "players_name": "Chandler T.",
+                "players_number": "22",
+                "Full Name": "Timothy Chandler",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (29.03.1990)",
+                "Market Value": "€475k",
+                "unicode": "KdoHDRzE"
+            },
+            {
+                "players_name": "Lenz C.",
+                "players_number": "25",
+                "Full Name": "Christopher Lenz",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (22.09.1994)",
+                "Market Value": "€1.9m",
+                "unicode": "d0ASdOqf"
+            },
+            {
+                "players_name": "Ramaj D. (G)",
+                "players_number": "40",
+                "Full Name": "Diant Ramaj",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (19.09.2001)",
+                "Market Value": "€5.0m",
+                "unicode": "nc3rZ5X6"
+            },
+            {
+                "players_name": "Smolcic H.",
+                "players_number": "5",
+                "Full Name": "Hrvoje Smolcic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.08.2000)",
+                "Market Value": "€4.0m",
+                "unicode": "KWKPJoFF"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Sven Jablonski is introduced as the referee for today's match.",
+            "comments_text_anonymized": "[REFEREE] is introduced as the referee for today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Eintracht Frankfurt will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:06",
+            "comments_type": "clearance",
+            "comments_text": "A fine lofted pass into the box, sent by Randal Kolo Muani (Eintracht Frankfurt), is intercepted by the opposition's defence.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:20",
+            "comments_type": "ball possession",
+            "comments_text": "Matthijs de Ligt (Bayern Munich) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:13",
+            "comments_type": "clearance",
+            "comments_text": "Good movement by Kingsley Coman (Bayern Munich), but he can't find any of his teammates as the cross is poor.",
+            "comments_text_anonymized": "Good movement by [PLAYER] ([TEAM]), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:22",
+            "comments_type": "clearance",
+            "comments_text": "Leroy Sane (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Muller (Bayern Munich) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:41",
+            "comments_type": "yellow card",
+            "comments_text": "Yellow card. Matthijs de Ligt (Bayern Munich) goes into the book for a bad tackle on his opponent.",
+            "comments_text_anonymized": "Yellow card. [PLAYER] ([TEAM]) goes into the book for a bad tackle on his opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:56",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Joshua Kimmich (Bayern Munich) threads a pass through the eye of a needle into the box for Leroy Sane, but Kevin Trapp displays great awareness to stop him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) threads a pass through the eye of a needle into the box for [PLAYER], but [PLAYER] displays great awareness to stop him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:46",
+            "comments_type": "lead to corner",
+            "comments_text": "Randal Kolo Muani (Eintracht Frankfurt) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee signals a corner kick to Eintracht Frankfurt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:06",
+            "comments_type": "injury",
+            "comments_text": "Joshua Kimmich (Bayern Munich) picks up an injury.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up an injury."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:45",
+            "comments_type": "injury",
+            "comments_text": "Joshua Kimmich (Bayern Munich) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:52",
+            "comments_type": "corner",
+            "comments_text": "There's an opportunity for Jesper Lindstrom (Eintracht Frankfurt) to deliver the ball into the box from a corner.",
+            "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:32",
+            "comments_type": "clearance",
+            "comments_text": "Dayot Upamecano (Bayern Munich) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:35",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Leroy Sane (Bayern Munich) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:44",
+            "comments_type": "shot off target",
+            "comments_text": "CHANCE! Djibril Sow (Eintracht Frankfurt) picks up a perfect pass inside the box, makes himself some space for a shot, but his effort goes just over the crossbar.",
+            "comments_text_anonymized": "CHANCE! [PLAYER] ([TEAM]) picks up a perfect pass inside the box, makes himself some space for a shot, but his effort goes just over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:53",
+            "comments_type": "clearance",
+            "comments_text": "Eric Maxim Choupo-Moting (Bayern Munich) sends in a pass which fails to reach any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:10",
+            "comments_type": "corner",
+            "comments_text": "Bayern Munich can’t profit from the corner as the defence clear the ball upfield.",
+            "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:33",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Jesper Lindstrom (Eintracht Frankfurt) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:21",
+            "comments_type": "corner",
+            "comments_text": "Joshua Kimmich (Bayern Munich) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:45",
+            "comments_type": "yellow card",
+            "comments_text": "What was Yann Sommer (Bayern Munich) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "comments_text_anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:57",
+            "comments_type": "lead to corner",
+            "comments_text": "The free kick is delivered by Jesper Lindstrom (Eintracht Frankfurt) but it's not one of his best and is easily cleared. The linesman points to the corner flag, Eintracht Frankfurt are going to take it.",
+            "comments_text_anonymized": "The free kick is delivered by [PLAYER] ([TEAM]) but it's not one of his best and is easily cleared. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:40",
+            "comments_type": "corner",
+            "comments_text": "Jesper Lindstrom (Eintracht Frankfurt) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:19",
+            "comments_type": "corner",
+            "comments_text": "Joshua Kimmich (Bayern Munich) will try to find the head of one of his teammates from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:59",
+            "comments_type": "shot off target",
+            "comments_text": "Matthijs de Ligt (Bayern Munich) towers above the defence but fails to trouble the keeper, heading the corner kick well wide of the left post from close range.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) towers above the defence but fails to trouble the keeper, heading the corner kick well wide of the left post from close range."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:05",
+            "comments_type": "goal",
+            "comments_text": "Leroy Sane (Bayern Munich) connects with a pass inside the box and slams home low into the middle of the net. The goalkeeper was helpless.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with a pass inside the box and slams home low into the middle of the net. The goalkeeper was helpless."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:00",
+            "comments_type": "clearance",
+            "comments_text": "Jamal Musiala (Bayern Munich) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:22",
+            "comments_type": "corner",
+            "comments_text": "Joshua Kimmich (Bayern Munich) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:45",
+            "comments_type": "off side",
+            "comments_text": "Eric Maxim Choupo-Moting (Bayern Munich) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) almost finds himself in a very promising position, but he is flagged offside by the linesman."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:46",
+            "comments_type": "clearance",
+            "comments_text": "Alphonso Davies (Bayern Munich) serves up a nice cross, but the defence clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:45",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "The ball is laid off to Leroy Sane (Bayern Munich) on the edge of the box. He shoots through a crowd of players towards the bottom right corner and forces Kevin Trapp to make a decent save.",
+            "comments_text_anonymized": "The ball is laid off to [PLAYER] ([TEAM]) on the edge of the box. He shoots through a crowd of players towards the bottom right corner and forces [PLAYER] to make a decent save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:35",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross into the box from Josip Stanisic (Bayern Munich) is cleared. Bayern Munich have a corner.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:40",
+            "comments_type": "corner",
+            "comments_text": "Nothing comes of the resulting corner from Joshua Kimmich (Bayern Munich). The defence is alert and manages to cut it out.",
+            "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:30",
+            "comments_type": "statistics and summary",
+            "comments_text": "The ball possession at the moment is 67:33.",
+            "comments_text_anonymized": "The ball possession at the moment is 67:33."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:06",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:00",
+            "comments_type": "clearance",
+            "comments_text": "Randal Kolo Muani (Eintracht Frankfurt) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:29",
+            "comments_type": "shot off target",
+            "comments_text": "Leroy Sane (Bayern Munich) guides an effort goalwards from the edge of the box, but it sails just wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) guides an effort goalwards from the edge of the box, but it sails just wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:40",
+            "comments_type": "ball possession",
+            "comments_text": "Dayot Upamecano (Bayern Munich) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:30",
+            "comments_type": "ball possession",
+            "comments_text": "Bayern Munich keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "comments_text_anonymized": "[TEAM] keep possession of the ball by producing short passes and one-two passes from player to player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Sebastian Rode (Eintracht Frankfurt) makes an overly-aggressive challenge and Sven Jablonski blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Jesper Lindstrom (Eintracht Frankfurt) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The ball is out of play. Eintracht Frankfurt win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:10",
+            "comments_type": "corner",
+            "comments_text": "Jesper Lindstrom (Eintracht Frankfurt) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:40",
+            "comments_type": "shot off target",
+            "comments_text": "Evan Ndicka (Eintracht Frankfurt) gets to the ball from the resulting corner but blazes it well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner but blazes it well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:35",
+            "comments_type": "corner",
+            "comments_text": "The corner from Joshua Kimmich (Bayern Munich) is cleared away by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:05",
+            "comments_type": "yellow card",
+            "comments_text": "Dayot Upamecano (Bayern Munich) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Muller (Bayern Munich) was too fierce in his attempt to get the ball from his opponent and Sven Jablonski blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:00",
+            "comments_type": "clearance",
+            "comments_text": "What a great touch by Leroy Sane (Bayern Munich) as he controls a fine pass into the box and takes a shot to the bottom left corner, but an opposing player makes a clearance. Great defending.",
+            "comments_text_anonymized": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the bottom left corner, but an opposing player makes a clearance. Great defending."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:22",
+            "comments_type": "clearance",
+            "comments_text": "Eric Maxim Choupo-Moting (Bayern Munich) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Sebastian Rode makes his way off the pitch and Daichi Kamada (Eintracht Frankfurt) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:40",
+            "comments_type": "substitution",
+            "comments_text": "Oliver Glasner has decided to substitute Jesper Lindstrom and he is replaced by Rafael Borre (Eintracht Frankfurt).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Alphonso Davies (Bayern Munich) sends a cross into the box, but Kevin Trapp comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:45",
+            "comments_type": "lead to corner",
+            "comments_text": "Buta (Eintracht Frankfurt) races towards goal but the defender gets back well to make a challenge. Eintracht Frankfurt force their opponents to concede a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:50",
+            "comments_type": "corner",
+            "comments_text": "Daichi Kamada (Eintracht Frankfurt) fails to produce a decent cross from the corner kick. The ball goes well out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to produce a decent cross from the corner kick. The ball goes well out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:20",
+            "comments_type": "clearance",
+            "comments_text": "Jamal Musiala (Bayern Munich) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:53",
+            "comments_type": "goal",
+            "comments_text": "Goal - 1:1! Daichi Kamada tees up Randal Kolo Muani (Eintracht Frankfurt) inside the box and he rolls the ball into the bottom right corner and past Yann Sommer.",
+            "comments_text_anonymized": "Goal - 1:1! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box and he rolls the ball into the bottom right corner and past [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:32",
+            "comments_type": "substitution",
+            "comments_text": "The substitution is prepared. Serge Gnabry (Bayern Munich) joins the action as a substitute, replacing Leroy Sane.",
+            "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:54",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann has decided to make a change. Ryan Gravenberch (Bayern Munich) replaces Kingsley Coman.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:35",
+            "comments_type": "shot off target",
+            "comments_text": "Jamal Musiala (Bayern Munich) fires a shot high over the bar from inside the box after latching onto a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires a shot high over the bar from inside the box after latching onto a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:10",
+            "comments_type": "clearance",
+            "comments_text": "Alphonso Davies (Bayern Munich) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:11",
+            "comments_type": "clearance",
+            "comments_text": "Daichi Kamada (Eintracht Frankfurt) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:17",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Mathys Tel (Bayern Munich) is brought on as a substitute for Eric Maxim Choupo-Moting.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:20",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Serge Gnabry (Bayern Munich) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:20",
+            "comments_type": "yellow card",
+            "comments_text": "Rafael Borre (Eintracht Frankfurt) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:37",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 75000.",
+            "comments_text_anonymized": "The attendance is 75000."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:00",
+            "comments_type": "corner",
+            "comments_text": "The corner from Joshua Kimmich (Bayern Munich) is hurriedly cleared.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "corner",
+            "comments_text": "A fantastic block by a defender means that the corner from Eintracht Frankfurt comes to nothing.",
+            "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:38",
+            "comments_type": "substitution",
+            "comments_text": "The referee allows time for a substitution. Mario Gotze will be replaced by Kristijan Jakic (Eintracht Frankfurt).",
+            "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "clearance",
+            "comments_text": "Djibril Sow (Eintracht Frankfurt) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:28",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Thomas Muller (Bayern Munich) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and Kevin Trapp makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and [PLAYER] makes a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:20",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann prepares a substitution. Josip Stanisic is replaced by Marcel Sabitzer (Bayern Munich).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:42",
+            "comments_type": "shot off target",
+            "comments_text": "Joshua Kimmich (Bayern Munich) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:50",
+            "comments_type": "clearance",
+            "comments_text": "Kevin Trapp displays his ability to read the game and clears the danger after Mathys Tel (Bayern Munich) threatened to latch onto a through ball from just outside the box.",
+            "comments_text_anonymized": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:22",
+            "comments_type": "shot off target",
+            "comments_text": "An accurate pass to the edge of the box is well taken by Rafael Borre (Eintracht Frankfurt), whose instinctive shot towards goal flashes inches wide of the left post.",
+            "comments_text_anonymized": "An accurate pass to the edge of the box is well taken by [PLAYER] ([TEAM]), whose instinctive shot towards goal flashes inches wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:04",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Faride Alidou (Eintracht Frankfurt) is brought on as a substitute for Randal Kolo Muani.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:20",
+            "comments_type": "corner",
+            "comments_text": "Daichi Kamada (Eintracht Frankfurt) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:46",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

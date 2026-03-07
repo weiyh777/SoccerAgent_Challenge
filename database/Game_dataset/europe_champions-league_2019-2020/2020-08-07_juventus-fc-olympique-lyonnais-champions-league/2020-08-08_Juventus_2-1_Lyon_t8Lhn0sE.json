@@ -1,0 +1,1426 @@
+{
+    "match_info": {
+        "timestamp": "2020-08-08 03:00:00",
+        "score": "2 - 1",
+        "home_team": "Juventus",
+        "away_team": "Lyon",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 5 - 2",
+        "venue": "Allianz Stadium (Turin)",
+        "capacity": "41 507",
+        "attendance": "",
+        "home_jersey_color": "white",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Zwayer F. (Ger)",
+        "first_name": "Zwayer",
+        "abbr_last_name": "F",
+        "country": "Ger",
+        "detected_name": "Felix Zwayer"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Sarri M.",
+                "players_number": "",
+                "Full Name": "Maurizio Sarri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (10.01.1959)",
+                "Market Value": "",
+                "unicode": "pvzTXTMR"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Costa D.",
+                "players_number": "",
+                "Full Name": "Douglas Costa",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€1.5m, (14.09.1990)",
+                "Market Value": "",
+                "unicode": "fPOJMEfo"
+            },
+            {
+                "players_name": "De Sciglio M.",
+                "players_number": "",
+                "Full Name": "Mattia De Sciglio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.10.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "Ua5srQK6"
+            },
+            {
+                "players_name": "Khedira S.",
+                "players_number": "",
+                "Full Name": "Sami Khedira",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (04.04.1987)",
+                "Market Value": "",
+                "unicode": "0AgmLAwr"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alex Sandro",
+                "players_number": "12",
+                "Full Name": "Alex Sandro",
+                "players_rating": 8.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (26.01.1991)",
+                "Market Value": "€2.0m",
+                "unicode": "hrkni8NN"
+            },
+            {
+                "players_name": "Bentancur R.",
+                "players_number": "30",
+                "Full Name": "Rodrigo Bentancur",
+                "players_rating": 7.0,
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (25.06.1997)",
+                "Market Value": "€34.7m",
+                "unicode": "nLRMnJtJ"
+            },
+            {
+                "players_name": "Bernardeschi F.",
+                "players_number": "33",
+                "Full Name": "Federico Bernardeschi",
+                "players_rating": 6.8,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (16.02.1994)",
+                "Market Value": "",
+                "unicode": "Ghmdi8ej"
+            },
+            {
+                "players_name": "Bonucci L. (C)",
+                "players_number": "19",
+                "Full Name": "Leonardo Bonucci",
+                "players_rating": 7.2,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (01.05.1987)",
+                "Market Value": "€1.4m",
+                "unicode": "zmOGDSwg"
+            },
+            {
+                "players_name": "Cuadrado J.",
+                "players_number": "16",
+                "Full Name": "Juan Cuadrado",
+                "players_rating": 7.1,
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (26.05.1988)",
+                "Market Value": "€2.0m",
+                "unicode": "AFefBpwI"
+            },
+            {
+                "players_name": "de Ligt M.",
+                "players_number": "4",
+                "Full Name": "Matthijs de Ligt",
+                "players_rating": 6.9,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (12.08.1999)",
+                "Market Value": "€62.7m",
+                "unicode": "hhRKVBXN"
+            },
+            {
+                "players_name": "Higuain G.",
+                "players_number": "21",
+                "Full Name": "Gonzalo Higuain",
+                "players_rating": 6.8,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (10.12.1987)",
+                "Market Value": "",
+                "unicode": "xpQl63zG"
+            },
+            {
+                "players_name": "Pjanic M.",
+                "players_number": "5",
+                "Full Name": "Miralem Pjanic",
+                "players_rating": 6.9,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.04.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "ObHi3HbL"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            },
+            {
+                "players_name": "Ronaldo C.",
+                "players_number": "7",
+                "Full Name": "Cristiano Ronaldo",
+                "players_rating": 8.3,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "38, (05.02.1985)",
+                "Market Value": "€15.7m",
+                "unicode": "WGOY4FSt"
+            },
+            {
+                "players_name": "Szczesny W. (G)",
+                "players_number": "1",
+                "Full Name": "Wojciech Szczesny",
+                "players_rating": 6.6,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (18.04.1990)",
+                "Market Value": "€8.4m",
+                "unicode": "6NtwHZ7F"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Danilo",
+                "players_number": "13",
+                "Full Name": "Danilo",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (15.07.1991)",
+                "Market Value": "€11.9m",
+                "unicode": "KUjvgUhB"
+            },
+            {
+                "players_name": "Dybala P.",
+                "players_number": "10",
+                "Full Name": "Paulo Dybala",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (15.11.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "W4myUVXR"
+            },
+            {
+                "players_name": "Olivieri M.",
+                "players_number": "35",
+                "Full Name": "Marco Olivieri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (30.06.1999)",
+                "Market Value": "€519k",
+                "unicode": "xOebctyi"
+            },
+            {
+                "players_name": "Ramsey A.",
+                "players_number": "8",
+                "Full Name": "Aaron Ramsey",
+                "players_rating": 6.4,
+                "Country": "Wales",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (26.12.1990)",
+                "Market Value": "€1.4m",
+                "unicode": "fBD08Fin"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Buffon G. (G)",
+                "players_number": "77",
+                "Full Name": "Gianluigi Buffon",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30.06.2024, (28.01.1978)",
+                "Market Value": "",
+                "unicode": "xKQMi1qO"
+            },
+            {
+                "players_name": "Chiellini G.",
+                "players_number": "3",
+                "Full Name": "Giorgio Chiellini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (14.08.1984)",
+                "Market Value": "",
+                "unicode": "K2KuC4Uu"
+            },
+            {
+                "players_name": "Demiral M.",
+                "players_number": "28",
+                "Full Name": "Merih Demiral",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (05.03.1998)",
+                "Market Value": "€17.4m",
+                "unicode": "MRw4A5FO"
+            },
+            {
+                "players_name": "Matuidi B.",
+                "players_number": "14",
+                "Full Name": "Blaise Matuidi",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (09.04.1987)",
+                "Market Value": "",
+                "unicode": "CAWma17n"
+            },
+            {
+                "players_name": "Muratore S.",
+                "players_number": "38",
+                "Full Name": "Simone Muratore",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.05.1998)",
+                "Market Value": "",
+                "unicode": "2cocYcV8"
+            },
+            {
+                "players_name": "Pinsoglio C. (G)",
+                "players_number": "31",
+                "Full Name": "Carlo Pinsoglio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (16.03.1990)",
+                "Market Value": "30.06.2025",
+                "unicode": "Uii1AJuK"
+            },
+            {
+                "players_name": "Rugani D.",
+                "players_number": "24",
+                "Full Name": "Daniele Rugani",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.07.1994)",
+                "Market Value": "€4.0m",
+                "unicode": "zyoOMhpU"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Garcia R.",
+                "players_number": "",
+                "Full Name": "Rudi Garcia",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "59,  (20.02.1964)",
+                "Market Value": "",
+                "unicode": "bHMAdJc7"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Kone Y.",
+                "players_number": "",
+                "Full Name": "Youssouf Kone",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (05.07.1995)",
+                "Market Value": "€1.1m",
+                "unicode": "2yCTLI53"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Aouar H.",
+                "players_number": "8",
+                "Full Name": "Houssem Aouar",
+                "players_rating": 7.5,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€12.0m",
+                "unicode": "E7gaowFp"
+            },
+            {
+                "players_name": "Bruno Guimaraes",
+                "players_number": "39",
+                "Full Name": "Bruno Guimaraes",
+                "players_rating": 6.1,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (16.11.1997)",
+                "Market Value": "€82.0m",
+                "unicode": "xtyKanzU"
+            },
+            {
+                "players_name": "Caqueret M.",
+                "players_number": "25",
+                "Full Name": "Maxence Caqueret",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (15.02.2000)",
+                "Market Value": "€18.1m",
+                "unicode": "0U8JJaVd"
+            },
+            {
+                "players_name": "Cornet M.",
+                "players_number": "27",
+                "Full Name": "Maxwel Cornet",
+                "players_rating": 6.7,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (27.09.1996)",
+                "Market Value": "€9.4m",
+                "unicode": "IuMQIrXk"
+            },
+            {
+                "players_name": "Denayer J.",
+                "players_number": "5",
+                "Full Name": "Jason Denayer",
+                "players_rating": 6.7,
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (28.06.1995)",
+                "Market Value": "€3.2m",
+                "unicode": "pj0IHOI1"
+            },
+            {
+                "players_name": "Depay M. (C)",
+                "players_number": "11",
+                "Full Name": "Memphis Depay",
+                "players_rating": 5.9,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (13.02.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "zo1h8MrD"
+            },
+            {
+                "players_name": "Dubois L.",
+                "players_number": "14",
+                "Full Name": "Leo Dubois",
+                "players_rating": 6.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.09.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "KUybYEfM"
+            },
+            {
+                "players_name": "Lopes A. (G)",
+                "players_number": "1",
+                "Full Name": "Anthony Lopes",
+                "players_rating": 6.1,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (01.10.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "dKmI2jJT"
+            },
+            {
+                "players_name": "Marcal",
+                "players_number": "20",
+                "Full Name": "Marcal",
+                "players_rating": 6.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (19.02.1989)",
+                "Market Value": "€919k",
+                "unicode": "EusknHOI"
+            },
+            {
+                "players_name": "Marcelo",
+                "players_number": "6",
+                "Full Name": "Marcelo",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (20.05.1987)",
+                "Market Value": "€695k",
+                "unicode": "hfN9pT8t"
+            },
+            {
+                "players_name": "Toko Ekambi K.",
+                "players_number": "21",
+                "Full Name": "Karl Toko Ekambi",
+                "players_rating": 6.3,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (14.09.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "jNJxcqy5"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Andersen J.",
+                "players_number": "3",
+                "Full Name": "Joachim Andersen",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (31.05.1996)",
+                "Market Value": "€35.2m",
+                "unicode": "AmMLTTJU"
+            },
+            {
+                "players_name": "Dembele M.",
+                "players_number": "9",
+                "Full Name": "Moussa Dembele",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (12.07.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "jBP2q6F0"
+            },
+            {
+                "players_name": "Mendes T.",
+                "players_number": "12",
+                "Full Name": "Thiago Mendes",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.03.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "ruoGJp6S"
+            },
+            {
+                "players_name": "Reine-Adelaide J.",
+                "players_number": "17",
+                "Full Name": "Jeff Reine-Adelaide",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (17.01.1998)",
+                "Market Value": "€2.8m",
+                "unicode": "MTQaLOIC"
+            },
+            {
+                "players_name": "Tete K.",
+                "players_number": "23",
+                "Full Name": "Kenny Tete",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (09.10.1995)",
+                "Market Value": "€14.7m",
+                "unicode": "ILahlAf4"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bard M.",
+                "players_number": "31",
+                "Full Name": "Melvin Bard",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (06.11.2000)",
+                "Market Value": "€11.9m",
+                "unicode": "Q1kigul6"
+            },
+            {
+                "players_name": "Cherki R.",
+                "players_number": "36",
+                "Full Name": "Rayan Cherki",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (17.08.2003)",
+                "Market Value": "€25.5m",
+                "unicode": "vm0eu2V3"
+            },
+            {
+                "players_name": "Diomande S.",
+                "players_number": "2",
+                "Full Name": "Sinaly Diomande",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (09.04.2001)",
+                "Market Value": "€6.8m",
+                "unicode": "6X2uao2q"
+            },
+            {
+                "players_name": "Jean Lucas",
+                "players_number": "22",
+                "Full Name": "Jean Lucas",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (22.06.1998)",
+                "Market Value": "€5.9m",
+                "unicode": "C0KKp9c7"
+            },
+            {
+                "players_name": "Rafael",
+                "players_number": "4",
+                "Full Name": "Rafael",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.07.1990)",
+                "Market Value": "€579k",
+                "unicode": "K2lhc6jE"
+            },
+            {
+                "players_name": "Tatarusanu C. (G)",
+                "players_number": "30",
+                "Full Name": "Ciprian Tatarusanu",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (09.02.1986)",
+                "Market Value": "€380k",
+                "unicode": "OMyqC9DS"
+            },
+            {
+                "players_name": "Traore B.",
+                "players_number": "10",
+                "Full Name": "Bertrand Traore",
+                "players_rating": "",
+                "Country": "Burkina Faso",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (06.09.1995)",
+                "Market Value": "€9.6m",
+                "unicode": "MwckEcbf"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match.",
+            "comments_text_anonymized": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Felix Zwayer.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Lyon will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:45",
+            "comments_type": "shot off target",
+            "comments_text": "Gonzalo Higuain (Juventus) makes room to connect with a cross, but his strike from the penalty spot isn't accurate at all and the ball goes well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes room to connect with a cross, but his strike from the penalty spot isn't accurate at all and the ball goes well over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Karl Toko Ekambi (Lyon) looks to break free, but an opposing player clears the ball away. Lyon get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] get a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:30",
+            "comments_type": "corner",
+            "comments_text": "Memphis Depay (Lyon) takes a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:38",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Federico Bernardeschi (Juventus).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:15",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Zwayer blows his whistle. Maxence Caqueret (Lyon) commits a foul after dangerous play. Juventus get a free kick.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. [TEAM] get a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:35",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Matthijs de Ligt (Juventus) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:12",
+            "comments_type": "ball out of play",
+            "comments_text": "Cristiano Ronaldo (Juventus) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:51",
+            "comments_type": "clearance",
+            "comments_text": "Adrien Rabiot (Juventus) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:28",
+            "comments_type": "off side",
+            "comments_text": "Cristiano Ronaldo (Juventus) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:58",
+            "comments_type": "clearance",
+            "comments_text": "Memphis Depay (Lyon) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:34",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Houssem Aouar (Lyon) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. Wojciech Szczesny pulls off a fantastic reflex save to stop the ball going into the bottom left corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. [PLAYER] pulls off a fantastic reflex save to stop the ball going into the bottom left corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:28",
+            "comments_type": "corner",
+            "comments_text": "None of the Lyon players could reach the corner kick as the ball was overhit and goes out of play.",
+            "comments_text_anonymized": "None of the [TEAM] players could reach the corner kick as the ball was overhit and goes out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:25",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "A clumsy foul by Rodrigo Bentancur (Juventus) and Felix Zwayer blows his whistle. The referee uncompromisingly points to the spot and it's a penalty to Lyon.",
+            "comments_text_anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle. The referee uncompromisingly points to the spot and it's a penalty to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:50",
+            "comments_type": "var",
+            "comments_text": "Celebrations by Lyon are cut short as the referee signals that the penalty decision will be checked using the VAR. Hopefully it won’t take too long.",
+            "comments_text_anonymized": "Celebrations by [TEAM] are cut short as the referee signals that the penalty decision will be checked using the VAR. Hopefully it won’t take too long."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:27",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Referee Felix Zwayer is happy with his original decision after the VAR review. It’s a PENALTY to Lyon!",
+            "comments_text_anonymized": "Referee [REFEREE] is happy with his original decision after the VAR review. It’s a PENALTY to [TEAM]!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:30",
+            "comments_type": "penalty",
+            "comments_text": "Memphis Depay (Lyon) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:42",
+            "comments_type": "goal",
+            "comments_text": "Memphis Depay (Lyon) makes no mistake from the penalty spot after waiting for Wojciech Szczesny to move before rolling the ball into the middle of the goal!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes no mistake from the penalty spot after waiting for [PLAYER] to move before rolling the ball into the middle of the goal!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:35",
+            "comments_type": "foul with no card",
+            "comments_text": "Maxwel Cornet (Lyon) is penalised for a foul. Felix Zwayer had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:40",
+            "comments_type": "off side",
+            "comments_text": "Cristiano Ronaldo (Juventus) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) almost finds himself in a very promising position, but he is flagged offside by the linesman."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:56",
+            "comments_type": "foul with no card",
+            "comments_text": "Memphis Depay (Lyon) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Memphis Depay (Lyon) robs an opponent of the ball and explodes in anger when Felix Zwayer blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:10",
+            "comments_type": "yellow card",
+            "comments_text": "Houssem Aouar (Lyon) makes it easy for the referee to show him a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes it easy for the referee to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:06",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:40",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo (Juventus) comes close to scoring. He meets a lovely lofted pass from Alex Sandro, but sends his close-range header way over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) comes close to scoring. He meets a lovely lofted pass from [PLAYER], but sends his close-range header way over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:00",
+            "comments_type": "clearance",
+            "comments_text": "Karl Toko Ekambi (Lyon) tries to pass the ball into the penalty area but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:48",
+            "comments_type": "statistics and summary",
+            "comments_text": "A cooling break is underway.",
+            "comments_text_anonymized": "A cooling break is underway."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:22",
+            "comments_type": "foul with no card",
+            "comments_text": "Rodrigo Bentancur (Juventus) makes a reckless foul in order to win the ball from his opponent. Felix Zwayer has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:01",
+            "comments_type": "ball possession",
+            "comments_text": "Memphis Depay (Lyon) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:30",
+            "comments_type": "clearance",
+            "comments_text": "Adrien Rabiot (Juventus) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Juan Cuadrado (Juventus) pulls the shirt of his opponent and the referee stops play for a foul. Lyon are awarded a free kick. Let's see what they create from this.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:20",
+            "comments_type": "yellow card",
+            "comments_text": "Juan Cuadrado (Juventus) is booked after bringing down an opponent. Felix Zwayer had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:20",
+            "comments_type": "clearance",
+            "comments_text": "The resulting set piece, sent into the penalty area by Memphis Depay (Lyon), was easily dealt with by one of the defenders.",
+            "comments_text_anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Maxence Caqueret (Lyon). Felix Zwayer blows his whistle for a foul. Juventus win a free kick.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] win a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "free kick",
+            "comments_text": "Cristiano Ronaldo (Juventus) takes a mid-range free kick and the effort crashes into the defensive wall.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range free kick and the effort crashes into the defensive wall."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:06",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Anthony Lopes makes a superb save to deny a header which was nodded low towards the middle of the goal by Gonzalo Higuain (Juventus) after a cross from the side.",
+            "comments_text_anonymized": "[PLAYER] makes a superb save to deny a header which was nodded low towards the middle of the goal by [PLAYER] ([TEAM]) after a cross from the side."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:57",
+            "comments_type": "foul with no card",
+            "comments_text": "Leo Dubois (Lyon) was too forceful with his tackle and Felix Zwayer interrupted the game to signal a free kick. Juventus have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:34",
+            "comments_type": "yellow card",
+            "comments_text": "Yellow card. Leo Dubois (Lyon) goes into the referee's book after a bad challenge.",
+            "comments_text_anonymized": "Yellow card. [PLAYER] ([TEAM]) goes into the referee's book after a bad challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Juventus are awarded a free kick from a dangerous position. Bruno Guimaraes (Lyon) brings his opponent down with a tackle and Felix Zwayer blows his whistle for a foul.",
+            "comments_text_anonymized": "[TEAM] are awarded a free kick from a dangerous position. [PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:20",
+            "comments_type": "var",
+            "comments_text": "Play continues despite the shouts by some Juventus players for a penalty. Wait! Referee Felix Zwayer interrupts the game right now and he will review that decision using VAR! Let's see what happens.",
+            "comments_text_anonymized": "Play continues despite the shouts by some [TEAM] players for a penalty. Wait! Referee [REFEREE] interrupts the game right now and he will review that decision using VAR! Let's see what happens."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:24",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow-coloured card is received by Memphis Depay (Lyon).",
+            "comments_text_anonymized": "A yellow-coloured card is received by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:26",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The Juventus players are happy as the referee awards a PENALTY after the VAR review!",
+            "comments_text_anonymized": "The [TEAM] players are happy as the referee awards a PENALTY after the VAR review!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:35",
+            "comments_type": "penalty",
+            "comments_text": "Cristiano Ronaldo (Juventus) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:30",
+            "comments_type": "goal",
+            "comments_text": "Goal! Cristiano Ronaldo (Juventus) lashes the penalty into the bottom right corner, giving the keeper no chance.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) lashes the penalty into the bottom right corner, giving the keeper no chance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:13",
+            "comments_type": "yellow card",
+            "comments_text": "Rodrigo Bentancur (Juventus) has tested the patience of referee Felix Zwayer and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 additional min. will be played.",
+            "comments_text_anonymized": "4 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:56",
+            "comments_type": "ball possession",
+            "comments_text": "Juventus string together a series of short passes.",
+            "comments_text_anonymized": "[TEAM] string together a series of short passes."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:01",
+            "comments_type": "off side",
+            "comments_text": "Cristiano Ronaldo (Juventus) is caught offside!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:47",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:50",
+            "comments_type": "clearance",
+            "comments_text": "Cristiano Ronaldo (Juventus) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Federico Bernardeschi (Juventus) pulls the jersey of one of the opposition players and Felix Zwayer blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Fernando Marcal (Lyon) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. Fernando [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:42",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Gonzalo Higuain (Juventus) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:43",
+            "comments_type": "clearance",
+            "comments_text": "Adrien Rabiot (Juventus) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:43",
+            "comments_type": "free kick",
+            "comments_text": "Miralem Pjanic (Juventus) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:30",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Federico Bernardeschi (Juventus) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball is off of the pitch and it's a goal kick for Lyon.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:10",
+            "comments_type": "clearance",
+            "comments_text": "Juan Cuadrado (Juventus) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:52",
+            "comments_type": "shot off target",
+            "comments_text": "Bruno (Lyon) gets the ball and drives a shot high over the bar from the edge of the area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:22",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Memphis Depay (Lyon) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:16",
+            "comments_type": "goal",
+            "comments_text": "Cristiano Ronaldo (Juventus) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 2:1.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 2:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:54",
+            "comments_type": "substitution",
+            "comments_text": "Maurizio Sarri has decided to introduce fresh legs, with Aaron Ramsey (Juventus) replacing Miralem Pjanic.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:27",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Joachim Andersen (Lyon) replaces Jason Denayer.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:29",
+            "comments_type": "lead to corner",
+            "comments_text": "A long ball forward to Gonzalo Higuain (Juventus) is intercepted. Juventus force their opponents to concede a corner.",
+            "comments_text_anonymized": "A long ball forward to [PLAYER] ([TEAM]) is intercepted. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:00",
+            "comments_type": "corner",
+            "comments_text": "Federico Bernardeschi (Juventus) launches an inaccurate corner kick into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:10",
+            "comments_type": "clearance",
+            "comments_text": "Adrien Rabiot (Juventus) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:20",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Jeff Reine-Adelaide (Lyon) has come on for Karl Toko Ekambi.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:36",
+            "comments_type": "substitution",
+            "comments_text": "Rudi Garcia has decided to make a change. Moussa Dembele (Lyon) replaces Memphis Depay.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Houssem Aouar (Lyon) commits a foul after unfairly battling his opponent for the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:53",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo sends a lovely lofted pass forward that flies over the top of the defence and into the path of Gonzalo Higuain (Juventus), but he can't direct his header on target as it flies well over the bar.",
+            "comments_text_anonymized": "[PLAYER] sends a lovely lofted pass forward that flies over the top of the defence and into the path of [PLAYER] ([TEAM]), but he can't direct his header on target as it flies well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle and players are going to refresh themselves.",
+            "comments_text_anonymized": "The referee blows his whistle and players are going to refresh themselves."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:58",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Juan Cuadrado trots off the pitch and is replaced by Danilo (Juventus).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:55",
+            "comments_type": "substitution",
+            "comments_text": "Maurizio Sarri prepares a substitution. Federico Bernardeschi is replaced by Paulo Dybala (Juventus).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:03",
+            "comments_type": "clearance",
+            "comments_text": "Maxwel Cornet (Lyon) sends a teasing cross into the area, but Wojciech Szczesny intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Zwayer has a clear sight and sees a foul from Joachim Andersen (Lyon). Free kick. Juventus will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:31",
+            "comments_type": "free kick",
+            "comments_text": "Cristiano Ronaldo (Juventus) takes the free kick from distance, but the defensive wall charges down the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick from distance, but the defensive wall charges down the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:50",
+            "comments_type": "clearance",
+            "comments_text": "Cristiano Ronaldo (Juventus) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:59",
+            "comments_type": "corner",
+            "comments_text": "The linesman makes the right call and Juventus will have a corner.",
+            "comments_text_anonymized": "The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:21",
+            "comments_type": "shot off target",
+            "comments_text": "Cristiano Ronaldo (Juventus) evades his marker in the box and connects beautifully with the corner from Paulo Dybala. Unfortunately for him, the ball just zips a few inches over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) evades his marker in the box and connects beautifully with the corner from [PLAYER]. Unfortunately for him, the ball just zips a few inches over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:47",
+            "comments_type": "yellow card",
+            "comments_text": "Anthony Lopes (Lyon) receives a yellow card from the referee as expected.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee as expected."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:19",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Aaron Ramsey (Juventus) was seen by Felix Zwayer who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:00",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Leo Dubois (Lyon) swings a cross into the box, but it's far too close to Wojciech Szczesny, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:10",
+            "comments_type": "var",
+            "comments_text": "There's a break in play and referee Felix Zwayer must have got a signal in his ear as he indicates he will check that earlier penalty claim by Lyon using VAR. This could be interesting!",
+            "comments_text_anonymized": "There's a break in play and referee [REFEREE] must have got a signal in his ear as he indicates he will check that earlier penalty claim by [TEAM] using VAR. This could be interesting!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:50",
+            "comments_type": "var",
+            "comments_text": "NO PENALTY after a VAR review! The Lyon players are visibly unhappy with the call.",
+            "comments_text_anonymized": "NO PENALTY after a VAR review! The [TEAM] players are visibly unhappy with the call."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:52",
+            "comments_type": "yellow card",
+            "comments_text": "The referee gives a yellow card to Maxwel Cornet (Lyon) for talking back. He must be careful for the remainder of the match.",
+            "comments_text_anonymized": "The referee gives a yellow card to [PLAYER] ([TEAM]) for talking back. He must be careful for the remainder of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:08",
+            "comments_type": "corner",
+            "comments_text": "Lyon failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:20",
+            "comments_type": "clearance",
+            "comments_text": "What a great touch by Moussa Dembele (Lyon) as he controls a fine pass into the box and takes a shot to the centre of the goal, but an opposing player makes a clearance. Great defending.",
+            "comments_text_anonymized": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the centre of the goal, but an opposing player makes a clearance. Great defending."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:40",
+            "comments_type": "clearance",
+            "comments_text": "Cristiano Ronaldo (Juventus) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:24",
+            "comments_type": "yellow card",
+            "comments_text": "Although Maurizio Sarri (Juventus) is just on the bench, Felix Zwayer has awarded him with a yellow card. Unsporting behavior says the referee.",
+            "comments_text_anonymized": "Although [PLAYER] ([TEAM]) is just on the bench, [REFEREE] has awarded him with a yellow card. Unsporting behavior says the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:40",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Cristiano Ronaldo (Juventus) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:19",
+            "comments_type": "injury",
+            "comments_text": "Paulo Dybala (Juventus) is asking for medical treatment after picking up an injury.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:30",
+            "comments_type": "substitution",
+            "comments_text": "Problems for Maurizio Sarri as Paulo Dybala is not able to play anymore. His injury is too serious and Marco Olivieri (Juventus) replaces him.",
+            "comments_text_anonymized": "Problems for [PLAYER] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Marco Olivieri (Juventus) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. Juventus are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:37",
+            "comments_type": "corner",
+            "comments_text": "Juventus failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:14",
+            "comments_type": "corner",
+            "comments_text": "It will be a corner kick for Juventus.",
+            "comments_text_anonymized": "It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Leonardo Bonucci (Juventus) fouls an opponent during an attacking move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent during an attacking move."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:50",
+            "comments_type": "red card",
+            "comments_text": "It looks like Maxence Caqueret (Lyon) saw red with that tackle. Felix Zwayer won't tolerate such behaviour on the pitch and blows for a foul.",
+            "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:39",
+            "comments_type": "yellow card",
+            "comments_text": "Maxence Caqueret (Lyon) is shown a yellow card after a horrible tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card after a horrible tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:22",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Felix Zwayer sees the trip by Maxence Caqueret (Lyon) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:07",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Fernando Marcal (Lyon) was quite harsh and Felix Zwayer didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by Fernando [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 6 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 6 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:50",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Kenny Tete (Lyon) in, Leo Dubois out.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:07",
+            "comments_type": "substitution",
+            "comments_text": "Rudi Garcia decides to make a substitution. Houssem Aouar will be replaced by Thiago Mendes (Lyon).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Marcelo (Lyon) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee. Juventus earn a free kick which could lead to a goal-scoring opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee. [TEAM] earn a free kick which could lead to a goal-scoring opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:20",
+            "comments_type": "free kick",
+            "comments_text": "Cristiano Ronaldo (Juventus) takes the free kick from the edge of the box, but the goalkeeper perfectly sets up the defensive wall and his effort is thwarted. The ball is out of play. Juventus win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick from the edge of the box, but the goalkeeper perfectly sets up the defensive wall and his effort is thwarted. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:18",
+            "comments_type": "corner",
+            "comments_text": "A cross from a corner kick by Juventus is too strong and the ball goes well out of play.",
+            "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Marco Olivieri (Juventus) commits a rough challenge and Felix Zwayer blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:29",
+            "comments_type": "off side",
+            "comments_text": "Moussa Dembele (Lyon) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:00",
+            "comments_type": "clearance",
+            "comments_text": "Alex Sandro (Juventus) serves up a nice cross, but the defence clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:50",
+            "comments_type": "clearance",
+            "comments_text": "Moussa Dembele (Lyon) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:10",
+            "comments_type": "clearance",
+            "comments_text": "A long cross from the side is directed to the well-positioned Matthijs de Ligt (Juventus), but the defence gets it clear.",
+            "comments_text_anonymized": "A long cross from the side is directed to the well-positioned [PLAYER] ([TEAM]), but the defence gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:11",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Alex Sandro (Juventus) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:49",
+            "comments_type": "end of half game",
+            "comments_text": "Nothing more will happen in this game as the referee blows for full time.",
+            "comments_text_anonymized": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ]
+}

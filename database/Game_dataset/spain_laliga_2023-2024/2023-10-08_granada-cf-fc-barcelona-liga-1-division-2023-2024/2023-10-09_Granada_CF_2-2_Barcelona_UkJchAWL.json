@@ -1,0 +1,1237 @@
+{
+    "match_info": {
+        "timestamp": "2023-10-09 03:00:00",
+        "score": "2 - 2",
+        "home_team": "Granada CF",
+        "away_team": "Barcelona",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Estadio Nuevo Los Cármenes (Granada)",
+        "capacity": "22 524",
+        "attendance": "20 354",
+        "home_jersey_color": "red",
+        "away_jersey_color": "cyan"
+    },
+    "referee_data": {
+        "short_name_country": "Grado C. S. (Esp)",
+        "first_name": "Grado C.",
+        "abbr_last_name": "S",
+        "country": "Esp",
+        "detected_name": ""
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Xavi",
+                "players_number": "",
+                "Full Name": "Xavi",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "43,  (25.01.1980)",
+                "Market Value": "",
+                "unicode": "bs5KnIiT"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "de Jong F.",
+                "players_number": "",
+                "Full Name": "Frenkie de Jong",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (12.05.1997)",
+                "Market Value": "€80.6m",
+                "unicode": "A1F3rz9c"
+            },
+            {
+                "players_name": "Lewandowski R.",
+                "players_number": "",
+                "Full Name": "Robert Lewandowski",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (21.08.1988)",
+                "Market Value": "€20.1m",
+                "unicode": "MVC8zHZD"
+            },
+            {
+                "players_name": "Pedri",
+                "players_number": "",
+                "Full Name": "Pedri",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (25.11.2002)",
+                "Market Value": "€88.1m",
+                "unicode": "baBG8QuI"
+            },
+            {
+                "players_name": "Raphinha",
+                "players_number": "",
+                "Full Name": "Raphinha",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (14.12.1996)",
+                "Market Value": "€49.6m",
+                "unicode": "xtBsDPam"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Balde A.",
+                "players_number": "3",
+                "Full Name": "Alejandro Balde",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (18.10.2003)",
+                "Market Value": "€47.5m",
+                "unicode": "6c0CXHVM"
+            },
+            {
+                "players_name": "Cancelo J.",
+                "players_number": "2",
+                "Full Name": "Joao Cancelo",
+                "players_rating": 7.6,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (27.05.1994)",
+                "Market Value": "€41.4m",
+                "unicode": "dAyeWYpm"
+            },
+            {
+                "players_name": "Christensen A.",
+                "players_number": "15",
+                "Full Name": "Andreas Christensen",
+                "players_rating": 6.8,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (10.04.1996)",
+                "Market Value": "€39.7m",
+                "unicode": "ShxiZhJI"
+            },
+            {
+                "players_name": "Gavi",
+                "players_number": "6",
+                "Full Name": "Gavi",
+                "players_rating": 7.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (05.08.2004)",
+                "Market Value": "€87.1m",
+                "unicode": "xrV9v8CU"
+            },
+            {
+                "players_name": "Gundogan I.",
+                "players_number": "22",
+                "Full Name": "Ilkay Gundogan",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (24.10.1990)",
+                "Market Value": "€18.4m",
+                "unicode": "hCQ7jhL3"
+            },
+            {
+                "players_name": "Joao Felix",
+                "players_number": "14",
+                "Full Name": "Joao Felix",
+                "players_rating": 7.2,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.11.1999)",
+                "Market Value": "€39.7m",
+                "unicode": "KI3YXMhi"
+            },
+            {
+                "players_name": "Kounde J.",
+                "players_number": "23",
+                "Full Name": "Jules Kounde",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (12.11.1998)",
+                "Market Value": "€59.6m",
+                "unicode": "v36QVRPu"
+            },
+            {
+                "players_name": "Lopez F.",
+                "players_number": "32",
+                "Full Name": "Fermin Lopez",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (11.05.2003)",
+                "Market Value": "€13.8m",
+                "unicode": "2c2ipETG"
+            },
+            {
+                "players_name": "ter Stegen M. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Marc-Andre ter Stegen",
+                "players_rating": 6.0,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (30.04.1992)",
+                "Market Value": "€33.8m",
+                "unicode": "byxc46yl"
+            },
+            {
+                "players_name": "Torres F.",
+                "players_number": "7",
+                "Full Name": "Ferran Torres",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (29.02.2000)",
+                "Market Value": "€33.8m",
+                "unicode": "AVAVLaLt"
+            },
+            {
+                "players_name": "Yamal L.",
+                "players_number": "27",
+                "Full Name": "Lamine Yamal",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "16, (13.07.2007)",
+                "Market Value": "€63.0m",
+                "unicode": "lAt3vEub"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Araujo R.",
+                "players_number": "4",
+                "Full Name": "Ronald Araujo",
+                "players_rating": 7.2,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (07.03.1999)",
+                "Market Value": "€67.5m",
+                "unicode": "M3sbJix9"
+            },
+            {
+                "players_name": "Roberto S.",
+                "players_number": "20",
+                "Full Name": "Sergi Roberto",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (07.02.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "W2R804U4"
+            },
+            {
+                "players_name": "Romeu O.",
+                "players_number": "18",
+                "Full Name": "Oriol Romeu",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (24.09.1991)",
+                "Market Value": "€2.9m",
+                "unicode": "WCC5IrWg"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Alonso M.",
+                "players_number": "17",
+                "Full Name": "Marcos Alonso",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (28.12.1990)",
+                "Market Value": "€2.9m",
+                "unicode": "MLHPrlrj"
+            },
+            {
+                "players_name": "Astralaga A. (G)",
+                "players_number": "26",
+                "Full Name": "Ander Astralaga",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "19, (03.03.2004)",
+                "Market Value": "€454k",
+                "unicode": "IZm6H2pp"
+            },
+            {
+                "players_name": "Delgado P. V.",
+                "players_number": "37",
+                "Full Name": "Pau Victor Delgado",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (26.11.2001)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "QkMhPUdc"
+            },
+            {
+                "players_name": "Guiu M.",
+                "players_number": "38",
+                "Full Name": "Marc Guiu",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "18, (04.01.2006)",
+                "Market Value": "€2.4m",
+                "unicode": "80tpt7hc"
+            },
+            {
+                "players_name": "Martinez I.",
+                "players_number": "5",
+                "Full Name": "Inigo Martinez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (17.05.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "AHeWolAk"
+            },
+            {
+                "players_name": "Pena I. (G)",
+                "players_number": "13",
+                "Full Name": "",
+                "players_rating": "",
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "M1W3ZQSs"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Lopez P.",
+                "players_number": "",
+                "Full Name": "Paco Lopez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (19.09.1967)",
+                "Market Value": "",
+                "unicode": "84cvAG3H"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Diaz V.",
+                "players_number": "",
+                "Full Name": "Victor Diaz",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (12.06.1988)",
+                "Market Value": "€454k",
+                "unicode": "vggY6s7b"
+            },
+            {
+                "players_name": "Fernandez R.",
+                "players_number": "",
+                "Full Name": "Raul Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (13.03.1988)",
+                "Market Value": "€268k",
+                "unicode": "8Ui4Uj3f"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Boye L.",
+                "players_number": "7",
+                "Full Name": "Lucas Boye",
+                "players_rating": 7.6,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (28.02.1996)",
+                "Market Value": "€6.8m",
+                "unicode": "YiAqdTFb"
+            },
+            {
+                "players_name": "Fernandez A.",
+                "players_number": "33",
+                "Full Name": "Alvaro Fernandez",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (23.03.2003)",
+                "Market Value": "€6.7m",
+                "unicode": "ALGEzlma"
+            },
+            {
+                "players_name": "Ferreira A. (G)",
+                "players_number": "13",
+                "Full Name": "Andre Ferreira",
+                "players_rating": 8.0,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (29.05.1996)",
+                "Market Value": "€743k",
+                "unicode": "j5SMgGHu"
+            },
+            {
+                "players_name": "Gumbau G.",
+                "players_number": "23",
+                "Full Name": "Gerard Gumbau",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (18.12.1994)",
+                "Market Value": "€3.4m",
+                "unicode": "raqVZ405"
+            },
+            {
+                "players_name": "Miquel I.",
+                "players_number": "14",
+                "Full Name": "Ignasi Miquel",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (28.09.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "xdh9EmXK"
+            },
+            {
+                "players_name": "Neva C. (C)",
+                "players_number": "15",
+                "Full Name": "Carlos Neva",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.06.1996)",
+                "Market Value": "€2.4m",
+                "unicode": "n5JmutJP"
+            },
+            {
+                "players_name": "Rubio M.",
+                "players_number": "4",
+                "Full Name": "Miguel Rubio",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (11.03.1998)",
+                "Market Value": "€1.2m",
+                "unicode": "YiUPEL9t"
+            },
+            {
+                "players_name": "Sanchez R.",
+                "players_number": "12",
+                "Full Name": "Ricard Sanchez",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (22.02.2000)",
+                "Market Value": "€2.4m",
+                "unicode": "bygZPyD7"
+            },
+            {
+                "players_name": "Uzuni M.",
+                "players_number": "11",
+                "Full Name": "Myrto Uzuni",
+                "players_rating": 6.1,
+                "Country": "Albania",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (31.05.1995)",
+                "Market Value": "€8.8m",
+                "unicode": "AN4BmAif"
+            },
+            {
+                "players_name": "Villar G.",
+                "players_number": "24",
+                "Full Name": "Gonzalo Villar",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (23.03.1998)",
+                "Market Value": "€2.6m",
+                "unicode": "QZtXmJ94"
+            },
+            {
+                "players_name": "Zaragoza B.",
+                "players_number": "26",
+                "Full Name": "Bryan Zaragoza",
+                "players_rating": 8.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (09.09.2001)",
+                "Market Value": "€11.6m",
+                "unicode": "hQyTbdVL"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Callejon J.",
+                "players_number": "9",
+                "Full Name": "Jose Callejon",
+                "players_rating": 5.9,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (11.02.1987)",
+                "Market Value": "€950k",
+                "unicode": "GtOw2z0j"
+            },
+            {
+                "players_name": "Petrovic N.",
+                "players_number": "18",
+                "Full Name": "Njegos Petrovic",
+                "players_rating": 6.2,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (18.07.1999)",
+                "Market Value": "€1.8m",
+                "unicode": "EwCzNgDb"
+            },
+            {
+                "players_name": "Puertas A.",
+                "players_number": "10",
+                "Full Name": "Antonio Puertas",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (21.02.1992)",
+                "Market Value": "€2.3m",
+                "unicode": "SMRPNG5i"
+            },
+            {
+                "players_name": "Torrente R.",
+                "players_number": "28",
+                "Full Name": "Raul Torrente",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (11.09.2001)",
+                "Market Value": "€1.8m",
+                "unicode": "r1cMc3P9"
+            },
+            {
+                "players_name": "Vallejo J.",
+                "players_number": "5",
+                "Full Name": "Jesus Vallejo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (05.01.1997)",
+                "Market Value": "€1.3m",
+                "unicode": "WSRdoQ7I"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Diedhiou F.",
+                "players_number": "19",
+                "Full Name": "Famara Diedhiou",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.12.1992)",
+                "Market Value": "€454k",
+                "unicode": "CvZzF1ft"
+            },
+            {
+                "players_name": "Lopez A. (G)",
+                "players_number": "31",
+                "Full Name": "Adrian Lopez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (09.01.1999)",
+                "Market Value": "€268k",
+                "unicode": "On4H3YxA"
+            },
+            {
+                "players_name": "Manafa W.",
+                "players_number": "3",
+                "Full Name": "Wilson Manafa",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (23.07.1994)",
+                "Market Value": "€1.4m",
+                "unicode": "WrzlcYWq"
+            },
+            {
+                "players_name": "Melendo O.",
+                "players_number": "21",
+                "Full Name": "Oscar Melendo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (23.08.1997)",
+                "Market Value": "€1.9m",
+                "unicode": "YBQLPtt5"
+            },
+            {
+                "players_name": "Perea A.",
+                "players_number": "22",
+                "Full Name": "Alberto Perea",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (19.12.1990)",
+                "Market Value": "€760k",
+                "unicode": "jHHgh8cH"
+            },
+            {
+                "players_name": "Ruiz S.",
+                "players_number": "20",
+                "Full Name": "Sergio Ruiz",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (16.12.1994)",
+                "Market Value": "€950k",
+                "unicode": "lvN1Z92B"
+            },
+            {
+                "players_name": "Weissman S.",
+                "players_number": "17",
+                "Full Name": "Shon Weissman",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (14.02.1996)",
+                "Market Value": "€1.8m",
+                "unicode": "YTgDvwwU"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match.",
+            "comments_text_anonymized": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Cesar Soto Grado was nominated as the referee for this game.",
+            "comments_text_anonymized": "Cesar Soto Grado was nominated as the referee for this game."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Barcelona will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:30",
+            "comments_type": "goal",
+            "comments_text": "Fantastic team goal! Bryan Zaragoza (Granada CF) was set free in the area by Lucas Boye and he made no mistake with a lovely finish into the bottom left corner. 1:0.",
+            "comments_text_anonymized": "Fantastic team goal! [PLAYER] ([TEAM]) was set free in the area by [PLAYER] and he made no mistake with a lovely finish into the bottom left corner. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:10",
+            "comments_type": "clearance",
+            "comments_text": "Alvaro Fernandez (Granada CF) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:41",
+            "comments_type": "off side",
+            "comments_text": "Lamine Yamal (Barcelona) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:46",
+            "comments_type": "clearance",
+            "comments_text": "Bryan Zaragoza (Granada CF) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Cesar Soto Grado interrupts the game for a tactical foul by Lucas Boye (Granada CF).",
+            "comments_text_anonymized": "Cesar Soto Grado interrupts the game for a tactical foul by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "clearance",
+            "comments_text": "An attempted cross from Lamine Yamal (Barcelona) is cleared.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:08",
+            "comments_type": "foul with no card",
+            "comments_text": "Fermin Lopez (Barcelona) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:01",
+            "comments_type": "corner",
+            "comments_text": "Joao Cancelo (Barcelona) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. Barcelona have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:34",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:37",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) is about to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "shot off target",
+            "comments_text": "Joao Felix (Barcelona) jumps for a header from the corner kick, but fails to steer the ball into the goal as it flies high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps for a header from the corner kick, but fails to steer the ball into the goal as it flies high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:49",
+            "comments_type": "off side",
+            "comments_text": "Granada CF are ruled offside.",
+            "comments_text_anonymized": "[TEAM] are ruled offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Gavi (Barcelona) receives a low pass just outside the box and unleashes a fine strike towards the right post. Andre Ferreira pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed. The referee blows his whistle, Barcelona are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a low pass just outside the box and unleashes a fine strike towards the right post. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:36",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) overhits the corner kick and none of his teammates can their head on it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "clearance",
+            "comments_text": "Joao Felix (Barcelona) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:53",
+            "comments_type": "shot off target",
+            "comments_text": "Joao Felix (Barcelona) latches onto a decent pass, but flashes his shot just wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto a decent pass, but flashes his shot just wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:09",
+            "comments_type": "off side",
+            "comments_text": "Gavi (Barcelona) is adjudged to have been offside when making his run.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:48",
+            "comments_type": "corner",
+            "comments_text": "Alejandro Balde (Barcelona) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The referee and one of his assistants signal for a corner kick to Barcelona.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:40",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:32",
+            "comments_type": "lead to corner",
+            "comments_text": "Andreas Christensen (Barcelona) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort. Barcelona have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:14",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Ilkay Gundogan (Barcelona) comes to nothing.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:50",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:27",
+            "comments_type": "shot off target",
+            "comments_text": "The ball is cleared out of defence to the edge of the box where Lamine Yamal (Barcelona) hits a first-time shot back towards goal. Unfortunately for him, the ball flashes high over the bar.",
+            "comments_text_anonymized": "The ball is cleared out of defence to the edge of the box where [PLAYER] ([TEAM]) hits a first-time shot back towards goal. Unfortunately for him, the ball flashes high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:07",
+            "comments_type": "clearance",
+            "comments_text": "Fermin Lopez (Barcelona) fizzes over a cross which doesn't cause any problems.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:02",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Joao Felix (Barcelona) receives a low pass just outside the box and unleashes a fine strike to the bottom left corner. Andre Ferreira pulls off a reflexive save to block his effort. Nice goalkeeping skill.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a low pass just outside the box and unleashes a fine strike to the bottom left corner. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:03",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. Barcelona force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:24",
+            "comments_type": "corner",
+            "comments_text": "Corner kick. Ilkay Gundogan (Barcelona) is ready to send the ball into the box.",
+            "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:59",
+            "comments_type": "shot off target",
+            "comments_text": "Jules Kounde (Barcelona) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:39",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fermin Lopez (Barcelona) receives a precise pass in the box and takes the shot early. The ball heads towards the bottom right corner, but Andre Ferreira shows off his skills and makes a brilliant save to deny him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass in the box and takes the shot early. The ball heads towards the bottom right corner, but [PLAYER] shows off his skills and makes a brilliant save to deny him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:00",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Bryan Zaragoza (Granada CF) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:26",
+            "comments_type": "injury",
+            "comments_text": "Jules Kounde (Barcelona) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:31",
+            "comments_type": "injury",
+            "comments_text": "Jules Kounde (Barcelona) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:30",
+            "comments_type": "substitution",
+            "comments_text": "Xavi is forced to make a change. Jules Kounde (Barcelona) is not able to carry on due to injury. He is replaced by Ronald Araujo.",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] ([TEAM]) is not able to carry on due to injury. He is replaced by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 5 min. of added time.",
+            "comments_text_anonymized": "We will have 5 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:32",
+            "comments_type": "goal",
+            "comments_text": "Lamine Yamal (Barcelona) receives the ball inside the box, reacts quickly and without any problems fires the ball into the back of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives the ball inside the box, reacts quickly and without any problems fires the ball into the back of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "50:43",
+            "comments_type": "lead to corner",
+            "comments_text": "Bryan Zaragoza (Granada CF) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Granada CF win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] win a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "50:38",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner comes to nothing as Gerard Gumbau (Granada CF) sends it out of play.",
+            "comments_text_anonymized": "The resulting corner comes to nothing as [PLAYER] ([TEAM]) sends it out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "51:24",
+            "comments_type": "end of half game",
+            "comments_text": "The first half of today's match has just finished.",
+            "comments_text_anonymized": "The first half of today's match has just finished."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Cesar Soto Grado blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee Cesar Soto Grado blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:44",
+            "comments_type": "foul with no card",
+            "comments_text": "Gerard Gumbau (Granada CF) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Cesar Soto Grado blows for the foul but keeps his cards in his pocket on this occasion.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Cesar Soto Grado blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Fermin Lopez (Barcelona) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Ferran Torres (Barcelona) picks up a loose pass and unexpectedly unleashes a howitzer from distance, but the effort comes to nothing as a defender gets in the block. The ball is out of play and the linesman points at the corner flag. Corner to Barcelona.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a loose pass and unexpectedly unleashes a howitzer from distance, but the effort comes to nothing as a defender gets in the block. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:00",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Ilkay Gundogan (Barcelona) only finds one of the defenders, who heads it out of danger.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:02",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ronald Araujo (Barcelona) swings it in and Ferran Torres gets on the end of it, but Andre Ferreira shows good awareness and comes off his line to thwart the move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings it in and [PLAYER] gets on the end of it, but [PLAYER] shows good awareness and comes off his line to thwart the move."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:20",
+            "comments_type": "lead to corner",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Alejandro Balde (Barcelona). The referee points to the corner flag and Barcelona will take a corner.",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:32",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) steps up to send the ball in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fermin Lopez (Barcelona) won himself some space after the corner kick and tries his luck with a shot from the edge of the box. His effort is directed to the middle of the goal, but the goalkeeper is alert and makes the save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) won himself some space after the corner kick and tries his luck with a shot from the edge of the box. His effort is directed to the middle of the goal, but the goalkeeper is alert and makes the save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:50",
+            "comments_type": "clearance",
+            "comments_text": "Lamine Yamal (Barcelona) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Gavi (Barcelona) trips an opposition player and Cesar Soto Grado signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and Cesar Soto Grado signals a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:42",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Antonio Puertas (Granada CF) replaces Myrto Uzuni.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:00",
+            "comments_type": "substitution",
+            "comments_text": "Paco Lopez prepares a substitution. Gonzalo Villar is replaced by Njegos Petrovic (Granada CF).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:10",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Raul Torrent (Granada CF) coming on for Alvaro Fernandez.",
+            "comments_text_anonymized": "The manager makes a subsitution with Raul Torrent ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:15",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Boye (Granada CF) wasted a huge opportunity! He received a fine cross from the free kick and fired a decent shot in from close range. Unfortunately for him, it sailed narrowly wide of the right post!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wasted a huge opportunity! He received a fine cross from the free kick and fired a decent shot in from close range. Unfortunately for him, it sailed narrowly wide of the right post!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:57",
+            "comments_type": "shot off target",
+            "comments_text": "Lamine Yamal (Barcelona) latches onto a lofted pass near the penalty spot, but sends his header miles wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto a lofted pass near the penalty spot, but sends his header miles wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:21",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Fermin Lopez is going off and Xavi gives the last tactical orders to Sergi Roberto (Barcelona).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:36",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Lucas Boye (Granada CF) was seen by Cesar Soto Grado who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by Cesar Soto Grado who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:07",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Bryan Zaragoza (Granada CF) was quite harsh and Cesar Soto Grado didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and Cesar Soto Grado didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:50",
+            "comments_type": "free kick",
+            "comments_text": "A poorly taken free kick by Ferran Torres (Barcelona)! He sends a shot from the edge of the box into the defensive wall.",
+            "comments_text_anonymized": "A poorly taken free kick by [PLAYER] ([TEAM])! He sends a shot from the edge of the box into the defensive wall."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:31",
+            "comments_type": "yellow card",
+            "comments_text": "The referee demonstrates he won't tolerate this behaviour. Miguel Rubio (Granada CF) is given a yellow card.",
+            "comments_text_anonymized": "The referee demonstrates he won't tolerate this behaviour. [PLAYER] ([TEAM]) is given a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:02",
+            "comments_type": "foul with no card",
+            "comments_text": "Ronald Araujo (Barcelona) trips an opponent with a slide tackle. Cesar Soto Grado stops the game and he could give him a card, but eventually decides on just a warning.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. Cesar Soto Grado stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:12",
+            "comments_type": "shot off target",
+            "comments_text": "Lucas Boye (Granada CF) unleashes a cannonball of a shot from the edge of the area, but it zips narrowly wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a cannonball of a shot from the edge of the area, but it zips narrowly wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:51",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Lucas Boye, who is replaced by Jose Callejon (Granada CF).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:22",
+            "comments_type": "foul with no card",
+            "comments_text": "Cesar Soto Grado blows his whistle after Jose Callejon (Granada CF) brings one of his opponents down with a strong tackle.",
+            "comments_text_anonymized": "Cesar Soto Grado blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:01",
+            "comments_type": "lead to corner",
+            "comments_text": "Alejandro Balde (Barcelona) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Barcelona get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:27",
+            "comments_type": "corner",
+            "comments_text": "Ilkay Gundogan (Barcelona) takes the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:01",
+            "comments_type": "foul with no card",
+            "comments_text": "The ball spins up and hits the hand of Gavi (Barcelona) after he fails to control it and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:30",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Lamine Yamal leaves the pitch and is replaced by Oriol Romeu (Barcelona).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:07",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ilkay Gundogan (Barcelona) hits a shot towards the left side of the goal from the edge of the box, but it's a weak attempt and is easily saved by Andre Ferreira.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hits a shot towards the left side of the goal from the edge of the box, but it's a weak attempt and is easily saved by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:27",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Gavi (Barcelona) gets on the end of a pass and takes a low shot from the edge of the box which is straight at Andre Ferreira, who makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a low shot from the edge of the box which is straight at [PLAYER], who makes a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:30",
+            "comments_type": "off side",
+            "comments_text": "Gavi (Barcelona) tries to latch onto a through ball, but it's too long.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to latch onto a through ball, but it's too long."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:52",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Ricard Sanchez is given a rest as he is replaced by Jesus Vallejo (Granada CF).",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:57",
+            "comments_type": "goal",
+            "comments_text": "Sergi Roberto (Barcelona) receives a killer pass and scores a great goal after finding the back of the net with a simple finish!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a killer pass and scores a great goal after finding the back of the net with a simple finish!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:56",
+            "comments_type": "yellow card",
+            "comments_text": "Jesus Vallejo (Granada CF) kept talking out of turn to the referee until Cesar Soto Grado lost patience and pulled out a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) kept talking out of turn to the referee until Cesar Soto Grado lost patience and pulled out a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:40",
+            "comments_type": "var",
+            "comments_text": "The Barcelona players halt their celebrations as referee Cesar Soto Grado makes the VAR signal to review the goal, most likely to ascertain if there was a foul in the build-up play.",
+            "comments_text_anonymized": "The [TEAM] players halt their celebrations as referee Cesar Soto Grado makes the VAR signal to review the goal, most likely to ascertain if there was a foul in the build-up play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:50",
+            "comments_type": "goal",
+            "comments_text": "Here comes the VAR verdict: Referee Cesar Soto Grado signals that the goal stands! The Barcelona players celebrate.",
+            "comments_text_anonymized": "Here comes the VAR verdict: Referee Cesar Soto Grado signals that the goal stands! The [TEAM] players celebrate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:27",
+            "comments_type": "clearance",
+            "comments_text": "Ilkay Gundogan (Barcelona) goes on a weaving run through the defence and gets within shooting range but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a weaving run through the defence and gets within shooting range but his effort is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "7 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "7 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:15",
+            "comments_type": "yellow card",
+            "comments_text": "Paco Lopez is stunned as referee Cesar Soto Grado shows him a yellow card. What was that for?",
+            "comments_text_anonymized": "[PLAYER] is stunned as referee Cesar Soto Grado shows him a yellow card. What was that for?"
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:50",
+            "comments_type": "yellow card",
+            "comments_text": "Although Sergio Ruiz (Granada CF) is just on the bench, Cesar Soto Grado has awarded him with a yellow card. Unsporting behavior says the referee.",
+            "comments_text_anonymized": "Although [PLAYER] ([TEAM]) is just on the bench, Cesar Soto Grado has awarded him with a yellow card. Unsporting behavior says the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:50",
+            "comments_type": "var",
+            "comments_text": "Possible change! There could be offside in the lead up. Referee Cesar Soto Grado wants to look at it, so he’s going to review using VAR.",
+            "comments_text_anonymized": "Possible change! There could be offside in the lead up. Referee Cesar Soto Grado wants to look at it, so he’s going to review using VAR."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:30",
+            "comments_type": "var",
+            "comments_text": "The referee looks satisfied after his VAR review and duly disallows the goal for offside. The Barcelona players look gutted.",
+            "comments_text_anonymized": "The referee looks satisfied after his VAR review and duly disallows the goal for offside. The [TEAM] players look gutted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:23",
+            "comments_type": "shot off target",
+            "comments_text": "An accurate pass to the edge of the box is well taken by Oriol Romeu (Barcelona), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "comments_text_anonymized": "An accurate pass to the edge of the box is well taken by [PLAYER] ([TEAM]), whose instinctive shot towards goal flashes inches wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "53:00",
+            "comments_type": "yellow card",
+            "comments_text": "Carlos Neva (Granada CF) violates the laws of the game and is shown a deserved yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a deserved yellow card by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "52:42",
+            "comments_type": "yellow card",
+            "comments_text": "Joao Cancelo (Barcelona) is awarded a yellow card for his behaviour.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his behaviour."
+        },
+        {
+            "half": 2,
+            "time_stamp": "54:02",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

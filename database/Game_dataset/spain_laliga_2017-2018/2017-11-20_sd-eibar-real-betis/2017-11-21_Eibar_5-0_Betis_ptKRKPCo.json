@@ -1,0 +1,856 @@
+{
+    "match_info": {
+        "timestamp": "2017-11-21 04:00:00",
+        "score": "5 - 0",
+        "home_team": "Eibar",
+        "away_team": "Betis",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 1 - 4 - 1",
+        "venue": "Estadio Municipal de Ipurua (Eibar)",
+        "capacity": "8 164",
+        "attendance": "4 638",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Gonzalez G. (Esp)",
+        "first_name": "Gonzalez",
+        "abbr_last_name": "G",
+        "country": "Esp",
+        "detected_name": ""
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Setien Q.",
+                "players_number": "",
+                "Full Name": "Quique Setien",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (27.09.1958)",
+                "Market Value": "",
+                "unicode": "8Oq352ac"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Campbell J.",
+                "players_number": "",
+                "Full Name": "Joel Campbell",
+                "players_rating": "",
+                "Country": "Costa Rica",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (26.06.1992)",
+                "Market Value": "€1.5m",
+                "unicode": "fLAH2TtR"
+            },
+            {
+                "players_name": "Feddal Z.",
+                "players_number": "",
+                "Full Name": "Zouhair Feddal",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (23.12.1989)",
+                "Market Value": "",
+                "unicode": "YwR0ECqk"
+            },
+            {
+                "players_name": "Guerrero F.",
+                "players_number": "",
+                "Full Name": "Francis Guerrero",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (11.03.1996)",
+                "Market Value": "",
+                "unicode": "zwUzvvtl"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Adan A. (G)",
+                "players_number": "13",
+                "Full Name": "Antonio Adan",
+                "players_rating": 5.9,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (13.05.1987)",
+                "Market Value": "€760k",
+                "unicode": "tbjcsOoa"
+            },
+            {
+                "players_name": "Amat J.",
+                "players_number": "5",
+                "Full Name": "Jordi Amat",
+                "players_rating": 6.1,
+                "Country": "Indonesia",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.03.1992)",
+                "Market Value": "€738k",
+                "unicode": "2Jwz26pn"
+            },
+            {
+                "players_name": "Barragan A.",
+                "players_number": "19",
+                "Full Name": "Antonio Barragan",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (12.06.1987)",
+                "Market Value": "",
+                "unicode": "SCumkkbo"
+            },
+            {
+                "players_name": "Camarasa V.",
+                "players_number": "8",
+                "Full Name": "Victor Camarasa",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (28.05.1994)",
+                "Market Value": "",
+                "unicode": "ldjKikv4"
+            },
+            {
+                "players_name": "Durmisi R.",
+                "players_number": "14",
+                "Full Name": "Riza Durmisi",
+                "players_rating": 6.0,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (08.01.1994)",
+                "Market Value": "€281k",
+                "unicode": "vs0CxsNf"
+            },
+            {
+                "players_name": "Garcia J.",
+                "players_number": "3",
+                "Full Name": "Javi Garcia",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (08.02.1987)",
+                "Market Value": "",
+                "unicode": "67A2Ub5M"
+            },
+            {
+                "players_name": "Joaquin (C)",
+                "players_number": "17",
+                "Full Name": "Joaquin",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "42, (21.07.1981)",
+                "Market Value": "",
+                "unicode": "I3ySbl3q"
+            },
+            {
+                "players_name": "Leon S.",
+                "players_number": "7",
+                "Full Name": "Sergio Leon",
+                "players_rating": 5.8,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (06.01.1989)",
+                "Market Value": "€1.4m",
+                "unicode": "YFnwQwJd"
+            },
+            {
+                "players_name": "Mandi A.",
+                "players_number": "23",
+                "Full Name": "Aissa Mandi",
+                "players_rating": 4.7,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (22.10.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "0hxFjbCm"
+            },
+            {
+                "players_name": "Nahuel M.",
+                "players_number": "11",
+                "Full Name": "Matias Nahuel",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (22.11.1996)",
+                "Market Value": "€894k",
+                "unicode": "r5rW42rc"
+            },
+            {
+                "players_name": "Ruiz F.",
+                "players_number": "6",
+                "Full Name": "Fabian Ruiz",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (03.04.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "l6HSH2Uo"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Boudebouz R.",
+                "players_number": "10",
+                "Full Name": "Ryad Boudebouz",
+                "players_rating": 6.1,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (19.02.1990)",
+                "Market Value": "€1.2m",
+                "unicode": "jVdly9DL"
+            },
+            {
+                "players_name": "Guardado A.",
+                "players_number": "18",
+                "Full Name": "Andres Guardado",
+                "players_rating": 5.9,
+                "Country": "Mexico",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (28.09.1986)",
+                "Market Value": "€1.4m",
+                "unicode": "KMjbtcfo"
+            },
+            {
+                "players_name": "Sanabria A.",
+                "players_number": "9",
+                "Full Name": "Antonio Sanabria",
+                "players_rating": 6.2,
+                "Country": "Paraguay",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (04.03.1996)",
+                "Market Value": "€8.9m",
+                "unicode": "jNePUJ0b"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Gimenez D. (G)",
+                "players_number": "1",
+                "Full Name": "Daniel Gimenez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (30.07.1983)",
+                "Market Value": "",
+                "unicode": "r7HW6knF"
+            },
+            {
+                "players_name": "Narvaez J.",
+                "players_number": "29",
+                "Full Name": "Juan Narvaez",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (12.02.1995)",
+                "Market Value": "€738k",
+                "unicode": "Ctl5Va36"
+            },
+            {
+                "players_name": "Navarro R.",
+                "players_number": "2",
+                "Full Name": "Rafael Navarro",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (24.02.1994)",
+                "Market Value": "",
+                "unicode": "jmZzsDfg"
+            },
+            {
+                "players_name": "Tosca A.",
+                "players_number": "21",
+                "Full Name": "Alin Tosca",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (14.03.1992)",
+                "Market Value": "€734k",
+                "unicode": "AsC0cUyH"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Mendilibar J. L.",
+                "players_number": "",
+                "Full Name": "Jose Luis Mendilibar",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "62,  (14.03.1961)",
+                "Market Value": "",
+                "unicode": "vy8l9QZi"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Leon P.",
+                "players_number": "",
+                "Full Name": "Pedro Leon",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (24.11.1986)",
+                "Market Value": "30.06.2024",
+                "unicode": "UoZxWaTS"
+            },
+            {
+                "players_name": "Ramis I.",
+                "players_number": "",
+                "Full Name": "Ivan Ramis",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (25.10.1984)",
+                "Market Value": "",
+                "unicode": "xlCfgKS2"
+            },
+            {
+                "players_name": "Rico F.",
+                "players_number": "",
+                "Full Name": "Fran Rico",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (03.08.1987)",
+                "Market Value": "",
+                "unicode": "Qa2fmScQ"
+            },
+            {
+                "players_name": "Yoel",
+                "players_number": "",
+                "Full Name": "Yoel",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (28.08.1988)",
+                "Market Value": "€369k",
+                "unicode": "vuG4kXUC"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alejo I.",
+                "players_number": "20",
+                "Full Name": "Ivan Alejo",
+                "players_rating": 8.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.02.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "0I0RtqEN"
+            },
+            {
+                "players_name": "Arbilla A.",
+                "players_number": "18",
+                "Full Name": "Anaitz Arbilla",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (15.05.1987)",
+                "Market Value": "€397k",
+                "unicode": "I5wpPbNu"
+            },
+            {
+                "players_name": "Capa A.",
+                "players_number": "7",
+                "Full Name": "Ander Capa",
+                "players_rating": 7.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (08.02.1992)",
+                "Market Value": "€1.3m",
+                "unicode": "tvHMBqV4"
+            },
+            {
+                "players_name": "Charles",
+                "players_number": "19",
+                "Full Name": "Charles",
+                "players_rating": 8.5,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "39, (04.04.1984)",
+                "Market Value": "",
+                "unicode": "SEgXNDsQ"
+            },
+            {
+                "players_name": "Dmitrovic M. (G)",
+                "players_number": "25",
+                "Full Name": "Marko Dmitrovic",
+                "players_rating": 6.4,
+                "Country": "Serbia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (24.01.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pO8Jn4Xm"
+            },
+            {
+                "players_name": "Enrich S.",
+                "players_number": "9",
+                "Full Name": "Sergio Enrich",
+                "players_rating": 8.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (26.02.1990)",
+                "Market Value": "€545k",
+                "unicode": "rF4Be8Yj"
+            },
+            {
+                "players_name": "Escalante G.",
+                "players_number": "5",
+                "Full Name": "Gonzalo Escalante",
+                "players_rating": 7.1,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (27.03.1993)",
+                "Market Value": "€1.9m",
+                "unicode": "ferBlfmN"
+            },
+            {
+                "players_name": "Garcia D. (C)",
+                "players_number": "14",
+                "Full Name": "Dani Garcia",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (24.05.1990)",
+                "Market Value": "€1.8m",
+                "unicode": "UmJD3Lxo"
+            },
+            {
+                "players_name": "Inui T.",
+                "players_number": "8",
+                "Full Name": "Takashi Inui",
+                "players_rating": 7.3,
+                "Country": "Japan",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (02.06.1988)",
+                "Market Value": "31.01.2025",
+                "unicode": "xrLbfBdj"
+            },
+            {
+                "players_name": "Junca D.",
+                "players_number": "23",
+                "Full Name": "David Junca",
+                "players_rating": 8.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.11.1993)",
+                "Market Value": "30.06.2024",
+                "unicode": "EFHWV7vB"
+            },
+            {
+                "players_name": "Oliveira P.",
+                "players_number": "12",
+                "Full Name": "Paulo Oliveira",
+                "players_rating": 7.3,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.01.1992)",
+                "Market Value": "€2.0m",
+                "unicode": "4Mw7teb8"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Garcia K.",
+                "players_number": "17",
+                "Full Name": "Kike Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (25.11.1989)",
+                "Market Value": "€1.4m",
+                "unicode": "GfoivbEm"
+            },
+            {
+                "players_name": "Jordan J.",
+                "players_number": "24",
+                "Full Name": "Joan Jordan",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.07.1994)",
+                "Market Value": "€4.8m",
+                "unicode": "nmjvsTy0"
+            },
+            {
+                "players_name": "Pena R.",
+                "players_number": "11",
+                "Full Name": "Ruben Pena",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (18.07.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "hvSbhBpg"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bebe",
+                "players_number": "10",
+                "Full Name": "Bebe",
+                "players_rating": "",
+                "Country": "Cape Verde",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (12.07.1990)",
+                "Market Value": "€772k",
+                "unicode": "SMffmeAM"
+            },
+            {
+                "players_name": "Cote",
+                "players_number": "15",
+                "Full Name": "Cote",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.09.1989)",
+                "Market Value": "",
+                "unicode": "IT0uBnYR"
+            },
+            {
+                "players_name": "Lomban D.",
+                "players_number": "22",
+                "Full Name": "David Lomban",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (05.06.1987)",
+                "Market Value": "",
+                "unicode": "dntx1Lgf"
+            },
+            {
+                "players_name": "Riesgo A. (G)",
+                "players_number": "13",
+                "Full Name": "Asier Riesgo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (06.10.1983)",
+                "Market Value": "",
+                "unicode": "xQHpC8xB"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action.",
+            "comments_text_anonymized": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Gonzalez Gonzalez will supervise the game today.",
+            "comments_text_anonymized": "Gonzalez Gonzalez will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Betis will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:38",
+            "comments_type": "clearance",
+            "comments_text": "Antonio Barragan (Betis) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:00",
+            "comments_type": "goal",
+            "comments_text": "An unfortunate own goal is conceded by Jordi Amat (Betis), who attempted to block the ball after a cross, but instead he sends it inside the bottom left corner of his own goal.",
+            "comments_text_anonymized": "An unfortunate own goal is conceded by [PLAYER] ([TEAM]), who attempted to block the ball after a cross, but instead he sends it inside the bottom left corner of his own goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:24",
+            "comments_type": "yellow card",
+            "comments_text": "Today's referee Gonzalez Gonzalez rightly decides to book Jordi Amat (Betis) for his harsh tackle.",
+            "comments_text_anonymized": "Today's referee Gonzalez Gonzalez rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:34",
+            "comments_type": "shot off target",
+            "comments_text": "Sergio Enrich (Eibar) flashes a header well wide of the left post following a lofted pass into the centre of the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flashes a header well wide of the left post following a lofted pass into the centre of the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:07",
+            "comments_type": "foul with no card",
+            "comments_text": "Javi Garcia (Betis) commits a rough challenge and Gonzalez Gonzalez blows his whistle for a foul. It's a free kick to Eibar, but it's in no position for a direct shot on goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and Gonzalez Gonzalez blows his whistle for a foul. It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:28",
+            "comments_type": "yellow card",
+            "comments_text": "Gonzalez Gonzalez shows a yellow card to Gonzalo Escalante (Eibar) for a tough tackle.",
+            "comments_text_anonymized": "Gonzalez Gonzalez shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:07",
+            "comments_type": "shot off target",
+            "comments_text": "Ivan Alejo (Eibar) latches on to a loose ball on the edge of the box and fires in a first-time shot on goal, but the effort lacks accuracy and flies well wide of the right post. The ball goes out of play and Betis will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a loose ball on the edge of the box and fires in a first-time shot on goal, but the effort lacks accuracy and flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:23",
+            "comments_type": "lead to corner",
+            "comments_text": "Sergio Enrich (Eibar) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball is out of play. Eibar win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:35",
+            "comments_type": "corner",
+            "comments_text": "Eibar have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:45",
+            "comments_type": "goal",
+            "comments_text": "David Junca produces a beautiful lofted cross into the box, where Gonzalo Escalante (Eibar) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 2:0.",
+            "comments_text_anonymized": "[PLAYER] produces a beautiful lofted cross into the box, where [PLAYER] ([TEAM]) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Takashi Inui (Eibar) fouls an opponent. At least that's what referee Gonzalez Gonzalez signals. Betis have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee Gonzalez Gonzalez signals. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:21",
+            "comments_type": "clearance",
+            "comments_text": "Antonio Barragan (Betis) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:50",
+            "comments_type": "yellow card",
+            "comments_text": "Anaitz Arbilla (Eibar) sees a yellow card from Gonzalez Gonzalez after he sent one of the opposing players to the ground.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from Gonzalez Gonzalez after he sent one of the opposing players to the ground."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:28",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Joaquin (Betis) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:00",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "comments_text_anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Gonzalez Gonzalez blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee Gonzalez Gonzalez blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:27",
+            "comments_type": "ball out of play",
+            "comments_text": "Ander Capa (Eibar) fails to send a pass into the box as his effort is cut out. The ball is off of the pitch and it's a goal kick for Betis.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:24",
+            "comments_type": "off side",
+            "comments_text": "Sergio Enrich (Eibar) is clearly in an offside position and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly in an offside position and the linesman raises his flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:04",
+            "comments_type": "corner",
+            "comments_text": "David Junca (Eibar) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. The ball is off of the pitch and it's a goal kick for Betis.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:00",
+            "comments_type": "red card",
+            "comments_text": "Aissa Mandi (Betis) receives a red card after his awful challenge. He completely lost his temper and referee Gonzalez Gonzalez sends him off the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a red card after his awful challenge. He completely lost his temper and referee Gonzalez Gonzalez sends him off the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:13",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Aissa Mandi (Betis) pulls the jersey of one of the opposition players and Gonzalez Gonzalez blows his whistle for a foul. The referee uncompromisingly points to the spot and it's a penalty to Eibar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and Gonzalez Gonzalez blows his whistle for a foul. The referee uncompromisingly points to the spot and it's a penalty to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:00",
+            "comments_type": "goal",
+            "comments_text": "Goal! Charles (Eibar) runs up to the ball, stops and waits for Antonio Adan to commit before slotting the penalty low into the middle of the goal.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) runs up to the ball, stops and waits for [PLAYER] to commit before slotting the penalty low into the middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:00",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Andres Guardado (Betis) replaces Matias Nahuel.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:23",
+            "comments_type": "corner",
+            "comments_text": "Eibar take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:23",
+            "comments_type": "lead to corner",
+            "comments_text": "Takashi Inui (Eibar) takes a brilliant touch after he latches on to a pass on the edge of the box and strikes the ball to the bottom right corner. The goalkeeper dives low and saves his attempt. Eibar force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a brilliant touch after he latches on to a pass on the edge of the box and strikes the ball to the bottom right corner. The goalkeeper dives low and saves his attempt. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:37",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Eibar is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:51",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Joaquin. He has contributed as much as he could today. He will be replaced by the fresh legs of Antonio Sanabria (Betis).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:00",
+            "comments_type": "yellow card",
+            "comments_text": "Gonzalez Gonzalez shows the yellow card to Andres Guardado (Betis) for a heavy challenge.",
+            "comments_text_anonymized": "Gonzalez Gonzalez shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:41",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Betis.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:51",
+            "comments_type": "corner",
+            "comments_text": "David Junca (Eibar) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:53",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Gonzalo Escalante, who is replaced by Joan Jordan (Eibar).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:00",
+            "comments_type": "substitution",
+            "comments_text": "Quique Setien has decided to introduce fresh legs, with Ryad Boudebouz (Betis) replacing Victor Camarasa.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:00",
+            "comments_type": "goal",
+            "comments_text": "Goal! Ivan Alejo manages to prod the ball to Charles (Eibar) after a melee inside the box, and he needs no second invitation to slot the ball low into the middle of the goal. 4:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] manages to prod the ball to [PLAYER] ([TEAM]) after a melee inside the box, and he needs no second invitation to slot the ball low into the middle of the goal. 4:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Ruben Pena (Eibar) for Ivan Alejo.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:18",
+            "comments_type": "clearance",
+            "comments_text": "Antonio Adan steps in and intercepts a long pass from Ruben Pena (Eibar).",
+            "comments_text_anonymized": "[PLAYER] steps in and intercepts a long pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:00",
+            "comments_type": "goal",
+            "comments_text": "Goal! Sergio Enrich (Eibar) takes a short pass from Ander Capa in his stride in the box, jinks inside his man and unleashes an unstoppable shot inside the right post. 5:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) takes a short pass from [PLAYER] in his stride in the box, jinks inside his man and unleashes an unstoppable shot inside the right post. 5:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Sergio Enrich is going off and Jose Mendilibar gives the last tactical orders to Garcia Kike (Eibar).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and Jose [PLAYER] gives the last tactical orders to [PLAYER] Kike ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:33",
+            "comments_type": "shot off target",
+            "comments_text": "Sergio Leon (Betis) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the right post, but one of the defenders reacted brilliantly to block it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the right post, but one of the defenders reacted brilliantly to block it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 2 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 2 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:00",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

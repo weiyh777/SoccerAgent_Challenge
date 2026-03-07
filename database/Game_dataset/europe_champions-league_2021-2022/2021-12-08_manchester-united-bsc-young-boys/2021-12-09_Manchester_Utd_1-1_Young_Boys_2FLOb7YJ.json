@@ -1,0 +1,1256 @@
+{
+    "match_info": {
+        "timestamp": "2021-12-09 04:00:00",
+        "score": "1 - 1",
+        "home_team": "Manchester Utd",
+        "away_team": "Young Boys",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Old Trafford (Manchester)",
+        "capacity": "75 635",
+        "attendance": "73 156",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Bastien B. (Fra)",
+        "first_name": "Bastien",
+        "abbr_last_name": "B",
+        "country": "Fra",
+        "detected_name": "Benoit Bastien"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Rangnick R.",
+                "players_number": "",
+                "Full Name": "Ralf Rangnick",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (29.06.1958)",
+                "Market Value": "",
+                "unicode": "4E1uDB0F"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Cavani E.",
+                "players_number": "",
+                "Full Name": "Edinson Cavani",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "",
+                "Full Name": "Anthony Martial",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "",
+                "Full Name": "Paul Pogba",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "",
+                "Full Name": "Raphael Varane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "3",
+                "Full Name": "Eric Bailly",
+                "players_rating": 7.5,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.1m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "Diallo A.",
+                "players_number": "16",
+                "Full Name": "Amad Diallo",
+                "players_rating": 6.6,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (11.07.2002)",
+                "Market Value": "€16.8m",
+                "unicode": "I5Rhq1WL"
+            },
+            {
+                "players_name": "Elanga A.",
+                "players_number": "36",
+                "Full Name": "Anthony Elanga",
+                "players_rating": 6.6,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (27.04.2002)",
+                "Market Value": "€17.6m",
+                "unicode": "dOlRWlZ6"
+            },
+            {
+                "players_name": "Greenwood M.",
+                "players_number": "11",
+                "Full Name": "Mason Greenwood",
+                "players_rating": 8.0,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (01.10.2001)",
+                "Market Value": "€7.4m",
+                "unicode": "hxe108Jl"
+            },
+            {
+                "players_name": "Henderson D. (G)",
+                "players_number": "26",
+                "Full Name": "Dean Henderson",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (12.03.1997)",
+                "Market Value": "€11.6m",
+                "unicode": "OpFOJojt"
+            },
+            {
+                "players_name": "Lingard J.",
+                "players_number": "14",
+                "Full Name": "Jesse Lingard",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            },
+            {
+                "players_name": "Mata J.",
+                "players_number": "8",
+                "Full Name": "Juan Manuel Mata",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (28.04.1988)",
+                "Market Value": "€908k",
+                "unicode": "nHlv2UfS"
+            },
+            {
+                "players_name": "Matic N. (C)",
+                "players_number": "31",
+                "Full Name": "Nemanja Matic",
+                "players_rating": 6.3,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "23",
+                "Full Name": "Luke Shaw",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "van de Beek D.",
+                "players_number": "34",
+                "Full Name": "Donny van de Beek",
+                "players_rating": 7.0,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.04.1997)",
+                "Market Value": "€7.9m",
+                "unicode": "bs2gvblF"
+            },
+            {
+                "players_name": "Wan-Bissaka A.",
+                "players_number": "29",
+                "Full Name": "Aaron Wan-Bissaka",
+                "players_rating": 7.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (26.11.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "faGmGOOh"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Heaton T. (G)",
+                "players_number": "22",
+                "Full Name": "Tom Heaton",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.04.1986)",
+                "Market Value": "€262k",
+                "unicode": "MoaXS53r"
+            },
+            {
+                "players_name": "Iqbal Z.",
+                "players_number": "73",
+                "Full Name": "Zidane Iqbal",
+                "players_rating": "",
+                "Country": "Iraq",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (27.04.2003)",
+                "Market Value": "€922k",
+                "unicode": "KvvBRDjg"
+            },
+            {
+                "players_name": "Mengi T.",
+                "players_number": "43",
+                "Full Name": "Teden Mengi",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (30.04.2002)",
+                "Market Value": "€6.7m",
+                "unicode": "pzv2zXZs"
+            },
+            {
+                "players_name": "Savage C.",
+                "players_number": "72",
+                "Full Name": "Charlie Savage",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (02.05.2003)",
+                "Market Value": "€562k",
+                "unicode": "dUPprmAb"
+            },
+            {
+                "players_name": "Shoretire S.",
+                "players_number": "47",
+                "Full Name": "Shola Shoretire",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (02.02.2004)",
+                "Market Value": "€3.9m",
+                "unicode": "buyC4RMo"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Hardley B.",
+                "players_number": "64",
+                "Full Name": "Bjorn Hardley",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (19.12.2002)",
+                "Market Value": "€88k",
+                "unicode": "nitJoSZO"
+            },
+            {
+                "players_name": "Kovar M. (G)",
+                "players_number": "51",
+                "Full Name": "Matej Kovar",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "23, (17.05.2000)",
+                "Market Value": "€5.0m",
+                "unicode": "tIXuiy4C"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Wagner D.",
+                "players_number": "",
+                "Full Name": "David Wagner",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (19.10.1971)",
+                "Market Value": "",
+                "unicode": "OS3AwgCU"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Fassnacht C.",
+                "players_number": "",
+                "Full Name": "Christian Fassnacht",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (11.11.1993)",
+                "Market Value": "€2.4m",
+                "unicode": "CvP8jG9B"
+            },
+            {
+                "players_name": "Garcia U.",
+                "players_number": "",
+                "Full Name": "Ulisses Garcia",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (11.01.1996)",
+                "Market Value": "€3.0m",
+                "unicode": "2Rrnmrcp"
+            },
+            {
+                "players_name": "Mambimbi F.",
+                "players_number": "",
+                "Full Name": "Felix Mambimbi",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (18.01.2001)",
+                "Market Value": "€726k",
+                "unicode": "GlumWsgi"
+            },
+            {
+                "players_name": "Monteiro J.",
+                "players_number": "",
+                "Full Name": "Joel Monteiro",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (05.08.1999)",
+                "Market Value": "€1.9m",
+                "unicode": "xWWsgVFf"
+            },
+            {
+                "players_name": "Nsame J.",
+                "players_number": "",
+                "Full Name": "Jean-Pierre Nsame",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (01.05.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "C2XaJWk3"
+            },
+            {
+                "players_name": "Petignat E.",
+                "players_number": "",
+                "Full Name": "Esteban Petignat",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.05.2000)",
+                "Market Value": "30.06.2024",
+                "unicode": "SUXXj1b0"
+            },
+            {
+                "players_name": "von Ballmoos D.",
+                "players_number": "",
+                "Full Name": "David von Ballmoos",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (30.12.1994)",
+                "Market Value": "€1.5m",
+                "unicode": "nLy6P9JG"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Aebischer M.",
+                "players_number": "20",
+                "Full Name": "Michel Aebischer",
+                "players_rating": 7.0,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (06.01.1997)",
+                "Market Value": "€5.4m",
+                "unicode": "MiXFJwit"
+            },
+            {
+                "players_name": "Camara M.",
+                "players_number": "4",
+                "Full Name": "Mohamed Camara",
+                "players_rating": 6.8,
+                "Country": "Guinea",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (28.08.1997)",
+                "Market Value": "€4.1m",
+                "unicode": "IXR4Otot"
+            },
+            {
+                "players_name": "Elia M.",
+                "players_number": "15",
+                "Full Name": "Meschack Elia",
+                "players_rating": 6.6,
+                "Country": "DR Congo",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (06.08.1996)",
+                "Market Value": "€5.9m",
+                "unicode": "bThRZIx6"
+            },
+            {
+                "players_name": "Faivre G. (G)",
+                "players_number": "91",
+                "Full Name": "Guillaume Faivre",
+                "players_rating": 7.3,
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (20.02.1987)",
+                "Market Value": "",
+                "unicode": "f3uUKla0"
+            },
+            {
+                "players_name": "Lefort J.",
+                "players_number": "25",
+                "Full Name": "Jordan Lefort",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (09.08.1993)",
+                "Market Value": "€932k",
+                "unicode": "ADepyvio"
+            },
+            {
+                "players_name": "Lustenberger F. (C)",
+                "players_number": "28",
+                "Full Name": "Fabian Lustenberger",
+                "players_rating": 6.7,
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (02.05.1988)",
+                "Market Value": "€98k",
+                "unicode": "6T3XjsFC"
+            },
+            {
+                "players_name": "Maceiras Q.",
+                "players_number": "24",
+                "Full Name": "Quentin Maceiras",
+                "players_rating": 6.6,
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (10.10.1995)",
+                "Market Value": "€479k",
+                "unicode": "0twNNd9F"
+            },
+            {
+                "players_name": "Martins Pereira C.",
+                "players_number": "35",
+                "Full Name": "Christopher Martins Pereira",
+                "players_rating": 7.2,
+                "Country": "Luxembourg",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (19.02.1997)",
+                "Market Value": "€4.4m",
+                "unicode": "WYKZcEDH"
+            },
+            {
+                "players_name": "Moumi Ngamaleu N.",
+                "players_number": "13",
+                "Full Name": "Nicolas Moumi Ngamaleu",
+                "players_rating": 7.4,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (09.07.1994)",
+                "Market Value": "€3.5m",
+                "unicode": "AgsD65DC"
+            },
+            {
+                "players_name": "Rieder F.",
+                "players_number": "32",
+                "Full Name": "Fabian Rieder",
+                "players_rating": 7.3,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (16.02.2002)",
+                "Market Value": "€14.5m",
+                "unicode": "GQOPPSgM"
+            },
+            {
+                "players_name": "Siebatcheu J.",
+                "players_number": "17",
+                "Full Name": "Jordan Siebatcheu",
+                "players_rating": 6.4,
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (26.04.1996)",
+                "Market Value": "€5.6m",
+                "unicode": "K6XFTXqT"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Hefti S.",
+                "players_number": "36",
+                "Full Name": "Silvan Hefti",
+                "players_rating": 6.7,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (25.10.1997)",
+                "Market Value": "€2.4m",
+                "unicode": "bPpZBqLi"
+            },
+            {
+                "players_name": "Kanga W.",
+                "players_number": "9",
+                "Full Name": "Wilfried Kanga",
+                "players_rating": 6.2,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (21.02.1998)",
+                "Market Value": "€3.6m",
+                "unicode": "EgY8lAGh"
+            },
+            {
+                "players_name": "Lauper S.",
+                "players_number": "30",
+                "Full Name": "Sandro Lauper",
+                "players_rating": 6.2,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (25.10.1996)",
+                "Market Value": "€950k",
+                "unicode": "fX5Kx1hf"
+            },
+            {
+                "players_name": "Maier N.",
+                "players_number": "22",
+                "Full Name": "Nico Maier",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (02.07.2000)",
+                "Market Value": "",
+                "unicode": "K8xyDrLJ"
+            },
+            {
+                "players_name": "Sierro V.",
+                "players_number": "8",
+                "Full Name": "Vincent Sierro",
+                "players_rating": 6.7,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.10.1995)",
+                "Market Value": "30.06.2026",
+                "unicode": "ILJ8o9a3"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Burgy N.",
+                "players_number": "14",
+                "Full Name": "Nicolas Burgy",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (07.08.1995)",
+                "Market Value": "€723k",
+                "unicode": "lE1smRGe"
+            },
+            {
+                "players_name": "Jankewitz A.",
+                "players_number": "11",
+                "Full Name": "Alexandre Jankewitz",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (25.12.2001)",
+                "Market Value": "€726k",
+                "unicode": "dtlFH2g4"
+            },
+            {
+                "players_name": "Laidani A. (G)",
+                "players_number": "68",
+                "Full Name": "Abdullah Laidani",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "20, (26.04.2003)",
+                "Market Value": "30.06.2025",
+                "unicode": "tpSkcCFF"
+            },
+            {
+                "players_name": "Sulejmani M.",
+                "players_number": "10",
+                "Full Name": "Miralem Sulejmani",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (05.12.1988)",
+                "Market Value": "",
+                "unicode": "rLNH8kQ7"
+            },
+            {
+                "players_name": "Toure Y.",
+                "players_number": "29",
+                "Full Name": "Yannick Toure",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (29.09.2000)",
+                "Market Value": "€227k",
+                "unicode": "KIB5qpfh"
+            },
+            {
+                "players_name": "Zbinden L. (G)",
+                "players_number": "61",
+                "Full Name": "Leandro Zbinden",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "21, (30.07.2002)",
+                "Market Value": "30.06.2024",
+                "unicode": "G2SUv4al"
+            },
+            {
+                "players_name": "Zesiger C.",
+                "players_number": "5",
+                "Full Name": "Cedric Zesiger",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (24.06.1998)",
+                "Market Value": "€7.1m",
+                "unicode": "AZjCvCIn"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Benoit Bastien is the one to supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] is the one to supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Young Boys will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:37",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Christopher Martins Pereira (Young Boys) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:24",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Amad Diallo (Manchester United) gets on the end of a cross inside the box and sweeps the ball goalwards low towards the middle of the goal, but Guillaume Faivre is well positioned and easily deals with the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a cross inside the box and sweeps the ball goalwards low towards the middle of the goal, but [PLAYER] is well positioned and easily deals with the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:18",
+            "comments_type": "clearance",
+            "comments_text": "Elia Meschack (Young Boys) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] Meschack ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:53",
+            "comments_type": "foul with no card",
+            "comments_text": "Jordan Siebatcheu (Young Boys) robs an opponent of the ball and explodes in anger when Benoit Bastien blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:00",
+            "comments_type": "ball out of play",
+            "comments_text": "The ball is cleared after Aaron Wan-Bissaka (Manchester United) attempted to dribble past an opposing player. The ball is out of play. Manchester Utd will have a throw-in.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:12",
+            "comments_type": "clearance",
+            "comments_text": "Jordan Lefort (Young Boys) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:31",
+            "comments_type": "goal",
+            "comments_text": "What a GOAL! The lofted pass into the box is expertly and acrobatically dispatched into the net by Mason Greenwood (Manchester United). 1:0.",
+            "comments_text_anonymized": "What a GOAL! The lofted pass into the box is expertly and acrobatically dispatched into the net by [PLAYER] ([TEAM]). 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Quentin Maceiras (Young Boys) gives away a foul for a clumsy challenge. Referee Benoit Bastien saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Fabian Rieder (Young Boys). The referee blows his whistle for a foul.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:50",
+            "comments_type": "ball possession",
+            "comments_text": "Young Boys are showcasing great team work and neat passing moves.",
+            "comments_text_anonymized": "[TEAM] are showcasing great team work and neat passing moves."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:04",
+            "comments_type": "foul with no card",
+            "comments_text": "Luke Shaw (Manchester United) commits a rough challenge and Benoit Bastien blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Benoit Bastien has a clear sight and sees a foul from Quentin Maceiras (Young Boys).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Fabian Rieder (Young Boys) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:12",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:41",
+            "comments_type": "corner",
+            "comments_text": "The corner from Juan Manuel Mata (Manchester United) is intercepted by Guillaume Faivre.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:04",
+            "comments_type": "foul with no card",
+            "comments_text": "Fabian Rieder (Young Boys) makes a reckless foul in order to win the ball from his opponent. Benoit Bastien has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:51",
+            "comments_type": "ball possession",
+            "comments_text": "Some patient build-up play from Manchester Utd as they look to unlock the defence.",
+            "comments_text_anonymized": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:53",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Luke Shaw (Manchester United).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Jordan Lefort (Young Boys) gives away a foul for a fierce tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:10",
+            "comments_type": "shot off target",
+            "comments_text": "Juan Manuel Mata (Manchester United) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot! The ball goes out of play and Young Boys will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Benoit Bastien blows for a foul after Aaron Wan-Bissaka (Manchester United) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:09",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Dean Henderson blocks a long-range effort from Michel Aebischer (Young Boys) towards the right side of the goal.",
+            "comments_text_anonymized": "[PLAYER] blocks a long-range effort from [PLAYER] ([TEAM]) towards the right side of the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Donny van de Beek (Manchester United) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:21",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Fabian Rieder (Young Boys) picks up the rebound after chaos in the box and directs a sweet strike towards the middle of the goal. The goalkeeper, however, makes a stunning save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up the rebound after chaos in the box and directs a sweet strike towards the middle of the goal. The goalkeeper, however, makes a stunning save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:00",
+            "comments_type": "shot off target",
+            "comments_text": "Jordan Siebatcheu (Young Boys) latches on to a sweet cross into the box and misses with a header way wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a sweet cross into the box and misses with a header way wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:00",
+            "comments_type": "corner",
+            "comments_text": "Juan Manuel Mata (Manchester United) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:37",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A neat pass is well received by Christopher Martins Pereira (Young Boys), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot.",
+            "comments_text_anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Christopher Martins Pereira (Young Boys) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. The ball is out of play and Young Boys manage to earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:22",
+            "comments_type": "corner",
+            "comments_text": "Michel Aebischer (Young Boys) launches a cross from the corner, but Dean Henderson is alert to thwart the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a cross from the corner, but [PLAYER] is alert to thwart the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:19",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Fabian Rieder (Young Boys) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 1:1.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 1:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:40",
+            "comments_type": "clearance",
+            "comments_text": "Michel Aebischer (Young Boys) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:19",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:21",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Anthony Elanga (Manchester United). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:43",
+            "comments_type": "clearance",
+            "comments_text": "Luke Shaw (Manchester United) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:20",
+            "comments_type": "shot off target",
+            "comments_text": "Jordan Siebatcheu (Young Boys) has a chance after receiving a pass. He measures his shot from the edge of the box but it sails just wide of the left post. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a chance after receiving a pass. He measures his shot from the edge of the box but it sails just wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Jordan Siebatcheu (Young Boys) commits a rough challenge and Benoit Bastien blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:27",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mason Greenwood (Manchester United) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Guillaume Faivre pulls off an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:47",
+            "comments_type": "foul with no card",
+            "comments_text": "Luke Shaw (Manchester United) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:21",
+            "comments_type": "ball possession",
+            "comments_text": "Some neat passing and movement from Young Boys as they ping around some short passes in order to create a new attacking opportunity.",
+            "comments_text_anonymized": "Some neat passing and movement from [TEAM] as they ping around some short passes in order to create a new attacking opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:35",
+            "comments_type": "foul with no card",
+            "comments_text": "Benoit Bastien blows his whistle and it's Amad Diallo (Manchester United) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:14",
+            "comments_type": "red card",
+            "comments_text": "It looks like Eric Bailly (Manchester United) saw red with that tackle. Benoit Bastien won't tolerate such behaviour on the pitch and blows for a foul.",
+            "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:17",
+            "comments_type": "shot off target",
+            "comments_text": "Amad Diallo (Manchester United) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:10",
+            "comments_type": "shot off target",
+            "comments_text": "Elia Meschack (Young Boys) fires a shot well wide of the left post from inside the box after latching onto a short pass. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] Meschack ([TEAM]) fires a shot well wide of the left post from inside the box after latching onto a short pass. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:28",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Teden Mengi (Manchester United) receives a signal from the referee and is now allowed to enter the pitch as Luke Shaw walks off.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:33",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Michel Aebischer is going off and David Wagner gives the last tactical orders to Vincent Sierro (Young Boys).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:32",
+            "comments_type": "substitution",
+            "comments_text": "Today's match ends for Fabian Rieder who will be replaced by Silvan Hefti (Young Boys).",
+            "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:50",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Wilfried Kanga (Young Boys) replaces Jordan Siebatcheu.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Quentin Maceiras (Young Boys) races towards goal but the defender gets back well to make a challenge. It will be a corner kick for Young Boys.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:03",
+            "comments_type": "corner",
+            "comments_text": "Vincent Sierro (Young Boys) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:05",
+            "comments_type": "shot off target",
+            "comments_text": "Fabian Lustenberger (Young Boys) gets to the ball from the resulting corner but blazes it well over the bar. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner but blazes it well over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:50",
+            "comments_type": "clearance",
+            "comments_text": "Silvan Hefti (Young Boys) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:03",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Tom Heaton (Manchester United) on for Dean Henderson.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:39",
+            "comments_type": "substitution",
+            "comments_text": "Ralf Rangnick has decided to make a change. Shola Shoretire (Manchester United) replaces Amad Diallo.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:42",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Wilfried Kanga (Young Boys) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Christopher Martins Pereira (Young Boys) makes an overly-aggressive challenge and Benoit Bastien blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:28",
+            "comments_type": "shot off target",
+            "comments_text": "What a goal-scoring opportunity! Wilfried Kanga (Young Boys) makes a good run into the box to meet a cross and fires the ball in on goal, but the shot is amazingly blocked by a defender.",
+            "comments_text_anonymized": "What a goal-scoring opportunity! [PLAYER] ([TEAM]) makes a good run into the box to meet a cross and fires the ball in on goal, but the shot is amazingly blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:50",
+            "comments_type": "injury",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "injury",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:30",
+            "comments_type": "clearance",
+            "comments_text": "Silvan Hefti (Young Boys) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:52",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Quentin Maceiras (Young Boys) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:50",
+            "comments_type": "shot off target",
+            "comments_text": "Christopher Martins Pereira (Young Boys) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:07",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Sandro Lauper (Young Boys) has come on for Mohamed Camara.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Jordan Lefort (Young Boys) makes a rough challenge and Benoit Bastien blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:57",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "yellow card",
+            "comments_text": "Shola Shoretire (Manchester United) makes a bad challenge and receives a yellow card. The referee had no doubt.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and receives a yellow card. The referee had no doubt."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:01",
+            "comments_type": "clearance",
+            "comments_text": "Vincent Sierro (Young Boys) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "shot off target",
+            "comments_text": "Jordan Lefort (Young Boys) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:21",
+            "comments_type": "shot off target",
+            "comments_text": "Vincent Sierro (Young Boys) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "7:15 – the total goal attempt statistics.",
+            "comments_text_anonymized": "7:15 – the total goal attempt statistics."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:56",
+            "comments_type": "ball out of play",
+            "comments_text": "The cross into the penalty area from Donny van de Beek (Manchester United) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball is off of the pitch and it's a goal kick for Young Boys.",
+            "comments_text_anonymized": "The cross into the penalty area from [PLAYER] ([TEAM]) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:00",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a substitution. Nico Maier (Young Boys) is replacing Elia Meschack.",
+            "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER] Meschack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Sandro Lauper (Young Boys) was too forceful with his tackle and Benoit Bastien interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:10",
+            "comments_type": "shot off target",
+            "comments_text": "A defender mistimes his tackle on the edge on the box and let's in Nico Maier (Young Boys). It's a decent effort but his shot flies just wide of the right post. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "A defender mistimes his tackle on the edge on the box and let's in [PLAYER] ([TEAM]). It's a decent effort but his shot flies just wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:09",
+            "comments_type": "clearance",
+            "comments_text": "A fine lofted pass into the box, sent by Silvan Hefti (Young Boys), is intercepted by the opposition's defence.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:36",
+            "comments_type": "substitution",
+            "comments_text": "Ralf Rangnick has decided to substitute Jesse Lingard and he is replaced by Zidane Iqbal (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:39",
+            "comments_type": "substitution",
+            "comments_text": "The substitution is prepared. Charlie Savage (Manchester United) joins the action as a substitute, replacing Juan Manuel Mata.",
+            "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:21",
+            "comments_type": "corner",
+            "comments_text": "Vincent Sierro (Young Boys) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 5 min. of added time.",
+            "comments_text_anonymized": "We will have 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:50",
+            "comments_type": "ball out of play",
+            "comments_text": "A fan invades the pitch and the game has to be interrupted!",
+            "comments_text_anonymized": "A fan invades the pitch and the game has to be interrupted!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:51",
+            "comments_type": "corner",
+            "comments_text": "Vincent Sierro (Young Boys) decides to take a short corner instead of crossing into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:31",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Quentin Maceiras (Young Boys) swings a cross into the box, but it's far too close to Tom Heaton, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:01",
+            "comments_type": "end of half game",
+            "comments_text": "Benoit Bastien is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

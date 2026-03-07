@@ -1,0 +1,1196 @@
+{
+    "match_info": {
+        "timestamp": "2017-08-13 23:00:00",
+        "score": "4 - 0",
+        "home_team": "Manchester Utd",
+        "away_team": "West Ham",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Old Trafford (Manchester)",
+        "capacity": "75 635",
+        "attendance": "74 928",
+        "home_jersey_color": "red",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Atkinson M. (Eng)",
+        "first_name": "Atkinson",
+        "abbr_last_name": "M",
+        "country": "Eng",
+        "detected_name": "Martin Atkinson"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Mourinho J.",
+                "players_number": "",
+                "Full Name": "Jose Mourinho",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (26.01.1963)",
+                "Market Value": "",
+                "unicode": "AwXQwGFe"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Ibrahimovic Z.",
+                "players_number": "",
+                "Full Name": "Zlatan Ibrahimovic",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "42, (03.10.1981)",
+                "Market Value": "",
+                "unicode": "AiH2zDve"
+            },
+            {
+                "players_name": "Rojo M.",
+                "players_number": "",
+                "Full Name": "Marcos Rojo",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (20.03.1990)",
+                "Market Value": "€2.0m",
+                "unicode": "UZCWoIyB"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "",
+                "Full Name": "Luke Shaw",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "Young A.",
+                "players_number": "",
+                "Full Name": "Ashley Young",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (09.07.1985)",
+                "Market Value": "€566k",
+                "unicode": "tdmI0fpF"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "3",
+                "Full Name": "Eric Bailly",
+                "players_rating": 6.8,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.2m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "Blind D.",
+                "players_number": "17",
+                "Full Name": "Daley Blind",
+                "players_rating": 7.6,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.03.1990)",
+                "Market Value": "€3.0m",
+                "unicode": "U5mPqlh6"
+            },
+            {
+                "players_name": "de Gea D. (G)",
+                "players_number": "1",
+                "Full Name": "David de Gea",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (07.11.1990)",
+                "Market Value": "",
+                "unicode": "d6AEQ6OD"
+            },
+            {
+                "players_name": "Jones P.",
+                "players_number": "4",
+                "Full Name": "Phil Jones",
+                "players_rating": 7.7,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.02.1992)",
+                "Market Value": "",
+                "unicode": "tOqz9FFa"
+            },
+            {
+                "players_name": "Lukaku R.",
+                "players_number": "9",
+                "Full Name": "Romelu Lukaku",
+                "players_rating": 8.6,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (13.05.1993)",
+                "Market Value": "€35.2m",
+                "unicode": "dCkG0Iw0"
+            },
+            {
+                "players_name": "Mata J.",
+                "players_number": "8",
+                "Full Name": "Juan Manuel Mata",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (28.04.1988)",
+                "Market Value": "€908k",
+                "unicode": "nHlv2UfS"
+            },
+            {
+                "players_name": "Matic N.",
+                "players_number": "31",
+                "Full Name": "Nemanja Matic",
+                "players_rating": 7.7,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Mkhitaryan H.",
+                "players_number": "22",
+                "Full Name": "Henrikh Mkhitaryan",
+                "players_rating": 9.2,
+                "Country": "Armenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (21.01.1989)",
+                "Market Value": "€6.3m",
+                "unicode": "KKi1DwHC"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "6",
+                "Full Name": "Paul Pogba",
+                "players_rating": 8.4,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "19",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 7.7,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            },
+            {
+                "players_name": "Valencia A. (C)",
+                "players_number": "25",
+                "Full Name": "Antonio Valencia",
+                "players_rating": 7.2,
+                "Country": "Ecuador",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.08.1985)",
+                "Market Value": "",
+                "unicode": "Ecu9nqDs"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Fellaini M.",
+                "players_number": "27",
+                "Full Name": "Marouane Fellaini",
+                "players_rating": 6.4,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (22.11.1987)",
+                "Market Value": "€514k",
+                "unicode": "nJoIy5ih"
+            },
+            {
+                "players_name": "Lingard J.",
+                "players_number": "14",
+                "Full Name": "Jesse Lingard",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "11",
+                "Full Name": "Anthony Martial",
+                "players_rating": 7.7,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Darmian M.",
+                "players_number": "36",
+                "Full Name": "Matteo Darmian",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (02.12.1989)",
+                "Market Value": "€3.9m",
+                "unicode": "WbNknKk3"
+            },
+            {
+                "players_name": "Herrera A.",
+                "players_number": "21",
+                "Full Name": "Ander Herrera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (14.08.1989)",
+                "Market Value": "€2.4m",
+                "unicode": "jyzWX8yk"
+            },
+            {
+                "players_name": "Romero S. (G)",
+                "players_number": "20",
+                "Full Name": "Sergio Romero",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (22.02.1987)",
+                "Market Value": "€403k",
+                "unicode": "6TXnXzjd"
+            },
+            {
+                "players_name": "Smalling C.",
+                "players_number": "12",
+                "Full Name": "Chris Smalling",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.11.1989)",
+                "Market Value": "€3.4m",
+                "unicode": "QHtOVJzh"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Bilic S.",
+                "players_number": "",
+                "Full Name": "Slaven Bilic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "coach",
+                "Age and Birthdate": "55,  (11.09.1968)",
+                "Market Value": "",
+                "unicode": "ttxiu0fC"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Antonio M.",
+                "players_number": "",
+                "Full Name": "Michail Antonio",
+                "players_rating": "",
+                "Country": "Jamaica",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (28.03.1990)",
+                "Market Value": "€5.8m",
+                "unicode": "p8tt85Xn"
+            },
+            {
+                "players_name": "Carroll A.",
+                "players_number": "",
+                "Full Name": "Andy Carroll",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (06.01.1989)",
+                "Market Value": "€281k",
+                "unicode": "fsQHmhiO"
+            },
+            {
+                "players_name": "Kouyate C.",
+                "players_number": "",
+                "Full Name": "Cheikhou Kouyate",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (21.12.1989)",
+                "Market Value": "€922k",
+                "unicode": "pb3Gmuff"
+            },
+            {
+                "players_name": "Lanzini M.",
+                "players_number": "",
+                "Full Name": "Manuel Lanzini",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.02.1993)",
+                "Market Value": "€3.4m",
+                "unicode": "QT3lIj4N"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Arnautovic M.",
+                "players_number": "27",
+                "Full Name": "Marko Arnautovic",
+                "players_rating": 6.8,
+                "Country": "Austria",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (19.04.1989)",
+                "Market Value": "€4.7m",
+                "unicode": "WvR2ASLR"
+            },
+            {
+                "players_name": "Ayew A.",
+                "players_number": "20",
+                "Full Name": "Andre Ayew",
+                "players_rating": 5.8,
+                "Country": "Ghana",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (17.12.1989)",
+                "Market Value": "€1.1m",
+                "unicode": "GrZDpRwB"
+            },
+            {
+                "players_name": "Chicharito",
+                "players_number": "17",
+                "Full Name": "Chicharito",
+                "players_rating": 6.4,
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "€950k, (01.06.1988)",
+                "Market Value": "",
+                "unicode": "O0EKKpNQ"
+            },
+            {
+                "players_name": "Fernandes E.",
+                "players_number": "31",
+                "Full Name": "Edimilson Fernandes",
+                "players_rating": 6.3,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (15.04.1996)",
+                "Market Value": "€5.2m",
+                "unicode": "QRGkc05e"
+            },
+            {
+                "players_name": "Hart J. (G)",
+                "players_number": "25",
+                "Full Name": "Joe Hart",
+                "players_rating": 5.3,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (19.04.1987)",
+                "Market Value": "€964k",
+                "unicode": "KWoMfbLD"
+            },
+            {
+                "players_name": "Masuaku A.",
+                "players_number": "26",
+                "Full Name": "Arthur Masuaku",
+                "players_rating": 6.7,
+                "Country": "DR Congo",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (07.11.1993)",
+                "Market Value": "€5.1m",
+                "unicode": "4YoV0hmC"
+            },
+            {
+                "players_name": "Noble M. (C)",
+                "players_number": "16",
+                "Full Name": "Mark Noble",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (08.05.1987)",
+                "Market Value": "",
+                "unicode": "GxzuJFFG"
+            },
+            {
+                "players_name": "Obiang P.",
+                "players_number": "14",
+                "Full Name": "Pedro Obiang",
+                "players_rating": 6.9,
+                "Country": "Equatorial Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (27.03.1992)",
+                "Market Value": "€486k",
+                "unicode": "nodnKnAs"
+            },
+            {
+                "players_name": "Ogbonna A.",
+                "players_number": "21",
+                "Full Name": "Angelo Ogbonna",
+                "players_rating": 5.9,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (23.05.1988)",
+                "Market Value": "€665k",
+                "unicode": "xtEnn3rQ"
+            },
+            {
+                "players_name": "Reid W.",
+                "players_number": "2",
+                "Full Name": "Winston Reid",
+                "players_rating": 6.8,
+                "Country": "New Zealand",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (03.07.1988)",
+                "Market Value": "",
+                "unicode": "fFavcxiR"
+            },
+            {
+                "players_name": "Zabaleta P.",
+                "players_number": "5",
+                "Full Name": "Pablo Zabaleta",
+                "players_rating": 6.1,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (16.01.1985)",
+                "Market Value": "",
+                "unicode": "0WS52psG"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Cresswell A.",
+                "players_number": "3",
+                "Full Name": "Aaron Cresswell",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (15.12.1989)",
+                "Market Value": "€842k",
+                "unicode": "fcMqoMcH"
+            },
+            {
+                "players_name": "Rice D.",
+                "players_number": "41",
+                "Full Name": "Declan Rice",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (14.01.1999)",
+                "Market Value": "€109.2m",
+                "unicode": "zkQ8Cm6n"
+            },
+            {
+                "players_name": "Sakho D.",
+                "players_number": "15",
+                "Full Name": "Diafra Sakho",
+                "players_rating": 5.9,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (24.12.1989)",
+                "Market Value": "",
+                "unicode": "8nuyj4TG"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Adrian (G)",
+                "players_number": "13",
+                "Full Name": "Adrian",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (03.01.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "CEm70uDg"
+            },
+            {
+                "players_name": "Byram S.",
+                "players_number": "22",
+                "Full Name": "Samuel Byram",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.09.1993)",
+                "Market Value": "€993k",
+                "unicode": "U12AFBbN"
+            },
+            {
+                "players_name": "Collins J.",
+                "players_number": "19",
+                "Full Name": "James Collins",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (23.08.1983)",
+                "Market Value": "",
+                "unicode": "8vByEDhp"
+            },
+            {
+                "players_name": "Fonte J.",
+                "players_number": "4",
+                "Full Name": "Jose Fonte",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (22.12.1983)",
+                "Market Value": "€289k",
+                "unicode": "IkQ0618s"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Manchester Utd have signed: Donny van de Beek (Ajax).",
+            "comments_text_anonymized": "[TEAM] have signed: Donny van de Beek ([TEAM])."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The latest signings for West Ham are Darren Randolph (Middlesbrough), Tomas Soucek (Slavia Prague).",
+            "comments_text_anonymized": "The latest signings for [TEAM] are Darren Randolph ([TEAM]), Tomas Soucek ([TEAM])."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun.",
+            "comments_text_anonymized": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Martin Atkinson will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Manchester Utd will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half of this match is about to start.",
+            "comments_text_anonymized": "The first half of this match is about to start."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Phil Jones (Manchester United) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:40",
+            "comments_type": "off side",
+            "comments_text": "Chicharito (West Ham) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:33",
+            "comments_type": "foul with no card",
+            "comments_text": "Antonio Valencia (Manchester United) should know this behaviour is beyond the rules. He was too careless with his challenge and left Martin Atkinson no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:43",
+            "comments_type": "shot off target",
+            "comments_text": "Pablo Zabaleta (West Ham) plays a through ball but overhits it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:50",
+            "comments_type": "clearance",
+            "comments_text": "Romelu Lukaku (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is out of play. A goal-scoring opportunity from a corner for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:17",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Daley Blind (Manchester United) is cleared by the opposition's defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:16",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pablo Zabaleta (West Ham) sends a cross into the box, but David de Gea comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:40",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Paul Pogba (Manchester United) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:53",
+            "comments_type": "ball possession",
+            "comments_text": "Juan Manuel Mata (Manchester United) shows his brilliant passing ability after picking out Romelu Lukaku with a fine lofted pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shows his brilliant passing ability after picking out [PLAYER] with a fine lofted pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:23",
+            "comments_type": "shot off target",
+            "comments_text": "Henrikh Mkhitaryan (Manchester United) has a crack at goal from the edge of the box, but it drifts high over the bar to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a crack at goal from the edge of the box, but it drifts high over the bar to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:50",
+            "comments_type": "clearance",
+            "comments_text": "Antonio Valencia (Manchester United) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:07",
+            "comments_type": "ball possession",
+            "comments_text": "Juan Manuel Mata (Manchester United) sprays a pass out to Marcus Rashford, but he can't beat his man inside the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man inside the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:01",
+            "comments_type": "lead to corner",
+            "comments_text": "Henrikh Mkhitaryan (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee signals a corner kick to Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:50",
+            "comments_type": "corner",
+            "comments_text": "Juan Manuel Mata (Manchester United) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Juan Manuel Mata (Manchester United) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee points to the corner flag and Manchester Utd will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "corner",
+            "comments_text": "Juan Manuel Mata (Manchester United) works the corner short instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:20",
+            "comments_type": "ball possession",
+            "comments_text": "Daley Blind (Manchester United) picks out Marcus Rashford with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks out [PLAYER] with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:36",
+            "comments_type": "foul with no card",
+            "comments_text": "Mark Noble (West Ham) was trying to get to the ball but clattered into the legs of the opponent as well. Martin Atkinson blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:21",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Juan Manuel Mata (Manchester United) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:00",
+            "comments_type": "clearance",
+            "comments_text": "Romelu Lukaku (Manchester United) is the first to arrive to a rebound inside the penalty area and unleashes a quick low strike towards the middle of the goal that beats the keeper. One of the defenders, however, makes a superb goal-line clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is the first to arrive to a rebound inside the penalty area and unleashes a quick low strike towards the middle of the goal that beats the keeper. One of the defenders, however, makes a superb goal-line clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:00",
+            "comments_type": "lead to corner",
+            "comments_text": "A raking crossfield pass from Marcus Rashford (Manchester United) lacks accuracy and the opposition gain possession. The ball is out of play and the linesman points at the corner flag. Corner to Manchester Utd.",
+            "comments_text_anonymized": "A raking crossfield pass from [PLAYER] ([TEAM]) lacks accuracy and the opposition gain possession. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:03",
+            "comments_type": "corner",
+            "comments_text": "Daley Blind (Manchester United) prepares to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:47",
+            "comments_type": "shot off target",
+            "comments_text": "Eric Bailly (Manchester United) wins the ball from the corner kick and strikes. The effort lacks accuracy and goes miles wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wins the ball from the corner kick and strikes. The effort lacks accuracy and goes miles wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:51",
+            "comments_type": "shot off target",
+            "comments_text": "Daley Blind (Manchester United) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "foul with no card",
+            "comments_text": "A nice individual effort by Marcus Rashford (Manchester United) comes to nothing as his shot is blocked on the edge of the box by a defender. The referee blows his whistle, Manchester Utd are awarded a corner kick.",
+            "comments_text_anonymized": "A nice individual effort by [PLAYER] ([TEAM]) comes to nothing as his shot is blocked on the edge of the box by a defender. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:36",
+            "comments_type": "corner",
+            "comments_text": "Juan Manuel Mata (Manchester United) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Manchester Utd force a corner. Their opponents will face another attacking threat. Juan Manuel Mata (Manchester United) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[TEAM] force a corner. Their opponents will face another attacking threat. [PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:06",
+            "comments_type": "corner",
+            "comments_text": "A dangerous looking corner kick from Daley Blind (Manchester United) is cleared to safety by the defence.",
+            "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:33",
+            "comments_type": "corner",
+            "comments_text": "Daley Blind (Manchester United) launches an inaccurate corner kick into the penalty area. The ball goes out of play. Manchester Utd are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:10",
+            "comments_type": "corner",
+            "comments_text": "Daley Blind (Manchester United) takes a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:30",
+            "comments_type": "clearance",
+            "comments_text": "Henrikh Mkhitaryan (Manchester United) crosses the ball into the box, but one of the defending players averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:29",
+            "comments_type": "shot off target",
+            "comments_text": "Nemanja Matic (Manchester United) receives a pass and fires a shot in from long range, but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:49",
+            "comments_type": "goal",
+            "comments_text": "Marcus Rashford plays a neat ball into the path of Romelu Lukaku (Manchester United), who makes room for a shot and sends in a low drive which bounces in off the left post! 1:0.",
+            "comments_text_anonymized": "[PLAYER] plays a neat ball into the path of [PLAYER] ([TEAM]), who makes room for a shot and sends in a low drive which bounces in off the left post! 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:43",
+            "comments_type": "shot off target",
+            "comments_text": "Mark Noble (West Ham) cracks a volley from just outside the box, but his miskick goes skyward.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) cracks a volley from just outside the box, but his miskick goes skyward."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:25",
+            "comments_type": "lead to corner",
+            "comments_text": "Daley Blind (Manchester United) delivers a promising cross into the box, but it's cleared. Manchester Utd get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. [TEAM] get a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:17",
+            "comments_type": "corner",
+            "comments_text": "Daley Blind (Manchester United) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "clearance",
+            "comments_text": "Nemanja Matic (Manchester United) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:10",
+            "comments_type": "clearance",
+            "comments_text": "Chicharito (West Ham) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:09",
+            "comments_type": "clearance",
+            "comments_text": "Edimilson Fernandes (West Ham) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:46",
+            "comments_type": "clearance",
+            "comments_text": "Marko Arnautovic (West Ham) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:51",
+            "comments_type": "yellow card",
+            "comments_text": "Eric Bailly (Manchester United) earns the yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) earns the yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 1 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:50",
+            "comments_type": "clearance",
+            "comments_text": "Paul Pogba (Manchester United) attempted to pick out a free teammate inside the box, but Joe Hart comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:06",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Edimilson Fernandes (West Ham) beats a couple of players and hammers in a low shot from mid-range towards the middle of the goal. The keeper is caught unaware but still pulls off a great save to deny the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) beats a couple of players and hammers in a low shot from mid-range towards the middle of the goal. The keeper is caught unaware but still pulls off a great save to deny the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:09",
+            "comments_type": "end of half game",
+            "comments_text": "The match has reached half-time.",
+            "comments_text_anonymized": "The match has reached half-time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half has just started.",
+            "comments_text_anonymized": "The second half has just started."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Marcus Rashford (Manchester United) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. West Ham have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "clearance",
+            "comments_text": "Marko Arnautovic (West Ham) puts a cross into the box from the free kick, but the defender gets there first.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "shot off target",
+            "comments_text": "A long pass picks out Marcus Rashford (Manchester United), who immediately shoots at goal but sends the ball well wide of the right post.",
+            "comments_text_anonymized": "A long pass picks out [PLAYER] ([TEAM]), who immediately shoots at goal but sends the ball well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:10",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Arthur Masuaku (West Ham) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:20",
+            "comments_type": "yellow card",
+            "comments_text": "Pablo Zabaleta (West Ham) is punished with a yellow card for violating the rules.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is punished with a yellow card for violating the rules."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:02",
+            "comments_type": "goal",
+            "comments_text": "Perfectly taken free kick! Henrikh Mkhitaryan sends the ball in, Romelu Lukaku (Manchester United) manages to jump highest near the penalty spot and plants a cracking header low inside the right post. It's 2:0.",
+            "comments_text_anonymized": "Perfectly taken free kick! [PLAYER] sends the ball in, [PLAYER] ([TEAM]) manages to jump highest near the penalty spot and plants a cracking header low inside the right post. It's 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:50",
+            "comments_type": "ball possession",
+            "comments_text": "Juan Manuel Mata (Manchester United) and Marcus Rashford combine brilliantly in a series of one-twos.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) and [PLAYER] combine brilliantly in a series of one-twos."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:55",
+            "comments_type": "off side",
+            "comments_text": "Marcus Rashford (Manchester United) is caught offside!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:48",
+            "comments_type": "yellow card",
+            "comments_text": "Antonio Valencia (Manchester United) is booked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:14",
+            "comments_type": "substitution",
+            "comments_text": "The substitution is prepared. Diafra Sakho (West Ham) joins the action as a substitute, replacing Edimilson Fernandes.",
+            "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:28",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Mark Noble is going off and Slaven Bilic gives the last tactical orders to Declan Rice (West Ham).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:00",
+            "comments_type": "corner",
+            "comments_text": "Diafra Sakho (West Ham) races towards goal but the defender gets back well to make a challenge. The referee and his assistant both point at the corner flag. West Ham will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:17",
+            "comments_type": "corner",
+            "comments_text": "A cross from a corner kick by West Ham is too strong and the ball goes well out of play.",
+            "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:04",
+            "comments_type": "shot off target",
+            "comments_text": "Romelu Lukaku (Manchester United) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:44",
+            "comments_type": "corner",
+            "comments_text": "Manchester Utd take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:02",
+            "comments_type": "shot off target",
+            "comments_text": "Marcus Rashford (Manchester United) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:52",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Henrikh Mkhitaryan (Manchester United) wasted a huge opportunity! The fans already began to celebrate as he unleashed a powerful low shot from the edge of the box after a brilliant solo effort. The ball went towards the middle of the goal, but Joe Hart made a crucial save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wasted a huge opportunity! The fans already began to celebrate as he unleashed a powerful low shot from the edge of the box after a brilliant solo effort. The ball went towards the middle of the goal, but [PLAYER] made a crucial save!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:10",
+            "comments_type": "yellow card",
+            "comments_text": "Booking. Angelo Ogbonna (West Ham) receives a caution from the referee.",
+            "comments_text_anonymized": "Booking. [PLAYER] ([TEAM]) receives a caution from the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Atkinson blows his whistle and it's Paul Pogba (Manchester United) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:45",
+            "comments_type": "lead to corner",
+            "comments_text": "Marcus Rashford (Manchester United) looks to break free, but an opposing player clears the ball away. The ball goes behind for a corner. Manchester Utd will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:50",
+            "comments_type": "corner",
+            "comments_text": "Daley Blind (Manchester United) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:20",
+            "comments_type": "shot off target",
+            "comments_text": "The keeper doesn't have to worry about this one. Romelu Lukaku (Manchester United) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "comments_text_anonymized": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:44",
+            "comments_type": "substitution",
+            "comments_text": "Jose Mourinho has decided to introduce fresh legs, with Marouane Fellaini (Manchester United) replacing Juan Manuel Mata.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:30",
+            "comments_type": "clearance",
+            "comments_text": "Arthur Masuaku (West Ham) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:34",
+            "comments_type": "shot off target",
+            "comments_text": "Marko Arnautovic (West Ham) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:48",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Anthony Martial (Manchester United) comes onto the pitch for Marcus Rashford.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Arthur Masuaku (West Ham) sends a teasing cross into the area, but David de Gea intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "substitution",
+            "comments_text": "Slaven Bilic has decided to make a change. Aaron Cresswell (West Ham) replaces Arthur Masuaku.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:56",
+            "comments_type": "clearance",
+            "comments_text": "Anthony Martial (Manchester United) clips a neat ball into the box in the direction of Romelu Lukaku, but he can't get on the end of the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clips a neat ball into the box in the direction of [PLAYER], but he can't get on the end of the pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:30",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Aaron Cresswell (West Ham).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:40",
+            "comments_type": "ball out of play",
+            "comments_text": "Nemanja Matic (Manchester United) tries to find Romelu Lukaku, but he puts too much power on the through ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:41",
+            "comments_type": "clearance",
+            "comments_text": "Paul Pogba (Manchester United) takes a first-time shot inside the box after latching onto a nice lofted pass, but the effort is blocked and spins away to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a first-time shot inside the box after latching onto a nice lofted pass, but the effort is blocked and spins away to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:38",
+            "comments_type": "goal",
+            "comments_text": "It's in the back of the net! Superb finishing from Anthony Martial (Manchester United). Henrikh Mkhitaryan plays a fantastic through ball and finds Anthony Martial (Manchester United), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 3:0.",
+            "comments_text_anonymized": "It's in the back of the net! Superb finishing from [PLAYER] ([TEAM]). [PLAYER] plays a fantastic through ball and finds [PLAYER] ([TEAM]), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:49",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Henrikh Mkhitaryan makes way for Jesse Lingard (Manchester United).",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:25",
+            "comments_type": "clearance",
+            "comments_text": "Chicharito (West Ham) evades several challenges inside the box and fires a shot in on goal, but that's a great block by the defender to stop an almost certain goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) evades several challenges inside the box and fires a shot in on goal, but that's a great block by the defender to stop an almost certain goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:32",
+            "comments_type": "goal",
+            "comments_text": "Anthony Martial passes to Paul Pogba (Manchester United), who collects the ball and unleashes a terrific shot from the edge of the box. His effort goes into the bottom right corner. Fabulous goal! The score is 4:0.",
+            "comments_text_anonymized": "[PLAYER] passes to [PLAYER] ([TEAM]), who collects the ball and unleashes a terrific shot from the edge of the box. His effort goes into the bottom right corner. Fabulous goal! The score is 4:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 3 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:00",
+            "comments_type": "shot off target",
+            "comments_text": "Chicharito (West Ham) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:03",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

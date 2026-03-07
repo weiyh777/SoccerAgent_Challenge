@@ -1,0 +1,928 @@
+{
+    "match_info": {
+        "timestamp": "2019-04-04 02:45:00",
+        "score": "3 - 0",
+        "home_team": "Chelsea",
+        "away_team": "Brighton",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Stamford Bridge (London)",
+        "capacity": "40 341",
+        "attendance": "38 593",
+        "home_jersey_color": "blue",
+        "away_jersey_color": "green"
+    },
+    "referee_data": {
+        "short_name_country": "Scott G. (Eng)",
+        "first_name": "Scott",
+        "abbr_last_name": "G",
+        "country": "Eng",
+        "detected_name": "Graham Scott"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Hughton C.",
+                "players_number": "",
+                "Full Name": "Chris Hughton",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (11.12.1958)",
+                "Market Value": "",
+                "unicode": "C6LCyaOt"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Steele J.",
+                "players_number": "",
+                "Full Name": "Jason Steele",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (18.08.1990)",
+                "Market Value": "€3.3m",
+                "unicode": "hh68XcOr"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Andone F.",
+                "players_number": "10",
+                "Full Name": "Florin Andone",
+                "players_rating": 6.5,
+                "Country": "Romania",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (11.04.1993)",
+                "Market Value": "€726k",
+                "unicode": "lzPpT87f"
+            },
+            {
+                "players_name": "Bissouma Y.",
+                "players_number": "8",
+                "Full Name": "Yves Bissouma",
+                "players_rating": 7.0,
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.08.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "CSdILBh7"
+            },
+            {
+                "players_name": "Bong G.",
+                "players_number": "3",
+                "Full Name": "Gaetan Bong",
+                "players_rating": 5.7,
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (25.04.1988)",
+                "Market Value": "",
+                "unicode": "G4GIGVpf"
+            },
+            {
+                "players_name": "Duffy S.",
+                "players_number": "4",
+                "Full Name": "Shane Duffy",
+                "players_rating": 6.6,
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (01.01.1992)",
+                "Market Value": "€1.2m",
+                "unicode": "OtpmlIkE"
+            },
+            {
+                "players_name": "Dunk L.",
+                "players_number": "5",
+                "Full Name": "Lewis Dunk",
+                "players_rating": 6.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€14.1m",
+                "unicode": "xEyAI7pm"
+            },
+            {
+                "players_name": "Jahanbakhsh A.",
+                "players_number": "16",
+                "Full Name": "Alireza Jahanbakhsh",
+                "players_rating": 6.4,
+                "Country": "Iran",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (11.08.1993)",
+                "Market Value": "€3.6m",
+                "unicode": "f3nLXmDJ"
+            },
+            {
+                "players_name": "March S.",
+                "players_number": "20",
+                "Full Name": "Solly March",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (20.07.1994)",
+                "Market Value": "€22.5m",
+                "unicode": "0rGKAqEi"
+            },
+            {
+                "players_name": "Propper D.",
+                "players_number": "24",
+                "Full Name": "Davy Propper",
+                "players_rating": 6.7,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (02.09.1991)",
+                "Market Value": "",
+                "unicode": "h6DklREE"
+            },
+            {
+                "players_name": "Ryan M. (G)",
+                "players_number": "1",
+                "Full Name": "Mathew Ryan",
+                "players_rating": 5.5,
+                "Country": "Australia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (08.04.1992)",
+                "Market Value": "€3.9m",
+                "unicode": "YBLvziIh"
+            },
+            {
+                "players_name": "Saltor B. (C)",
+                "players_number": "2",
+                "Full Name": "Bruno Saltor",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Coach",
+                "Age and Birthdate": "43, (01.10.1980)",
+                "Market Value": "",
+                "unicode": "AVH5eENi"
+            },
+            {
+                "players_name": "Stephens D.",
+                "players_number": "6",
+                "Full Name": "Dale Stephens",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "",
+                "unicode": "bkSCjxaC"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Bernardo",
+                "players_number": "30",
+                "Full Name": "Bernardo",
+                "players_rating": 6.6,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.05.1995)",
+                "Market Value": "€4.0m",
+                "unicode": "MwxzFrgA"
+            },
+            {
+                "players_name": "Knockaert A.",
+                "players_number": "11",
+                "Full Name": "Anthony Knockaert",
+                "players_rating": 5.7,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (20.11.1991)",
+                "Market Value": "€545k",
+                "unicode": "QFZt2zLQ"
+            },
+            {
+                "players_name": "Murray G.",
+                "players_number": "17",
+                "Full Name": "Glenn Murray",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "40, (25.09.1983)",
+                "Market Value": "",
+                "unicode": "218kjyOb"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Burn D.",
+                "players_number": "33",
+                "Full Name": "Dan Burn",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (09.05.1992)",
+                "Market Value": "€9.8m",
+                "unicode": "fyP3wtr0"
+            },
+            {
+                "players_name": "Button D. (G)",
+                "players_number": "27",
+                "Full Name": "David Button",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (27.02.1989)",
+                "Market Value": "€159k",
+                "unicode": "W0SsOYqa"
+            },
+            {
+                "players_name": "Izquierdo J.",
+                "players_number": "19",
+                "Full Name": "Jose Izquierdo",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.07.1992)",
+                "Market Value": "",
+                "unicode": "2LDmHf1f"
+            },
+            {
+                "players_name": "Kayal B.",
+                "players_number": "7",
+                "Full Name": "Beram Kayal",
+                "players_rating": "",
+                "Country": "Israel",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (02.05.1988)",
+                "Market Value": "€281k",
+                "unicode": "pEqJUQfl"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Sarri M.",
+                "players_number": "",
+                "Full Name": "Maurizio Sarri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (10.01.1959)",
+                "Market Value": "",
+                "unicode": "pvzTXTMR"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Alonso M.",
+                "players_number": "",
+                "Full Name": "Marcos Alonso",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (28.12.1990)",
+                "Market Value": "€2.9m",
+                "unicode": "MLHPrlrj"
+            },
+            {
+                "players_name": "Ampadu E.",
+                "players_number": "",
+                "Full Name": "Ethan Ampadu",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (14.09.2000)",
+                "Market Value": "€11.7m",
+                "unicode": "bH6VQUwF"
+            },
+            {
+                "players_name": "van Ginkel M.",
+                "players_number": "",
+                "Full Name": "Marco van Ginkel",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (01.12.1992)",
+                "Market Value": "€979k",
+                "unicode": "jsXWRzFB"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Arrizabalaga K. (G)",
+                "players_number": "1",
+                "Full Name": "Kepa Arrizabalaga",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (03.10.1994)",
+                "Market Value": "€19.3m",
+                "unicode": "Yq2dyUwN"
+            },
+            {
+                "players_name": "Azpilicueta C. (C)",
+                "players_number": "28",
+                "Full Name": "Cesar Azpilicueta",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (28.08.1989)",
+                "Market Value": "€3.8m",
+                "unicode": "CMGUADgt"
+            },
+            {
+                "players_name": "Christensen A.",
+                "players_number": "27",
+                "Full Name": "Andreas Christensen",
+                "players_rating": 7.4,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (10.04.1996)",
+                "Market Value": "€39.7m",
+                "unicode": "ShxiZhJI"
+            },
+            {
+                "players_name": "David Luiz",
+                "players_number": "30",
+                "Full Name": "David Luiz",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (22.04.1987)",
+                "Market Value": "€482k",
+                "unicode": "G04qmSno"
+            },
+            {
+                "players_name": "Emerson",
+                "players_number": "33",
+                "Full Name": "Emerson",
+                "players_rating": 7.1,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (03.08.1994)",
+                "Market Value": "€12.3m",
+                "unicode": "MHViZ5fg"
+            },
+            {
+                "players_name": "Giroud O.",
+                "players_number": "18",
+                "Full Name": "Olivier Giroud",
+                "players_rating": 7.2,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (30.09.1986)",
+                "Market Value": "€4.0m",
+                "unicode": "AJPBp2as"
+            },
+            {
+                "players_name": "Hazard E.",
+                "players_number": "10",
+                "Full Name": "Eden Hazard",
+                "players_rating": 9.4,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (07.01.1991)",
+                "Market Value": "",
+                "unicode": "QH2of5sJ"
+            },
+            {
+                "players_name": "Hudson-Odoi C.",
+                "players_number": "20",
+                "Full Name": "Callum Hudson-Odoi",
+                "players_rating": 8.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (07.11.2000)",
+                "Market Value": "€11.4m",
+                "unicode": "dtU5eexQ"
+            },
+            {
+                "players_name": "Jorginho",
+                "players_number": "5",
+                "Full Name": "Jorginho",
+                "players_rating": 7.8,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (20.12.1991)",
+                "Market Value": "€14.3m",
+                "unicode": "t80QsVOt"
+            },
+            {
+                "players_name": "Kante N.",
+                "players_number": "7",
+                "Full Name": "N'Golo Kante",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (29.03.1991)",
+                "Market Value": "€10.1m",
+                "unicode": "IkmsHsOR"
+            },
+            {
+                "players_name": "Loftus-Cheek R.",
+                "players_number": "12",
+                "Full Name": "Ruben Loftus-Cheek",
+                "players_rating": 8.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.01.1996)",
+                "Market Value": "€24.1m",
+                "unicode": "6DpURWF8"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Kovacic M.",
+                "players_number": "17",
+                "Full Name": "Mateo Kovacic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.05.1994)",
+                "Market Value": "€37.7m",
+                "unicode": "4f084TL7"
+            },
+            {
+                "players_name": "Willian",
+                "players_number": "22",
+                "Full Name": "Willian",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (09.08.1988)",
+                "Market Value": "€3.0m",
+                "unicode": "GSzdOhPI"
+            },
+            {
+                "players_name": "Zappacosta D.",
+                "players_number": "21",
+                "Full Name": "Davide Zappacosta",
+                "players_rating": 6.0,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (11.06.1992)",
+                "Market Value": "€5.8m",
+                "unicode": "G6AuiwvH"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Barkley R.",
+                "players_number": "8",
+                "Full Name": "Ross Barkley",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (05.12.1993)",
+                "Market Value": "€6.9m",
+                "unicode": "Stsozgbg"
+            },
+            {
+                "players_name": "Caballero W. (G)",
+                "players_number": "13",
+                "Full Name": "Wilfredo Caballero",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "42, (28.09.1981)",
+                "Market Value": "",
+                "unicode": "h2HdUznS"
+            },
+            {
+                "players_name": "Higuain G.",
+                "players_number": "9",
+                "Full Name": "Gonzalo Higuain",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (10.12.1987)",
+                "Market Value": "",
+                "unicode": "xpQl63zG"
+            },
+            {
+                "players_name": "Rudiger A.",
+                "players_number": "2",
+                "Full Name": "Antonio Rudiger",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (03.03.1993)",
+                "Market Value": "€24.5m",
+                "unicode": "rZHXvTho"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Graham Scott.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Brighton will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Yves Bissouma (Brighton) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Chelsea will take a free kick near the side line.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:40",
+            "comments_type": "free kick",
+            "comments_text": "Chelsea produce a short pass from the free kick.",
+            "comments_text_anonymized": "[TEAM] produce a short pass from the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:35",
+            "comments_type": "foul with no card",
+            "comments_text": "David Luiz (Chelsea) should know this behaviour is beyond the rules. He was too careless with his challenge and left Graham Scott no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:20",
+            "comments_type": "lead to corner",
+            "comments_text": "An attempted cross from Callum Hudson-Odoi (Chelsea) is cleared. Chelsea have been awarded a corner kick.",
+            "comments_text_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Eden Hazard (Chelsea) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Callum Hudson-Odoi (Chelsea) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out of play. Chelsea are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "corner",
+            "comments_text": "Eden Hazard (Chelsea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:16",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Florin Andone (Brighton) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:48",
+            "comments_type": "corner",
+            "comments_text": "Eden Hazard (Chelsea) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:51",
+            "comments_type": "shot off target",
+            "comments_text": "Eden Hazard bends the corner in towards the goal and finds Olivier Giroud (Chelsea) almost on the goal line, but he somehow contrives to head the ball high over the bar.",
+            "comments_text_anonymized": "[PLAYER] bends the corner in towards the goal and finds [PLAYER] ([TEAM]) almost on the goal line, but he somehow contrives to head the ball high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:26",
+            "comments_type": "ball possession",
+            "comments_text": "The Chelsea players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "comments_text_anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Emerson (Chelsea) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "clearance",
+            "comments_text": "Dale Stephens (Brighton) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "Here's the current ball possession statistics for both teams – 68:32.",
+            "comments_text_anonymized": "Here's the current ball possession statistics for both teams – 68:32."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:11",
+            "comments_type": "shot off target",
+            "comments_text": "Olivier Giroud (Chelsea) latches on to a sweet cross into the box and misses with a header way wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a sweet cross into the box and misses with a header way wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:33",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Cesar Azpilicueta (Chelsea) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "injury",
+            "comments_text": "Solomon March (Brighton) is asking for medical treatment after picking up an injury.",
+            "comments_text_anonymized": "Solomon [PLAYER] ([TEAM]) is asking for medical treatment after picking up an injury."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:26",
+            "comments_type": "substitution",
+            "comments_text": "Problems for Chris Hughton as Solomon March is not able to play anymore. His injury is too serious and Anthony Knockaert (Brighton) replaces him.",
+            "comments_text_anonymized": "Problems for [PLAYER] as Solomon [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:50",
+            "comments_type": "clearance",
+            "comments_text": "Alireza Jahanbakhsh (Brighton) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:39",
+            "comments_type": "goal",
+            "comments_text": "Olivier Giroud (Chelsea) meets a perfect cross from Callum Hudson-Odoi deep inside the box and controls it with a nice first touch. He produces an accurate strike into the top right corner. It's 1:0.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a perfect cross from [PLAYER] deep inside the box and controls it with a nice first touch. He produces an accurate strike into the top right corner. It's 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:00",
+            "comments_type": "clearance",
+            "comments_text": "Emerson (Chelsea) passes the ball into the box but an opposing player clears.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:25",
+            "comments_type": "lead to corner",
+            "comments_text": "David Luiz (Chelsea) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall. The ball is out of play and the linesman points at the corner flag. Corner to Chelsea.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:59",
+            "comments_type": "corner",
+            "comments_text": "Eden Hazard (Chelsea) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:21",
+            "comments_type": "clearance",
+            "comments_text": "Callum Hudson-Odoi (Chelsea) does his best to latch onto a cross into the box, but he can't get to the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 2 min. of added time.",
+            "comments_text_anonymized": "We will have 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:08",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:39",
+            "comments_type": "clearance",
+            "comments_text": "Callum Hudson-Odoi (Chelsea) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Eden Hazard (Chelsea) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee signals a corner kick to Chelsea.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:38",
+            "comments_type": "corner",
+            "comments_text": "Corner kick. Eden Hazard (Chelsea) is ready to send the ball into the box.",
+            "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:50",
+            "comments_type": "clearance",
+            "comments_text": "A pass from David Luiz (Chelsea) is intercepted by Mathew Ryan and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:20",
+            "comments_type": "clearance",
+            "comments_text": "Callum Hudson-Odoi (Chelsea) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:31",
+            "comments_type": "lead to corner",
+            "comments_text": "Cesar Azpilicueta (Chelsea) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee points to the corner flag and Chelsea will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:30",
+            "comments_type": "corner",
+            "comments_text": "Callum Hudson-Odoi (Chelsea) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:28",
+            "comments_type": "goal",
+            "comments_text": "Goal - 2:0! Eden Hazard (Chelsea) tries his luck from the edge of the box and scores with an accurate shot inside the right post. Ruben Loftus-Cheek provided an assist for the goal.",
+            "comments_text_anonymized": "Goal - 2:0! [PLAYER] ([TEAM]) tries his luck from the edge of the box and scores with an accurate shot inside the right post. [PLAYER] provided an assist for the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:50",
+            "comments_type": "ball possession",
+            "comments_text": "Great teamplay by Chelsea as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "comments_text_anonymized": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:59",
+            "comments_type": "goal",
+            "comments_text": "Goal! Great play by Eden Hazard releases Ruben Loftus-Cheek (Chelsea) in space on the edge of the box. He spots the keeper off his line and coolly puts the ball into the top right corner. 3:0.",
+            "comments_text_anonymized": "Goal! Great play by [PLAYER] releases [PLAYER] ([TEAM]) in space on the edge of the box. He spots the keeper off his line and coolly puts the ball into the top right corner. 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:44",
+            "comments_type": "shot off target",
+            "comments_text": "Ruben Loftus-Cheek (Chelsea) takes a neat pass, dummies a defender and slams the ball well wide of the left post from the edge of the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a neat pass, dummies a defender and slams the ball well wide of the left post from the edge of the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:16",
+            "comments_type": "injury",
+            "comments_text": "Yves Bissouma (Brighton) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:29",
+            "comments_type": "corner",
+            "comments_text": "Eden Hazard (Chelsea) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:07",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Florin Andone. He has contributed as much as he could today. He will be replaced by the fresh legs of Glenn Murray (Brighton).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:14",
+            "comments_type": "free kick",
+            "comments_text": "Eden Hazard (Chelsea) takes the free kick which is inaccurate and the defence has no problem with the clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick which is inaccurate and the defence has no problem with the clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:01",
+            "comments_type": "substitution",
+            "comments_text": "Maurizio Sarri has decided to substitute Cesar Azpilicueta and he is replaced by Davide Zappacosta (Chelsea).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:35",
+            "comments_type": "substitution",
+            "comments_text": "Alireza Jahanbakhsh will be replaced by Bernardo (Brighton).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:41",
+            "comments_type": "lead to corner",
+            "comments_text": "Anthony Knockaert (Brighton) fails to send a pass into the box as his effort is cut out. The ball is out of play. Brighton win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:45",
+            "comments_type": "corner",
+            "comments_text": "Anthony Knockaert (Brighton) will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Bernardo (Brighton) hits a first-time shot from the edge of the box low towards the middle of the goal, but Kepa Arrizabalaga is equal to the task and makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hits a first-time shot from the edge of the box low towards the middle of the goal, but [PLAYER] is equal to the task and makes a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Mateo Kovacic (Chelsea) has come on for Ruben Loftus-Cheek.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:23",
+            "comments_type": "shot off target",
+            "comments_text": "Eden Hazard (Chelsea) darts into the box and immediately fires a first-time effort. He produces a poor shot which goes well over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) darts into the box and immediately fires a first-time effort. He produces a poor shot which goes well over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:16",
+            "comments_type": "substitution",
+            "comments_text": "Maurizio Sarri has decided to make a change. Willian (Chelsea) replaces Eden Hazard.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Gaetan Bong (Brighton) makes a strong challenge and Graham Scott blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:20",
+            "comments_type": "clearance",
+            "comments_text": "Davide Zappacosta (Chelsea) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 3 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:43",
+            "comments_type": "foul with no card",
+            "comments_text": "Rough tackle by Bernardo (Brighton). The referee blows his whistle for a foul.",
+            "comments_text_anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:00",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

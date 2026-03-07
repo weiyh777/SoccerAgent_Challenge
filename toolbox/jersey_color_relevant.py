@@ -1,6 +1,6 @@
 from qwen_vl_utils import process_vision_info
 import sys, torch
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox')
 from utils.vlm_distribution import vlm_model, vlm_processor
 
 
@@ -36,7 +36,7 @@ def JERSEY_COLOR_VLM(query, material, vlm_model=vlm_model, vlm_processor=vlm_pro
                 },
                 {
                     "type": "text", 
-                    "text": f"Tell me about: the jersey color of two teams in this soccer video clip, then tell me about: {query}"
+                    "text": f"Tell me about: the jersey color of two teams in this soccer video clip. If a team's jersey is not a solid color, provide the two colors with the highest proportions. Then tell me about: {query}"
                 },
             ],
         }

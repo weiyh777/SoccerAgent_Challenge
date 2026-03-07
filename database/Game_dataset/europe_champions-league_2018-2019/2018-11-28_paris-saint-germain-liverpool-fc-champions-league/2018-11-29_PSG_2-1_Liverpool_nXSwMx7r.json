@@ -1,0 +1,1095 @@
+{
+    "match_info": {
+        "timestamp": "2018-11-29 04:00:00",
+        "score": "2 - 1",
+        "home_team": "PSG",
+        "away_team": "Liverpool",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Parc des Princes (Paris)",
+        "capacity": "48 229",
+        "attendance": "46 880"
+    },
+    "referee_data": {
+        "short_name_country": "Marciniak S. (Pol)",
+        "first_name": "Marciniak",
+        "abbr_last_name": "S",
+        "country": "Pol",
+        "detected_name": "Szymon Marciniak"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Klopp J.",
+                "players_number": "",
+                "Full Name": "Jurgen Klopp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (16.06.1967)",
+                "Market Value": "",
+                "unicode": "x6CvOHH9"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Lallana A.",
+                "players_number": "",
+                "Full Name": "Adam Lallana",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (10.05.1988)",
+                "Market Value": "€929k",
+                "unicode": "65ZQWgft"
+            },
+            {
+                "players_name": "Origi D.",
+                "players_number": "",
+                "Full Name": "Divock Origi",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.04.1995)",
+                "Market Value": "€4.5m",
+                "unicode": "jeRaNgKg"
+            },
+            {
+                "players_name": "Oxlade-Chamberlain A.",
+                "players_number": "",
+                "Full Name": "Alex Oxlade-Chamberlain",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.08.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "WzNLf7VR"
+            },
+            {
+                "players_name": "Solanke D.",
+                "players_number": "",
+                "Full Name": "Dominic Solanke",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (14.09.1997)",
+                "Market Value": "€24.5m",
+                "unicode": "OrADwZse"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alisson (G)",
+                "players_number": "13",
+                "Full Name": "Alisson",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (02.10.1992)",
+                "Market Value": "€31.5m",
+                "unicode": "UZrQ3bwP"
+            },
+            {
+                "players_name": "Firmino R.",
+                "players_number": "9",
+                "Full Name": "Roberto Firmino",
+                "players_rating": 6.0,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (02.10.1991)",
+                "Market Value": "€9.7m",
+                "unicode": "CCNtplZe"
+            },
+            {
+                "players_name": "Gomez J.",
+                "players_number": "12",
+                "Full Name": "Joe Gomez",
+                "players_rating": 6.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€21.5m",
+                "unicode": "SKt9dxk8"
+            },
+            {
+                "players_name": "Henderson J. (C)",
+                "players_number": "14",
+                "Full Name": "Jordan Henderson",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (17.06.1990)",
+                "Market Value": "€7.3m",
+                "unicode": "UFMlUD6r"
+            },
+            {
+                "players_name": "Lovren D.",
+                "players_number": "6",
+                "Full Name": "Dejan Lovren",
+                "players_rating": 6.4,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.07.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "GAcQF9Z6"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "10",
+                "Full Name": "Sadio Mane",
+                "players_rating": 7.2,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Milner J.",
+                "players_number": "7",
+                "Full Name": "James Milner",
+                "players_rating": 7.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (04.01.1986)",
+                "Market Value": "€936k",
+                "unicode": "QLY3kAEt"
+            },
+            {
+                "players_name": "Robertson A.",
+                "players_number": "26",
+                "Full Name": "Andrew Robertson",
+                "players_rating": 5.6,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (11.03.1994)",
+                "Market Value": "€34.3m",
+                "unicode": "6e7Be9VI"
+            },
+            {
+                "players_name": "Salah M.",
+                "players_number": "11",
+                "Full Name": "Mohamed Salah",
+                "players_rating": 6.3,
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.06.1992)",
+                "Market Value": "€69.1m",
+                "unicode": "08FBycgB"
+            },
+            {
+                "players_name": "van Dijk V.",
+                "players_number": "4",
+                "Full Name": "Virgil van Dijk",
+                "players_rating": 5.5,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.07.1991)",
+                "Market Value": "€32.2m",
+                "unicode": "U59RNqOr"
+            },
+            {
+                "players_name": "Wijnaldum G.",
+                "players_number": "5",
+                "Full Name": "Georginio Wijnaldum",
+                "players_rating": 5.9,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.11.1990)",
+                "Market Value": "€4.8m",
+                "unicode": "f9KgUUZu"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Keita N.",
+                "players_number": "8",
+                "Full Name": "Naby Keita",
+                "players_rating": 6.2,
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.02.1995)",
+                "Market Value": "€5.5m",
+                "unicode": "4MB78NvI"
+            },
+            {
+                "players_name": "Shaqiri X.",
+                "players_number": "23",
+                "Full Name": "Xherdan Shaqiri",
+                "players_rating": 6.2,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (10.10.1991)",
+                "Market Value": "€2.6m",
+                "unicode": "CKcCpcKN"
+            },
+            {
+                "players_name": "Sturridge D.",
+                "players_number": "15",
+                "Full Name": "Daniel Sturridge",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (01.09.1989)",
+                "Market Value": "",
+                "unicode": "fwlDnzTg"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Alexander-Arnold T.",
+                "players_number": "66",
+                "Full Name": "Trent Alexander-Arnold",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (07.10.1998)",
+                "Market Value": "€71.5m",
+                "unicode": "CEVJy6Bc"
+            },
+            {
+                "players_name": "Fabinho",
+                "players_number": "3",
+                "Full Name": "Fabinho",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (23.10.1993)",
+                "Market Value": "€33.3m",
+                "unicode": "nqldMgYf"
+            },
+            {
+                "players_name": "Matip J.",
+                "players_number": "32",
+                "Full Name": "Joel Matip",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.08.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "tpHWp8Am"
+            },
+            {
+                "players_name": "Mignolet S. (G)",
+                "players_number": "22",
+                "Full Name": "Simon Mignolet",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (06.03.1988)",
+                "Market Value": "€2.7m",
+                "unicode": "YVcnMAp6"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Tuchel T.",
+                "players_number": "",
+                "Full Name": "Thomas Tuchel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (29.08.1973)",
+                "Market Value": "",
+                "unicode": "CQTUFgPk"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Dagba C.",
+                "players_number": "",
+                "Full Name": "Colin Dagba",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (09.09.1998)",
+                "Market Value": "€1.7m",
+                "unicode": "r7kInW0E"
+            },
+            {
+                "players_name": "Jese",
+                "players_number": "",
+                "Full Name": "Jese",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€804k, (26.02.1993)",
+                "Market Value": "",
+                "unicode": "6BdSXunk"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Bernat J.",
+                "players_number": "14",
+                "Full Name": "Juan Bernat",
+                "players_rating": 7.8,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (01.03.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "Cd1ieN88"
+            },
+            {
+                "players_name": "Buffon G. (G)",
+                "players_number": "1",
+                "Full Name": "Gianluigi Buffon",
+                "players_rating": 6.4,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30.06.2024, (28.01.1978)",
+                "Market Value": "",
+                "unicode": "xKQMi1qO"
+            },
+            {
+                "players_name": "Cavani E.",
+                "players_number": "9",
+                "Full Name": "Edinson Cavani",
+                "players_rating": 6.6,
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Di Maria A.",
+                "players_number": "11",
+                "Full Name": "Angel Di Maria",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.02.1988)",
+                "Market Value": "€5.3m",
+                "unicode": "SISkkDSQ"
+            },
+            {
+                "players_name": "Kehrer T.",
+                "players_number": "4",
+                "Full Name": "Thilo Kehrer",
+                "players_rating": 7.5,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (21.09.1996)",
+                "Market Value": "€8.3m",
+                "unicode": "UXQPdpOB"
+            },
+            {
+                "players_name": "Kimpembe P.",
+                "players_number": "3",
+                "Full Name": "Presnel Kimpembe",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (13.08.1995)",
+                "Market Value": "€18.7m",
+                "unicode": "dMyiR1D8"
+            },
+            {
+                "players_name": "Marquinhos",
+                "players_number": "5",
+                "Full Name": "Marquinhos",
+                "players_rating": 7.7,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (14.05.1994)",
+                "Market Value": "€58.7m",
+                "unicode": "UFfev8HP"
+            },
+            {
+                "players_name": "Mbappe K.",
+                "players_number": "7",
+                "Full Name": "Kylian Mbappe",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (20.12.1998)",
+                "Market Value": "€204.2m",
+                "unicode": "Wn6E2SED"
+            },
+            {
+                "players_name": "Neymar",
+                "players_number": "10",
+                "Full Name": "Neymar",
+                "players_rating": 8.6,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (05.02.1992)",
+                "Market Value": "€49.6m",
+                "unicode": "jNOPwl3h"
+            },
+            {
+                "players_name": "Silva T. (C)",
+                "players_number": "2",
+                "Full Name": "Thiago Silva",
+                "players_rating": 8.0,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            },
+            {
+                "players_name": "Verratti M.",
+                "players_number": "6",
+                "Full Name": "Marco Verratti",
+                "players_rating": 7.0,
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (05.11.1992)",
+                "Market Value": "€24.8m",
+                "unicode": "fmn5agXI"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Choupo-Moting E. M.",
+                "players_number": "17",
+                "Full Name": "Eric Maxim Choupo-Moting",
+                "players_rating": 6.3,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.03.1989)",
+                "Market Value": "€2.9m",
+                "unicode": "YBBM9RBF"
+            },
+            {
+                "players_name": "Dani Alves",
+                "players_number": "13",
+                "Full Name": "Dani Alves",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (06.05.1983)",
+                "Market Value": "",
+                "unicode": "6m8LRsMC"
+            },
+            {
+                "players_name": "Rabiot A.",
+                "players_number": "25",
+                "Full Name": "Adrien Rabiot",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (03.04.1995)",
+                "Market Value": "€40.3m",
+                "unicode": "l08EAP2Q"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Areola A. (G)",
+                "players_number": "16",
+                "Full Name": "Alphonse Areola",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (27.02.1993)",
+                "Market Value": "€9.8m",
+                "unicode": "phOf2OAa"
+            },
+            {
+                "players_name": "Diaby M.",
+                "players_number": "27",
+                "Full Name": "Moussa Diaby",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (07.07.1999)",
+                "Market Value": "€57.9m",
+                "unicode": "GYjwX8oI"
+            },
+            {
+                "players_name": "Draxler J.",
+                "players_number": "23",
+                "Full Name": "Julian Draxler",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (20.09.1993)",
+                "Market Value": "€4.9m",
+                "unicode": "plO3S4gF"
+            },
+            {
+                "players_name": "Nsoki S.",
+                "players_number": "34",
+                "Full Name": "Stanley Nsoki",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (09.04.1999)",
+                "Market Value": "€2.7m",
+                "unicode": "QaQIZA1a"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Szymon Marciniak will supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Paris SG will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Roberto Firmino (Liverpool) commits a foul and Szymon Marciniak immediately signals a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:47",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Juan Bernat (Paris SG) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:50",
+            "comments_type": "clearance",
+            "comments_text": "Sadio Mane (Liverpool) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Kylian Mbappe (Paris SG) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender. The ball is out of play. A goal-scoring opportunity from a corner for Paris SG.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:22",
+            "comments_type": "corner",
+            "comments_text": "This corner kick is taken with a short pass by Angel Di Maria (Paris SG).",
+            "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:58",
+            "comments_type": "lead to corner",
+            "comments_text": "Roberto Firmino (Liverpool) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. Liverpool will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:11",
+            "comments_type": "corner",
+            "comments_text": "The corner from Mohamed Salah (Liverpool) is cleared away by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:40",
+            "comments_type": "ball possession",
+            "comments_text": "Joe Gomez (Liverpool) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:24",
+            "comments_type": "corner",
+            "comments_text": "Angel Di Maria (Paris SG) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:38",
+            "comments_type": "off side",
+            "comments_text": "Thiago Silva (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:11",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Paris SG) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:45",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Kylian Mbappe (Paris SG) shakes off the attention of a defender and from mid-range lets fly low towards the middle of the goal, but Alisson is well positioned to make a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shakes off the attention of a defender and from mid-range lets fly low towards the middle of the goal, but [PLAYER] is well positioned to make a comfortable save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:47",
+            "comments_type": "goal",
+            "comments_text": "Goal! It's a catastrophic error from the opponent which has gifted a chance to Juan Bernat (Paris SG), who rolls the ball into the back of the net from close range. 1:0.",
+            "comments_text_anonymized": "Goal! It's a catastrophic error from the opponent which has gifted a chance to [PLAYER] ([TEAM]), who rolls the ball into the back of the net from close range. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "foul with no card",
+            "comments_text": "The ball spins up and hits the hand of Mohamed Salah (Liverpool) after he fails to control it and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:43",
+            "comments_type": "foul with no card",
+            "comments_text": "Georginio Wijnaldum (Liverpool) tackles a bit over-zealously and Szymon Marciniak blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:49",
+            "comments_type": "yellow card",
+            "comments_text": "Georginio Wijnaldum (Liverpool) receives a yellow card from the referee for a foul that he committed a little earlier.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee for a foul that he committed a little earlier."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:59",
+            "comments_type": "ball possession",
+            "comments_text": "The Liverpool players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:29",
+            "comments_type": "shot off target",
+            "comments_text": "Mohamed Salah (Liverpool) collects a pass on the edge of the box but he slips the ball just wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a pass on the edge of the box but he slips the ball just wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:57",
+            "comments_type": "yellow card",
+            "comments_text": "Marco Verratti (Paris SG) is cautioned by the referee for a foul that he committed a little earlier.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:28",
+            "comments_type": "clearance",
+            "comments_text": "Georginio Wijnaldum (Liverpool) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:30",
+            "comments_type": "off side",
+            "comments_text": "Neymar (Paris SG) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:35",
+            "comments_type": "off side",
+            "comments_text": "The game is interrupted as Sadio Mane (Liverpool) is flagged offside.",
+            "comments_text_anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:18",
+            "comments_type": "yellow card",
+            "comments_text": "Joe Gomez (Liverpool) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:04",
+            "comments_type": "goal",
+            "comments_text": "Goal! Neymar (Paris SG) is quickest to react to the rebound and stabs the ball into the back of the net. It's 2:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) is quickest to react to the rebound and stabs the ball into the back of the net. It's 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:37",
+            "comments_type": "foul with no card",
+            "comments_text": "Szymon Marciniak blows his whistle and signals a foul after Angel Di Maria (Paris SG) brought his opponent down.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:50",
+            "comments_type": "clearance",
+            "comments_text": "Jordan Henderson (Liverpool) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:50",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Szymon Marciniak blows his whistle after Angel Di Maria (Paris SG) brings one of his opponents down with a strong tackle. It's a penalty! Liverpool have an opportunity to score from the penalty spot.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. It's a penalty! [TEAM] have an opportunity to score from the penalty spot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:30",
+            "comments_type": "penalty",
+            "comments_text": "James Milner (Liverpool) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:56",
+            "comments_type": "goal",
+            "comments_text": "Goal! James Milner (Liverpool) wins the battle of wills and sends an unstoppable penalty past Gianluigi Buffon into the bottom left corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom left corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:30",
+            "comments_type": "end of half game",
+            "comments_text": "The match has reached half-time.",
+            "comments_text_anonymized": "The match has reached half-time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Szymon Marciniak blows for a foul after Joe Gomez (Liverpool) was too aggressive in the battle for the ball. That's a free kick to Paris SG.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "free kick",
+            "comments_text": "Angel Di Maria (Paris SG) takes the ball and sets it for the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball and sets it for the free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:50",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Paris SG) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:03",
+            "comments_type": "injury",
+            "comments_text": "Angel Di Maria (Paris SG) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Mohamed Salah (Liverpool) trips an opposition player and Szymon Marciniak signals a foul. Paris SG have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:47",
+            "comments_type": "free kick",
+            "comments_text": "Neymar (Paris SG) decides to have a shot at goal from the free kick, but it hits the defensive wall.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to have a shot at goal from the free kick, but it hits the defensive wall."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:52",
+            "comments_type": "corner",
+            "comments_text": "James Milner (Liverpool) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Andrew Robertson (Liverpool) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. The referee signals a corner kick to Liverpool.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:15",
+            "comments_type": "corner",
+            "comments_text": "James Milner (Liverpool) decides to speed play up with a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:13",
+            "comments_type": "shot off target",
+            "comments_text": "Roberto Firmino (Liverpool) watches the cross all the way and heads at goal from near the penalty spot, but his effort flashes narrowly wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) watches the cross all the way and heads at goal from near the penalty spot, but his effort flashes narrowly wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:25",
+            "comments_type": "clearance",
+            "comments_text": "Neymar (Paris SG) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:29",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Dani Alves (Paris SG) for Angel Di Maria.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:38",
+            "comments_type": "substitution",
+            "comments_text": "Thomas Tuchel has decided to introduce fresh legs, with Maxim Choupo-Moting (Paris SG) replacing Edinson Cavani.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with Maxim [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:33",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Naby Keita (Liverpool) replaces Georginio Wijnaldum.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:10",
+            "comments_type": "clearance",
+            "comments_text": "Thilo Kehrer (Paris SG) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is out of play. Paris SG will take a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Neymar (Paris SG) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It will be a corner kick for Paris SG.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:51",
+            "comments_type": "corner",
+            "comments_text": "Neymar (Paris SG) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:55",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Dani Alves (Paris SG) attempted to dribble past an opposing player. The ball is out of play and the linesman points at the corner flag. Corner to Paris SG.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:51",
+            "comments_type": "corner",
+            "comments_text": "Neymar (Paris SG) prepares to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:21",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Roberto Firmino leaves the pitch and Daniel Sturridge (Liverpool) comes on.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:08",
+            "comments_type": "injury",
+            "comments_text": "Thiago Silva (Paris SG) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:09",
+            "comments_type": "injury",
+            "comments_text": "Thiago Silva (Paris SG) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:37",
+            "comments_type": "off side",
+            "comments_text": "Maxim Choupo-Moting (Paris SG) is adjudged offside.",
+            "comments_text_anonymized": "Maxim [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Szymon Marciniak blows his whistle and it's Sadio Mane (Liverpool) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:30",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Xherdan Shaqiri (Liverpool) comes onto the pitch for James Milner.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:12",
+            "comments_type": "lead to corner",
+            "comments_text": "Naby Keita (Liverpool) sends a pass into the box, but his attempt is thwarted and cleared. Liverpool have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:10",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Xherdan Shaqiri (Liverpool) is cleared by the defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Neymar (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:30",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Neymar (Paris SG) was seen by Szymon Marciniak who didn't hesitate to blow the whistle.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:04",
+            "comments_type": "lead to corner",
+            "comments_text": "Xherdan Shaqiri (Liverpool) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball goes out for a corner. Liverpool can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:33",
+            "comments_type": "corner",
+            "comments_text": "Xherdan Shaqiri (Liverpool) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "clearance",
+            "comments_text": "Kylian Mbappe (Paris SG) goes on a weaving run through the defence and gets within shooting range but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a weaving run through the defence and gets within shooting range but his effort is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:10",
+            "comments_type": "yellow card",
+            "comments_text": "Daniel Sturridge (Liverpool) receives a yellow card for a nasty tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for a nasty tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:51",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Adrien Rabiot (Paris SG) comes onto the pitch so that Kylian Mbappe can be given a rest.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Marco Verratti (Paris SG) brings his opponent down with a tackle and Szymon Marciniak blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Presnel Kimpembe (Paris SG) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. Liverpool win a free kick. It's a promising situation for a direct shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:58",
+            "comments_type": "foul with no card",
+            "comments_text": "Virgil van Dijk (Liverpool) is penalised for a foul. Szymon Marciniak had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:37",
+            "comments_type": "yellow card",
+            "comments_text": "Virgil van Dijk (Liverpool) sees a yellow card. He should be more careful because one more challenge like that could result in a red card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:03",
+            "comments_type": "corner",
+            "comments_text": "Neymar (Paris SG) decides to take a short corner instead of crossing into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:11",
+            "comments_type": "yellow card",
+            "comments_text": "Andrew Robertson (Liverpool) takes his opponent down and receives a yellow card from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes his opponent down and receives a yellow card from the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:43",
+            "comments_type": "yellow card",
+            "comments_text": "Neymar (Paris SG) picks up a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:30",
+            "comments_type": "yellow card",
+            "comments_text": "Naby Keita (Liverpool) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:05",
+            "comments_type": "end of half game",
+            "comments_text": "Szymon Marciniak is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

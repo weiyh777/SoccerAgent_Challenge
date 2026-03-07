@@ -1,0 +1,1389 @@
+{
+    "match_info": {
+        "timestamp": "2023-04-28 01:30:00",
+        "score": "4 - 2",
+        "home_team": "Villarreal",
+        "away_team": "Espanyol",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Estadio de la Ceramica (Villarreal)",
+        "capacity": "23 000",
+        "attendance": "16 134",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Grado C. S. (Esp)",
+        "first_name": "Grado C.",
+        "abbr_last_name": "S",
+        "country": "Esp",
+        "detected_name": ""
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Garcia L.",
+                "players_number": "",
+                "Full Name": "Luis Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "42,  (06.02.1981)",
+                "Market Value": "",
+                "unicode": "Ox4npxRl"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Gori",
+                "players_number": "",
+                "Full Name": "Gori",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (15.05.2002)",
+                "Market Value": "30.06.2024",
+                "unicode": "E3pkEtFM"
+            },
+            {
+                "players_name": "Gragera J.",
+                "players_number": "",
+                "Full Name": "Jose Gragera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (14.05.2000)",
+                "Market Value": "€2.4m",
+                "unicode": "QPoHzbRQ"
+            },
+            {
+                "players_name": "Olivan B.",
+                "players_number": "",
+                "Full Name": "Brian Olivan",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (01.04.1994)",
+                "Market Value": "€3.8m",
+                "unicode": "n9R1WQ3p"
+            },
+            {
+                "players_name": "Vidal A.",
+                "players_number": "",
+                "Full Name": "Aleix Vidal",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (21.08.1989)",
+                "Market Value": "",
+                "unicode": "46cDKzxB"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Bare K.",
+                "players_number": "8",
+                "Full Name": "Keidi Bare",
+                "players_rating": 6.7,
+                "Country": "Albania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (28.08.1997)",
+                "Market Value": "€2.8m",
+                "unicode": "4jcnOm31"
+            },
+            {
+                "players_name": "Braithwaite M.",
+                "players_number": "17",
+                "Full Name": "Martin Braithwaite",
+                "players_rating": 6.7,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (05.06.1991)",
+                "Market Value": "€3.3m",
+                "unicode": "IsfUI7H4"
+            },
+            {
+                "players_name": "Calero F.",
+                "players_number": "5",
+                "Full Name": "Fernando Calero",
+                "players_rating": 6.0,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.09.1995)",
+                "Market Value": "€2.4m",
+                "unicode": "Sj35PsHd"
+            },
+            {
+                "players_name": "Darder S. (C)",
+                "players_number": "10",
+                "Full Name": "Sergi Darder",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (22.12.1993)",
+                "Market Value": "€7.9m",
+                "unicode": "On7NYLWr"
+            },
+            {
+                "players_name": "Gil O.",
+                "players_number": "2",
+                "Full Name": "Oscar Gil",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (26.04.1998)",
+                "Market Value": "",
+                "unicode": "2uGrznGQ"
+            },
+            {
+                "players_name": "Gomez S.",
+                "players_number": "24",
+                "Full Name": "Sergi Gomez",
+                "players_rating": 5.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (28.03.1992)",
+                "Market Value": "€1.4m",
+                "unicode": "v1bRsEDN"
+            },
+            {
+                "players_name": "Joselu",
+                "players_number": "9",
+                "Full Name": "Joselu",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (27.03.1990)",
+                "Market Value": "€5.0m",
+                "unicode": "jJOOI2o0"
+            },
+            {
+                "players_name": "Montes C.",
+                "players_number": "23",
+                "Full Name": "Cesar Montes",
+                "players_rating": 5.7,
+                "Country": "Mexico",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (24.02.1997)",
+                "Market Value": "€4.8m",
+                "unicode": "j9EcJFsj"
+            },
+            {
+                "players_name": "Pacheco F. (G)",
+                "players_number": "13",
+                "Full Name": "Fernando Pacheco",
+                "players_rating": 7.7,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (18.05.1992)",
+                "Market Value": "€2.3m",
+                "unicode": "27U3P9mT"
+            },
+            {
+                "players_name": "Puado J.",
+                "players_number": "7",
+                "Full Name": "Javi Puado",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (25.05.1998)",
+                "Market Value": "€7.7m",
+                "unicode": "Cl8Ia7Q9"
+            },
+            {
+                "players_name": "Vini Souza",
+                "players_number": "12",
+                "Full Name": "Vini Souza",
+                "players_rating": 6.6,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (17.06.1999)",
+                "Market Value": "€11.4m",
+                "unicode": "bF9ZvOMt"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Exposito",
+                "players_number": "20",
+                "Full Name": "Exposito",
+                "players_rating": 5.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (01.08.1996)",
+                "Market Value": "€3.9m",
+                "unicode": "SChm1pCo"
+            },
+            {
+                "players_name": "Melamed N.",
+                "players_number": "21",
+                "Full Name": "Nico Melamed",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (11.04.2001)",
+                "Market Value": "€5.9m",
+                "unicode": "U1OOFFBl"
+            },
+            {
+                "players_name": "Pedrosa A.",
+                "players_number": "3",
+                "Full Name": "Adria Pedrosa",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (13.05.1998)",
+                "Market Value": "€5.7m",
+                "unicode": "t4j4NUO8"
+            },
+            {
+                "players_name": "Simo",
+                "players_number": "28",
+                "Full Name": "Simo",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "18, (03.02.2005)",
+                "Market Value": "€570k",
+                "unicode": "SMfTnBab"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Cabrera L.",
+                "players_number": "4",
+                "Full Name": "Leandro Cabrera",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (17.06.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "IsOwrMdM"
+            },
+            {
+                "players_name": "Fernandez A. (G)",
+                "players_number": "25",
+                "Full Name": "Alvaro Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (13.04.1998)",
+                "Market Value": "€1.9m",
+                "unicode": "tfywn0Ad"
+            },
+            {
+                "players_name": "Garcia J. (G)",
+                "players_number": "1",
+                "Full Name": "Joan Garcia",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (04.05.2001)",
+                "Market Value": "€357k",
+                "unicode": "vuAlEqes"
+            },
+            {
+                "players_name": "Gomez D.",
+                "players_number": "19",
+                "Full Name": "Dani Gomez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (30.07.1998)",
+                "Market Value": "€1.1m",
+                "unicode": "UVDJACJ9"
+            },
+            {
+                "players_name": "Lazo J.",
+                "players_number": "16",
+                "Full Name": "Jose Lazo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (16.02.1996)",
+                "Market Value": "€1.8m",
+                "unicode": "U3NYWaPL"
+            },
+            {
+                "players_name": "Pierre-Gabriel R.",
+                "players_number": "18",
+                "Full Name": "Ronael Pierre-Gabriel",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (13.06.1998)",
+                "Market Value": "€3.3m",
+                "unicode": "z3gcthTt"
+            },
+            {
+                "players_name": "Sanchez R.",
+                "players_number": "27",
+                "Full Name": "Ruben Sanchez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (04.02.2001)",
+                "Market Value": "€675k",
+                "unicode": "IVs2nF0f"
+            },
+            {
+                "players_name": "Suarez D.",
+                "players_number": "6",
+                "Full Name": "Denis Suarez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (06.01.1994)",
+                "Market Value": "€1.8m",
+                "unicode": "xWwucZ71"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Setien Q.",
+                "players_number": "",
+                "Full Name": "Quique Setien",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "65,  (27.09.1958)",
+                "Market Value": "",
+                "unicode": "8Oq352ac"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Albiol R.",
+                "players_number": "",
+                "Full Name": "Raul Albiol",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (04.09.1985)",
+                "Market Value": "€2.4m",
+                "unicode": "AkMslDtA"
+            },
+            {
+                "players_name": "Coquelin F.",
+                "players_number": "",
+                "Full Name": "Francis Coquelin",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (13.05.1991)",
+                "Market Value": "€1.8m",
+                "unicode": "2qXd9yom"
+            },
+            {
+                "players_name": "Kiko",
+                "players_number": "",
+                "Full Name": "Kiko",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (02.02.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "ryjofHOu"
+            },
+            {
+                "players_name": "Morales J. L.",
+                "players_number": "",
+                "Full Name": "Jose Luis Morales",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (23.07.1987)",
+                "Market Value": "€2.4m",
+                "unicode": "jXCYJBqg"
+            },
+            {
+                "players_name": "Moreno G.",
+                "players_number": "",
+                "Full Name": "Gerard Moreno",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.04.1992)",
+                "Market Value": "€15.1m",
+                "unicode": "UwfDD083"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Capoue E.",
+                "players_number": "6",
+                "Full Name": "Etienne Capoue",
+                "players_rating": 8.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (11.07.1988)",
+                "Market Value": "€1.9m",
+                "unicode": "YHvWrWrd"
+            },
+            {
+                "players_name": "Chukwueze S.",
+                "players_number": "11",
+                "Full Name": "Samuel Chukwueze",
+                "players_rating": 7.8,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (22.05.1999)",
+                "Market Value": "€22.5m",
+                "unicode": "niW1cP0k"
+            },
+            {
+                "players_name": "Foyth J.",
+                "players_number": "8",
+                "Full Name": "Juan Foyth",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (12.01.1998)",
+                "Market Value": "€24.1m",
+                "unicode": "vcqiFPHQ"
+            },
+            {
+                "players_name": "Jackson N.",
+                "players_number": "15",
+                "Full Name": "Nicolas Jackson",
+                "players_rating": 7.2,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (20.06.2001)",
+                "Market Value": "€32.8m",
+                "unicode": "jXg8d5RJ"
+            },
+            {
+                "players_name": "Lo Celso G.",
+                "players_number": "17",
+                "Full Name": "Giovani Lo Celso",
+                "players_rating": 7.7,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€16.1m",
+                "unicode": "UZeyLfKI"
+            },
+            {
+                "players_name": "Mandi A.",
+                "players_number": "23",
+                "Full Name": "Aissa Mandi",
+                "players_rating": 6.7,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (22.10.1991)",
+                "Market Value": "€1.9m",
+                "unicode": "0hxFjbCm"
+            },
+            {
+                "players_name": "Moreno A.",
+                "players_number": "18",
+                "Full Name": "Alberto Moreno",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (05.07.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "pdBI3oS8"
+            },
+            {
+                "players_name": "Parejo D. (C)",
+                "players_number": "10",
+                "Full Name": "Dani Parejo",
+                "players_rating": 8.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (16.04.1989)",
+                "Market Value": "€4.0m",
+                "unicode": "z7YvfLZ8"
+            },
+            {
+                "players_name": "Pino Y.",
+                "players_number": "21",
+                "Full Name": "Yeremy Pino",
+                "players_rating": 7.4,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (20.10.2002)",
+                "Market Value": "€28.8m",
+                "unicode": "8fnHDvMe"
+            },
+            {
+                "players_name": "Reina P. (G)",
+                "players_number": "1",
+                "Full Name": "Pepe Reina",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (31.08.1982)",
+                "Market Value": "€665k",
+                "unicode": "KrEhnvkN"
+            },
+            {
+                "players_name": "Torres P.",
+                "players_number": "4",
+                "Full Name": "Pau Torres",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (16.01.1997)",
+                "Market Value": "€43.4m",
+                "unicode": "AVUHg8JU"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Baena A.",
+                "players_number": "16",
+                "Full Name": "Alex Baena",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (20.07.2001)",
+                "Market Value": "€25.2m",
+                "unicode": "bmeQTB92"
+            },
+            {
+                "players_name": "Pedraza A.",
+                "players_number": "24",
+                "Full Name": "Alfonso Pedraza",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (09.04.1996)",
+                "Market Value": "€11.2m",
+                "unicode": "KxSmFSum"
+            },
+            {
+                "players_name": "Terrats R.",
+                "players_number": "39",
+                "Full Name": "Ramon Terrats",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (18.10.2000)",
+                "Market Value": "€3.8m",
+                "unicode": "rLsgetTF"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Cuenca J.",
+                "players_number": "5",
+                "Full Name": "Jorge Cuenca",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (17.11.1999)",
+                "Market Value": "€5.0m",
+                "unicode": "I3b1w0I5"
+            },
+            {
+                "players_name": "Hassan H.",
+                "players_number": "40",
+                "Full Name": "Haissem Hassan",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (08.02.2002)",
+                "Market Value": "€1.7m",
+                "unicode": "GODeIoHH"
+            },
+            {
+                "players_name": "Jorgensen F. (G)",
+                "players_number": "35",
+                "Full Name": "Filip Jorgensen",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "21, (16.04.2002)",
+                "Market Value": "€14.5m",
+                "unicode": "OSueaqvP"
+            },
+            {
+                "players_name": "Mojica J.",
+                "players_number": "12",
+                "Full Name": "Johan Mojica",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.08.1992)",
+                "Market Value": "€2.3m",
+                "unicode": "drRlRNNC"
+            },
+            {
+                "players_name": "Pascual J.",
+                "players_number": "43",
+                "Full Name": "Jorge Pascual",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (09.04.2003)",
+                "Market Value": "€936k",
+                "unicode": "MNbqVtWt"
+            },
+            {
+                "players_name": "Trigueros M.",
+                "players_number": "14",
+                "Full Name": "Manu Trigueros",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (17.10.1991)",
+                "Market Value": "€2.3m",
+                "unicode": "E77oeEa6"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match.",
+            "comments_text_anonymized": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Cesar Soto Grado will officiate today.",
+            "comments_text_anonymized": "Cesar Soto Grado will officiate today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Espanyol will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle and we are underway.",
+            "comments_text_anonymized": "The referee blows his whistle and we are underway."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:53",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolas Jackson (Villarreal) trips an opposition player and Cesar Soto Grado signals a foul. Espanyol will take a free kick near the side line.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and Cesar Soto Grado signals a foul. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:00",
+            "comments_type": "ball possession",
+            "comments_text": "Villarreal are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",
+            "comments_text_anonymized": "[TEAM] are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:01",
+            "comments_type": "clearance",
+            "comments_text": "Etienne Capoue (Villarreal) shoots from outside the box, but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:24",
+            "comments_type": "off side",
+            "comments_text": "Yeremy Pino (Villarreal) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:36",
+            "comments_type": "shot off target",
+            "comments_text": "Yeremy Pino (Villarreal) strikes from the edge of the box, but hits it really poorly and sends the ball way wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes from the edge of the box, but hits it really poorly and sends the ball way wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:48",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Samuel Chukwueze (Villarreal) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:46",
+            "comments_type": "corner",
+            "comments_text": "Giovani Lo Celso (Villarreal) will deliver the ball into the penalty box from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:29",
+            "comments_type": "clearance",
+            "comments_text": "Nicolas Jackson (Villarreal) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:33",
+            "comments_type": "clearance",
+            "comments_text": "Sergi Darder (Espanyol) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Cesar Soto Grado blows his whistle after Vinicius Souza (Espanyol) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "Cesar Soto Grado blows his whistle after [PLAYER]cius Souza ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:00",
+            "comments_type": "clearance",
+            "comments_text": "A beautiful low pass from the side is received by Joselu (Espanyol), who was waiting for his chance. However, the defence is alert and spanks the ball away.",
+            "comments_text_anonymized": "A beautiful low pass from the side is received by [PLAYER] ([TEAM]), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:36",
+            "comments_type": "clearance",
+            "comments_text": "A pass lands at the feet of Yeremy Pino (Villarreal) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender.",
+            "comments_text_anonymized": "A pass lands at the feet of [PLAYER] ([TEAM]) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:15",
+            "comments_type": "clearance",
+            "comments_text": "Giovani Lo Celso (Villarreal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:00",
+            "comments_type": "clearance",
+            "comments_text": "Alberto Moreno (Villarreal) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays in a hopeful cross, but it doesn't find its way to any of the attacking players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:44",
+            "comments_type": "yellow card",
+            "comments_text": "Today's referee Cesar Soto Grado rightly decides to book Nicolas Jackson (Villarreal) for his harsh tackle.",
+            "comments_text_anonymized": "Today's referee Cesar Soto Grado rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:24",
+            "comments_type": "injury",
+            "comments_text": "Fernando Pacheco (Espanyol) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:43",
+            "comments_type": "injury",
+            "comments_text": "Fernando Pacheco (Espanyol) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:07",
+            "comments_type": "shot off target",
+            "comments_text": "Samuel Chukwueze (Villarreal) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Cesar Soto Grado blows his whistle. Etienne Capoue (Villarreal) commits a foul after dangerous play. It's a free kick to Espanyol, but they probably won't attempt a direct shot on goal from here.",
+            "comments_text_anonymized": "Cesar Soto Grado blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Fernando Calero (Espanyol) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. That's a free kick to Villarreal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:27",
+            "comments_type": "foul with no card",
+            "comments_text": "Yeremy Pino (Villarreal) is penalised for holding. Cesar Soto Grado signals a set piece. Espanyol have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for holding. Cesar Soto Grado signals a set piece. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Giovani Lo Celso (Villarreal) threads a pass through the eye of a needle into the box for Yeremy Pino, but Fernando Pacheco displays great awareness to stop him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) threads a pass through the eye of a needle into the box for [PLAYER], but [PLAYER] displays great awareness to stop him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Samuel Chukwueze (Villarreal) is first to latch onto the rebound inside the penalty area. He sends a promising shot towards the middle of the goal, but it is denied by the goalkeeper who pulls off a superb save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to latch onto the rebound inside the penalty area. He sends a promising shot towards the middle of the goal, but it is denied by the goalkeeper who pulls off a superb save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Giovani Lo Celso (Villarreal) commits a rough challenge and Cesar Soto Grado blows his whistle for a foul. Espanyol are given an advantage. They have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and Cesar Soto Grado blows his whistle for a foul. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:30",
+            "comments_type": "shot off target",
+            "comments_text": "Vinicius Souza (Espanyol) has a go from the edge of the box, but it's a harmless effort and sails well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER]cius Souza ([TEAM]) has a go from the edge of the box, but it's a harmless effort and sails well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:58",
+            "comments_type": "foul with no card",
+            "comments_text": "Yeremy Pino (Villarreal) commits a rough challenge and Cesar Soto Grado blows his whistle for an infringement. It's a free kick to Espanyol, but it's in no position for a direct shot on goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and Cesar Soto Grado blows his whistle for an infringement. It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:04",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Sergi Darder (Espanyol) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:51",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A defender unwittingly blocks the ball on the line after a snap shot from Samuel Chukwueze (Villarreal) inside the box following a slide rule pass.",
+            "comments_text_anonymized": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Javi Puado (Espanyol) robs an opponent of the ball and explodes in anger when Cesar Soto Grado blows for a foul. Villarreal win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when Cesar Soto Grado blows for a foul. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:17",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Samuel Chukwueze (Villarreal) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Fernando Pacheco easily deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but [PLAYER] easily deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Fernando Calero (Espanyol) commits a foul after bringing down his opponent with a slide tackle. Villarreal earn a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after bringing down his opponent with a slide tackle. [TEAM] earn a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:00",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:37",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) takes the corner but fails to find any of his teammates as he overhits the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Pau Torres (Villarreal) produces a long-range volley, but the ball was blocked by a defender on its way. Villarreal get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a long-range volley, but the ball was blocked by a defender on its way. [TEAM] get a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:30",
+            "comments_type": "corner",
+            "comments_text": "Giovani Lo Celso (Villarreal) whips in a cross from the corner, but Fernando Pacheco is well positioned and punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:48",
+            "comments_type": "shot off target",
+            "comments_text": "Unlucky! A great strike from Juan Foyth (Villarreal) near the edge of the box had the keeper scrambling but flew just over the bar.",
+            "comments_text_anonymized": "Unlucky! A great strike from [PLAYER] ([TEAM]) near the edge of the box had the keeper scrambling but flew just over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Fernando Calero (Espanyol) is worthy of a card and a yellow is duly shown by Cesar Soto Grado.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by Cesar Soto Grado."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:30",
+            "comments_type": "free kick",
+            "comments_text": "A free kick is awarded from a very dangerous distance. It's situated just a few metres from outside the box. Several players gather around the ball, but it seems like Dani Parejo (Villarreal) is going to have a crack himself.",
+            "comments_text_anonymized": "A free kick is awarded from a very dangerous distance. It's situated just a few metres from outside the box. Several players gather around the ball, but it seems like [PLAYER] ([TEAM]) is going to have a crack himself."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:15",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Juan Foyth (Villarreal) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Yeremy Pino (Villarreal) blows a clear opportunity to score a goal. He was one-on-one with Fernando Pacheco inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blows a clear opportunity to score a goal. He was one-on-one with [PLAYER] inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:53",
+            "comments_type": "shot off target",
+            "comments_text": "Samuel Chukwueze (Villarreal) stretches for the rebound inside the box, but can only send it high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) stretches for the rebound inside the box, but can only send it high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:48",
+            "comments_type": "shot off target",
+            "comments_text": "Martin Braithwaite (Espanyol) has a go from distance but he can't find the target as it goes well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a go from distance but he can't find the target as it goes well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:00",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "That didn't go as planned! Keidi Bare (Espanyol) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past Pepe Reina, who easily kept it out.",
+            "comments_text_anonymized": "That didn't go as planned! [PLAYER] ([TEAM]) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past [PLAYER], who easily kept it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:36",
+            "comments_type": "lead to corner",
+            "comments_text": "Martin Braithwaite (Espanyol) reacts well to latch onto a rebound inside the box, but his shot is well blocked. It will be a corner kick for Espanyol.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to latch onto a rebound inside the box, but his shot is well blocked. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:27",
+            "comments_type": "corner",
+            "comments_text": "Martin Braithwaite (Espanyol) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:58",
+            "comments_type": "shot off target",
+            "comments_text": "Sergi Gomez (Espanyol) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! Javi Puado (Espanyol) fires the rebound into the top right corner after the ball breaks to him in the box. The score is 0:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) fires the rebound into the top right corner after the ball breaks to him in the box. The score is 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:45",
+            "comments_type": "clearance",
+            "comments_text": "Another attempt to send the ball beyond the defence by Dani Parejo (Villarreal) is thwarted and cleared to safety.",
+            "comments_text_anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "50:03",
+            "comments_type": "end of half game",
+            "comments_text": "Cesar Soto Grado blows his whistle to signal the end of the first-half action.",
+            "comments_text_anonymized": "Cesar Soto Grado blows his whistle to signal the end of the first-half action."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Samuel Chukwueze (Villarreal) fails to find any of his teammates inside the box as his pass is blocked. The ball goes behind for a corner. Villarreal will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:44",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) looks like he will be the one to take the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:04",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Nicolas Jackson (Villarreal) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by Fernando Pacheco. This effort really didn't trouble him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by [PLAYER]. This effort really didn't trouble him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Etienne Capoue (Villarreal) was too fierce in his attempt to get the ball from his opponent and Cesar Soto Grado blows for a foul. Espanyol will take a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and Cesar Soto Grado blows for a foul. [TEAM] will take a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Etienne Capoue (Villarreal) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:51",
+            "comments_type": "free kick",
+            "comments_text": "Sergi Darder (Espanyol) whips a long ball in from the free kick which is intercepted by Pepe Reina.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:58",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "It's a nice effort by Nicolas Jackson (Villarreal) from the edge of the box, but it's low towards the middle of the goal and straight down the throat of Fernando Pacheco. Easy save.",
+            "comments_text_anonymized": "It's a nice effort by [PLAYER] ([TEAM]) from the edge of the box, but it's low towards the middle of the goal and straight down the throat of [PLAYER]. Easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:34",
+            "comments_type": "ball possession",
+            "comments_text": "Joselu (Espanyol) looks to break free, but his touch lets him down and he loses the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:10",
+            "comments_type": "clearance",
+            "comments_text": "Nicolas Jackson (Villarreal) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:35",
+            "comments_type": "shot off target",
+            "comments_text": "Samuel Chukwueze (Villarreal) lacks options so fires a shot at goal from the edge of box, but it's a wasted effort and goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lacks options so fires a shot at goal from the edge of box, but it's a wasted effort and goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Etienne Capoue (Villarreal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Villarreal will have a chance to score from a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:10",
+            "comments_type": "corner",
+            "comments_text": "Dani Parejo (Villarreal) works the corner short instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:40",
+            "comments_type": "goal",
+            "comments_text": "What a beautiful moment! Etienne Capoue (Villarreal) got to the ball and unleashed a strong shot from distance. It turned out to be a good decision as his effort found its way inside the right post. Fernando Pacheco just shakes his head in disbelief. The score changes to 1:1.",
+            "comments_text_anonymized": "What a beautiful moment! [PLAYER] ([TEAM]) got to the ball and unleashed a strong shot from distance. It turned out to be a good decision as his effort found its way inside the right post. [PLAYER] just shakes his head in disbelief. The score changes to 1:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Juan Foyth (Villarreal) was too forceful with his tackle and Cesar Soto Grado interrupted the game to signal a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and Cesar Soto Grado interrupted the game to signal a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:00",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Sergi Darder (Espanyol) has a sight of goal, fires a shot in from distance towards the bottom right corner and forces a good save out of Pepe Reina.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a sight of goal, fires a shot in from distance towards the bottom right corner and forces a good save out of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:47",
+            "comments_type": "yellow card",
+            "comments_text": "Yeremy Pino (Villarreal) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Cesar Soto Grado ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Cesar Soto Grado ignores the protests."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:47",
+            "comments_type": "yellow card",
+            "comments_text": "A yellow card for a tackle by Javi Puado (Espanyol). Cesar Soto Grado doesn't hesitate at all to make this decision.",
+            "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). Cesar Soto Grado doesn't hesitate at all to make this decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:43",
+            "comments_type": "lead to corner",
+            "comments_text": "He should have scored! Alberto Moreno (Villarreal) gathered a short pass deep inside the box but took too long to shoot, allowing the defender to make the block. Good work from Villarreal as they win a corner.",
+            "comments_text_anonymized": "He should have scored! [PLAYER] ([TEAM]) gathered a short pass deep inside the box but took too long to shoot, allowing the defender to make the block. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:55",
+            "comments_type": "var",
+            "comments_text": "There's some confusion. Looks like the ref is going to review the penalty decision to Villarreal using VAR. Let's see what happens.",
+            "comments_text_anonymized": "There's some confusion. [PLAYER]oks like the ref is going to review the penalty decision to [TEAM] using VAR. Let's see what happens."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:15",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "The penalty decision stands after the VAR review. It's a penalty!",
+            "comments_text_anonymized": "The penalty decision stands after the VAR review. It's a penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:21",
+            "comments_type": "yellow card",
+            "comments_text": "Cesar Soto Grado rightly pulls out a yellow card and shows it to Cesar Montes (Espanyol).",
+            "comments_text_anonymized": "Cesar Soto Grado rightly pulls out a yellow card and shows it to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:50",
+            "comments_type": "penalty",
+            "comments_text": "Dani Parejo (Villarreal) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:40",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Dani Parejo (Villarreal) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the right side of the target, but Fernando Pacheco pulls off a superb save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the right side of the target, but [PLAYER] pulls off a superb save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:11",
+            "comments_type": "goal",
+            "comments_text": "Goal! Dani Parejo (Villarreal) has the simplest of tasks to roll the ball into an empty net from close range after a rebound left the keeper stranded. 2:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) has the simplest of tasks to roll the ball into an empty net from close range after a rebound left the keeper stranded. 2:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:20",
+            "comments_type": "clearance",
+            "comments_text": "Joselu (Espanyol) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:59",
+            "comments_type": "corner",
+            "comments_text": "Giovani Lo Celso (Villarreal) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:40",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Exposito (Espanyol) is on for Keidi Bare.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:15",
+            "comments_type": "shot off target",
+            "comments_text": "Exposito (Espanyol) drills in an effort from the edge of the box that climbs rapidly and goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) drills in an effort from the edge of the box that climbs rapidly and goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:06",
+            "comments_type": "lead to corner",
+            "comments_text": "Samuel Chukwueze (Villarreal) sends a pass into the box, but his attempt is thwarted and cleared. Villarreal force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:34",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 16134.",
+            "comments_text_anonymized": "The attendance is 16134."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:34",
+            "comments_type": "goal",
+            "comments_text": "Joselu (Espanyol) latches on to an accurate pass inside the box and finds himself one-on-one with the goalkeeper. He quickly drills a shot to the bottom left corner and scores! His effort went in off the post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass inside the box and finds himself one-on-one with the goalkeeper. He quickly drills a shot to the bottom left corner and scores! His effort went in off the post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:39",
+            "comments_type": "corner",
+            "comments_text": "Giovani Lo Celso (Villarreal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "substitution",
+            "comments_text": "Fernando Calero goes off the pitch and Simo (Espanyol) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:52",
+            "comments_type": "yellow card",
+            "comments_text": "Oscar Gil (Espanyol) sees a yellow card from Cesar Soto Grado after he sent one of the opposing players to the ground.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from Cesar Soto Grado after he sent one of the opposing players to the ground."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:26",
+            "comments_type": "goal",
+            "comments_text": "Nicolas Jackson (Villarreal) makes a great solo run and pulls the trigger from inside the box, beating Fernando Pacheco with a strike into the bottom left corner. He makes it 3:2.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating [PLAYER] with a strike into the bottom left corner. He makes it 3:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:37",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Javi Puado is replaced by Adria Pedrosa (Espanyol).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:47",
+            "comments_type": "substitution",
+            "comments_text": "Luis Garcia has decided to substitute Vinicius Souza and he is replaced by Nico Melamed (Espanyol).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER]cius Souza and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:12",
+            "comments_type": "injury",
+            "comments_text": "Pau Torres (Villarreal) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:36",
+            "comments_type": "shot off target",
+            "comments_text": "What a miss! Joselu (Espanyol) is left standing right in front of goal with only the keeper to beat after a clever pass, but he somehow contrives to toe poke the ball just past the right post.",
+            "comments_text_anonymized": "What a miss! [PLAYER] ([TEAM]) is left standing right in front of goal with only the keeper to beat after a clever pass, but he somehow contrives to toe poke the ball just past the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:29",
+            "comments_type": "injury",
+            "comments_text": "Pau Torres (Villarreal) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:14",
+            "comments_type": "lead to corner",
+            "comments_text": "Adria Pedrosa (Espanyol) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is out of play. Espanyol win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:43",
+            "comments_type": "corner",
+            "comments_text": "Martin Braithwaite (Espanyol) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 7 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 7 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:08",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a substitution. Alfonso Pedraza (Villarreal) is replacing Alberto Moreno.",
+            "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:13",
+            "comments_type": "corner",
+            "comments_text": "Giovani Lo Celso (Villarreal) will deliver the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:10",
+            "comments_type": "goal",
+            "comments_text": "Etienne Capoue (Villarreal) scores from the resulting corner. The ball slips through the box to Etienne Capoue (Villarreal) and he blasts it inside the right post, giving the goalkeeper no chance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) scores from the resulting corner. The ball slips through the box to [PLAYER] ([TEAM]) and he blasts it inside the right post, giving the goalkeeper no chance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:42",
+            "comments_type": "substitution",
+            "comments_text": "The substitution has been made. Alex Baena (Villarreal) has replaced Nicolas Jackson.",
+            "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:11",
+            "comments_type": "substitution",
+            "comments_text": "Quique Setien decides to make a substitution. Giovani Lo Celso will be replaced by Ramon Terrats (Villarreal).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:46",
+            "comments_type": "red card",
+            "comments_text": "What an awful challenge. The referee Cesar Soto Grado has no other option than to send Exposito (Espanyol) off the pitch. Red card!",
+            "comments_text_anonymized": "What an awful challenge. The referee Cesar Soto Grado has no other option than to send [PLAYER] ([TEAM]) off the pitch. Red card!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:17",
+            "comments_type": "injury",
+            "comments_text": "Samuel Chukwueze (Villarreal) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:29",
+            "comments_type": "injury",
+            "comments_text": "Samuel Chukwueze (Villarreal) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:52",
+            "comments_type": "end of half game",
+            "comments_text": "There will be no more action in this match as the referee signals full time.",
+            "comments_text_anonymized": "There will be no more action in this match as the referee signals full time."
+        }
+    ]
+}

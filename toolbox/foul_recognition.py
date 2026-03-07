@@ -1,7 +1,7 @@
 import re
 from openai import OpenAI
 
-def workflow(input_text, Instruction="You are an expert of soccer referee.", follow_up_prompt=None, api_key="your-deepseek-api-key", max_tokens_followup=1500):
+def workflow(input_text, Instruction="You are an expert of soccer referee.", follow_up_prompt=None, api_key="", max_tokens_followup=1500):
     client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
     completion = client.chat.completions.create(
         model="deepseek-chat",
@@ -83,7 +83,7 @@ def extract_category(output):
 
 
 import sys
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox')
 
 from vlm import VLM
 

@@ -1,0 +1,1116 @@
+{
+    "match_info": {
+        "timestamp": "2023-04-13 03:00:00",
+        "score": "2 - 0",
+        "home_team": "Real Madrid",
+        "away_team": "Chelsea",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "3 - 5 - 2",
+        "venue": "Estadio Santiago Bernabéu (Madrid)",
+        "capacity": "83 186",
+        "attendance": "63 142",
+        "home_jersey_color": "white",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Letexier F. (Fra)",
+        "first_name": "Letexier",
+        "abbr_last_name": "F",
+        "country": "Fra",
+        "detected_name": "Francois Letexier"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Lampard F.",
+                "players_number": "",
+                "Full Name": "Frank Lampard",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (20.06.1978)",
+                "Market Value": "",
+                "unicode": "GWpe9c0q"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Aubameyang P.",
+                "players_number": "",
+                "Full Name": "Pierre-Emerick Aubameyang",
+                "players_rating": "",
+                "Country": "Gabon",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (18.06.1989)",
+                "Market Value": "€3.7m",
+                "unicode": "Wl4EyKZk"
+            },
+            {
+                "players_name": "Badiashile B.",
+                "players_number": "",
+                "Full Name": "Benoit Badiashile",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (26.03.2001)",
+                "Market Value": "€34.7m",
+                "unicode": "bqJ7TZrU"
+            },
+            {
+                "players_name": "Broja A.",
+                "players_number": "",
+                "Full Name": "Armando Broja",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (10.09.2001)",
+                "Market Value": "€25.4m",
+                "unicode": "0rnu9an9"
+            },
+            {
+                "players_name": "Chukwuemeka C.",
+                "players_number": "",
+                "Full Name": "Carney Chukwuemeka",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (20.10.2003)",
+                "Market Value": "€14.0m",
+                "unicode": "tpQg2gso"
+            },
+            {
+                "players_name": "Madueke N.",
+                "players_number": "",
+                "Full Name": "Noni Madueke",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (10.03.2002)",
+                "Market Value": "€24.5m",
+                "unicode": "Ac57P9Pt"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Arrizabalaga K. (G)",
+                "players_number": "1",
+                "Full Name": "Kepa Arrizabalaga",
+                "players_rating": 7.5,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (03.10.1994)",
+                "Market Value": "€19.3m",
+                "unicode": "Yq2dyUwN"
+            },
+            {
+                "players_name": "Chilwell B.",
+                "players_number": "21",
+                "Full Name": "Ben Chilwell",
+                "players_rating": 5.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (21.12.1996)",
+                "Market Value": "€29.4m",
+                "unicode": "txvuTaNB"
+            },
+            {
+                "players_name": "Fernandez E.",
+                "players_number": "5",
+                "Full Name": "Enzo Fernandez",
+                "players_rating": 6.7,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (17.01.2001)",
+                "Market Value": "€81.7m",
+                "unicode": "nZnbEVWP"
+            },
+            {
+                "players_name": "Fofana W.",
+                "players_number": "33",
+                "Full Name": "Wesley Fofana",
+                "players_rating": 6.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (17.12.2000)",
+                "Market Value": "€31.2m",
+                "unicode": "Aw7tVHPM"
+            },
+            {
+                "players_name": "James R.",
+                "players_number": "24",
+                "Full Name": "Reece James",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (08.12.1999)",
+                "Market Value": "€49.6m",
+                "unicode": "nLBC7ERa"
+            },
+            {
+                "players_name": "Joao Felix",
+                "players_number": "11",
+                "Full Name": "Joao Felix",
+                "players_rating": 6.8,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.11.1999)",
+                "Market Value": "€39.7m",
+                "unicode": "KI3YXMhi"
+            },
+            {
+                "players_name": "Kante N.",
+                "players_number": "7",
+                "Full Name": "N'Golo Kante",
+                "players_rating": 6.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (29.03.1991)",
+                "Market Value": "€10.1m",
+                "unicode": "IkmsHsOR"
+            },
+            {
+                "players_name": "Koulibaly K.",
+                "players_number": "26",
+                "Full Name": "Kalidou Koulibaly",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (20.06.1991)",
+                "Market Value": "€10.9m",
+                "unicode": "hSKz7qT3"
+            },
+            {
+                "players_name": "Kovacic M.",
+                "players_number": "8",
+                "Full Name": "Mateo Kovacic",
+                "players_rating": 6.1,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (06.05.1994)",
+                "Market Value": "€37.7m",
+                "unicode": "4f084TL7"
+            },
+            {
+                "players_name": "Silva T. (C)",
+                "players_number": "6",
+                "Full Name": "Thiago Silva",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (22.09.1984)",
+                "Market Value": "€2.0m",
+                "unicode": "xAsJbgXA"
+            },
+            {
+                "players_name": "Sterling R.",
+                "players_number": "17",
+                "Full Name": "Raheem Sterling",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (08.12.1994)",
+                "Market Value": "€44.0m",
+                "unicode": "pfm9avwi"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Chalobah T.",
+                "players_number": "14",
+                "Full Name": "Trevoh Chalobah",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (05.07.1999)",
+                "Market Value": "€17.4m",
+                "unicode": "2N61AJte"
+            },
+            {
+                "players_name": "Cucurella M.",
+                "players_number": "32",
+                "Full Name": "Marc Cucurella",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (22.07.1998)",
+                "Market Value": "€24.5m",
+                "unicode": "QTynbZd3"
+            },
+            {
+                "players_name": "Gallagher C.",
+                "players_number": "23",
+                "Full Name": "Conor Gallagher",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (06.02.2000)",
+                "Market Value": "€39.9m",
+                "unicode": "dtbJO8B3"
+            },
+            {
+                "players_name": "Havertz K.",
+                "players_number": "29",
+                "Full Name": "Kai Havertz",
+                "players_rating": 6.1,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (11.06.1999)",
+                "Market Value": "€53.0m",
+                "unicode": "rH8BZWiI"
+            },
+            {
+                "players_name": "Mount M.",
+                "players_number": "19",
+                "Full Name": "Mason Mount",
+                "players_rating": 5.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (10.01.1999)",
+                "Market Value": "€42.8m",
+                "unicode": "lOA8VKIK"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Azpilicueta C.",
+                "players_number": "28",
+                "Full Name": "Cesar Azpilicueta",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (28.08.1989)",
+                "Market Value": "€3.8m",
+                "unicode": "CMGUADgt"
+            },
+            {
+                "players_name": "Loftus-Cheek R.",
+                "players_number": "12",
+                "Full Name": "Ruben Loftus-Cheek",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (23.01.1996)",
+                "Market Value": "€24.5m",
+                "unicode": "6DpURWF8"
+            },
+            {
+                "players_name": "Mendy E. (G)",
+                "players_number": "16",
+                "Full Name": "Edouard Mendy",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (01.03.1992)",
+                "Market Value": "€9.5m",
+                "unicode": "8zpLkf6p"
+            },
+            {
+                "players_name": "Mudryk M.",
+                "players_number": "15",
+                "Full Name": "Mykhailo Mudryk",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (05.01.2001)",
+                "Market Value": "€39.1m",
+                "unicode": "W03dbPp4"
+            },
+            {
+                "players_name": "Pulisic C.",
+                "players_number": "10",
+                "Full Name": "Christian Pulisic",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (18.09.1998)",
+                "Market Value": "€33.1m",
+                "unicode": "vTuaEfRq"
+            },
+            {
+                "players_name": "Zakaria D.",
+                "players_number": "20",
+                "Full Name": "Denis Zakaria",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (20.11.1996)",
+                "Market Value": "€21.2m",
+                "unicode": "d23lOQrL"
+            },
+            {
+                "players_name": "Ziyech H.",
+                "players_number": "22",
+                "Full Name": "Hakim Ziyech",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.03.1993)",
+                "Market Value": "€11.9m",
+                "unicode": "2F0HARqq"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Ancelotti C.",
+                "players_number": "",
+                "Full Name": "Carlo Ancelotti",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "64,  (10.06.1959)",
+                "Market Value": "",
+                "unicode": "nZQG5IgJ"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Mendy F.",
+                "players_number": "",
+                "Full Name": "Ferland Mendy",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (08.06.1995)",
+                "Market Value": "€19.3m",
+                "unicode": "KnytnSKl"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alaba D.",
+                "players_number": "4",
+                "Full Name": "David Alaba",
+                "players_rating": 7.7,
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.06.1992)",
+                "Market Value": "€30.0m",
+                "unicode": "hKx3nCTp"
+            },
+            {
+                "players_name": "Benzema K. (C)",
+                "players_number": "9",
+                "Full Name": "Karim Benzema",
+                "players_rating": 7.9,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "€15.9m",
+                "unicode": "tpV0VX0S"
+            },
+            {
+                "players_name": "Camavinga E.",
+                "players_number": "12",
+                "Full Name": "Eduardo Camavinga",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (10.11.2002)",
+                "Market Value": "€90.6m",
+                "unicode": "6ekYsPfO"
+            },
+            {
+                "players_name": "Carvajal D.",
+                "players_number": "2",
+                "Full Name": "Daniel Carvajal",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (11.01.1992)",
+                "Market Value": "€12.1m",
+                "unicode": "rZh5FTHE"
+            },
+            {
+                "players_name": "Courtois T. (G)",
+                "players_number": "1",
+                "Full Name": "Thibaut Courtois",
+                "players_rating": 7.4,
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (11.05.1992)",
+                "Market Value": "€35.7m",
+                "unicode": "MVExOq3n"
+            },
+            {
+                "players_name": "Kroos T.",
+                "players_number": "8",
+                "Full Name": "Toni Kroos",
+                "players_rating": 7.4,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (04.01.1990)",
+                "Market Value": "€14.3m",
+                "unicode": "CloE7jjr"
+            },
+            {
+                "players_name": "Militao E.",
+                "players_number": "3",
+                "Full Name": "Eder Militao",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€67.5m",
+                "unicode": "zX2Rm9YG"
+            },
+            {
+                "players_name": "Modric L.",
+                "players_number": "10",
+                "Full Name": "Luka Modric",
+                "players_rating": 7.1,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (09.09.1985)",
+                "Market Value": "€10.5m",
+                "unicode": "bZWyoJnA"
+            },
+            {
+                "players_name": "Rodrygo",
+                "players_number": "21",
+                "Full Name": "Rodrygo",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.01.2001)",
+                "Market Value": "€103.5m",
+                "unicode": "zPUyR5Up"
+            },
+            {
+                "players_name": "Valverde F.",
+                "players_number": "15",
+                "Full Name": "Federico Valverde",
+                "players_rating": 7.4,
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (22.07.1998)",
+                "Market Value": "€105.0m",
+                "unicode": "nscfER6B"
+            },
+            {
+                "players_name": "Vinicius Junior",
+                "players_number": "20",
+                "Full Name": "Vinicius Junior",
+                "players_rating": 8.5,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (12.07.2000)",
+                "Market Value": "€163.8m",
+                "unicode": "CbwQ4Mws"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Asensio M.",
+                "players_number": "11",
+                "Full Name": "Marco Asensio",
+                "players_rating": 7.3,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.01.1996)",
+                "Market Value": "€19.3m",
+                "unicode": "GQMMQo6m"
+            },
+            {
+                "players_name": "Ceballos D.",
+                "players_number": "19",
+                "Full Name": "Dani Ceballos",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (07.08.1996)",
+                "Market Value": "€8.7m",
+                "unicode": "zPYmze7F"
+            },
+            {
+                "players_name": "Rudiger A.",
+                "players_number": "22",
+                "Full Name": "Antonio Rudiger",
+                "players_rating": 6.4,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (03.03.1993)",
+                "Market Value": "€24.5m",
+                "unicode": "rZHXvTho"
+            },
+            {
+                "players_name": "Tchouameni A.",
+                "players_number": "18",
+                "Full Name": "Aurelien Tchouameni",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (27.01.2000)",
+                "Market Value": "€91.9m",
+                "unicode": "QkiZum3e"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Diaz M.",
+                "players_number": "24",
+                "Full Name": "Mariano Diaz",
+                "players_rating": "",
+                "Country": "Dominican Republic",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (01.08.1993)",
+                "Market Value": "€1.8m",
+                "unicode": "OQ6UIbu1"
+            },
+            {
+                "players_name": "Fernandez N.",
+                "players_number": "6",
+                "Full Name": "Nacho Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (18.01.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "8Wp8ZCLG"
+            },
+            {
+                "players_name": "Hazard E.",
+                "players_number": "7",
+                "Full Name": "Eden Hazard",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (07.01.1991)",
+                "Market Value": "",
+                "unicode": "QH2of5sJ"
+            },
+            {
+                "players_name": "Lopez L. (G)",
+                "players_number": "26",
+                "Full Name": "Luis Lopez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (08.05.2001)",
+                "Market Value": "€281k",
+                "unicode": "v5HKEYQm"
+            },
+            {
+                "players_name": "Lucas",
+                "players_number": "17",
+                "Full Name": "Lucas Vazquez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (01.07.1991)",
+                "Market Value": "€5.0m",
+                "unicode": "pEjBDsSH"
+            },
+            {
+                "players_name": "Lunin A. (G)",
+                "players_number": "13",
+                "Full Name": "Andriy Lunin",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (11.02.1999)",
+                "Market Value": "€8.1m",
+                "unicode": "0S7ye9jr"
+            },
+            {
+                "players_name": "Odriozola A.",
+                "players_number": "16",
+                "Full Name": "Alvaro Odriozola",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.12.1995)",
+                "Market Value": "€2.9m",
+                "unicode": "0zO9SfkA"
+            },
+            {
+                "players_name": "Vallejo J.",
+                "players_number": "5",
+                "Full Name": "Jesus Vallejo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (05.01.1997)",
+                "Market Value": "€1.3m",
+                "unicode": "WSRdoQ7I"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Francois Letexier will officiate today.",
+            "comments_text_anonymized": "[REFEREE] will officiate today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Chelsea will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:10",
+            "comments_type": "clearance",
+            "comments_text": "Eduardo Camavinga (Real Madrid) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:08",
+            "comments_type": "lead to corner",
+            "comments_text": "Joao Felix (Chelsea) hits a thunderbolt of a shot from the edge of the box, but it's a comfortable save for Thibaut Courtois as it's directed low at the middle of the goal. The referee blows his whistle, Chelsea are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hits a thunderbolt of a shot from the edge of the box, but it's a comfortable save for [PLAYER] as it's directed low at the middle of the goal. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:28",
+            "comments_type": "corner",
+            "comments_text": "Ben Chilwell (Chelsea) takes the resulting corner which is well defended.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:05",
+            "comments_type": "yellow card",
+            "comments_text": "Wesley Fofana (Chelsea) is booked after bringing down an opponent. Francois Letexier had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "yellow card",
+            "comments_text": "Eduardo Camavinga (Real Madrid) makes a bad challenge on his opponent and is booked by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:56",
+            "comments_type": "ball out of play",
+            "comments_text": "Ben Chilwell (Chelsea) sends in a cross from the free kick which goes out of play. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a cross from the free kick which goes out of play. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:44",
+            "comments_type": "foul with no card",
+            "comments_text": "Raheem Sterling (Chelsea) commits a foul and Francois Letexier immediately signals a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:10",
+            "comments_type": "clearance",
+            "comments_text": "Karim Benzema (Real Madrid) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Karim Benzema (Real Madrid) receives a precise pass and is given time inside the box to send a promising strike towards the bottom left corner. Kepa Arrizabalaga guesses his intention and denies him with a fine save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the bottom left corner. [PLAYER] guesses his intention and denies him with a fine save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:26",
+            "comments_type": "corner",
+            "comments_text": "Vinicius Junior (Real Madrid) sends a pass into the box, but his attempt is thwarted and cleared. The referee and one of his assistants signal for a corner kick to Real Madrid.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:00",
+            "comments_type": "corner",
+            "comments_text": "Luka Modric (Real Madrid) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:15",
+            "comments_type": "shot off target",
+            "comments_text": "Federico Valverde (Real Madrid) has a crack at goal from the edge of the box, but it drifts high over the bar to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a crack at goal from the edge of the box, but it drifts high over the bar to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:34",
+            "comments_type": "goal",
+            "comments_text": "Goal! Karim Benzema (Real Madrid) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low into the middle of the net. It's 1:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low into the middle of the net. It's 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:03",
+            "comments_type": "corner",
+            "comments_text": "Ben Chilwell (Chelsea) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "clearance",
+            "comments_text": "Vinicius Junior (Real Madrid) has an effort from close range after latching on to a precise pass, but he can't beat one of the defenders who makes a good block.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has an effort from close range after latching on to a precise pass, but he can't beat one of the defenders who makes a good block."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:25",
+            "comments_type": "shot off target",
+            "comments_text": "Joao Felix (Chelsea) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:30",
+            "comments_type": "clearance",
+            "comments_text": "Eduardo Camavinga (Real Madrid) delivers a promising cross into the box, but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:47",
+            "comments_type": "ball possession",
+            "comments_text": "Chelsea are showing great team chemistry. They are passing the ball around seamlessly.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Kepa Arrizabalaga pulls off a great save to deny Rodrygo (Real Madrid), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner.",
+            "comments_text_anonymized": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:53",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "The keeper makes a simple save after Karim Benzema (Real Madrid) received a short pass and shot low from the edge of the box towards the middle of the goal.",
+            "comments_text_anonymized": "The keeper makes a simple save after [PLAYER] ([TEAM]) received a short pass and shot low from the edge of the box towards the middle of the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:10",
+            "comments_type": "clearance",
+            "comments_text": "A pass from Reece James (Chelsea) is intercepted by Thibaut Courtois and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:40",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Rodrygo (Real Madrid). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:55",
+            "comments_type": "corner",
+            "comments_text": "Luka Modric (Real Madrid) decides to speed play up with a short corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "David Alaba (Real Madrid) attempts to score as he rises near the penalty spot and heads the ball down to the middle of the goal. Kepa Arrizabalaga pulls off a comfortable save to stop the ball from hitting the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to score as he rises near the penalty spot and heads the ball down to the middle of the goal. [PLAYER] pulls off a comfortable save to stop the ball from hitting the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:21",
+            "comments_type": "foul with no card",
+            "comments_text": "Karim Benzema (Real Madrid) is penalised for a foul. Francois Letexier had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:53",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Federico Valverde (Real Madrid) aims a low effort to the middle of the goal, but the goalkeeper makes a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) aims a low effort to the middle of the goal, but the goalkeeper makes a comfortable save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:11",
+            "comments_type": "end of half game",
+            "comments_text": "The match has reached half-time.",
+            "comments_text_anonymized": "The match has reached half-time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Francois Letexier blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Joao Felix (Chelsea) receives a diagonal pass, bursts into the box and shoots towards the roof of the net. Thibaut Courtois is well positioned, though, and it's a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a diagonal pass, bursts into the box and shoots towards the roof of the net. [PLAYER] is well positioned, though, and it's a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:04",
+            "comments_type": "shot off target",
+            "comments_text": "The keeper doesn't have to worry about this one. Enzo Fernandez (Chelsea) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "comments_text_anonymized": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:56",
+            "comments_type": "shot off target",
+            "comments_text": "Luka Modric (Real Madrid) sends in a shot from a promising distance after a precise pass. His effort goes inches over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a shot from a promising distance after a precise pass. His effort goes inches over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:28",
+            "comments_type": "injury",
+            "comments_text": "Kalidou Koulibaly (Chelsea) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:50",
+            "comments_type": "substitution",
+            "comments_text": "Frank Lampard is forced to make an unplanned substitution as Kalidou Koulibaly suffers an injury and Marc Cucurella (Chelsea) comes on.",
+            "comments_text_anonymized": "[PLAYER] is forced to make an unplanned substitution as [PLAYER] suffers an injury and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:43",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance is 63142.",
+            "comments_text_anonymized": "The attendance is 63142."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:20",
+            "comments_type": "red card",
+            "comments_text": "That was really pointless! Ben Chilwell (Chelsea) made a mindless challenge and the referee Francois Letexier showed him a red card.",
+            "comments_text_anonymized": "That was really pointless! [PLAYER] ([TEAM]) made a mindless challenge and the referee [REFEREE] showed him a red card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "David Alaba (Real Madrid) has the opportunity to threaten the opponent's goal via a free kick on the edge of the box. He hits a fine strike towards the bottom left corner, but Kepa Arrizabalaga denies him with a great save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has the opportunity to threaten the opponent's goal via a free kick on the edge of the box. He hits a fine strike towards the bottom left corner, but [PLAYER] denies him with a great save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:50",
+            "comments_type": "shot off target",
+            "comments_text": "Ambitious effort from Eduardo Camavinga (Real Madrid). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the left post.",
+            "comments_text_anonymized": "Ambitious effort from [PLAYER] ([TEAM]). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:30",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Kai Havertz (Chelsea) will replace Raheem Sterling.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:29",
+            "comments_type": "substitution",
+            "comments_text": "Frank Lampard has decided to substitute Joao Felix and he is replaced by Trevoh Chalobah (Chelsea).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Eder Militao (Real Madrid) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Francois Letexier couldn't ignore the rough tackle by Federico Valverde (Real Madrid) and blew his whistle.",
+            "comments_text_anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Kai Havertz (Chelsea) tries to slide the ball through to a teammate but it's well blocked by a defender. Chelsea force their opponents to concede a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:02",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Marco Asensio (Real Madrid) coming on for Rodrygo.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "substitution",
+            "comments_text": "Carlo Ancelotti decides to make a substitution. Eduardo Camavinga will be replaced by Antonio Rudiger (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:58",
+            "comments_type": "corner",
+            "comments_text": "Reece James (Chelsea) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:45",
+            "comments_type": "lead to corner",
+            "comments_text": "Vinicius Junior (Real Madrid) tries to send a pass but it's blocked. The linesman points to the corner flag, Real Madrid are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:57",
+            "comments_type": "corner",
+            "comments_text": "This corner kick is taken with a short pass by Luka Modric (Real Madrid).",
+            "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:06",
+            "comments_type": "goal",
+            "comments_text": "Vinicius Junior passes to Marco Asensio (Real Madrid), who collects the ball and unleashes a terrific shot from the edge of the box. His effort goes into the bottom left corner. Fabulous goal! The score is 2:0.",
+            "comments_text_anonymized": "[PLAYER] passes to [PLAYER] ([TEAM]), who collects the ball and unleashes a terrific shot from the edge of the box. His effort goes into the bottom left corner. Fabulous goal! The score is 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:17",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Conor Gallagher (Chelsea) receives a signal from the referee and is now allowed to enter the pitch as N'Golo Kante walks off.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:17",
+            "comments_type": "substitution",
+            "comments_text": "Frank Lampard has decided to make a change. Mason Mount (Chelsea) replaces Thiago Silva.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "clearance",
+            "comments_text": "Toni Kroos (Real Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:41",
+            "comments_type": "shot off target",
+            "comments_text": "Marco Asensio (Real Madrid) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:39",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Daniel Ceballos (Real Madrid) on for Luka Modric.",
+            "comments_text_anonymized": "Substitution. Daniel [PLAYER] ([TEAM]) on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:50",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Eder Militao (Real Madrid) was quite harsh and Francois Letexier didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:35",
+            "comments_type": "substitution",
+            "comments_text": "Carlo Ancelotti prepares a substitution. Toni Kroos is replaced by Aurelien Tchouameni (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:55",
+            "comments_type": "clearance",
+            "comments_text": "Vinicius Junior (Real Madrid) shoots from outside the box, but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:04",
+            "comments_type": "yellow card",
+            "comments_text": "Francois Letexier shows a yellow card to Daniel Carvajal (Real Madrid) for his blatant foul.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:32",
+            "comments_type": "yellow card",
+            "comments_text": "Mateo Kovacic (Chelsea) violates the laws of the game and is shown a deserved yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a deserved yellow card by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:21",
+            "comments_type": "free kick",
+            "comments_text": "Reece James (Chelsea) sends over a free kick from long range but the defence is alert.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "David Alaba (Real Madrid) swings a cross into the box, but it's far too close to Kepa Arrizabalaga, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 5 min. of added time.",
+            "comments_text_anonymized": "We will have 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:53",
+            "comments_type": "shot off target",
+            "comments_text": "Kai Havertz (Chelsea) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:04",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Francois Letexier has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, [REFEREE] has blown his whistle and the game is over."
+        }
+    ]
+}

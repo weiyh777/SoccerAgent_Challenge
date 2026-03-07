@@ -1,0 +1,1432 @@
+{
+    "match_info": {
+        "timestamp": "2023-04-28 03:15:00",
+        "score": "2 - 2",
+        "home_team": "Tottenham",
+        "away_team": "Manchester Utd",
+        "home_formation": "3 - 4 - 2 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Tottenham Hotspur Stadium (London)",
+        "capacity": "62 850",
+        "attendance": "61 586",
+        "home_jersey_color": "white",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Taylor A. (Eng)",
+        "first_name": "Taylor",
+        "abbr_last_name": "A",
+        "country": "Eng",
+        "detected_name": "Anthony Taylor"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "ten Hag E.",
+                "players_number": "",
+                "Full Name": "Erik ten Hag",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "53,  (02.02.1970)",
+                "Market Value": "",
+                "unicode": "dpjHQ7zJ"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Garnacho A.",
+                "players_number": "",
+                "Full Name": "Alejandro Garnacho",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (01.07.2004)",
+                "Market Value": "€28.5m",
+                "unicode": "jqrfFKsi"
+            },
+            {
+                "players_name": "Greenwood M.",
+                "players_number": "",
+                "Full Name": "Mason Greenwood",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (01.10.2001)",
+                "Market Value": "€7.4m",
+                "unicode": "hxe108Jl"
+            },
+            {
+                "players_name": "Heaton T.",
+                "players_number": "",
+                "Full Name": "Tom Heaton",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.04.1986)",
+                "Market Value": "€262k",
+                "unicode": "MoaXS53r"
+            },
+            {
+                "players_name": "Jones P.",
+                "players_number": "",
+                "Full Name": "Phil Jones",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.02.1992)",
+                "Market Value": "",
+                "unicode": "tOqz9FFa"
+            },
+            {
+                "players_name": "Maguire H.",
+                "players_number": "",
+                "Full Name": "Harry Maguire",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€19.6m",
+                "unicode": "xG8v3YRA"
+            },
+            {
+                "players_name": "Martinez Li.",
+                "players_number": "",
+                "Full Name": "Lisandro Martinez",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€47.5m",
+                "unicode": "GIzJAqQs"
+            },
+            {
+                "players_name": "McTominay S.",
+                "players_number": "",
+                "Full Name": "Scott McTominay",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (08.12.1996)",
+                "Market Value": "€27.8m",
+                "unicode": "A7S3y397"
+            },
+            {
+                "players_name": "van de Beek D.",
+                "players_number": "",
+                "Full Name": "Donny van de Beek",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.04.1997)",
+                "Market Value": "€8.0m",
+                "unicode": "bs2gvblF"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "",
+                "Full Name": "Raphael Varane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Antony",
+                "players_number": "21",
+                "Full Name": "Antony",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (24.02.2000)",
+                "Market Value": "€34.3m",
+                "unicode": "dIe4SZEK"
+            },
+            {
+                "players_name": "Casemiro",
+                "players_number": "18",
+                "Full Name": "Casemiro",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.02.1992)",
+                "Market Value": "€30.4m",
+                "unicode": "Ukeq3c0b"
+            },
+            {
+                "players_name": "Dalot D.",
+                "players_number": "20",
+                "Full Name": "Diogo Dalot",
+                "players_rating": 6.8,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (18.03.1999)",
+                "Market Value": "€34.7m",
+                "unicode": "rZZKJVOS"
+            },
+            {
+                "players_name": "de Gea D. (G)",
+                "players_number": "1",
+                "Full Name": "David de Gea",
+                "players_rating": 7.2,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (07.11.1990)",
+                "Market Value": "",
+                "unicode": "d6AEQ6OD"
+            },
+            {
+                "players_name": "Eriksen C.",
+                "players_number": "14",
+                "Full Name": "Christian Eriksen",
+                "players_rating": 6.8,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (14.02.1992)",
+                "Market Value": "€13.1m",
+                "unicode": "nBRuYbqs"
+            },
+            {
+                "players_name": "Fernandes B. (C)",
+                "players_number": "8",
+                "Full Name": "Bruno Fernandes",
+                "players_rating": 7.7,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€77.4m",
+                "unicode": "GYvAMDm2"
+            },
+            {
+                "players_name": "Lindelof V.",
+                "players_number": "2",
+                "Full Name": "Victor Lindelof",
+                "players_rating": 6.7,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.07.1994)",
+                "Market Value": "€17.4m",
+                "unicode": "OIp0Le1f"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "10",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 8.4,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            },
+            {
+                "players_name": "Sancho J.",
+                "players_number": "25",
+                "Full Name": "Jadon Sancho",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.03.2000)",
+                "Market Value": "€24.5m",
+                "unicode": "n5mG9yn6"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "23",
+                "Full Name": "Luke Shaw",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "Wan-Bissaka A.",
+                "players_number": "29",
+                "Full Name": "Aaron Wan-Bissaka",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (26.11.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "faGmGOOh"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Fred",
+                "players_number": "17",
+                "Full Name": "Fred",
+                "players_rating": 6.2,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€18.3m",
+                "unicode": "2kuP6src"
+            },
+            {
+                "players_name": "Malacia T.",
+                "players_number": "12",
+                "Full Name": "Tyrell Malacia",
+                "players_rating": 6.7,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (17.08.1999)",
+                "Market Value": "€16.6m",
+                "unicode": "OdyMQkkR"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "9",
+                "Full Name": "Anthony Martial",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "Weghorst W.",
+                "players_number": "27",
+                "Full Name": "Wout Weghorst",
+                "players_rating": 6.2,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.08.1992)",
+                "Market Value": "€8.6m",
+                "unicode": "tpWMDFoL"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Butland J. (G)",
+                "players_number": "31",
+                "Full Name": "Jack Butland",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (10.03.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "C4qdueLP"
+            },
+            {
+                "players_name": "Elanga A.",
+                "players_number": "36",
+                "Full Name": "Anthony Elanga",
+                "players_rating": "",
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (27.04.2002)",
+                "Market Value": "€17.6m",
+                "unicode": "dOlRWlZ6"
+            },
+            {
+                "players_name": "Pellistri F.",
+                "players_number": "28",
+                "Full Name": "Facundo Pellistri",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (20.12.2001)",
+                "Market Value": "€9.6m",
+                "unicode": "jN7eev32"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "15",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.7m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Williams B.",
+                "players_number": "33",
+                "Full Name": "Brandon Williams",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.09.2000)",
+                "Market Value": "€3.4m",
+                "unicode": "UFLa9rtg"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Mason R.",
+                "players_number": "",
+                "Full Name": "Ryan Mason",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "32,  (13.06.1991)",
+                "Market Value": "",
+                "unicode": "G6ZzTHKA"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Bentancur R.",
+                "players_number": "",
+                "Full Name": "Rodrigo Bentancur",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (25.06.1997)",
+                "Market Value": "€34.7m",
+                "unicode": "nLRMnJtJ"
+            },
+            {
+                "players_name": "Bissouma Y.",
+                "players_number": "",
+                "Full Name": "Yves Bissouma",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.08.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "CSdILBh7"
+            },
+            {
+                "players_name": "Emerson Royal",
+                "players_number": "",
+                "Full Name": "Emerson Royal",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (14.01.1999)",
+                "Market Value": "€17.9m",
+                "unicode": "zBkSUAjf"
+            },
+            {
+                "players_name": "Lloris H.",
+                "players_number": "",
+                "Full Name": "Hugo Lloris",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (26.12.1986)",
+                "Market Value": "€1.5m",
+                "unicode": "dlT4erCr"
+            },
+            {
+                "players_name": "Sessegnon R.",
+                "players_number": "",
+                "Full Name": "Ryan Sessegnon",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (18.05.2000)",
+                "Market Value": "€454k",
+                "unicode": "WOecsPmi"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Dier E.",
+                "players_number": "15",
+                "Full Name": "Eric Dier",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (15.01.1994)",
+                "Market Value": "€11.2m",
+                "unicode": "MXQtjBQt"
+            },
+            {
+                "players_name": "Forster F. (G)",
+                "players_number": "20",
+                "Full Name": "Fraser Forster",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (17.03.1988)",
+                "Market Value": "€1.1m",
+                "unicode": "SWLt6Trt"
+            },
+            {
+                "players_name": "Hojbjerg P.",
+                "players_number": "5",
+                "Full Name": "Pierre-Emile Hojbjerg",
+                "players_rating": 7.0,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (05.08.1995)",
+                "Market Value": "€27.4m",
+                "unicode": "ITwS8wMo"
+            },
+            {
+                "players_name": "Kane H. (C)",
+                "players_number": "10",
+                "Full Name": "Harry Kane",
+                "players_rating": 7.8,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (28.07.1993)",
+                "Market Value": "€113.9m",
+                "unicode": "v5HSlEAa"
+            },
+            {
+                "players_name": "Lenglet C.",
+                "players_number": "34",
+                "Full Name": "Clement Lenglet",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (17.06.1995)",
+                "Market Value": "€7.8m",
+                "unicode": "rH0mL7ws"
+            },
+            {
+                "players_name": "Perisic I.",
+                "players_number": "14",
+                "Full Name": "Ivan Perisic",
+                "players_rating": 7.1,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (02.02.1989)",
+                "Market Value": "€4.1m",
+                "unicode": "4AbKyVr9"
+            },
+            {
+                "players_name": "Porro P.",
+                "players_number": "23",
+                "Full Name": "Pedro Porro",
+                "players_rating": 7.9,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (13.09.1999)",
+                "Market Value": "€44.7m",
+                "unicode": "nTebDzHC"
+            },
+            {
+                "players_name": "Richarlison",
+                "players_number": "9",
+                "Full Name": "Richarlison",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (10.05.1997)",
+                "Market Value": "€33.3m",
+                "unicode": "K82Dz773"
+            },
+            {
+                "players_name": "Romero C.",
+                "players_number": "17",
+                "Full Name": "Cristian Gabriel Romero",
+                "players_rating": 7.8,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.04.1998)",
+                "Market Value": "€65.5m",
+                "unicode": "jBZTWXMn"
+            },
+            {
+                "players_name": "Skipp O.",
+                "players_number": "4",
+                "Full Name": "Oliver Skipp",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (16.09.2000)",
+                "Market Value": "€13.8m",
+                "unicode": "KnBBxnVu"
+            },
+            {
+                "players_name": "Son Heung-Min",
+                "players_number": "7",
+                "Full Name": "Heung-Min Son",
+                "players_rating": 7.7,
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (08.07.1992)",
+                "Market Value": "€53.9m",
+                "unicode": "Mgg9oPeM"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Danjuma A.",
+                "players_number": "16",
+                "Full Name": "Arnaut Danjuma",
+                "players_rating": 6.2,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.01.1997)",
+                "Market Value": "€15.7m",
+                "unicode": "tYV4tvqr"
+            },
+            {
+                "players_name": "Davies B.",
+                "players_number": "33",
+                "Full Name": "Ben Davies",
+                "players_rating": 6.0,
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (24.04.1993)",
+                "Market Value": "30.06.2025",
+                "unicode": "65AlIpKT"
+            },
+            {
+                "players_name": "Kulusevski D.",
+                "players_number": "21",
+                "Full Name": "Dejan Kulusevski",
+                "players_rating": 6.5,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.04.2000)",
+                "Market Value": "€54.6m",
+                "unicode": "fXLqHCYi"
+            },
+            {
+                "players_name": "Tanganga J.",
+                "players_number": "25",
+                "Full Name": "Japhet Tanganga",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (31.03.1999)",
+                "Market Value": "€2.7m",
+                "unicode": "SC4ftpKU"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Austin B. (G)",
+                "players_number": "40",
+                "Full Name": "Brandon Austin",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (08.01.1999)",
+                "Market Value": "30.06.2024",
+                "unicode": "EHOfteWD"
+            },
+            {
+                "players_name": "Lucas Moura",
+                "players_number": "27",
+                "Full Name": "Lucas Moura",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (13.08.1992)",
+                "Market Value": "€4.8m",
+                "unicode": "EcmXnnoo"
+            },
+            {
+                "players_name": "Mundle R.",
+                "players_number": "55",
+                "Full Name": "Romaine Mundle",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (24.04.2003)",
+                "Market Value": "€587k",
+                "unicode": "Mqq7lUk6"
+            },
+            {
+                "players_name": "Sanchez D.",
+                "players_number": "6",
+                "Full Name": "Davinson Sanchez",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.06.1996)",
+                "Market Value": "€15.7m",
+                "unicode": "dbPhv0VQ"
+            },
+            {
+                "players_name": "Sarr P. M.",
+                "players_number": "29",
+                "Full Name": "Pape Matar Sarr",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (14.09.2002)",
+                "Market Value": "€33.8m",
+                "unicode": "CSjTl5sR"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Anthony Taylor will supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Manchester Utd will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle and we are underway.",
+            "comments_text_anonymized": "The referee blows his whistle and we are underway."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:22",
+            "comments_type": "foul with no card",
+            "comments_text": "Pierre-Emile Hojbjerg (Tottenham) gives away a foul for a clumsy challenge. Referee Anthony Taylor saw the whole situation.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:19",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Cristian Gabriel Romero (Tottenham) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:36",
+            "comments_type": "clearance",
+            "comments_text": "Jadon Sancho (Manchester United) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:29",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Marcus Rashford (Manchester United) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:16",
+            "comments_type": "clearance",
+            "comments_text": "Heung-Min Son (Tottenham) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:14",
+            "comments_type": "goal",
+            "comments_text": "Fantastic team goal! Jadon Sancho (Manchester United) was set free in the area by Marcus Rashford and made no mistake with a lovely finish into the right side of the net. 0:1.",
+            "comments_text_anonymized": "Fantastic team goal! [PLAYER] ([TEAM]) was set free in the area by [PLAYER] and made no mistake with a lovely finish into the right side of the net. 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:30",
+            "comments_type": "clearance",
+            "comments_text": "Antony (Manchester United) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:11",
+            "comments_type": "off side",
+            "comments_text": "Richarlison (Tottenham) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Eric Dier (Tottenham) makes a reckless foul in order to win the ball from his opponent. Anthony Taylor has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:16",
+            "comments_type": "shot off target",
+            "comments_text": "Marcus Rashford (Manchester United) executes a long-range free kick. His well-taken effort flies only inches wide of the left post. Today is obviously not his lucky day. The ball is off of the pitch and it's a goal kick for Tottenham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) executes a long-range free kick. His well-taken effort flies only inches wide of the left post. Today is obviously not his lucky day. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:22",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A fine pass finds Richarlison (Tottenham) in space inside the box, he looks up and drills a low shot towards the middle of the goal, but the David de Gea reacts superbly to deny him.",
+            "comments_text_anonymized": "A fine pass finds [PLAYER] ([TEAM]) in space inside the box, he looks up and drills a low shot towards the middle of the goal, but the [PLAYER] reacts superbly to deny him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:50",
+            "comments_type": "ball possession",
+            "comments_text": "Harry Kane (Tottenham) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:12",
+            "comments_type": "ball possession",
+            "comments_text": "Tottenham hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:08",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Richarlison (Tottenham) swings a cross into the box, but it's far too close to David de Gea, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:39",
+            "comments_type": "shot off target",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) tries to find the head of a teammate in the box but overhits the cross.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:22",
+            "comments_type": "clearance",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Aaron Wan-Bissaka (Manchester United).",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:40",
+            "comments_type": "clearance",
+            "comments_text": "Jadon Sancho (Manchester United) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:50",
+            "comments_type": "statistics and summary",
+            "comments_text": "The possession of the ball – 33:67.",
+            "comments_text_anonymized": "The possession of the ball – 33:67."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:50",
+            "comments_type": "shot off target",
+            "comments_text": "Pedro Porro (Tottenham) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Anthony Taylor has a clear sight and sees a foul from Bruno Fernandes (Manchester United).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:22",
+            "comments_type": "foul with no card",
+            "comments_text": "Clement Lenglet (Tottenham) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Wow, what an escape. Bruno Fernandes (Manchester United) has an effort from inside the box but it's brilliantly blocked. Now Manchester Utd have a corner.",
+            "comments_text_anonymized": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:58",
+            "comments_type": "corner",
+            "comments_text": "Luke Shaw (Manchester United) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:44",
+            "comments_type": "lead to corner",
+            "comments_text": "Fraser Forster blocks a long-range effort from Bruno Fernandes (Manchester United) towards the middle of the goal. Manchester Utd will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] blocks a long-range effort from [PLAYER] ([TEAM]) towards the middle of the goal. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:36",
+            "comments_type": "corner",
+            "comments_text": "Luke Shaw (Manchester United) works the corner short instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Anthony Taylor blows his whistle and it's Diogo Dalot (Manchester United) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Richarlison (Tottenham) tries to send a low pass into the box, but it's blocked and cleared. The ball goes out of play. Tottenham are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a low pass into the box, but it's blocked and cleared. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:40",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) will take the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:59",
+            "comments_type": "shot off target",
+            "comments_text": "Heung-Min Son (Tottenham) gets to the rebound and shoots, but the effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Ivan Perisic (Tottenham) delivers a low pass into the box which is intercepted. The ball is out of play. Tottenham win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:00",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) overhits the corner kick and none of his teammates can their head on it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:26",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "A defender unwittingly blocks the ball on the line after a snap shot from Bruno Fernandes (Manchester United) inside the box following a slide rule pass.",
+            "comments_text_anonymized": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:00",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Richarlison (Tottenham). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "clearance",
+            "comments_text": "Richarlison (Tottenham) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Cristian Gabriel Romero (Tottenham) tackles a bit over-zealously and Anthony Taylor blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:50",
+            "comments_type": "ball possession",
+            "comments_text": "Some neat passing and movement from Manchester Utd as they ping around some short passes in order to create a new attacking opportunity.",
+            "comments_text_anonymized": "Some neat passing and movement from [TEAM] as they ping around some short passes in order to create a new attacking opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Marcus Rashford (Manchester United) picks up a lofted cross inside the box and fires a quick shot to the middle of the goal. His promising effort is kept out by Fraser Forster, who pulls off a stunning save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a lofted cross inside the box and fires a quick shot to the middle of the goal. His promising effort is kept out by [PLAYER], who pulls off a stunning save!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Harry Kane (Tottenham) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball has crossed the sideline. Manchester Utd are taking a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:58",
+            "comments_type": "yellow card",
+            "comments_text": "Pierre-Emile Hojbjerg (Tottenham) is booked after bringing down an opponent. Anthony Taylor had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:44",
+            "comments_type": "shot off target",
+            "comments_text": "Christian Eriksen (Manchester United) takes the free kick and unleashes a strong shot from mid-range. Unfortunately for him, the ball curls inches over the crossbar. What a squandered chance!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick and unleashes a strong shot from mid-range. Unfortunately for him, the ball curls inches over the crossbar. What a squandered chance!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:28",
+            "comments_type": "yellow card",
+            "comments_text": "It must be a yellow card. It is. Aaron Wan-Bissaka (Manchester United) receives the caution after an awful tackle.",
+            "comments_text_anonymized": "It must be a yellow card. It is. [PLAYER] ([TEAM]) receives the caution after an awful tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:16",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Marcus Rashford (Manchester United) runs onto a pass from Bruno Fernandes after great counter attacking play and hits a fine first-time shot into the net from close range. It’s now 0:2.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) runs onto a pass from [PLAYER] after great counter attacking play and hits a fine first-time shot into the net from close range. It’s now 0:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:38",
+            "comments_type": "clearance",
+            "comments_text": "A pass from Cristian Gabriel Romero (Tottenham) is intercepted by David de Gea and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:01",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Anthony Taylor blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:52",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Pedro Porro (Tottenham) is cleared by the defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:00",
+            "comments_type": "clearance",
+            "comments_text": "Ivan Perisic (Tottenham) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:40",
+            "comments_type": "clearance",
+            "comments_text": "Harry Kane (Tottenham) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Richarlison (Tottenham) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "shot off target",
+            "comments_text": "Pierre-Emile Hojbjerg (Tottenham) runs onto a pass and thumps the ball goalward from distance, but the keeper doesn't have to move as it goes well wide of the right post. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) runs onto a pass and thumps the ball goalward from distance, but the keeper doesn't have to move as it goes well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:10",
+            "comments_type": "shot off target",
+            "comments_text": "Ivan Perisic (Tottenham) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:10",
+            "comments_type": "clearance",
+            "comments_text": "Richarlison (Tottenham) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! Pedro Porro (Tottenham) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top right corner. It's 1:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top right corner. It's 1:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Aaron Wan-Bissaka (Manchester United) attempts to head the rebound into the bottom left corner, but Fraser Forster reads his intention and makes an incredible reflex save!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to head the rebound into the bottom left corner, but [PLAYER] reads his intention and makes an incredible reflex save!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:02",
+            "comments_type": "corner",
+            "comments_text": "Christian Eriksen (Manchester United) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:19",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Antony (Manchester United) had a good opportunity from long range. His shot was directed towards the middle of the goal, but Fraser Forster was alert and made a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) had a good opportunity from long range. His shot was directed towards the middle of the goal, but [PLAYER] was alert and made a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:30",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Victor Lindelof (Manchester United) was quite harsh and Anthony Taylor didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:40",
+            "comments_type": "lead to corner",
+            "comments_text": "A pass into the penalty area from Ivan Perisic (Tottenham) is intercepted by the defence. Corner kick. Tottenham will have an opportunity.",
+            "comments_text_anonymized": "A pass into the penalty area from [PLAYER] ([TEAM]) is intercepted by the defence. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:51",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:52",
+            "comments_type": "shot off target",
+            "comments_text": "Pierre-Emile Hojbjerg (Tottenham) guides an effort goalwards from the edge of the box, but it sails just wide of the left post. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) guides an effort goalwards from the edge of the box, but it sails just wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:32",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Richarlison. He has contributed as much as he could today. He will be replaced by the fresh legs of Dejan Kulusevski (Tottenham).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:27",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Fred (Manchester United) for Christian Eriksen.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:47",
+            "comments_type": "substitution",
+            "comments_text": "Erik ten Hag has decided to substitute Jadon Sancho and he is replaced by Anthony Martial (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:30",
+            "comments_type": "clearance",
+            "comments_text": "That's unlucky! Harry Kane (Tottenham) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared.",
+            "comments_text_anonymized": "That's unlucky! [PLAYER] ([TEAM]) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:32",
+            "comments_type": "corner",
+            "comments_text": "Pedro Porro (Tottenham) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:25",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "David de Gea makes a brilliant save! Pierre-Emile Hojbjerg (Tottenham) met a rebound outside the box and attempted to beat the keeper into the middle of the goal.",
+            "comments_text_anonymized": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) met a rebound outside the box and attempted to beat the keeper into the middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "clearance",
+            "comments_text": "Antony (Manchester United) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:26",
+            "comments_type": "shot off target",
+            "comments_text": "Heung-Min Son (Tottenham) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:18",
+            "comments_type": "shot off target",
+            "comments_text": "Dejan Kulusevski (Tottenham) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:31",
+            "comments_type": "lead to corner",
+            "comments_text": "Marcus Rashford (Manchester United) looks to break free, but an opposing player clears the ball away. The ball is out of play and the linesman points at the corner flag. Corner to Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:58",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) works the corner short.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:50",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Bruno Fernandes (Manchester United) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the roof of the net, but Fraser Forster is alert and denies him with a nice save. Manchester Utd get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the roof of the net, but [PLAYER] is alert and denies him with a nice save. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:03",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Antony is going off and Erik ten Hag gives the last tactical orders to Wout Weghorst (Manchester United).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:02",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Aaron Wan-Bissaka goes off and Tyrell Malacia (Manchester United) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:04",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Manchester United) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:15",
+            "comments_type": "clearance",
+            "comments_text": "Harry Kane (Tottenham) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:00",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Kulusevski (Tottenham) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:32",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Harry Kane (Tottenham) shakes off the attention of a defender and from mid-range lets fly low towards the middle of the goal, but David de Gea is well positioned to make a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shakes off the attention of a defender and from mid-range lets fly low towards the middle of the goal, but [PLAYER] is well positioned to make a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:07",
+            "comments_type": "off side",
+            "comments_text": "One of the players from Manchester Utd times his run too early and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Wout Weghorst (Manchester United). Anthony Taylor blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:43",
+            "comments_type": "substitution",
+            "comments_text": "Ryan Mason prepares a substitution. Ivan Perisic is replaced by Ben Davies (Tottenham).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:40",
+            "comments_type": "substitution",
+            "comments_text": "Pedro Porro will be replaced by Arnaut Danjuma (Tottenham).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:50",
+            "comments_type": "clearance",
+            "comments_text": "Dejan Kulusevski (Tottenham) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:20",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Fred (Manchester United) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:52",
+            "comments_type": "goal",
+            "comments_text": "It's in the back of the net! Superb finishing from Heung-Min Son (Tottenham). Harry Kane plays a fantastic through ball and finds Heung-Min Son (Tottenham), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 2:2.",
+            "comments_text_anonymized": "It's in the back of the net! Superb finishing from [PLAYER] ([TEAM]). [PLAYER] plays a fantastic through ball and finds [PLAYER] ([TEAM]), who reacts quickly to get in front of the goalkeeper and fire a close-range shot into the bottom right corner. 2:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:20",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 61586.",
+            "comments_text_anonymized": "The attendance for today's match is 61586."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:00",
+            "comments_type": "clearance",
+            "comments_text": "Fred (Manchester United) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:10",
+            "comments_type": "corner",
+            "comments_text": "The ball is whipped in from the corner by Bruno Fernandes (Manchester United), but one of the defenders gets it clear.",
+            "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:18",
+            "comments_type": "shot off target",
+            "comments_text": "Marcus Rashford (Manchester United) has a sight of goal and shoots from long range but his ambitious effort flies just over the bar. The ball goes out of play and Tottenham will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a sight of goal and shoots from long range but his ambitious effort flies just over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:02",
+            "comments_type": "clearance",
+            "comments_text": "Bruno Fernandes (Manchester United) passes the ball into the box but an opposing player clears.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "injury",
+            "comments_text": "Harry Kane (Tottenham) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:20",
+            "comments_type": "substitution",
+            "comments_text": "It will be a substitution. Japhet Tanganga (Tottenham) is ready to enter the pitch as Heung-Min Son walks off.",
+            "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:58",
+            "comments_type": "injury",
+            "comments_text": "Harry Kane (Tottenham) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:45",
+            "comments_type": "clearance",
+            "comments_text": "Marcus Rashford (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:27",
+            "comments_type": "foul with no card",
+            "comments_text": "Dejan Kulusevski (Tottenham) robs an opponent of the ball and explodes in anger when Anthony Taylor blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 4 min. of added time.",
+            "comments_text_anonymized": "We will have 4 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Tyrell Malacia (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. Manchester Utd force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:48",
+            "comments_type": "corner",
+            "comments_text": "Fred (Manchester United) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:26",
+            "comments_type": "shot off target",
+            "comments_text": "Casemiro (Manchester United) has a great chance on the edge of the six-yard box following a lofted pass, but his header lacks accuracy and flies just past the right post. The ball goes out of play and Tottenham will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a great chance on the edge of the six-yard box following a lofted pass, but his header lacks accuracy and flies just past the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:54",
+            "comments_type": "lead to corner",
+            "comments_text": "Fred (Manchester United) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. The linesman points to the corner flag, Manchester Utd are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:53",
+            "comments_type": "corner",
+            "comments_text": "Manchester Utd take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:54",
+            "comments_type": "off side",
+            "comments_text": "Flag goes up against Fred (Manchester United) and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:12",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

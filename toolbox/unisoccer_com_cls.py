@@ -1,5 +1,5 @@
 import sys
-sys.path.append('YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE/pipeline/toolbox/unisoccer')
+sys.path.append('/root/autodl-tmp/SoccerAgent/toolbox/unisoccer')
 from inference.distribution import preprocessor, classifier, commentary_model
 import einops
 

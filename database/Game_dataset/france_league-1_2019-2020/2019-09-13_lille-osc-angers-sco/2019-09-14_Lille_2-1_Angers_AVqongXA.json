@@ -1,0 +1,963 @@
+{
+    "match_info": {
+        "timestamp": "2019-09-14 01:00:00",
+        "score": "2 - 1",
+        "home_team": "Lille",
+        "away_team": "Angers",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "5 - 3 - 2",
+        "venue": "Stade Pierre-Mauroy (Villeneuve d'Ascq)",
+        "capacity": "50 186",
+        "attendance": "32 834",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Buquet R. (Fra)",
+        "first_name": "Buquet",
+        "abbr_last_name": "R",
+        "country": "Fra",
+        "detected_name": "Ruddy Buquet"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Moulin S.",
+                "players_number": "",
+                "Full Name": "Stephane Moulin",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (04.08.1967)",
+                "Market Value": "",
+                "unicode": "zTMy1kvO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bamba A.",
+                "players_number": "",
+                "Full Name": "Abdoulaye Bamba",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (25.04.1990)",
+                "Market Value": "€374k",
+                "unicode": "ngxkIxtK"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Ait-Nouri R.",
+                "players_number": "2",
+                "Full Name": "Rayan Ait-Nouri",
+                "players_rating": 6.2,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (06.06.2001)",
+                "Market Value": "€27.8m",
+                "unicode": "t4db4nTt"
+            },
+            {
+                "players_name": "Bahoken S.",
+                "players_number": "19",
+                "Full Name": "Stephane Bahoken",
+                "players_rating": 6.7,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (28.05.1992)",
+                "Market Value": "€1.3m",
+                "unicode": "rHVHoc9J"
+            },
+            {
+                "players_name": "Butelle L. (G)",
+                "players_number": "16",
+                "Full Name": "Ludovic Butelle",
+                "players_rating": 5.6,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (03.04.1983)",
+                "Market Value": "30.06.2024",
+                "unicode": "I1UpaaO6"
+            },
+            {
+                "players_name": "Capelle P.",
+                "players_number": "15",
+                "Full Name": "Pierrick Capelle",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (15.04.1987)",
+                "Market Value": "€241k",
+                "unicode": "zshOz5Bl"
+            },
+            {
+                "players_name": "Manceau V.",
+                "players_number": "29",
+                "Full Name": "Vincent Manceau",
+                "players_rating": 6.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (10.07.1989)",
+                "Market Value": "€289k",
+                "unicode": "fLImqpsg"
+            },
+            {
+                "players_name": "Mangani T.",
+                "players_number": "5",
+                "Full Name": "Thomas Mangani",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (29.04.1987)",
+                "Market Value": "€289k",
+                "unicode": "lMOq4ljm"
+            },
+            {
+                "players_name": "Pavlovic M.",
+                "players_number": "4",
+                "Full Name": "Mateo Pavlovic",
+                "players_rating": 6.8,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (09.06.1990)",
+                "Market Value": "€281k",
+                "unicode": "vFysPa8T"
+            },
+            {
+                "players_name": "Pereira Lage M.",
+                "players_number": "27",
+                "Full Name": "Mathias Pereira Lage",
+                "players_rating": 5.8,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.11.1996)",
+                "Market Value": "€1.7m",
+                "unicode": "n5sFh1Ch"
+            },
+            {
+                "players_name": "Santamaria B.",
+                "players_number": "18",
+                "Full Name": "Baptiste Santamaria",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (09.03.1995)",
+                "Market Value": "€11.6m",
+                "unicode": "Ioy3ZkK1"
+            },
+            {
+                "players_name": "Thomas R.",
+                "players_number": "24",
+                "Full Name": "Romain Thomas",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (12.06.1988)",
+                "Market Value": "€302k",
+                "unicode": "v1nbamR8"
+            },
+            {
+                "players_name": "Traore I. (C)",
+                "players_number": "8",
+                "Full Name": "Ismael Traore",
+                "players_rating": 6.7,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (18.08.1986)",
+                "Market Value": "€285k",
+                "unicode": "jZhhxxLu"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Alioui R.",
+                "players_number": "7",
+                "Full Name": "Rachid Alioui",
+                "players_rating": 6.9,
+                "Country": "Morocco",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (18.06.1992)",
+                "Market Value": "€255k",
+                "unicode": "lOgWaqCr"
+            },
+            {
+                "players_name": "Pajot V.",
+                "players_number": "6",
+                "Full Name": "Vincent Pajot",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (19.08.1990)",
+                "Market Value": "€338k",
+                "unicode": "611nUsKM"
+            },
+            {
+                "players_name": "Thioub S.",
+                "players_number": "20",
+                "Full Name": "Sada Thioub",
+                "players_rating": 6.2,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (01.06.1995)",
+                "Market Value": "",
+                "unicode": "bqL1T7kG"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Cisse I.",
+                "players_number": "3",
+                "Full Name": "Ibrahim Cisse",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (02.05.1996)",
+                "Market Value": "€1.9m",
+                "unicode": "EXjQ7F82"
+            },
+            {
+                "players_name": "Kanga W.",
+                "players_number": "11",
+                "Full Name": "Wilfried Kanga",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (21.02.1998)",
+                "Market Value": "€3.6m",
+                "unicode": "EgY8lAGh"
+            },
+            {
+                "players_name": "Pellenard T.",
+                "players_number": "26",
+                "Full Name": "Theo Pellenard",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (04.03.1994)",
+                "Market Value": "",
+                "unicode": "8Ka0CoOm"
+            },
+            {
+                "players_name": "Petkovic D. (G)",
+                "players_number": "30",
+                "Full Name": "Danijel Petkovic",
+                "players_rating": "",
+                "Country": "Montenegro",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (25.05.1993)",
+                "Market Value": "€333k",
+                "unicode": "4tE74R34"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Galtier C.",
+                "players_number": "",
+                "Full Name": "Christophe Galtier",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "57,  (28.08.1966)",
+                "Market Value": "",
+                "unicode": "hW1AF5cj"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Weah T.",
+                "players_number": "",
+                "Full Name": "Timothy Weah",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (22.02.2000)",
+                "Market Value": "€13.5m",
+                "unicode": "4KWCbTaQ"
+            },
+            {
+                "players_name": "Xeka",
+                "players_number": "",
+                "Full Name": "Xeka",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (10.11.1994)",
+                "Market Value": "",
+                "unicode": "xKsPS1Ct"
+            },
+            {
+                "players_name": "Yazici Y.",
+                "players_number": "",
+                "Full Name": "Yusuf Yazici",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (29.01.1997)",
+                "Market Value": "€9.5m",
+                "unicode": "b3eUoH79"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Andre B.",
+                "players_number": "21",
+                "Full Name": "Benjamin Andre",
+                "players_rating": 9.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (03.08.1990)",
+                "Market Value": "€8.2m",
+                "unicode": "YPYwQXje"
+            },
+            {
+                "players_name": "Bamba J.",
+                "players_number": "14",
+                "Full Name": "Jonathan Bamba",
+                "players_rating": 7.3,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (26.03.1996)",
+                "Market Value": "€13.7m",
+                "unicode": "n9uHpbM8"
+            },
+            {
+                "players_name": "Bradaric D.",
+                "players_number": "29",
+                "Full Name": "Domagoj Bradaric",
+                "players_rating": 7.1,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (10.12.1999)",
+                "Market Value": "€6.1m",
+                "unicode": "GGJ3Opji"
+            },
+            {
+                "players_name": "Fonte J. (C)",
+                "players_number": "6",
+                "Full Name": "Jose Fonte",
+                "players_rating": 7.2,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (22.12.1983)",
+                "Market Value": "€289k",
+                "unicode": "IkQ0618s"
+            },
+            {
+                "players_name": "Gabriel",
+                "players_number": "4",
+                "Full Name": "Gabriel",
+                "players_rating": 7.5,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (19.12.1997)",
+                "Market Value": "€59.6m",
+                "unicode": "tEcnVXMS"
+            },
+            {
+                "players_name": "Ikone J.",
+                "players_number": "10",
+                "Full Name": "Jonathan Ikone",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (02.05.1998)",
+                "Market Value": "€12.0m",
+                "unicode": "xGBNss8O"
+            },
+            {
+                "players_name": "Luiz Araujo",
+                "players_number": "11",
+                "Full Name": "Luiz Araujo",
+                "players_rating": 7.8,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (02.06.1996)",
+                "Market Value": "€4.9m",
+                "unicode": "bRaOhr7g"
+            },
+            {
+                "players_name": "Maignan M. (G)",
+                "players_number": "16",
+                "Full Name": "Mike Maignan",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (03.07.1995)",
+                "Market Value": "€43.4m",
+                "unicode": "S6gN2QNC"
+            },
+            {
+                "players_name": "Osimhen V.",
+                "players_number": "7",
+                "Full Name": "Victor Osimhen",
+                "players_rating": 7.5,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (29.12.1998)",
+                "Market Value": "€113.9m",
+                "unicode": "23YHG47R"
+            },
+            {
+                "players_name": "Pied J.",
+                "players_number": "26",
+                "Full Name": "Jeremy Pied",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (23.02.1989)",
+                "Market Value": "",
+                "unicode": "GtxHjpl4"
+            },
+            {
+                "players_name": "Soumare B.",
+                "players_number": "24",
+                "Full Name": "Boubakary Soumare",
+                "players_rating": 7.7,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (27.02.1999)",
+                "Market Value": "€13.3m",
+                "unicode": "pl9Lzing"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Mandava R.",
+                "players_number": "28",
+                "Full Name": "Reinildo Mandava",
+                "players_rating": 6.2,
+                "Country": "Mozambique",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (21.01.1994)",
+                "Market Value": "€15.2m",
+                "unicode": "zekFd0M8"
+            },
+            {
+                "players_name": "Ouattara A.",
+                "players_number": "33",
+                "Full Name": "Abou Ouattara",
+                "players_rating": "",
+                "Country": "Burkina Faso",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (26.12.1999)",
+                "Market Value": "€176k",
+                "unicode": "djwl90JF"
+            },
+            {
+                "players_name": "Sanches R.",
+                "players_number": "18",
+                "Full Name": "Renato Sanches",
+                "players_rating": 6.4,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.08.1997)",
+                "Market Value": "€9.3m",
+                "unicode": "Kbo7UsAS"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Celik Z.",
+                "players_number": "17",
+                "Full Name": "Zeki Celik",
+                "players_rating": "",
+                "Country": "Turkey",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (17.02.1997)",
+                "Market Value": "€5.7m",
+                "unicode": "KG2a47J4"
+            },
+            {
+                "players_name": "Djalo T.",
+                "players_number": "2",
+                "Full Name": "Tiago Djalo",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (09.04.2000)",
+                "Market Value": "€14.5m",
+                "unicode": "Kth1VCDj"
+            },
+            {
+                "players_name": "Leo Jardim (G)",
+                "players_number": "1",
+                "Full Name": "Leo Jardim",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (20.03.1995)",
+                "Market Value": "€3.3m",
+                "unicode": "I1TN8xDr"
+            },
+            {
+                "players_name": "Remy L.",
+                "players_number": "9",
+                "Full Name": "",
+                "players_rating": "",
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "www.flashscore.com"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Before the start of the game, you can see the starting lineups for today's clash.",
+            "comments_text_anonymized": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Ruddy Buquet will officiate today.",
+            "comments_text_anonymized": "[REFEREE] will officiate today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Angers will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Romain Thomas (Angers) trips an opponent with a slide tackle. Ruddy Buquet stops the game and he could give him a card, but eventually decides on just a warning.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:37",
+            "comments_type": "shot off target",
+            "comments_text": "Poorly taken free kick by Domagoj Bradaric (Lille) from mid-range. He unleashes a strong shot, but it goes well wide of the right post. What a miskick!",
+            "comments_text_anonymized": "Poorly taken free kick by [PLAYER] ([TEAM]) from mid-range. He unleashes a strong shot, but it goes well wide of the right post. What a miskick!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:40",
+            "comments_type": "ball out of play",
+            "comments_text": "Domagoj Bradaric (Lille) races towards goal but the defender gets back well to make a challenge. The ball is behind the touchline and Lille will take a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:40",
+            "comments_type": "clearance",
+            "comments_text": "A promising cross into the box is nearly received by the lurking Stephane Bahoken (Angers), but one of the defending players cuts it out to avert the threat.",
+            "comments_text_anonymized": "A promising cross into the box is nearly received by the lurking [PLAYER] ([TEAM]), but one of the defending players cuts it out to avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:09",
+            "comments_type": "corner",
+            "comments_text": "Thomas Mangani (Angers) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "ball possession",
+            "comments_text": "The Lille players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:16",
+            "comments_type": "ball out of play",
+            "comments_text": "Rayan Ait Nouri (Angers) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play and Lille will have a goal kick.",
+            "comments_text_anonymized": "Rayan Ait Nouri ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:10",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Jeremy Pied (Lille) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:35",
+            "comments_type": "foul with no card",
+            "comments_text": "The referee blows his whistle as Vincent Manceau (Angers) was too aggressive in his challenge.",
+            "comments_text_anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:20",
+            "comments_type": "statistics and summary",
+            "comments_text": "56:44 – the latest ball possession ratio.",
+            "comments_text_anonymized": "56:44 – the latest ball possession ratio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:26",
+            "comments_type": "ball possession",
+            "comments_text": "Jonathan Bamba (Lille) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Victor Osimhen (Lille) gets on the ball and beats an opponent, but his run is stopped by the referee Ruddy Buquet who sees an offensive foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the ball and beats an opponent, but his run is stopped by the referee [REFEREE] who sees an offensive foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Benjamin Andre (Lille) commits a rough foul. Ruddy Buquet stops the game and makes a call.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:01",
+            "comments_type": "shot off target",
+            "comments_text": "Domagoj Bradaric (Lille) attempts to find Victor Osimhen, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find [PLAYER], but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:04",
+            "comments_type": "ball out of play",
+            "comments_text": "Luiz Araujo (Lille) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is off of the pitch and it's a goal kick for Angers.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:35",
+            "comments_type": "clearance",
+            "comments_text": "Benjamin Andre (Lille) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Jeremy Pied (Lille) sends a cross in and finds Victor Osimhen inside the box, but one of the defenders steps in and clears the danger. Now Lille have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross in and finds [PLAYER] inside the box, but one of the defenders steps in and clears the danger. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:07",
+            "comments_type": "corner",
+            "comments_text": "Lille failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:43",
+            "comments_type": "yellow card",
+            "comments_text": "Today's referee Ruddy Buquet rightly decides to book Victor Osimhen (Lille) for his harsh tackle.",
+            "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Mathias Pereira (Angers) fouls an opponent during an attacking move.",
+            "comments_text_anonymized": "Mathias [PLAYER] ([TEAM]) fouls an opponent during an attacking move."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:20",
+            "comments_type": "goal",
+            "comments_text": "Goal! 1:0. Victor Osimhen (Lille) taps home from almost on the goal line after a lucky rebound fell at his feet.",
+            "comments_text_anonymized": "Goal! 1:0. [PLAYER] ([TEAM]) taps home from almost on the goal line after a lucky rebound fell at his feet."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:30",
+            "comments_type": "clearance",
+            "comments_text": "Baptiste Santamaria (Angers) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:30",
+            "comments_type": "corner",
+            "comments_text": "Angers take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:45",
+            "comments_type": "shot off target",
+            "comments_text": "Thomas Mangani (Angers) has a go from distance but he can't find the target as it goes well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a go from distance but he can't find the target as it goes well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:42",
+            "comments_type": "clearance",
+            "comments_text": "Luiz Araujo (Lille) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 1 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:17",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The whistle blows and Ruddy Buquet starts the second half.",
+            "comments_text_anonymized": "The whistle blows and [REFEREE] starts the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:59",
+            "comments_type": "clearance",
+            "comments_text": "Domagoj Bradaric (Lille) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Jonathan Ikone (Lille) dribbles into the box, but Ludovic Butelle is quick enough to come off his line and stop him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:20",
+            "comments_type": "goal",
+            "comments_text": "Luiz Araujo (Lille) makes a great solo run and pulls the trigger from inside the box, beating Ludovic Butelle with a strike into the bottom left corner. He makes it 2:0.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating [PLAYER] with a strike into the bottom left corner. He makes it 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:38",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Stephane Bahoken (Angers) gets inside the box and tries to beat Mike Maignan with a measured shot into the bottom left corner, but the keeper is equal to the effort and makes a fine save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets inside the box and tries to beat [PLAYER] with a measured shot into the bottom left corner, but the keeper is equal to the effort and makes a fine save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:10",
+            "comments_type": "clearance",
+            "comments_text": "Ludovic Butelle displays his ability to read the game and clears the danger after Jonathan Ikone (Lille) threatened to latch onto a through ball from just outside the box.",
+            "comments_text_anonymized": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:43",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Mathias Pereira is going off and Stephane Moulin gives the last tactical orders to Rachid Alioui (Angers).",
+            "comments_text_anonymized": "Here is a change. Mathias [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Stephane Bahoken (Angers) makes an overly-aggressive challenge and Ruddy Buquet blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:20",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pierrick Capelle (Angers) receives a diagonal pass, bursts into the box and shoots low towards the middle of the goal. Mike Maignan is well positioned, though, and it's a comfortable save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a diagonal pass, bursts into the box and shoots low towards the middle of the goal. [PLAYER] is well positioned, though, and it's a comfortable save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:40",
+            "comments_type": "yellow card",
+            "comments_text": "Ruddy Buquet shows a yellow card to Romain Thomas (Angers) for a tough tackle.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:00",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Jonathan Ikone (Lille) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:04",
+            "comments_type": "injury",
+            "comments_text": "Jonathan Ikone (Lille) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:20",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Jonathan Bamba (Lille) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:16",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Luiz Araujo departs the field of play to be replaced by Renato Sanches (Lille).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:50",
+            "comments_type": "substitution",
+            "comments_text": "Stephane Moulin decides to make a substitution. Romain Thomas will be replaced by Sada Thioub (Angers).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:34",
+            "comments_type": "shot off target",
+            "comments_text": "Renato Sanches (Lille) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:13",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Thomas Mangani is replaced by Vincent Pajot (Angers).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:47",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. That's the last involvement from Domagoj Bradaric as he is replaced by Reinildo Mandava (Lille).",
+            "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "clearance",
+            "comments_text": "Jonathan Ikone (Lille) picks up a long through ball, but Ludovic Butelle deserves praise for a brilliant reaction and interception.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a long through ball, but [PLAYER] deserves praise for a brilliant reaction and interception."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:43",
+            "comments_type": "corner",
+            "comments_text": "Jonathan Bamba (Lille) looks to break free, but an opposing player clears the ball away. The referee and his assistant both point at the corner flag. Lille will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:20",
+            "comments_type": "corner",
+            "comments_text": "The referee signals a corner kick to Lille.",
+            "comments_text_anonymized": "The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:32",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Lille is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:27",
+            "comments_type": "corner",
+            "comments_text": "Angers have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:48",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Abou Ouattara (Lille) for Jonathan Ikone.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:24",
+            "comments_type": "foul with no card",
+            "comments_text": "An opponent rises to his feet after being downed by Vincent Pajot (Angers). Ruddy Buquet saw the sliding tackle and blows for a foul.",
+            "comments_text_anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:05",
+            "comments_type": "corner",
+            "comments_text": "Renato Sanches (Lille) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:16",
+            "comments_type": "clearance",
+            "comments_text": "Victor Osimhen (Lille) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:32",
+            "comments_type": "goal",
+            "comments_text": "Stephane Bahoken (Angers) finds the back of the net! He latched on to a sweet pass into the box and fired into the roof of the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds the back of the net! He latched on to a sweet pass into the box and fired into the roof of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:51",
+            "comments_type": "goal",
+            "comments_text": "Here comes the VAR decision. The goal is given and Angers players have a reason to celebrate!",
+            "comments_text_anonymized": "Here comes the VAR decision. The goal is given and [TEAM] players have a reason to celebrate!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:57",
+            "comments_type": "corner",
+            "comments_text": "Angers take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:33",
+            "comments_type": "yellow card",
+            "comments_text": "Sada Thioub (Angers) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Ruddy Buquet ignores the protests.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:40",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for the final time to end this match.",
+            "comments_text_anonymized": "The referee blows his whistle for the final time to end this match."
+        }
+    ]
+}

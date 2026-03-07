@@ -1,0 +1,1157 @@
+{
+    "match_info": {
+        "timestamp": "2023-03-02 04:00:00",
+        "score": "2 - 0",
+        "home_team": "Liverpool",
+        "away_team": "Wolves",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Anfield (Liverpool)",
+        "capacity": "61 276",
+        "attendance": "53 027",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Tierney P. (Eng)",
+        "first_name": "Tierney",
+        "abbr_last_name": "P",
+        "country": "Eng",
+        "detected_name": "Paul Tierney"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Klopp J.",
+                "players_number": "",
+                "Full Name": "Jurgen Klopp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (16.06.1967)",
+                "Market Value": "",
+                "unicode": "x6CvOHH9"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Arthur Melo",
+                "players_number": "",
+                "Full Name": "Arthur Melo",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (12.08.1996)",
+                "Market Value": "€14.0m",
+                "unicode": "UaXWh1Wj"
+            },
+            {
+                "players_name": "Diaz L.",
+                "players_number": "",
+                "Full Name": "Luis Diaz",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (13.01.1997)",
+                "Market Value": "€76.6m",
+                "unicode": "SKjMUHVm"
+            },
+            {
+                "players_name": "Gomez J.",
+                "players_number": "",
+                "Full Name": "Joe Gomez",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€21.5m",
+                "unicode": "SKt9dxk8"
+            },
+            {
+                "players_name": "Ramsay C.",
+                "players_number": "",
+                "Full Name": "Calvin Ramsay",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (31.07.2003)",
+                "Market Value": "€3.9m",
+                "unicode": "d6y2c2XR"
+            },
+            {
+                "players_name": "Thiago",
+                "players_number": "",
+                "Full Name": "Thiago",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (11.04.1991)",
+                "Market Value": "€9.8m",
+                "unicode": "vcSKqUSq"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alexander-Arnold T.",
+                "players_number": "66",
+                "Full Name": "Trent Alexander-Arnold",
+                "players_rating": 7.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (07.10.1998)",
+                "Market Value": "€71.5m",
+                "unicode": "CEVJy6Bc"
+            },
+            {
+                "players_name": "Alisson (G)",
+                "players_number": "1",
+                "Full Name": "Alisson",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (02.10.1992)",
+                "Market Value": "€31.5m",
+                "unicode": "UZrQ3bwP"
+            },
+            {
+                "players_name": "Bajcetic S.",
+                "players_number": "43",
+                "Full Name": "Stefan Bajcetic",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "19, (22.10.2004)",
+                "Market Value": "€10.2m",
+                "unicode": "dEU1sdWP"
+            },
+            {
+                "players_name": "Diogo Jota",
+                "players_number": "20",
+                "Full Name": "Diogo Jota",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (04.12.1996)",
+                "Market Value": "€50.3m",
+                "unicode": "lr5I22zF"
+            },
+            {
+                "players_name": "Elliott H.",
+                "players_number": "19",
+                "Full Name": "Harvey Elliott",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (04.04.2003)",
+                "Market Value": "€28.9m",
+                "unicode": "nBSzcorC"
+            },
+            {
+                "players_name": "Fabinho",
+                "players_number": "3",
+                "Full Name": "Fabinho",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (23.10.1993)",
+                "Market Value": "€33.3m",
+                "unicode": "nqldMgYf"
+            },
+            {
+                "players_name": "Konate I.",
+                "players_number": "5",
+                "Full Name": "Ibrahima Konate",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (25.05.1999)",
+                "Market Value": "€37.7m",
+                "unicode": "QJlbDbQe"
+            },
+            {
+                "players_name": "Nunez D.",
+                "players_number": "27",
+                "Full Name": "Darwin Nunez",
+                "players_rating": 6.9,
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (24.06.1999)",
+                "Market Value": "€63.6m",
+                "unicode": "Ygo6EZPh"
+            },
+            {
+                "players_name": "Salah M.",
+                "players_number": "11",
+                "Full Name": "Mohamed Salah",
+                "players_rating": 7.4,
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.06.1992)",
+                "Market Value": "€69.1m",
+                "unicode": "08FBycgB"
+            },
+            {
+                "players_name": "Tsimikas K.",
+                "players_number": "21",
+                "Full Name": "Konstantinos Tsimikas",
+                "players_rating": 7.8,
+                "Country": "Greece",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.05.1996)",
+                "Market Value": "€22.5m",
+                "unicode": "SEyNdMro"
+            },
+            {
+                "players_name": "van Dijk V. (C)",
+                "players_number": "4",
+                "Full Name": "Virgil van Dijk",
+                "players_rating": 8.2,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.07.1991)",
+                "Market Value": "€32.2m",
+                "unicode": "U59RNqOr"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Firmino R.",
+                "players_number": "9",
+                "Full Name": "Roberto Firmino",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (02.10.1991)",
+                "Market Value": "€9.7m",
+                "unicode": "CCNtplZe"
+            },
+            {
+                "players_name": "Gakpo C.",
+                "players_number": "18",
+                "Full Name": "Cody Gakpo",
+                "players_rating": 6.2,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (07.05.1999)",
+                "Market Value": "€51.1m",
+                "unicode": "pWyuBud0"
+            },
+            {
+                "players_name": "Henderson J.",
+                "players_number": "14",
+                "Full Name": "Jordan Henderson",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (17.06.1990)",
+                "Market Value": "€7.3m",
+                "unicode": "UFMlUD6r"
+            },
+            {
+                "players_name": "Milner J.",
+                "players_number": "7",
+                "Full Name": "James Milner",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (04.01.1986)",
+                "Market Value": "€936k",
+                "unicode": "QLY3kAEt"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Carvalho F.",
+                "players_number": "28",
+                "Full Name": "Fabio Carvalho",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (30.08.2002)",
+                "Market Value": "€13.3m",
+                "unicode": "MqsQc0hn"
+            },
+            {
+                "players_name": "Kelleher C. (G)",
+                "players_number": "62",
+                "Full Name": "Caoimhin Kelleher",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (23.11.1998)",
+                "Market Value": "€14.3m",
+                "unicode": "4S8JqWN0"
+            },
+            {
+                "players_name": "Matip J.",
+                "players_number": "32",
+                "Full Name": "Joel Matip",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.08.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "tpHWp8Am"
+            },
+            {
+                "players_name": "Oxlade-Chamberlain A.",
+                "players_number": "15",
+                "Full Name": "Alex Oxlade-Chamberlain",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.08.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "WzNLf7VR"
+            },
+            {
+                "players_name": "Robertson A.",
+                "players_number": "26",
+                "Full Name": "Andrew Robertson",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (11.03.1994)",
+                "Market Value": "€34.3m",
+                "unicode": "6e7Be9VI"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Lopetegui J.",
+                "players_number": "",
+                "Full Name": "Julen Lopetegui",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "57,  (28.08.1966)",
+                "Market Value": "",
+                "unicode": "joAFj9hO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Chiquinho",
+                "players_number": "",
+                "Full Name": "Chiquinho",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (05.02.2000)",
+                "Market Value": "€1.7m",
+                "unicode": "j1Kb3xK9"
+            },
+            {
+                "players_name": "Cunha M.",
+                "players_number": "",
+                "Full Name": "Matheus Cunha",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (27.05.1999)",
+                "Market Value": "€30.4m",
+                "unicode": "bq5QzRdb"
+            },
+            {
+                "players_name": "Hwang Hee-Chan",
+                "players_number": "",
+                "Full Name": "Hee-Chan Hwang",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (26.01.1996)",
+                "Market Value": "€22.2m",
+                "unicode": "Sbw02Q2l"
+            },
+            {
+                "players_name": "Kalajdzic S.",
+                "players_number": "",
+                "Full Name": "Sasa Kalajdzic",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (07.07.1997)",
+                "Market Value": "€10.6m",
+                "unicode": "8Wq79aVu"
+            },
+            {
+                "players_name": "Traore B.",
+                "players_number": "",
+                "Full Name": "Boubacar Traore",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (20.08.2001)",
+                "Market Value": "€5.7m",
+                "unicode": "I3feMxCH"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Bueno H.",
+                "players_number": "64",
+                "Full Name": "Hugo Bueno",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (18.09.2002)",
+                "Market Value": "€5.6m",
+                "unicode": "0EjILYmN"
+            },
+            {
+                "players_name": "Dawson C.",
+                "players_number": "15",
+                "Full Name": "Craig Dawson",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (06.05.1990)",
+                "Market Value": "€1.9m",
+                "unicode": "Who0H1fJ"
+            },
+            {
+                "players_name": "Jimenez R.",
+                "players_number": "9",
+                "Full Name": "Raul Jimenez",
+                "players_rating": 6.2,
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (05.05.1991)",
+                "Market Value": "€5.5m",
+                "unicode": "ENwqg0Pd"
+            },
+            {
+                "players_name": "Kilman M.",
+                "players_number": "23",
+                "Full Name": "Max Kilman",
+                "players_rating": 6.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€34.3m",
+                "unicode": "dlQhqD35"
+            },
+            {
+                "players_name": "Lemina M.",
+                "players_number": "5",
+                "Full Name": "Mario Lemina",
+                "players_rating": 6.4,
+                "Country": "Gabon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (01.09.1993)",
+                "Market Value": "€9.5m",
+                "unicode": "dYDkA1lR"
+            },
+            {
+                "players_name": "Moutinho J.",
+                "players_number": "28",
+                "Full Name": "Joao Moutinho",
+                "players_rating": 6.4,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (08.09.1986)",
+                "Market Value": "€772k",
+                "unicode": "rZndECJt"
+            },
+            {
+                "players_name": "Neves R. (C)",
+                "players_number": "8",
+                "Full Name": "Ruben Neves",
+                "players_rating": 6.8,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (13.03.1997)",
+                "Market Value": "€40.3m",
+                "unicode": "Ea90ReE4"
+            },
+            {
+                "players_name": "Nunes M.",
+                "players_number": "27",
+                "Full Name": "Matheus Nunes",
+                "players_rating": 6.7,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (27.08.1998)",
+                "Market Value": "€54.6m",
+                "unicode": "bXbvxFWS"
+            },
+            {
+                "players_name": "Sa J. (G)",
+                "players_number": "1",
+                "Full Name": "Jose Sa",
+                "players_rating": 6.5,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (17.01.1993)",
+                "Market Value": "€15.4m",
+                "unicode": "tMoomIVO"
+            },
+            {
+                "players_name": "Sarabia P.",
+                "players_number": "21",
+                "Full Name": "Pablo Sarabia",
+                "players_rating": 6.2,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (11.05.1992)",
+                "Market Value": "€11.2m",
+                "unicode": "lSX6pGT4"
+            },
+            {
+                "players_name": "Semedo N.",
+                "players_number": "22",
+                "Full Name": "Nelson Semedo",
+                "players_rating": 5.9,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.11.1993)",
+                "Market Value": "€14.3m",
+                "unicode": "EyHywivj"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Ait-Nouri R.",
+                "players_number": "3",
+                "Full Name": "Rayan Ait-Nouri",
+                "players_rating": 6.4,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (06.06.2001)",
+                "Market Value": "€27.4m",
+                "unicode": "t4db4nTt"
+            },
+            {
+                "players_name": "Costa D.",
+                "players_number": "29",
+                "Full Name": "Diego Costa",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€1.5m, (07.10.1988)",
+                "Market Value": "",
+                "unicode": "vBw5nir8"
+            },
+            {
+                "players_name": "Gomes J.",
+                "players_number": "35",
+                "Full Name": "Joao Gomes",
+                "players_rating": 6.1,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (12.02.2001)",
+                "Market Value": "€20.9m",
+                "unicode": "rcOLZhUD"
+            },
+            {
+                "players_name": "Podence D.",
+                "players_number": "10",
+                "Full Name": "Daniel Podence",
+                "players_rating": 6.2,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.10.1995)",
+                "Market Value": "€12.5m",
+                "unicode": "YTkrrmp4"
+            },
+            {
+                "players_name": "Traore A.",
+                "players_number": "37",
+                "Full Name": "Adama Traore",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (25.01.1996)",
+                "Market Value": "€8.2m",
+                "unicode": "Qsy3Kmgj"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bentley D. (G)",
+                "players_number": "25",
+                "Full Name": "Daniel Bentley",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30, (13.07.1993)",
+                "Market Value": "€1.9m",
+                "unicode": "SWSRDdEf"
+            },
+            {
+                "players_name": "Collins N.",
+                "players_number": "4",
+                "Full Name": "Nathan Michael Collins",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (30.04.2001)",
+                "Market Value": "€24.1m",
+                "unicode": "4AmU39Qm"
+            },
+            {
+                "players_name": "Jonny",
+                "players_number": "19",
+                "Full Name": "Jonny",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (03.03.1994)",
+                "Market Value": "€7.6m",
+                "unicode": "thYdCQaj"
+            },
+            {
+                "players_name": "Neto P.",
+                "players_number": "7",
+                "Full Name": "Pedro Neto",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.03.2000)",
+                "Market Value": "€41.1m",
+                "unicode": "lxtnUkIP"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+            "comments_text_anonymized": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Paul Tierney will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Wolves will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "clearance",
+            "comments_text": "Nelson Semedo (Wolves) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "That didn't go as planned! Stefan Bajcetic (Liverpool) tried his luck from the edge of the box, but his effort low towards the middle of the goal was too weak to get past Jose Sa, who easily kept it out.",
+            "comments_text_anonymized": "That didn't go as planned! [PLAYER] ([TEAM]) tried his luck from the edge of the box, but his effort low towards the middle of the goal was too weak to get past [PLAYER], who easily kept it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:10",
+            "comments_type": "corner",
+            "comments_text": "The linesman points to the corner flag, Wolves are going to take it.",
+            "comments_text_anonymized": "The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:30",
+            "comments_type": "shot off target",
+            "comments_text": "Raul Jimenez (Wolves) finds some space to control the ball from the corner and shoots, but his attempt goes way wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds some space to control the ball from the corner and shoots, but his attempt goes way wide of the right post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:15",
+            "comments_type": "clearance",
+            "comments_text": "Diogo Jota (Liverpool) passes the ball into the box but an opposing player clears.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:11",
+            "comments_type": "lead to corner",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) tries to pass the ball into the penalty area but it's blocked. The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:16",
+            "comments_type": "corner",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:01",
+            "comments_type": "ball possession",
+            "comments_text": "The Liverpool players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "ball possession",
+            "comments_text": "Fabinho (Liverpool) breaks past challenges inside the box, but puts too much pace on his pass to Darwin Nunez.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks past challenges inside the box, but puts too much pace on his pass to [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:32",
+            "comments_type": "corner",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:34",
+            "comments_type": "shot off target",
+            "comments_text": "Darwin Nunez (Liverpool) wins the ball from the corner kick and strikes. The effort lacks accuracy and goes miles wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wins the ball from the corner kick and strikes. The effort lacks accuracy and goes miles wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:25",
+            "comments_type": "clearance",
+            "comments_text": "Raul Jimenez (Wolves) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:53",
+            "comments_type": "clearance",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:51",
+            "comments_type": "yellow card",
+            "comments_text": "Stefan Bajcetic (Liverpool) has tested the patience of referee Paul Tierney and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "clearance",
+            "comments_text": "It could have been a good chance to score! Pablo Sarabia (Wolves) fails to release Nelson Semedo with a through ball as the defence is alert and clears.",
+            "comments_text_anonymized": "It could have been a good chance to score! [PLAYER] ([TEAM]) fails to release [PLAYER] with a through ball as the defence is alert and clears."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:36",
+            "comments_type": "",
+            "comments_text": "Pablo Sarabia (Wolves) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:40",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:00",
+            "comments_type": "shot off target",
+            "comments_text": "Mohamed Salah picks out Diogo Jota (Liverpool) unmarked inside the box, but his strike goes well wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] picks out [PLAYER] ([TEAM]) unmarked inside the box, but his strike goes well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:57",
+            "comments_type": "injury",
+            "comments_text": "Hugo Bueno (Wolves) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:10",
+            "comments_type": "substitution",
+            "comments_text": "Hugo Bueno is not able to continue due to his injury and will be replaced by Rayan Ait Nouri (Wolves).",
+            "comments_text_anonymized": "[PLAYER] is not able to continue due to his injury and will be replaced by Rayan Ait Nouri ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:40",
+            "comments_type": "statistics and summary",
+            "comments_text": "We can have a look at the statistics now, particularly the total attempts – 3:4.",
+            "comments_text_anonymized": "We can have a look at the statistics now, particularly the total attempts – 3:4."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:00",
+            "comments_type": "ball possession",
+            "comments_text": "The Liverpool players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "comments_text_anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:20",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Darwin Nunez (Liverpool) plays a through ball inside the box, but it's too strong and Jose Sa comes off his line to intercept. The linesman makes the right call and Liverpool will have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:15",
+            "comments_type": "corner",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:03",
+            "comments_type": "shot off target",
+            "comments_text": "Fabinho (Liverpool) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:53",
+            "comments_type": "yellow card",
+            "comments_text": "The referee shows the yellow card to Nelson Semedo (Wolves).",
+            "comments_text_anonymized": "The referee shows the yellow card to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:56",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) serves up a nice cross, but the defence clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:06",
+            "comments_type": "injury",
+            "comments_text": "Mario Lemina (Wolves) picks up an injury.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up an injury."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:31",
+            "comments_type": "injury",
+            "comments_text": "Mario Lemina (Wolves) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:15",
+            "comments_type": "foul with no card",
+            "comments_text": "Paul Tierney blows his whistle. Ruben Neves (Wolves) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:25",
+            "comments_type": "shot off target",
+            "comments_text": "Mohamed Salah (Liverpool) tries to find Diogo Jota, but he puts too much power on the through ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:55",
+            "comments_type": "foul with no card",
+            "comments_text": "Joao Moutinho (Wolves) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 additional min. will be played.",
+            "comments_text_anonymized": "4 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:10",
+            "comments_type": "corner",
+            "comments_text": "Liverpool have been awarded a corner kick.",
+            "comments_text_anonymized": "[TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:20",
+            "comments_type": "shot off target",
+            "comments_text": "The corner kick picks out Darwin Nunez (Liverpool) free in the box, but his header from close in lacks control and balloons high over the bar.",
+            "comments_text_anonymized": "The corner kick picks out [PLAYER] ([TEAM]) free in the box, but his header from close in lacks control and balloons high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:44",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Pablo Sarabia (Wolves) was quite harsh and Paul Tierney didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:03",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The game restarts for the second half.",
+            "comments_text_anonymized": "The game restarts for the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "substitution",
+            "comments_text": "There will be a change on the pitch for the second half. Julen Lopetegui probably wasn't satisfied with the performance of Pablo Sarabia. He is replaced by Adama Traore (Wolves).",
+            "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:10",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:57",
+            "comments_type": "foul with no card",
+            "comments_text": "Craig Dawson (Wolves) was too fierce in his attempt to get the ball from his opponent and Paul Tierney blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Paul Tierney blows his whistle and it's Rayan Ait Nouri (Wolves) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's Rayan Ait Nouri ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:50",
+            "comments_type": "ball possession",
+            "comments_text": "Adama Traore (Wolves) looks to break free, but his touch lets him down and he loses the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:47",
+            "comments_type": "injury",
+            "comments_text": "Mario Lemina (Wolves) is asking for medical treatment after picking up an injury.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:51",
+            "comments_type": "yellow card",
+            "comments_text": "Fabinho (Liverpool) is booked after bringing down an opponent. Paul Tierney had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:37",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Harvey Elliott (Liverpool) picks up a pass and tries his luck from mid-range low towards the middle of the goal, but Jose Sa is equal to it and makes an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a pass and tries his luck from mid-range low towards the middle of the goal, but [PLAYER] is equal to it and makes an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:55",
+            "comments_type": "clearance",
+            "comments_text": "A cross into the box from Darwin Nunez (Liverpool) is cleared.",
+            "comments_text_anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:52",
+            "comments_type": "corner",
+            "comments_text": "Liverpool have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:10",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Daniel Podence (Wolves) will replace Joao Moutinho.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "substitution",
+            "comments_text": "Julen Lopetegui has decided to make a change. Joao Gomes (Wolves) replaces Matheus Nunes.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:30",
+            "comments_type": "goal",
+            "comments_text": "Clinical finish! Darwin Nunez (Liverpool) finds himself some space inside the box to control a rebound and buries his shot into the bottom right corner of the net.",
+            "comments_text_anonymized": "Clinical finish! [PLAYER] ([TEAM]) finds himself some space inside the box to control a rebound and buries his shot into the bottom right corner of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:04",
+            "comments_type": "var",
+            "comments_text": "Hold on! There’s a VAR review to see whether there was an infringement in the build up to the goal. The referee is checking now. The Liverpool players aren’t happy.",
+            "comments_text_anonymized": "Hold on! There’s a VAR review to see whether there was an infringement in the build up to the goal. The referee is checking now. The [TEAM] players aren’t happy."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:49",
+            "comments_type": "var",
+            "comments_text": "The referee looks satisfied after his VAR review and duly disallows the goal due to a foul. The Liverpool players look gutted.",
+            "comments_text_anonymized": "The referee looks satisfied after his VAR review and duly disallows the goal due to a foul. The [TEAM] players look gutted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:39",
+            "comments_type": "yellow card",
+            "comments_text": "Ruben Neves (Wolves) criticises the decision of the referee and immediately receives a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) criticises the decision of the referee and immediately receives a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:43",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Diogo Jota (Liverpool) commits a rough challenge and Paul Tierney blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:10",
+            "comments_type": "free kick",
+            "comments_text": "That's a free kick to Liverpool.",
+            "comments_text_anonymized": "That's a free kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:35",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Diogo Jota sends a long raking pass onto the head of Virgil van Dijk (Liverpool), who makes no mistake from close in and sends the ball into the roof of the net. 1:0.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] sends a long raking pass onto the head of [PLAYER] ([TEAM]), who makes no mistake from close in and sends the ball into the roof of the net. 1:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:47",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Cody Gakpo (Liverpool) is on for Diogo Jota.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:58",
+            "comments_type": "goal",
+            "comments_text": "It's in the back of the net! Konstantinos Tsimikas sprays a pass out to Mohamed Salah (Liverpool), and he has an easy job to slot the ball into an empty net. The score is 2:0.",
+            "comments_text_anonymized": "It's in the back of the net! [PLAYER] sprays a pass out to [PLAYER] ([TEAM]), and he has an easy job to slot the ball into an empty net. The score is 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:40",
+            "comments_type": "substitution",
+            "comments_text": "Jurgen Klopp decides to make a substitution. Stefan Bajcetic will be replaced by Jordan Henderson (Liverpool).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:40",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Raul Jimenez is replaced by Diego Costa (Wolves).",
+            "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:45",
+            "comments_type": "clearance",
+            "comments_text": "Jordan Henderson (Liverpool) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:48",
+            "comments_type": "clearance",
+            "comments_text": "Nelson Semedo (Wolves) sends a teasing cross into the area, but Alisson intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:56",
+            "comments_type": "foul with no card",
+            "comments_text": "Darwin Nunez (Liverpool) commits an ugly tackle on his opponent, but there is no caution from the referee. Wolves will take a free kick near the side line.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:30",
+            "comments_type": "statistics and summary",
+            "comments_text": "Total attempts – 15:4.",
+            "comments_text_anonymized": "Total attempts – 15:4."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Konstantinos Tsimikas (Liverpool) robs an opponent of the ball and explodes in anger when Paul Tierney blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:28",
+            "comments_type": "substitution",
+            "comments_text": "Darwin Nunez will be replaced by Roberto Firmino (Liverpool).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:27",
+            "comments_type": "substitution",
+            "comments_text": "Jurgen Klopp prepares a substitution. Trent Alexander-Arnold is replaced by James Milner (Liverpool).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 4 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 4 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:12",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

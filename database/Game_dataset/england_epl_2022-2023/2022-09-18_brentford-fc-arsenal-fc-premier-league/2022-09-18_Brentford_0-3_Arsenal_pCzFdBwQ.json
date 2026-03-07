@@ -1,0 +1,1040 @@
+{
+    "match_info": {
+        "timestamp": "2022-09-18 19:00:00",
+        "score": "0 - 3",
+        "home_team": "Brentford",
+        "away_team": "Arsenal",
+        "home_formation": "3 - 5 - 2",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Brentford Community Stadium (London)",
+        "capacity": "17 250",
+        "attendance": "17 122",
+        "home_jersey_color": "pink",
+        "away_jersey_color": "black"
+    },
+    "referee_data": {
+        "short_name_country": "Coote D. (Eng)",
+        "first_name": "Coote",
+        "abbr_last_name": "D",
+        "country": "Eng",
+        "detected_name": "David Coote"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Arteta M.",
+                "players_number": "",
+                "Full Name": "Mikel Arteta",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "41,  (26.03.1982)",
+                "Market Value": "",
+                "unicode": "lAbHYaQM"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Elneny M.",
+                "players_number": "",
+                "Full Name": "Mohamed Elneny",
+                "players_rating": "",
+                "Country": "Egypt",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (11.07.1992)",
+                "Market Value": "€4.2m",
+                "unicode": "MwhMibOo"
+            },
+            {
+                "players_name": "Nelson R.",
+                "players_number": "",
+                "Full Name": "Reiss Nelson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (10.12.1999)",
+                "Market Value": "€15.5m",
+                "unicode": "QLwOwRlJ"
+            },
+            {
+                "players_name": "Odegaard M.",
+                "players_number": "",
+                "Full Name": "Martin Odegaard",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (17.12.1998)",
+                "Market Value": "€90.6m",
+                "unicode": "ID32TGhp"
+            },
+            {
+                "players_name": "Smith Rowe E.",
+                "players_number": "",
+                "Full Name": "Emile Smith Rowe",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (28.07.2000)",
+                "Market Value": "€23.8m",
+                "unicode": "fsJB9j4d"
+            },
+            {
+                "players_name": "Zinchenko O.",
+                "players_number": "",
+                "Full Name": "Oleksandr Zinchenko",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (15.12.1996)",
+                "Market Value": "€41.1m",
+                "unicode": "MwSCTKq6"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Gabriel",
+                "players_number": "6",
+                "Full Name": "Gabriel",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (19.12.1997)",
+                "Market Value": "€59.6m",
+                "unicode": "tEcnVXMS"
+            },
+            {
+                "players_name": "Gabriel Jesus",
+                "players_number": "9",
+                "Full Name": "Gabriel Jesus",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (03.04.1997)",
+                "Market Value": "€68.5m",
+                "unicode": "viMb6g9n"
+            },
+            {
+                "players_name": "Martinelli G.",
+                "players_number": "11",
+                "Full Name": "Gabriel Martinelli",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (18.06.2001)",
+                "Market Value": "€83.2m",
+                "unicode": "dITe5M88"
+            },
+            {
+                "players_name": "Partey T.",
+                "players_number": "5",
+                "Full Name": "Thomas Partey",
+                "players_rating": 7.0,
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (13.06.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "pMErKGnf"
+            },
+            {
+                "players_name": "Ramsdale A. (G)",
+                "players_number": "1",
+                "Full Name": "Aaron Ramsdale",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (14.05.1998)",
+                "Market Value": "€27.0m",
+                "unicode": "dnohA1sG"
+            },
+            {
+                "players_name": "Saka B.",
+                "players_number": "7",
+                "Full Name": "Bukayo Saka",
+                "players_rating": 8.2,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (05.09.2001)",
+                "Market Value": "€124.2m",
+                "unicode": "08NLEo06"
+            },
+            {
+                "players_name": "Saliba W.",
+                "players_number": "12",
+                "Full Name": "William Saliba",
+                "players_rating": 8.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (24.03.2001)",
+                "Market Value": "€71.3m",
+                "unicode": "EgIM3sB7"
+            },
+            {
+                "players_name": "Tierney K.",
+                "players_number": "3",
+                "Full Name": "Kieran Tierney",
+                "players_rating": 7.2,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (05.06.1997)",
+                "Market Value": "€16.8m",
+                "unicode": "Qm0l3aod"
+            },
+            {
+                "players_name": "Vieira F.",
+                "players_number": "21",
+                "Full Name": "Fabio Vieira",
+                "players_rating": 7.5,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (30.05.2000)",
+                "Market Value": "€26.6m",
+                "unicode": "E1jSdqUR"
+            },
+            {
+                "players_name": "White B.",
+                "players_number": "4",
+                "Full Name": "Ben White",
+                "players_rating": 7.6,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (08.10.1997)",
+                "Market Value": "€53.8m",
+                "unicode": "pvGdJANj"
+            },
+            {
+                "players_name": "Xhaka G. (C)",
+                "players_number": "34",
+                "Full Name": "Granit Xhaka",
+                "players_rating": 7.4,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (27.09.1992)",
+                "Market Value": "€20.1m",
+                "unicode": "QBHCDKff"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Lokonga A. S.",
+                "players_number": "23",
+                "Full Name": "Albert Sambi Lokonga",
+                "players_rating": 6.3,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (22.10.1999)",
+                "Market Value": "€11.4m",
+                "unicode": "fefkCPrH"
+            },
+            {
+                "players_name": "Marquinhos",
+                "players_number": "27",
+                "Full Name": "Marquinhos",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (07.04.2003)",
+                "Market Value": "€6.9m",
+                "unicode": "I9pgna1q"
+            },
+            {
+                "players_name": "Nketiah E.",
+                "players_number": "14",
+                "Full Name": "Eddie Nketiah",
+                "players_rating": 6.1,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (30.05.1999)",
+                "Market Value": "€32.3m",
+                "unicode": "4hhsd84m"
+            },
+            {
+                "players_name": "Nwaneri E.",
+                "players_number": "83",
+                "Full Name": "Ethan Nwaneri",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "16, (21.03.2007)",
+                "Market Value": "€5.4m",
+                "unicode": "lxyovn2o"
+            },
+            {
+                "players_name": "Tomiyasu T.",
+                "players_number": "18",
+                "Full Name": "Takehiro Tomiyasu",
+                "players_rating": "",
+                "Country": "Japan",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (05.11.1998)",
+                "Market Value": "€28.5m",
+                "unicode": "OSNvjZSP"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Holding R.",
+                "players_number": "16",
+                "Full Name": "Rob Holding",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (20.09.1995)",
+                "Market Value": "€4.7m",
+                "unicode": "M71HrXch"
+            },
+            {
+                "players_name": "Smith M.",
+                "players_number": "72",
+                "Full Name": "Matthew Smith",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (05.10.2000)",
+                "Market Value": "€285k",
+                "unicode": "bZmjRt1h"
+            },
+            {
+                "players_name": "Sousa L.",
+                "players_number": "96",
+                "Full Name": "Lino Sousa",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "19, (19.01.2005)",
+                "Market Value": "€1.8m",
+                "unicode": "hStIA2DF"
+            },
+            {
+                "players_name": "Turner M. (G)",
+                "players_number": "30",
+                "Full Name": "Matt Turner",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (24.06.1994)",
+                "Market Value": "€9.6m",
+                "unicode": "KbZtv1W8"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Frank T.",
+                "players_number": "",
+                "Full Name": "Thomas Frank",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (09.10.1973)",
+                "Market Value": "",
+                "unicode": "va62Pxqi"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Norgaard C.",
+                "players_number": "",
+                "Full Name": "Christian Norgaard",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (10.03.1994)",
+                "Market Value": "€19.9m",
+                "unicode": "E3lsxLi7"
+            },
+            {
+                "players_name": "Pinnock E.",
+                "players_number": "",
+                "Full Name": "Ethan Pinnock",
+                "players_rating": "",
+                "Country": "Jamaica",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (29.05.1993)",
+                "Market Value": "€14.9m",
+                "unicode": "EsUW9DS3"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Ajer K.",
+                "players_number": "20",
+                "Full Name": "Kristoffer Ajer",
+                "players_rating": 5.9,
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (17.04.1998)",
+                "Market Value": "€17.1m",
+                "unicode": "tK0pMshb"
+            },
+            {
+                "players_name": "Dasilva J.",
+                "players_number": "10",
+                "Full Name": "Josh Dasilva",
+                "players_rating": 5.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (23.10.1998)",
+                "Market Value": "€11.4m",
+                "unicode": "6qin1IFT"
+            },
+            {
+                "players_name": "Henry R.",
+                "players_number": "3",
+                "Full Name": "Rico Henry",
+                "players_rating": 5.9,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (08.07.1997)",
+                "Market Value": "€24.5m",
+                "unicode": "tdO4c5vq"
+            },
+            {
+                "players_name": "Hickey A.",
+                "players_number": "2",
+                "Full Name": "Aaron Hickey",
+                "players_rating": 6.9,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (10.06.2002)",
+                "Market Value": "€27.6m",
+                "unicode": "rcIXJMf9"
+            },
+            {
+                "players_name": "Janelt V.",
+                "players_number": "27",
+                "Full Name": "Vitaly Janelt",
+                "players_rating": 6.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (10.05.1998)",
+                "Market Value": "€21.2m",
+                "unicode": "pSeiTOw5"
+            },
+            {
+                "players_name": "Jansson P. (C)",
+                "players_number": "18",
+                "Full Name": "Pontus Jansson",
+                "players_rating": 6.4,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (13.02.1991)",
+                "Market Value": "€1.5m",
+                "unicode": "4toh0E9q"
+            },
+            {
+                "players_name": "Jensen M.",
+                "players_number": "8",
+                "Full Name": "Mathias Jensen",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (01.01.1996)",
+                "Market Value": "€28.9m",
+                "unicode": "Aijf2AQ6"
+            },
+            {
+                "players_name": "Mbeumo B.",
+                "players_number": "19",
+                "Full Name": "Bryan Mbeumo",
+                "players_rating": 6.0,
+                "Country": "Cameroon",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (07.08.1999)",
+                "Market Value": "€38.3m",
+                "unicode": "8KDrOl80"
+            },
+            {
+                "players_name": "Mee B.",
+                "players_number": "16",
+                "Full Name": "Ben Mee",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (21.09.1989)",
+                "Market Value": "€993k",
+                "unicode": "SzUQvQ7r"
+            },
+            {
+                "players_name": "Raya D. (G)",
+                "players_number": "1",
+                "Full Name": "David Raya",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (15.09.1995)",
+                "Market Value": "€34.3m",
+                "unicode": "nkVV0IXb"
+            },
+            {
+                "players_name": "Toney I.",
+                "players_number": "17",
+                "Full Name": "",
+                "players_rating": 6.3,
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "W6A3dA7c"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Baptiste S.",
+                "players_number": "26",
+                "Full Name": "Shandon Baptiste",
+                "players_rating": 6.4,
+                "Country": "Grenada",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (08.04.1998)",
+                "Market Value": "€2.3m",
+                "unicode": "Aa8rSHAA"
+            },
+            {
+                "players_name": "Damsgaard M.",
+                "players_number": "24",
+                "Full Name": "Mikkel Damsgaard",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (03.07.2000)",
+                "Market Value": "€9.2m",
+                "unicode": "WIxH5hxa"
+            },
+            {
+                "players_name": "Onyeka F.",
+                "players_number": "15",
+                "Full Name": "Frank Onyeka",
+                "players_rating": 6.1,
+                "Country": "Nigeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (01.01.1998)",
+                "Market Value": "€8.4m",
+                "unicode": "trmcDRt1"
+            },
+            {
+                "players_name": "Wissa Y.",
+                "players_number": "11",
+                "Full Name": "Yoane Wissa",
+                "players_rating": 6.0,
+                "Country": "DR Congo",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (03.09.1996)",
+                "Market Value": "€23.8m",
+                "unicode": "b35gWzB2"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Canos S.",
+                "players_number": "7",
+                "Full Name": "Sergi Canos",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (02.02.1997)",
+                "Market Value": "€2.4m",
+                "unicode": "2iri9TaP"
+            },
+            {
+                "players_name": "Ghoddos S.",
+                "players_number": "14",
+                "Full Name": "Saman Ghoddos",
+                "players_rating": "",
+                "Country": "Iran",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (06.09.1993)",
+                "Market Value": "€1.9m",
+                "unicode": "QkJrONx1"
+            },
+            {
+                "players_name": "Roerslev Rasmussen M.",
+                "players_number": "30",
+                "Full Name": "Mads Roerslev Rasmussen",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (24.06.1999)",
+                "Market Value": "€7.5m",
+                "unicode": "pp1zpsrr"
+            },
+            {
+                "players_name": "Strakosha T. (G)",
+                "players_number": "22",
+                "Full Name": "Thomas Strakosha",
+                "players_rating": "",
+                "Country": "Albania",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (19.03.1995)",
+                "Market Value": "€3.0m",
+                "unicode": "I30e9nTO"
+            },
+            {
+                "players_name": "Zanka",
+                "players_number": "13",
+                "Full Name": "Zanka",
+                "players_rating": "",
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (23.04.1990)",
+                "Market Value": "€922k",
+                "unicode": "xdpja8Be"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action.",
+            "comments_text_anonymized": "Welcome to our live text commentary, ladies and gentlemen! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "David Coote will supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Arsenal will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:45",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Gabriel Martinelli (Arsenal) receives a slide-rule pass inside the box and has just the keeper to beat. His shot low towards the middle of the goal lacks power and David Raya easily makes the save.",
+            "comments_text_anonymized": "[PLAYER] [PLAYER] ([TEAM]) receives a slide-rule pass inside the box and has just the keeper to beat. His shot low towards the middle of the goal lacks power and [PLAYER] easily makes the save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Fabio Vieira (Arsenal) tackles a bit over-zealously and David Coote blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:20",
+            "comments_type": "clearance",
+            "comments_text": "Josh Dasilva (Brentford) attempts to send a pass but the effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:54",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Bryan Mbeumo (Brentford) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:33",
+            "comments_type": "ball possession",
+            "comments_text": "A long pass, executed by Thomas Partey (Arsenal), missed the precision to reach his teammates.",
+            "comments_text_anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:59",
+            "comments_type": "off side",
+            "comments_text": "Flag up against Gabriel (Arsenal). He had space to move into behind the defence, but he went too soon.",
+            "comments_text_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:08",
+            "comments_type": "foul with no card",
+            "comments_text": "Ben Mee (Brentford) was trying to get to the ball but clattered into the legs of the opponent as well. David Coote blows his whistle for an infringement. Arsenal have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:06",
+            "comments_type": "clearance",
+            "comments_text": "Gabriel Martinelli (Arsenal) crosses the ball into the box from the free kick, but the defence clears the danger.",
+            "comments_text_anonymized": "[PLAYER] [PLAYER] ([TEAM]) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:35",
+            "comments_type": "off side",
+            "comments_text": "Mathias Jensen (Brentford) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:00",
+            "comments_type": "corner",
+            "comments_text": "Bukayo Saka (Arsenal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "goal",
+            "comments_text": "A perfectly taken corner kick. William Saliba (Arsenal) produces a fantastic bullet header from around the penalty spot which goes in off the left post, increasing the score of today's match – 0:1.",
+            "comments_text_anonymized": "A perfectly taken corner kick. [PLAYER] ([TEAM]) produces a fantastic bullet header from around the penalty spot which goes in off the left post, increasing the score of today's match – 0:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Kieran Tierney (Arsenal) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:58",
+            "comments_type": "injury",
+            "comments_text": "Gabriel (Arsenal) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:33",
+            "comments_type": "injury",
+            "comments_text": "Gabriel (Arsenal) seems to be alright and is okay to carry on.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Mathias Jensen (Brentford) trips an opposition player and David Coote signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:31",
+            "comments_type": "goal",
+            "comments_text": "Goal! Granit Xhaka clips a neat ball into the box in the direction of Gabriel Jesus (Arsenal), who jumps highest and steers a bullet header from the centre of the box into the top of the net. David Raya had no chance of stopping that. 0:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] clips a neat ball into the box in the direction of [PLAYER] Jesus ([TEAM]), who jumps highest and steers a bullet header from the centre of the box into the top of the net. [PLAYER] had no chance of stopping that. 0:2."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:35",
+            "comments_type": "shot off target",
+            "comments_text": "Bukayo Saka (Arsenal) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:01",
+            "comments_type": "wcl-icon-settings-info-rounded",
+            "comments_text": "35:65 – the ratio of ball possession.",
+            "comments_text_anonymized": "35:65 – the ratio of ball possession."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:13",
+            "comments_type": "clearance",
+            "comments_text": "Josh Dasilva (Brentford) tries to send a pass but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:11",
+            "comments_type": "clearance",
+            "comments_text": "Bryan Mbeumo (Brentford) flights in the cross, but the defender is alert and clears to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:53",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Brentford.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:02",
+            "comments_type": "clearance",
+            "comments_text": "Josh Dasilva (Brentford) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:56",
+            "comments_type": "corner",
+            "comments_text": "Mathias Jensen (Brentford) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:42",
+            "comments_type": "ball possession",
+            "comments_text": "Arsenal seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:41",
+            "comments_type": "shot off target",
+            "comments_text": "Kieran Tierney (Arsenal) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "2 additional min. will be played.",
+            "comments_text_anonymized": "2 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:56",
+            "comments_type": "end of half game",
+            "comments_text": "The first half of today's match has just finished.",
+            "comments_text_anonymized": "The first half of today's match has just finished."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The whistle blows and David Coote starts the second half.",
+            "comments_text_anonymized": "The whistle blows and [REFEREE] starts the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:20",
+            "comments_type": "ball possession",
+            "comments_text": "Thomas Partey (Arsenal) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:40",
+            "comments_type": "goal",
+            "comments_text": "Goal! Fabio Vieira (Arsenal) receives a precise pass and produces a wonderful long-range shot! His incredible effort beats the surprised goalkeeper and goes into the right side of the goal via the post.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) receives a precise pass and produces a wonderful long-range shot! His incredible effort beats the surprised goalkeeper and goes into the right side of the goal via the post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Gabriel Martinelli (Arsenal) is penalised for holding. David Coote signals a set piece.",
+            "comments_text_anonymized": "[PLAYER] [PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Mathias Jensen (Brentford) jumps into a tackle and David Coote blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:10",
+            "comments_type": "corner",
+            "comments_text": "Arsenal fail to score from a corner as David Raya (Brentford) leaps to collect the ball.",
+            "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:30",
+            "comments_type": "yellow card",
+            "comments_text": "Granit Xhaka (Arsenal) behaves unsportingly.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) behaves unsportingly."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:31",
+            "comments_type": "yellow card",
+            "comments_text": "That's a clear yellow card. Granit Xhaka (Arsenal) goes into the book.",
+            "comments_text_anonymized": "That's a clear yellow card. [PLAYER] ([TEAM]) goes into the book."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:51",
+            "comments_type": "corner",
+            "comments_text": "Arsenal take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:55",
+            "comments_type": "corner",
+            "comments_text": "Brentford can’t profit from the corner as the defence clear the ball upfield.",
+            "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:05",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Frank Onyeka (Brentford) comes on in place of Vitaly Janelt.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:26",
+            "comments_type": "substitution",
+            "comments_text": "Thomas Frank has decided to substitute Josh Dasilva and he is replaced by Mikkel Damsgaard (Brentford).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:52",
+            "comments_type": "ball possession",
+            "comments_text": "Neat passing move from Arsenal in order to create new attacking opportunities.",
+            "comments_text_anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:02",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "David Raya pulls off a great save to deny Bukayo Saka (Arsenal), who makes himself some space inside the box and unleashes a quick shot to the top left corner.",
+            "comments_text_anonymized": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the top left corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:37",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Mathias Jensen leaves the pitch and is replaced by Shandon Baptiste (Brentford).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:22",
+            "comments_type": "shot off target",
+            "comments_text": "Gabriel (Arsenal) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:22",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mikkel Damsgaard (Brentford) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Aaron Ramsdale pulls off an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote blows his whistle after Frank Onyeka (Brentford) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:22",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Bryan Mbeumo walks off the pitch and Yoane Wissa (Brentford) comes on as a substitute.",
+            "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:36",
+            "comments_type": "substitution",
+            "comments_text": "Mikel Arteta decides to make a substitution. Thomas Partey will be replaced by Albert Sambi Lokonga (Arsenal).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:51",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Gabriel Martinelli goes off and Eddie Nketiah (Arsenal) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:51",
+            "comments_type": "off side",
+            "comments_text": "Ivan Toney (Brentford) fails to beat the offside trap and the linesman puts his flag up.",
+            "comments_text_anonymized": "Ivan [PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:25",
+            "comments_type": "off side",
+            "comments_text": "Shandon Baptiste (Brentford) is adjudged offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:49",
+            "comments_type": "clearance",
+            "comments_text": "Eddie Nketiah (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:28",
+            "comments_type": "substitution",
+            "comments_text": "Ben White goes off the pitch and Takehiro Tomiyasu (Arsenal) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:16",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "The opposition back off Gabriel Jesus (Arsenal), who needs no second invitation to shoot from inside the box. It's a decent effort towards the bottom left corner, but David Raya denies him with the save.",
+            "comments_text_anonymized": "The opposition back off [PLAYER] Jesus ([TEAM]), who needs no second invitation to shoot from inside the box. It's a decent effort towards the bottom left corner, but [PLAYER] denies him with the save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:08",
+            "comments_type": "foul with no card",
+            "comments_text": "An opponent rises to his feet after being downed by Frank Onyeka (Brentford). David Coote saw the sliding tackle and blows for a foul.",
+            "comments_text_anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:57",
+            "comments_type": "yellow card",
+            "comments_text": "Gabriel Jesus (Arsenal) is punished with a yellow card for violating the rules.",
+            "comments_text_anonymized": "[PLAYER] Jesus ([TEAM]) is punished with a yellow card for violating the rules."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 4 min. of added time.",
+            "comments_text_anonymized": "We will have 4 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:58",
+            "comments_type": "shot off target",
+            "comments_text": "Ivan Toney (Brentford) bangs in a header at goal from near the penalty spot after a decent cross, but it lacks power and accuracy and spins well past the left post.",
+            "comments_text_anonymized": "Ivan [PLAYER] ([TEAM]) bangs in a header at goal from near the penalty spot after a decent cross, but it lacks power and accuracy and spins well past the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:16",
+            "comments_type": "substitution",
+            "comments_text": "Mikel Arteta prepares a substitution. Fabio Vieira is replaced by Ethan Nwaneri (Arsenal).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:38",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Bukayo Saka makes way for Marquinhos (Arsenal).",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:40",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}

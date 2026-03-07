@@ -1,0 +1,1282 @@
+{
+    "match_info": {
+        "timestamp": "2020-10-29 04:00:00",
+        "score": "5 - 0",
+        "home_team": "Manchester Utd",
+        "away_team": "RB Leipzig",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 1 - 4 - 1",
+        "venue": "Old Trafford (Manchester)",
+        "capacity": "75 635",
+        "attendance": "",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Vincic S. (Slo)",
+        "first_name": "Vincic",
+        "abbr_last_name": "S",
+        "country": "Slo",
+        "detected_name": "Slavko Vincic"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Solskjaer O. G.",
+                "players_number": "",
+                "Full Name": "Ole Gunnar Solskjaer",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "coach",
+                "Age and Birthdate": "50,  (26.02.1973)",
+                "Market Value": "",
+                "unicode": "bmlavhkb"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Bailly E.",
+                "players_number": "",
+                "Full Name": "Eric Bailly",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (12.04.1994)",
+                "Market Value": "€3.1m",
+                "unicode": "G8VcNrxU"
+            },
+            {
+                "players_name": "Jones P.",
+                "players_number": "",
+                "Full Name": "Phil Jones",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (21.02.1992)",
+                "Market Value": "",
+                "unicode": "tOqz9FFa"
+            },
+            {
+                "players_name": "Lingard J.",
+                "players_number": "",
+                "Full Name": "Jesse Lingard",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€5.5m, (15.12.1992)",
+                "Market Value": "",
+                "unicode": "xpqeeiSB"
+            },
+            {
+                "players_name": "Telles A.",
+                "players_number": "",
+                "Full Name": "Alex Telles",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (15.12.1992)",
+                "Market Value": "€6.7m",
+                "unicode": "G0TATC32"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "de Gea D. (G)",
+                "players_number": "1",
+                "Full Name": "David de Gea",
+                "players_rating": 7.0,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (07.11.1990)",
+                "Market Value": "",
+                "unicode": "d6AEQ6OD"
+            },
+            {
+                "players_name": "Fred",
+                "players_number": "17",
+                "Full Name": "Fred",
+                "players_rating": 7.5,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€18.3m",
+                "unicode": "2kuP6src"
+            },
+            {
+                "players_name": "Greenwood M.",
+                "players_number": "11",
+                "Full Name": "Mason Greenwood",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (01.10.2001)",
+                "Market Value": "€7.4m",
+                "unicode": "hxe108Jl"
+            },
+            {
+                "players_name": "Lindelof V.",
+                "players_number": "2",
+                "Full Name": "Victor Lindelof",
+                "players_rating": 6.5,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (17.07.1994)",
+                "Market Value": "€17.4m",
+                "unicode": "OIp0Le1f"
+            },
+            {
+                "players_name": "Maguire H. (C)",
+                "players_number": "5",
+                "Full Name": "Harry Maguire",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€19.6m",
+                "unicode": "xG8v3YRA"
+            },
+            {
+                "players_name": "Martial A.",
+                "players_number": "9",
+                "Full Name": "Anthony Martial",
+                "players_rating": 9.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€14.3m",
+                "unicode": "GrS6Vr75"
+            },
+            {
+                "players_name": "Matic N.",
+                "players_number": "31",
+                "Full Name": "Nemanja Matic",
+                "players_rating": 6.9,
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (01.08.1988)",
+                "Market Value": "€3.4m",
+                "unicode": "Kty10JVG"
+            },
+            {
+                "players_name": "Pogba P.",
+                "players_number": "6",
+                "Full Name": "Paul Pogba",
+                "players_rating": 8.2,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.03.1993)",
+                "Market Value": "€13.7m",
+                "unicode": "MTNGv0hT"
+            },
+            {
+                "players_name": "Shaw L.",
+                "players_number": "23",
+                "Full Name": "Luke Shaw",
+                "players_rating": 7.9,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (12.07.1995)",
+                "Market Value": "€37.2m",
+                "unicode": "88iLXV0O"
+            },
+            {
+                "players_name": "van de Beek D.",
+                "players_number": "34",
+                "Full Name": "Donny van de Beek",
+                "players_rating": 6.9,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (18.04.1997)",
+                "Market Value": "€8.0m",
+                "unicode": "bs2gvblF"
+            },
+            {
+                "players_name": "Wan-Bissaka A.",
+                "players_number": "29",
+                "Full Name": "Aaron Wan-Bissaka",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (26.11.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "faGmGOOh"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Cavani E.",
+                "players_number": "7",
+                "Full Name": "Edinson Cavani",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (14.02.1987)",
+                "Market Value": "€1.8m",
+                "unicode": "Qgx2trzH"
+            },
+            {
+                "players_name": "Fernandes B.",
+                "players_number": "18",
+                "Full Name": "Bruno Fernandes",
+                "players_rating": 7.6,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€77.4m",
+                "unicode": "GYvAMDm2"
+            },
+            {
+                "players_name": "McTominay S.",
+                "players_number": "39",
+                "Full Name": "Scott McTominay",
+                "players_rating": 6.5,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (08.12.1996)",
+                "Market Value": "€27.8m",
+                "unicode": "A7S3y397"
+            },
+            {
+                "players_name": "Rashford M.",
+                "players_number": "10",
+                "Full Name": "Marcus Rashford",
+                "players_rating": 9.0,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (31.10.1997)",
+                "Market Value": "€69.5m",
+                "unicode": "COnT2Lh0"
+            },
+            {
+                "players_name": "Tuanzebe A.",
+                "players_number": "38",
+                "Full Name": "Axel Tuanzebe",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€2.4m",
+                "unicode": "l21PrfBG"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Fosu-Mensah T.",
+                "players_number": "24",
+                "Full Name": "Timothy Fosu-Mensah",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (02.01.1998)",
+                "Market Value": "€1.3m",
+                "unicode": "2sJ8He5E"
+            },
+            {
+                "players_name": "Henderson D. (G)",
+                "players_number": "26",
+                "Full Name": "Dean Henderson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (12.03.1997)",
+                "Market Value": "€11.6m",
+                "unicode": "OpFOJojt"
+            },
+            {
+                "players_name": "Ighalo O.",
+                "players_number": "25",
+                "Full Name": "Odion Ighalo",
+                "players_rating": "",
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (16.06.1989)",
+                "Market Value": "€1.5m",
+                "unicode": "ITCY8iWq"
+            },
+            {
+                "players_name": "James D.",
+                "players_number": "21",
+                "Full Name": "Daniel James",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (10.11.1997)",
+                "Market Value": "",
+                "unicode": "UctCitdL"
+            },
+            {
+                "players_name": "Mata J.",
+                "players_number": "8",
+                "Full Name": "Juan Manuel Mata",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (28.04.1988)",
+                "Market Value": "€908k",
+                "unicode": "nHlv2UfS"
+            },
+            {
+                "players_name": "Mengi T.",
+                "players_number": "43",
+                "Full Name": "Teden Mengi",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (30.04.2002)",
+                "Market Value": "€6.7m",
+                "unicode": "pzv2zXZs"
+            },
+            {
+                "players_name": "Williams B.",
+                "players_number": "33",
+                "Full Name": "Brandon Williams",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.09.2000)",
+                "Market Value": "€3.4m",
+                "unicode": "UFLa9rtg"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Nagelsmann J.",
+                "players_number": "",
+                "Full Name": "Julian Nagelsmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "36,  (23.07.1987)",
+                "Market Value": "",
+                "unicode": "WrA6TDDO"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Haidara A.",
+                "players_number": "",
+                "Full Name": "Amadou Haidara",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (31.01.1998)",
+                "Market Value": "€16.6m",
+                "unicode": "lYg9oNUk"
+            },
+            {
+                "players_name": "Hartmann F.",
+                "players_number": "",
+                "Full Name": "Fabrice Hartmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (02.03.2001)",
+                "Market Value": "€214k",
+                "unicode": "KQJqoqW9"
+            },
+            {
+                "players_name": "Klostermann L.",
+                "players_number": "",
+                "Full Name": "Lukas Klostermann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.06.1996)",
+                "Market Value": "€7.5m",
+                "unicode": "KI3jSJTG"
+            },
+            {
+                "players_name": "Laimer K.",
+                "players_number": "",
+                "Full Name": "Konrad Laimer",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (27.05.1997)",
+                "Market Value": "€26.6m",
+                "unicode": "GlHWqQKJ"
+            },
+            {
+                "players_name": "Mukiele N.",
+                "players_number": "",
+                "Full Name": "Nordi Mukiele",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (01.11.1997)",
+                "Market Value": "€12.1m",
+                "unicode": "MoObMvb7"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Angelino",
+                "players_number": "3",
+                "Full Name": "Angelino",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (04.01.1997)",
+                "Market Value": "€7.8m",
+                "unicode": "GEGCuSA8"
+            },
+            {
+                "players_name": "Forsberg E.",
+                "players_number": "10",
+                "Full Name": "Emil Forsberg",
+                "players_rating": 6.3,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (23.10.1991)",
+                "Market Value": "€5.6m",
+                "unicode": "IehILnUA"
+            },
+            {
+                "players_name": "Gulacsi P. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Peter Gulacsi",
+                "players_rating": 5.9,
+                "Country": "Hungary",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (06.05.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "lYMcgOCg"
+            },
+            {
+                "players_name": "Halstenberg M.",
+                "players_number": "23",
+                "Full Name": "Marcel Halstenberg",
+                "players_rating": 5.8,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (27.09.1991)",
+                "Market Value": "€2.5m",
+                "unicode": "M905oPyB"
+            },
+            {
+                "players_name": "Henrichs B.",
+                "players_number": "39",
+                "Full Name": "Benjamin Henrichs",
+                "players_rating": 6.9,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (23.02.1997)",
+                "Market Value": "€20.4m",
+                "unicode": "xEK5LMdo"
+            },
+            {
+                "players_name": "Kampl K.",
+                "players_number": "44",
+                "Full Name": "Kevin Kampl",
+                "players_rating": 6.1,
+                "Country": "Slovenia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (09.10.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "ttXwlOTi"
+            },
+            {
+                "players_name": "Konate I.",
+                "players_number": "6",
+                "Full Name": "Ibrahima Konate",
+                "players_rating": 6.1,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (25.05.1999)",
+                "Market Value": "€37.7m",
+                "unicode": "QJlbDbQe"
+            },
+            {
+                "players_name": "Nkunku C.",
+                "players_number": "18",
+                "Full Name": "Christopher Nkunku",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (14.11.1997)",
+                "Market Value": "€72.3m",
+                "unicode": "8liaG2W0"
+            },
+            {
+                "players_name": "Olmo D.",
+                "players_number": "25",
+                "Full Name": "Dani Olmo",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (07.05.1998)",
+                "Market Value": "€52.5m",
+                "unicode": "2oVBOlPg"
+            },
+            {
+                "players_name": "Poulsen Y.",
+                "players_number": "9",
+                "Full Name": "Yussuf Poulsen",
+                "players_rating": 6.5,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (15.06.1994)",
+                "Market Value": "€6.4m",
+                "unicode": "SrWbvhrI"
+            },
+            {
+                "players_name": "Upamecano D.",
+                "players_number": "5",
+                "Full Name": "Dayot Upamecano",
+                "players_rating": 6.4,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (27.10.1998)",
+                "Market Value": "€58.7m",
+                "unicode": "OMhLhEJB"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Kluivert J.",
+                "players_number": "21",
+                "Full Name": "Justin Kluivert",
+                "players_rating": 6.0,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (05.05.1999)",
+                "Market Value": "€10.5m",
+                "unicode": "fq4lU5sI"
+            },
+            {
+                "players_name": "Sabitzer M.",
+                "players_number": "7",
+                "Full Name": "Marcel Sabitzer",
+                "players_rating": 5.3,
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (17.03.1994)",
+                "Market Value": "€20.7m",
+                "unicode": "8UkK3Y37"
+            },
+            {
+                "players_name": "Sorloth A.",
+                "players_number": "19",
+                "Full Name": "Alexander Sorloth",
+                "players_rating": 6.2,
+                "Country": "Norway",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (05.12.1995)",
+                "Market Value": "€13.7m",
+                "unicode": "QwqgNkTP"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Adams T.",
+                "players_number": "14",
+                "Full Name": "Tyler Adams",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (14.02.1999)",
+                "Market Value": "€17.1m",
+                "unicode": "CWnkAe9t"
+            },
+            {
+                "players_name": "Borkowski D.",
+                "players_number": "41",
+                "Full Name": "Dennis Borkowski",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (26.01.2002)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "2k9lp3oG"
+            },
+            {
+                "players_name": "Hwang Hee-Chan",
+                "players_number": "11",
+                "Full Name": "Hee-Chan Hwang",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (26.01.1996)",
+                "Market Value": "€22.2m",
+                "unicode": "Sbw02Q2l"
+            },
+            {
+                "players_name": "Martel E.",
+                "players_number": "45",
+                "Full Name": "Eric Martel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "21, (29.04.2002)",
+                "Market Value": "€8.6m",
+                "unicode": "pOwJWWP0"
+            },
+            {
+                "players_name": "Martinez J. (G)",
+                "players_number": "33",
+                "Full Name": "Josep Martinez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (27.05.1998)",
+                "Market Value": "€3.9m",
+                "unicode": "n5XVsSqd"
+            },
+            {
+                "players_name": "Orban W.",
+                "players_number": "4",
+                "Full Name": "Willi Orban",
+                "players_rating": "",
+                "Country": "Hungary",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (03.11.1992)",
+                "Market Value": "€10.2m",
+                "unicode": "WQdSnUfq"
+            },
+            {
+                "players_name": "Samardzic L.",
+                "players_number": "20",
+                "Full Name": "Lazar Samardzic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (24.02.2002)",
+                "Market Value": "€18.7m",
+                "unicode": "ba7y6F3c"
+            },
+            {
+                "players_name": "Tschauner P. (G)",
+                "players_number": "13",
+                "Full Name": "Philipp Tschauner",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "38, (03.11.1985)",
+                "Market Value": "",
+                "unicode": "hfLisoSL"
+            },
+            {
+                "players_name": "Wosz J.",
+                "players_number": "47",
+                "Full Name": "Joscha Wosz",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (20.07.2002)",
+                "Market Value": "30.06.2024",
+                "unicode": "YVYNgXnI"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun.",
+            "comments_text_anonymized": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups for this match have been revealed.",
+            "comments_text_anonymized": "The starting lineups for this match have been revealed."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Slavko Vincic.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "RB Leipzig will kick-off.",
+            "comments_text_anonymized": "[TEAM] will kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:56",
+            "comments_type": "foul with no card",
+            "comments_text": "Kevin Kampl (RB Leipzig) gives away a foul for a clumsy challenge. Referee Slavko Vincic saw the whole situation. Manchester Utd earn a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. [TEAM] earn a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:27",
+            "comments_type": "lead to corner",
+            "comments_text": "Peter Gulacsi stretches to his left and makes a brilliant save! Fred (Manchester United) met a rebound outside the box and attempted to beat the keeper inside the right post. The linesman makes the right call and Manchester Utd will have a corner.",
+            "comments_text_anonymized": "[PLAYER] stretches to his left and makes a brilliant save! [PLAYER] ([TEAM]) met a rebound outside the box and attempted to beat the keeper inside the right post. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:52",
+            "comments_type": "corner",
+            "comments_text": "Manchester Utd quickly take a corner kick with a short pass.",
+            "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:20",
+            "comments_type": "clearance",
+            "comments_text": "Luke Shaw (Manchester United) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:34",
+            "comments_type": "clearance",
+            "comments_text": "Anthony Martial (Manchester United) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Harry Maguire (Manchester United) was too fierce in his attempt to get the ball from his opponent and Slavko Vincic blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:54",
+            "comments_type": "clearance",
+            "comments_text": "What a great touch by Emil Forsberg (RB Leipzig) as he controls a fine pass into the box and takes a shot to the centre of the goal, but an opposing player makes a clearance. Great defending.",
+            "comments_text_anonymized": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the centre of the goal, but an opposing player makes a clearance. Great defending."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Victor Lindelof (Manchester United) trips an opposition player and Slavko Vincic signals a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic blows his whistle for a foul after Ibrahima Konate (RB Leipzig) hacks down one of his opponents.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:17",
+            "comments_type": "foul with no card",
+            "comments_text": "Mason Greenwood (Manchester United) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:41",
+            "comments_type": "foul with no card",
+            "comments_text": "Emil Forsberg (RB Leipzig) commits a foul and Slavko Vincic immediately signals a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:05",
+            "comments_type": "foul with no card",
+            "comments_text": "Nemanja Matic (Manchester United) makes a bad challenge and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:42",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic blows his whistle and signals a foul after Kevin Kampl (RB Leipzig) brought his opponent down.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:58",
+            "comments_type": "goal",
+            "comments_text": "Mason Greenwood (Manchester United) changes the scoreline after getting on the end of a brilliant pass and firing a precise shot that goes inside the right post!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the scoreline after getting on the end of a brilliant pass and firing a precise shot that goes inside the right post!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:58",
+            "comments_type": "var",
+            "comments_text": "Hold on! There’s a VAR review to see whether there was an offside in the build up to the goal. The referee is checking now. The Manchester Utd players aren’t happy.",
+            "comments_text_anonymized": "Hold on! There’s a VAR review to see whether there was an offside in the build up to the goal. The referee is checking now. The [TEAM] players aren’t happy."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:43",
+            "comments_type": "goal",
+            "comments_text": "Referee Slavko Vincic points to the centre spot to indicate that the goal stands after the VAR review. Mason Greenwood (Manchester United) goes wild in celebration.",
+            "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. [PLAYER] ([TEAM]) goes wild in celebration."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Christopher Nkunku (RB Leipzig) receives a precise low pass inside the box, controls the ball and releases it towards the top right corner. Unfortunately for him, David de Gea makes a great save to stop his effort. The ball goes out of play and RB Leipzig have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise low pass inside the box, controls the ball and releases it towards the top right corner. Unfortunately for him, [PLAYER] makes a great save to stop his effort. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:29",
+            "comments_type": "corner",
+            "comments_text": "There's an opportunity for Christopher Nkunku (RB Leipzig) to deliver the ball into the box from a corner.",
+            "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic blows his whistle and it's Marcel Halstenberg (RB Leipzig) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:14",
+            "comments_type": "foul with no card",
+            "comments_text": "Victor Lindelof (Manchester United) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Foul! Paul Pogba (Manchester United) is penalised for pulling back his opponent. There is a free kick near the sideline to RB Leipzig.",
+            "comments_text_anonymized": "Foul! [PLAYER] ([TEAM]) is penalised for pulling back his opponent. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:50",
+            "comments_type": "clearance",
+            "comments_text": "The resulting set piece, sent into the penalty area by Christopher Nkunku (RB Leipzig), was easily dealt with by one of the defenders.",
+            "comments_text_anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:21",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic blows his whistle as Dayot Upamecano (RB Leipzig) used excessive force in the tackle during an attack.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:18",
+            "comments_type": "clearance",
+            "comments_text": "Angelino (RB Leipzig) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Ibrahima Konate (RB Leipzig) should know this behaviour is beyond the rules. He was too careless with his challenge and left Slavko Vincic no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:21",
+            "comments_type": "yellow card",
+            "comments_text": "This yellow card was deserved. The tackle by Nemanja Matic (Manchester United) was quite harsh and Slavko Vincic didn't hesitate to show him a yellow card.",
+            "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:54",
+            "comments_type": "foul with no card",
+            "comments_text": "Victor Lindelof (Manchester United) commits a rough foul. Slavko Vincic stops the game and makes a call.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Christopher Nkunku (RB Leipzig) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:12",
+            "comments_type": "shot off target",
+            "comments_text": "Dani Olmo (RB Leipzig) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:50",
+            "comments_type": "clearance",
+            "comments_text": "Angelino (RB Leipzig) sends a teasing cross into the area, but David de Gea intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:29",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic blows his whistle after Benjamin Henrichs (RB Leipzig) brings one of his opponents down with a strong tackle.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:57",
+            "comments_type": "foul with no card",
+            "comments_text": "Christopher Nkunku (RB Leipzig) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Victor Lindelof (Manchester United) fouls an opponent during an attacking move.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent during an attacking move."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:44",
+            "comments_type": "lead to corner",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Benjamin Henrichs (RB Leipzig). The ball is out of play and the linesman points at the corner flag. Corner to RB Leipzig.",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:39",
+            "comments_type": "corner",
+            "comments_text": "Ibrahima Konate (RB Leipzig) will deliver the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:40",
+            "comments_type": "ball out of play",
+            "comments_text": "Angelino (RB Leipzig) fails to pick a body out in the box with an over-hit chip pass. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "1 additional min. will be played.",
+            "comments_text_anonymized": "1 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:10",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Benjamin Henrichs (RB Leipzig) makes an unfair challenge by holding his opponent to prevent him from getting the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an unfair challenge by holding his opponent to prevent him from getting the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:20",
+            "comments_type": "yellow card",
+            "comments_text": "Benjamin Henrichs (RB Leipzig) is booked after bringing down an opponent. Slavko Vincic had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:09",
+            "comments_type": "clearance",
+            "comments_text": "Yussuf Poulsen (RB Leipzig) tries to send a pass but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:07",
+            "comments_type": "lead to corner",
+            "comments_text": "Mason Greenwood (Manchester United) does well to control a poor pass on the edge of the box then shoots towards the right side of the goal. Peter Gulacsi is out of position but leaps to make a brilliant save. The linesman points to the corner flag, Manchester Utd are going to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does well to control a poor pass on the edge of the box then shoots towards the right side of the goal. [PLAYER] is out of position but leaps to make a brilliant save. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:12",
+            "comments_type": "corner",
+            "comments_text": "Luke Shaw (Manchester United) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Nemanja Matic (Manchester United) makes a rough challenge and Slavko Vincic blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:07",
+            "comments_type": "foul with no card",
+            "comments_text": "Ibrahima Konate (RB Leipzig) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:24",
+            "comments_type": "foul with no card",
+            "comments_text": "Paul Pogba (Manchester United) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Emil Forsberg (RB Leipzig) sends a lofted cross into the box which is headed clear. Corner kick. RB Leipzig will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:08",
+            "comments_type": "corner",
+            "comments_text": "Christopher Nkunku (RB Leipzig) takes the corner, but it's intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:16",
+            "comments_type": "shot off target",
+            "comments_text": "The ball is played back to Paul Pogba (Manchester United), who controls it instantly and releases a piledriver from long range, but the shot lacks accuracy and drifts well wide of the left post. The ball goes out of play and RB Leipzig will have a goal kick.",
+            "comments_text_anonymized": "The ball is played back to [PLAYER] ([TEAM]), who controls it instantly and releases a piledriver from long range, but the shot lacks accuracy and drifts well wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:37",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Nemanja Matic makes his way off the pitch and Scott McTominay (Manchester United) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:48",
+            "comments_type": "substitution",
+            "comments_text": "Ole Gunnar Solskjaer has decided to introduce fresh legs, with Marcus Rashford (Manchester United) replacing Mason Greenwood.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:37",
+            "comments_type": "substitution",
+            "comments_text": "The manager has decided to make a substitution and Benjamin Henrichs walks off the pitch to be replaced by Marcel Sabitzer (RB Leipzig).",
+            "comments_text_anonymized": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:56",
+            "comments_type": "substitution",
+            "comments_text": "Julian Nagelsmann prepares a substitution. Christopher Nkunku is replaced by Alexander Sorloth (RB Leipzig).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:34",
+            "comments_type": "corner",
+            "comments_text": "The corner from Angelino (RB Leipzig) is intercepted by the defence.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:33",
+            "comments_type": "off side",
+            "comments_text": "The linesman signals that Alexander Sorloth (RB Leipzig) is offside and the referee confirms the decision.",
+            "comments_text_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "substitution",
+            "comments_text": "That will be all from Donny van de Beek who is being replaced by the fresh legs of Bruno Fernandes (Manchester United).",
+            "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Slavko Vincic has a clear sight and sees a foul from Marcel Halstenberg (RB Leipzig). Manchester Utd get a free kick.",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). [TEAM] get a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:55",
+            "comments_type": "free kick",
+            "comments_text": "Bruno Fernandes (Manchester United) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Kevin Kampl (RB Leipzig) brings his opponent down with a tackle and Slavko Vincic blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Harry Maguire (Manchester United) is penalised for a foul. Slavko Vincic had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:40",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Bruno Fernandes (Manchester United) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:40",
+            "comments_type": "var",
+            "comments_text": "Manchester Utd score a goal, but the referee signals a VAR review. This could get tense.",
+            "comments_text_anonymized": "[TEAM] score a goal, but the referee signals a VAR review. This could get tense."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:36",
+            "comments_type": "goal",
+            "comments_text": "Marcus Rashford (Manchester United) receives a delightful pass inside the box and smashes a low shot into the bottom right corner. What a clinical finish!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a delightful pass inside the box and smashes a low shot into the bottom right corner. What a clinical finish!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:56",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Justin Kluivert (RB Leipzig) is brought on as a substitute for Kevin Kampl.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:52",
+            "comments_type": "yellow card",
+            "comments_text": "Justin Kluivert (RB Leipzig) sees a yellow card. He should be more careful because one more challenge like that could result in a red card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card. He should be more careful because one more challenge like that could result in a red card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:38",
+            "comments_type": "goal",
+            "comments_text": "Goal! It's a catastrophic error from the opponent which has gifted a chance to Marcus Rashford (Manchester United), who rolls the ball into the back of the net from close range. 3:0.",
+            "comments_text_anonymized": "Goal! It's a catastrophic error from the opponent which has gifted a chance to [PLAYER] ([TEAM]), who rolls the ball into the back of the net from close range. 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Angelino (RB Leipzig) serves up a nice cross, but the defence clears the danger. The ball goes behind for a corner. RB Leipzig will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:17",
+            "comments_type": "corner",
+            "comments_text": "Emil Forsberg (RB Leipzig) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:18",
+            "comments_type": "shot off target",
+            "comments_text": "Alexander Sorloth (RB Leipzig) climbs high to connect with a perfect cross and sends his header just over the bar. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) climbs high to connect with a perfect cross and sends his header just over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:40",
+            "comments_type": "substitution",
+            "comments_text": "Ole Gunnar Solskjaer decides to make a substitution. Aaron Wan-Bissaka will be replaced by Axel Tuanzebe (Manchester United).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:06",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Edinson Cavani (Manchester United) is on for Paul Pogba.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:50",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag. Angelino (RB Leipzig) is adjudged offside.",
+            "comments_text_anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:42",
+            "comments_type": "shot off target",
+            "comments_text": "Fantastic run and shot from mid-range by Marcus Rashford (Manchester United), but a defender denies him an almost certain goal by getting his body in the way.",
+            "comments_text_anonymized": "Fantastic run and shot from mid-range by [PLAYER] ([TEAM]), but a defender denies him an almost certain goal by getting his body in the way."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:52",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Slavko Vincic blows the whistle, Marcel Sabitzer (RB Leipzig) is penalised for a foul. That is a penalty kick for Manchester Utd.",
+            "comments_text_anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. That is a penalty kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:55",
+            "comments_type": "yellow card",
+            "comments_text": "Marcel Sabitzer (RB Leipzig) has tested the patience of referee Slavko Vincic and goes into the book for a previous late challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:40",
+            "comments_type": "penalty",
+            "comments_text": "Anthony Martial (Manchester United) is going to take the penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:58",
+            "comments_type": "goal",
+            "comments_text": "Anthony Martial (Manchester United) slots the ball past the goalkeeper's back after a well-executed penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slots the ball past the goalkeeper's back after a well-executed penalty!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "4 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Luke Shaw (Manchester United) brings an opponent down and Slavko Vincic interrupts the game.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:57",
+            "comments_type": "goal",
+            "comments_text": "Marcus Rashford (Manchester United) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and nets low into the middle of the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and nets low into the middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:11",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for the final time to end this match.",
+            "comments_text_anonymized": "The referee blows his whistle for the final time to end this match."
+        }
+    ]
+}

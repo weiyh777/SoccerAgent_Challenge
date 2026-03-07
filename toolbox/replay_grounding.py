@@ -6,7 +6,7 @@ from PIL import Image
 import cv2
 import os
 
-PROJECT_PATH = "YOUR_PROJECT_PATH"  # Replace with your actual project path
+PROJECT_PATH = "/root/autodl-tmp/SoccerAgent"  # Replace with your actual project path
 
 import subprocess
 def compress_video(input_video_path, output_video_path, target_width=224, target_height=400, target_fps=1, codec="libx264"):
@@ -73,7 +73,7 @@ def chat_video(input_text, Instruction, video_path, model=vlm_model, processor=v
         print("CUDA memory overflow detected. Compressing video and retrying...")
         compressed_video_paths = []
         for i, video in enumerate(video_path):
-            compressed_video_path = f"HELPER_FILE/{i}.mp4" # Replace with your temporary path for compressed video
+            compressed_video_path = f"/root/autodl-tmp/SoccerAgent/helper_files/{i}.mp4" # Replace with your temporary path for compressed video
             os.makedirs(os.path.dirname(compressed_video_path), exist_ok=True)
             compress_video(video, compressed_video_path, target_width=168, target_height=300, target_fps=0.5)
             compressed_video_paths.append(compressed_video_path)

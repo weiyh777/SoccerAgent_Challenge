@@ -1,0 +1,1329 @@
+{
+    "match_info": {
+        "timestamp": "2020-10-31 21:00:00",
+        "score": "4 - 1",
+        "home_team": "Real Madrid",
+        "away_team": "Huesca",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 4 - 2",
+        "venue": "Alfredo di Stéfano Stadium (Madrid)",
+        "capacity": "6 000",
+        "attendance": "",
+        "home_jersey_color": "white",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Fuertes P. (Esp)",
+        "first_name": "Fuertes",
+        "abbr_last_name": "P",
+        "country": "Esp",
+        "detected_name": "Pablo Gonzalez Fuertes"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Michel",
+                "players_number": "",
+                "Full Name": "Michel",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "coach",
+                "Age and Birthdate": "48,  (30.10.1975)",
+                "Market Value": "",
+                "unicode": "02EXFpEP"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Lopez P.",
+                "players_number": "",
+                "Full Name": "Pedro Lopez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (01.11.1983)",
+                "Market Value": "",
+                "unicode": "rLZhKwwm"
+            },
+            {
+                "players_name": "Okazaki S.",
+                "players_number": "",
+                "Full Name": "Shinji Okazaki",
+                "players_rating": "",
+                "Country": "Japan",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (16.04.1986)",
+                "Market Value": "€136k",
+                "unicode": "U5aDPZ44"
+            },
+            {
+                "players_name": "Rico M.",
+                "players_number": "",
+                "Full Name": "Mikel Rico",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (04.11.1984)",
+                "Market Value": "€187k",
+                "unicode": "Ys1orKzo"
+            },
+            {
+                "players_name": "Valera A.",
+                "players_number": "",
+                "Full Name": "Antonio Valera",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (17.08.1996)",
+                "Market Value": "",
+                "unicode": "2VQTzOJe"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Fernandez A. (G)",
+                "players_number": "25",
+                "Full Name": "Alvaro Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "25, (13.04.1998)",
+                "Market Value": "€1.9m",
+                "unicode": "tfywn0Ad"
+            },
+            {
+                "players_name": "Garcia B.",
+                "players_number": "24",
+                "Full Name": "Borja Garcia",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.11.1990)",
+                "Market Value": "€936k",
+                "unicode": "zykU1WK6"
+            },
+            {
+                "players_name": "Gomez S.",
+                "players_number": "10",
+                "Full Name": "Sergio Gomez",
+                "players_rating": 6.3,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (04.09.2000)",
+                "Market Value": "€10.1m",
+                "unicode": "fmGvlHVM"
+            },
+            {
+                "players_name": "Luisinho",
+                "players_number": "16",
+                "Full Name": "Luisinho",
+                "players_rating": 6.2,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (05.05.1985)",
+                "Market Value": "",
+                "unicode": "0EATxjSA"
+            },
+            {
+                "players_name": "Maffeo P.",
+                "players_number": "3",
+                "Full Name": "Pablo Maffeo",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (12.07.1997)",
+                "Market Value": "€7.6m",
+                "unicode": "KvHXl88g"
+            },
+            {
+                "players_name": "Mir R.",
+                "players_number": "9",
+                "Full Name": "Rafa Mir",
+                "players_rating": 6.8,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (18.06.1997)",
+                "Market Value": "€4.6m",
+                "unicode": "IXRaCzVt"
+            },
+            {
+                "players_name": "Mosquera P.",
+                "players_number": "5",
+                "Full Name": "Pedro Mosquera Parada",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (21.04.1988)",
+                "Market Value": "€374k",
+                "unicode": "Qe9vaSDP"
+            },
+            {
+                "players_name": "Nwakali K.",
+                "players_number": "26",
+                "Full Name": "Kelechi Nwakali",
+                "players_rating": 6.3,
+                "Country": "Nigeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (05.06.1998)",
+                "Market Value": "€794k",
+                "unicode": "dIyCJFHi"
+            },
+            {
+                "players_name": "Ontiveros J.",
+                "players_number": "15",
+                "Full Name": "Javier Ontiveros",
+                "players_rating": 6.5,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (09.09.1997)",
+                "Market Value": "€1.4m",
+                "unicode": "lAD5z2Ck"
+            },
+            {
+                "players_name": "Pulido J. (C)",
+                "players_number": "14",
+                "Full Name": "Jorge Pulido",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.04.1991)",
+                "Market Value": "€1.2m",
+                "unicode": "fsjkK41s"
+            },
+            {
+                "players_name": "Siovas D.",
+                "players_number": "18",
+                "Full Name": "Dimitrios Siovas",
+                "players_rating": 6.0,
+                "Country": "Greece",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.09.1988)",
+                "Market Value": "€391k",
+                "unicode": "WzHBybWs"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Eugeni",
+                "players_number": "8",
+                "Full Name": "",
+                "players_rating": 6.4,
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "nB4pB0yc"
+            },
+            {
+                "players_name": "Ferreiro D.",
+                "players_number": "7",
+                "Full Name": "David Ferreiro",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "€272k, (01.04.1988)",
+                "Market Value": "30.06.2024",
+                "unicode": "K0tng1sH"
+            },
+            {
+                "players_name": "Galan J.",
+                "players_number": "11",
+                "Full Name": "Javi Galan",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (19.11.1994)",
+                "Market Value": "€6.6m",
+                "unicode": "t8GDN709"
+            },
+            {
+                "players_name": "Ramirez S.",
+                "players_number": "6",
+                "Full Name": "Sandro Ramirez",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (09.07.1995)",
+                "Market Value": "€1.5m",
+                "unicode": "fapXP9VS"
+            },
+            {
+                "players_name": "Silva G.",
+                "players_number": "22",
+                "Full Name": "Gaston Silva",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (05.03.1994)",
+                "Market Value": "€2.4m",
+                "unicode": "IaLG39Fq"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Doumbia I.",
+                "players_number": "2",
+                "Full Name": "Idrissa Doumbia",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (14.04.1998)",
+                "Market Value": "€1.6m",
+                "unicode": "0vWUtgVS"
+            },
+            {
+                "players_name": "Escriche D.",
+                "players_number": "23",
+                "Full Name": "Daniel Escriche",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (24.03.1998)",
+                "Market Value": "€1.1m",
+                "unicode": "baZ7aMTa"
+            },
+            {
+                "players_name": "Insua P.",
+                "players_number": "4",
+                "Full Name": "Pablo Insua",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (09.09.1993)",
+                "Market Value": "€979k",
+                "unicode": "2PZuGsll"
+            },
+            {
+                "players_name": "Juan Carlos",
+                "players_number": "21",
+                "Full Name": "Juan Carlos",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (15.03.1991)",
+                "Market Value": "€964k",
+                "unicode": "hOHz50Op"
+            },
+            {
+                "players_name": "Seoane J.",
+                "players_number": "20",
+                "Full Name": "Jaime Seoane",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (22.01.1997)",
+                "Market Value": "€1.8m",
+                "unicode": "fTaJnuP8"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Zidane Z.",
+                "players_number": "",
+                "Full Name": "Zinedine Zidane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "51,  (23.06.1972)",
+                "Market Value": "",
+                "unicode": "b7zuQEqO"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Carvajal D.",
+                "players_number": "",
+                "Full Name": "Daniel Carvajal",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (11.01.1992)",
+                "Market Value": "€12.1m",
+                "unicode": "rZh5FTHE"
+            },
+            {
+                "players_name": "Fernandez N.",
+                "players_number": "",
+                "Full Name": "Nacho Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (18.01.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "8Wp8ZCLG"
+            },
+            {
+                "players_name": "Odegaard M.",
+                "players_number": "",
+                "Full Name": "Martin Odegaard",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (17.12.1998)",
+                "Market Value": "€90.6m",
+                "unicode": "ID32TGhp"
+            },
+            {
+                "players_name": "Odriozola A.",
+                "players_number": "",
+                "Full Name": "Alvaro Odriozola",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.12.1995)",
+                "Market Value": "€2.9m",
+                "unicode": "0zO9SfkA"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Asensio M.",
+                "players_number": "11",
+                "Full Name": "Marco Asensio",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.01.1996)",
+                "Market Value": "€19.3m",
+                "unicode": "GQMMQo6m"
+            },
+            {
+                "players_name": "Benzema K.",
+                "players_number": "9",
+                "Full Name": "Karim Benzema",
+                "players_rating": 8.7,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "€15.9m",
+                "unicode": "tpV0VX0S"
+            },
+            {
+                "players_name": "Casemiro",
+                "players_number": "14",
+                "Full Name": "Casemiro",
+                "players_rating": 6.8,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (23.02.1992)",
+                "Market Value": "€30.4m",
+                "unicode": "Ukeq3c0b"
+            },
+            {
+                "players_name": "Courtois T. (G)",
+                "players_number": "1",
+                "Full Name": "Thibaut Courtois",
+                "players_rating": 6.6,
+                "Country": "Belgium",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (11.05.1992)",
+                "Market Value": "€35.7m",
+                "unicode": "MVExOq3n"
+            },
+            {
+                "players_name": "Hazard E.",
+                "players_number": "7",
+                "Full Name": "Eden Hazard",
+                "players_rating": 6.8,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (07.01.1991)",
+                "Market Value": "",
+                "unicode": "QH2of5sJ"
+            },
+            {
+                "players_name": "Lucas",
+                "players_number": "17",
+                "Full Name": "Lucas Vazquez",
+                "players_rating": 7.6,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (01.07.1991)",
+                "Market Value": "€5.0m",
+                "unicode": "pEjBDsSH"
+            },
+            {
+                "players_name": "Marcelo",
+                "players_number": "12",
+                "Full Name": "Marcelo",
+                "players_rating": 8.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (12.05.1988)",
+                "Market Value": "€1.4m",
+                "unicode": "zmAm2AEH"
+            },
+            {
+                "players_name": "Militao E.",
+                "players_number": "3",
+                "Full Name": "Eder Militao",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (18.01.1998)",
+                "Market Value": "€67.5m",
+                "unicode": "zX2Rm9YG"
+            },
+            {
+                "players_name": "Modric L.",
+                "players_number": "10",
+                "Full Name": "Luka Modric",
+                "players_rating": 7.6,
+                "Country": "Croatia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (09.09.1985)",
+                "Market Value": "€10.5m",
+                "unicode": "bZWyoJnA"
+            },
+            {
+                "players_name": "Ramos S. (C)",
+                "players_number": "4",
+                "Full Name": "Sergio Ramos",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "37, (30.03.1986)",
+                "Market Value": "€4.0m",
+                "unicode": "db8mbBaO"
+            },
+            {
+                "players_name": "Valverde F.",
+                "players_number": "15",
+                "Full Name": "Federico Valverde",
+                "players_rating": 7.9,
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (22.07.1998)",
+                "Market Value": "€105.0m",
+                "unicode": "nscfER6B"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Isco",
+                "players_number": "22",
+                "Full Name": "Isco",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (21.04.1992)",
+                "Market Value": "€8.2m",
+                "unicode": "ULLmpdEb"
+            },
+            {
+                "players_name": "Kroos T.",
+                "players_number": "8",
+                "Full Name": "Toni Kroos",
+                "players_rating": 6.2,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (04.01.1990)",
+                "Market Value": "€14.3m",
+                "unicode": "CloE7jjr"
+            },
+            {
+                "players_name": "Mendy F.",
+                "players_number": "23",
+                "Full Name": "Ferland Mendy",
+                "players_rating": 6.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (08.06.1995)",
+                "Market Value": "€19.3m",
+                "unicode": "KnytnSKl"
+            },
+            {
+                "players_name": "Rodrygo",
+                "players_number": "25",
+                "Full Name": "Rodrygo",
+                "players_rating": 7.1,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.01.2001)",
+                "Market Value": "€103.5m",
+                "unicode": "zPUyR5Up"
+            },
+            {
+                "players_name": "Vinicius Junior",
+                "players_number": "20",
+                "Full Name": "Vinicius Junior",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (12.07.2000)",
+                "Market Value": "€163.8m",
+                "unicode": "CbwQ4Mws"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Altube D. (G)",
+                "players_number": "26",
+                "Full Name": "Diego Altube",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "23, (22.02.2000)",
+                "Market Value": "€655k",
+                "unicode": "MTtvMZbP"
+            },
+            {
+                "players_name": "Diaz M.",
+                "players_number": "24",
+                "Full Name": "Mariano Diaz",
+                "players_rating": "",
+                "Country": "Dominican Republic",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (01.08.1993)",
+                "Market Value": "€1.8m",
+                "unicode": "OQ6UIbu1"
+            },
+            {
+                "players_name": "Jovic L.",
+                "players_number": "18",
+                "Full Name": "Luka Jovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (23.12.1997)",
+                "Market Value": "€4.6m",
+                "unicode": "viIS0FT7"
+            },
+            {
+                "players_name": "Lunin A. (G)",
+                "players_number": "13",
+                "Full Name": "Andriy Lunin",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "24, (11.02.1999)",
+                "Market Value": "€8.1m",
+                "unicode": "0S7ye9jr"
+            },
+            {
+                "players_name": "Santos S.",
+                "players_number": "40",
+                "Full Name": "Sergio Santos Fernandez",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (03.01.2001)",
+                "Market Value": "",
+                "unicode": "QkoJZyaM"
+            },
+            {
+                "players_name": "Varane R.",
+                "players_number": "5",
+                "Full Name": "Raphael Varane",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.04.1993)",
+                "Market Value": "€24.1m",
+                "unicode": "t20vQIvC"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun.",
+            "comments_text_anonymized": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The referee of today's match will be Pablo Gonzalez Fuertes.",
+            "comments_text_anonymized": "The referee of today's match will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Real Madrid will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle and we are underway.",
+            "comments_text_anonymized": "The referee blows his whistle and we are underway."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "clearance",
+            "comments_text": "Luka Modric (Real Madrid) sends a teasing cross into the area, but Andres Fernandez intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but Andres [PLAYER] intercepts the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Decent spell from Real Madrid here and they keep the pressure on until one of the defending players steps in. Real Madrid earn a corner.",
+            "comments_text_anonymized": "Decent spell from [TEAM] here and they keep the pressure on until one of the defending players steps in. [TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:55",
+            "comments_type": "corner",
+            "comments_text": "Real Madrid work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:30",
+            "comments_type": "clearance",
+            "comments_text": "Huesca are showing great team-chemistry. They are passing the ball around seamlessly but finally one of the defending players makes an interception.",
+            "comments_text_anonymized": "[TEAM] are showing great team-chemistry. They are passing the ball around seamlessly but finally one of the defending players makes an interception."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:20",
+            "comments_type": "ball out of play",
+            "comments_text": "Lucas (Real Madrid) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball is out of play. Real Madrid will have a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:49",
+            "comments_type": "shot off target",
+            "comments_text": "Rafa Mir (Huesca) makes a good run with the ball, but his shot from the edge of the penalty area goes just wide of the right post. Terrific solo effort, though. The ball goes out of play and Real Madrid will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a good run with the ball, but his shot from the edge of the penalty area goes just wide of the right post. Terrific solo effort, though. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:04",
+            "comments_type": "shot off target",
+            "comments_text": "The opposition give Javier Ontiveros (Huesca) far too much space and he has a go from long range, but the goal isn't threatened as the ball goes well wide of the left post. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "comments_text_anonymized": "The opposition give [PLAYER] ([TEAM]) far too much space and he has a go from long range, but the goal isn't threatened as the ball goes well wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:04",
+            "comments_type": "off side",
+            "comments_text": "Eden Hazard (Real Madrid) is flagged for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:24",
+            "comments_type": "ball possession",
+            "comments_text": "A long pass, executed by Marco Asensio (Real Madrid), missed the precision to reach his teammates.",
+            "comments_text_anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:13",
+            "comments_type": "foul with no card",
+            "comments_text": "Pablo Gonzalez Fuertes blows his whistle after Lucas Vazquez (Real Madrid) brings one of his opponents down with a strong tackle. Huesca are awarded a free kick. Let's see what they create from this.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:00",
+            "comments_type": "ball possession",
+            "comments_text": "Huesca are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error.",
+            "comments_text_anonymized": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Marco Asensio (Real Madrid) crosses the ball into the box, but one of the defending players averts the threat. Real Madrid will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:50",
+            "comments_type": "corner",
+            "comments_text": "A cross from a corner kick by Real Madrid is too strong and the ball goes well out of play.",
+            "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Real Madrid have a free kick. Rafa Mir (Huesca) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "comments_text_anonymized": "[TEAM] have a free kick. [PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:53",
+            "comments_type": "shot off target",
+            "comments_text": "Eden Hazard (Real Madrid) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar. The ball is off of the pitch and it's a goal kick for Huesca.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:54",
+            "comments_type": "off side",
+            "comments_text": "Huesca are ruled offside.",
+            "comments_text_anonymized": "[TEAM] are ruled offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:33",
+            "comments_type": "ball possession",
+            "comments_text": "Real Madrid players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "comments_text_anonymized": "[TEAM] players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:49",
+            "comments_type": "clearance",
+            "comments_text": "Marcelo (Real Madrid) serves up a nice cross, but Andres Fernandez punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but Andres [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:16",
+            "comments_type": "foul with no card",
+            "comments_text": "Real Madrid concede a free kick after one of their players holds onto an opposition player. Huesca will take a free kick.",
+            "comments_text_anonymized": "[TEAM] concede a free kick after one of their players holds onto an opposition player. [TEAM] will take a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:14",
+            "comments_type": "shot off target",
+            "comments_text": "The ball rebounds to Federico Valverde (Real Madrid) and he shoots from distance, but the keeper calmly watches it drift well wide of the left post.",
+            "comments_text_anonymized": "The ball rebounds to [PLAYER] ([TEAM]) and he shoots from distance, but the keeper calmly watches it drift well wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:50",
+            "comments_type": "ball possession",
+            "comments_text": "Casemiro (Real Madrid) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:01",
+            "comments_type": "foul with no card",
+            "comments_text": "One of the Huesca players was holding his opponent and the referee doesn't hesitate to blow his whistle. A free kick to Real Madrid.",
+            "comments_text_anonymized": "One of the [TEAM] players was holding his opponent and the referee doesn't hesitate to blow his whistle. A free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:43",
+            "comments_type": "free kick",
+            "comments_text": "Marco Asensio (Real Madrid) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:35",
+            "comments_type": "corner",
+            "comments_text": "Real Madrid take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:54",
+            "comments_type": "off side",
+            "comments_text": "One of the players from Real Madrid times his run too early and the referee blows his whistle for offside.",
+            "comments_text_anonymized": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Javier Ontiveros Parra (Huesca) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball goes out for a corner. Huesca can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] Parra ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:10",
+            "comments_type": "corner",
+            "comments_text": "Huesca failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:00",
+            "comments_type": "shot off target",
+            "comments_text": "Sergio Gomez (Huesca) latches onto a cross inside the box but fires a poor effort high over the bar. The ball goes out of play and Real Madrid will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto a cross inside the box but fires a poor effort high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:13",
+            "comments_type": "clearance",
+            "comments_text": "Lucas (Real Madrid) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross, but he can't find any teammate inside the box. Poor delivery."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:08",
+            "comments_type": "foul with no card",
+            "comments_text": "The foul by Rafa Mir (Huesca) was seen by Pablo Gonzalez Fuertes who didn't hesitate to blow the whistle. Real Madrid have a free kick.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:50",
+            "comments_type": "clearance",
+            "comments_text": "Marcelo (Real Madrid) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:40",
+            "comments_type": "ball possession",
+            "comments_text": "Real Madrid are showing great team chemistry. They are passing the ball around seamlessly.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:26",
+            "comments_type": "clearance",
+            "comments_text": "Luka Modric (Real Madrid) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:30",
+            "comments_type": "clearance",
+            "comments_text": "Eden Hazard (Real Madrid) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:46",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Pablo Maffeo (Huesca) swings a cross into the box, but it's far too close to Thibaut Courtois, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:50",
+            "comments_type": "ball possession",
+            "comments_text": "Real Madrid spell of possession comes to an end after a mistake.",
+            "comments_text_anonymized": "[TEAM] spell of possession comes to an end after a mistake."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:50",
+            "comments_type": "clearance",
+            "comments_text": "Luka Modric (Real Madrid) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:40",
+            "comments_type": "goal",
+            "comments_text": "Eden Hazard (Real Madrid) receives a brilliant pass and hammers the ball inside the left post. It couldn't have gone in a better place. What a beautiful long-range goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a brilliant pass and hammers the ball inside the left post. It couldn't have gone in a better place. What a beautiful long-range goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Pablo Gonzalez Fuertes blows his whistle. Eden Hazard (Real Madrid) commits a foul after dangerous play. There is a free kick near the sideline to Huesca.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:46",
+            "comments_type": "clearance",
+            "comments_text": "Huesca are enjoying a spell of pressure at the moment, but one of the defenders gets it clear.",
+            "comments_text_anonymized": "[TEAM] are enjoying a spell of pressure at the moment, but one of the defenders gets it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:44",
+            "comments_type": "goal",
+            "comments_text": "Lucas sends a precise lofted cross into the box. Karim Benzema (Real Madrid) latches on to it and finishes with a quick low shot into the middle of the goal. The goalkeeper had no chance. The score changes to 2:0.",
+            "comments_text_anonymized": "[PLAYER] sends a precise lofted cross into the box. [PLAYER] ([TEAM]) latches on to it and finishes with a quick low shot into the middle of the goal. The goalkeeper had no chance. The score changes to 2:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:02",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "comments_text_anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The second half has just started.",
+            "comments_text_anonymized": "The second half has just started."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Sergio Gomez (Huesca) is replaced by David Ferreiro.",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] ([TEAM]) is replaced by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Half-time substitution. Michel decided to make a change. Javier Ontiveros Parra (Huesca) is replaced by Javier Galan.",
+            "comments_text_anonymized": "Half-time substitution. [PLAYER] decided to make a change. [PLAYER] Parra ([TEAM]) is replaced by Javier [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:20",
+            "comments_type": "ball possession",
+            "comments_text": "A spell of possession for Huesca in an attempt to control the game.",
+            "comments_text_anonymized": "A spell of possession for [TEAM] in an attempt to control the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:28",
+            "comments_type": "clearance",
+            "comments_text": "Pablo Maffeo (Huesca) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "ball out of play",
+            "comments_text": "The cross into the penalty area from Pablo Maffeo (Huesca) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball goes out of play and Real Madrid will have a goal kick.",
+            "comments_text_anonymized": "The cross into the penalty area from [PLAYER] ([TEAM]) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Fede Valverde (Real Madrid) tackles a bit over-zealously and Pablo Gonzalez Fuertes blows for a foul. Huesca earn a free kick.",
+            "comments_text_anonymized": "Fede [PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul. [TEAM] earn a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:50",
+            "comments_type": "substitution",
+            "comments_text": "Lucas will be replaced by Ferland Mendy (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:20",
+            "comments_type": "goal",
+            "comments_text": "A good lofted pass from Karim Benzema finds Federico Valverde (Real Madrid) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up in the bottom left corner. The score is now 3:0.",
+            "comments_text_anonymized": "A good lofted pass from [PLAYER] finds [PLAYER] ([TEAM]) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up in the bottom left corner. The score is now 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:30",
+            "comments_type": "corner",
+            "comments_text": "Huesca are enjoying possession, but one of the opposition players steps in to end the sequence. Huesca have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[TEAM] are enjoying possession, but one of the opposition players steps in to end the sequence. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:55",
+            "comments_type": "corner",
+            "comments_text": "Huesca failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:20",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Kelechi Nwakali goes off and Sandro Ramirez (Huesca) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:10",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Borja Garcia is going off and Michel gives the last tactical orders to Eugeni (Huesca).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:35",
+            "comments_type": "foul with no card",
+            "comments_text": "Casemiro (Real Madrid) trips an opponent with a slide tackle. Pablo Gonzalez Fuertes stops the game and he could give him a card, but eventually decides on just a warning. Huesca win a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. [TEAM] win a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:43",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Huesca couldn't find the way to score from a long-range free kick as Thibaut Courtois (Real Madrid) leaped high and intercepted a cross.",
+            "comments_text_anonymized": "[TEAM] couldn't find the way to score from a long-range free kick as [PLAYER] ([TEAM]) leaped high and intercepted a cross."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:52",
+            "comments_type": "substitution",
+            "comments_text": "Eden Hazard comes off the pitch to be replaced by Junior Vinicius (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by Junior [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:33",
+            "comments_type": "substitution",
+            "comments_text": "Zinedine Zidane prepares a substitution. Federico Valverde is replaced by Isco (Real Madrid).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:40",
+            "comments_type": "substitution",
+            "comments_text": "The manager makes a subsitution with Rodrygo (Real Madrid) coming on for Marco Asensio.",
+            "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:44",
+            "comments_type": "ball possession",
+            "comments_text": "A long pass, executed by Pablo Maffeo (Huesca), missed the precision to reach his teammates.",
+            "comments_text_anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:00",
+            "comments_type": "statistics and summary",
+            "comments_text": "The ball possession is 57:43.",
+            "comments_text_anonymized": "The ball possession is 57:43."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "corner",
+            "comments_text": "Luka Modric (Real Madrid) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:52",
+            "comments_type": "foul with no card",
+            "comments_text": "Pablo Gonzalez Fuertes blows his whistle as Sergio Ramos (Real Madrid) used excessive force in the tackle during an attack.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:01",
+            "comments_type": "clearance",
+            "comments_text": "The ball is cleared after Isco (Real Madrid) attempted to dribble past an opposing player.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:10",
+            "comments_type": "ball possession",
+            "comments_text": "Real Madrid string together a series of short passes.",
+            "comments_text_anonymized": "[TEAM] string together a series of short passes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross from Rodrygo (Real Madrid) fails to reach the box as the defence clears the ball away to safety. Now Real Madrid have a corner.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. Now [TEAM] have a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "corner",
+            "comments_text": "This corner kick is taken with a short pass by Luka Modric (Real Madrid).",
+            "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:38",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Toni Kroos (Real Madrid) is coming onto the pitch as Casemiro cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:10",
+            "comments_type": "clearance",
+            "comments_text": "Junior Vinicius (Real Madrid) sends in a pass which fails to reach any of his teammates.",
+            "comments_text_anonymized": "Junior [PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:57",
+            "comments_type": "statistics and summary",
+            "comments_text": "The shots on goal statistics – 6:2.",
+            "comments_text_anonymized": "The shots on goal statistics – 6:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:35",
+            "comments_type": "foul with no card",
+            "comments_text": "Real Madrid concede a free kick following a bad challenge.",
+            "comments_text_anonymized": "[TEAM] concede a free kick following a bad challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:16",
+            "comments_type": "goal",
+            "comments_text": "What a wonderful finish! David Ferreiro (Huesca) latches on to an inch-perfect cross into the box and smashes the ball inside the right post. There are not enough superlatives to describe that goal.",
+            "comments_text_anonymized": "What a wonderful finish! [PLAYER] ([TEAM]) latches on to an inch-perfect cross into the box and smashes the ball inside the right post. There are not enough superlatives to describe that goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:39",
+            "comments_type": "ball possession",
+            "comments_text": "Real Madrid are seeing far more of the ball now.",
+            "comments_text_anonymized": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:00",
+            "comments_type": "ball possession",
+            "comments_text": "Some great controlled play and passing from Huesca. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "Some great controlled play and passing from [TEAM]. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:42",
+            "comments_type": "clearance",
+            "comments_text": "David Ferreiro (Huesca) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:02",
+            "comments_type": "yellow card",
+            "comments_text": "Dimitrios Siovas (Huesca) is rightly booked by the referee because it could not have been anything other than a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is rightly booked by the referee because it could not have been anything other than a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:45",
+            "comments_type": "clearance",
+            "comments_text": "Luka Modric (Real Madrid) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:06",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Isco (Real Madrid) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:24",
+            "comments_type": "statistics and summary",
+            "comments_text": "The statistic for corner kicks – 5:2.",
+            "comments_text_anonymized": "The statistic for corner kicks – 5:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:30",
+            "comments_type": "clearance",
+            "comments_text": "Karim Benzema (Real Madrid) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:53",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Luisinho will be replaced by Gaston Silva (Huesca).",
+            "comments_text_anonymized": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Isco (Real Madrid) brings his opponent down. Pablo Gonzalez Fuertes has a clear sight of it and blows his whistle for a foul. A free kick has been awarded to Huesca.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:13",
+            "comments_type": "clearance",
+            "comments_text": "The free kick from long range, taken by Huesca, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "The free kick from long range, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:00",
+            "comments_type": "clearance",
+            "comments_text": "Junior Vinicius (Real Madrid) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "Junior [PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Sandro Ramirez (Huesca) jumps into a tackle and Pablo Gonzalez Fuertes blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:50",
+            "comments_type": "yellow card",
+            "comments_text": "Sandro Ramirez (Huesca) gives the referee no choice but to show him a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives the referee no choice but to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:08",
+            "comments_type": "clearance",
+            "comments_text": "Isco (Real Madrid) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:30",
+            "comments_type": "goal",
+            "comments_text": "Goal! Rodrygo finds Karim Benzema (Real Madrid) and he shows great determination to get to the ball and plant a header into the back of the net. 4:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] finds [PLAYER] ([TEAM]) and he shows great determination to get to the ball and plant a header into the back of the net. 4:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 3 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 3 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:54",
+            "comments_type": "lead to corner",
+            "comments_text": "The free kick from long range, taken by Huesca, is intercepted by one of the defenders. Huesca will take a corner kick.",
+            "comments_text_anonymized": "The free kick from long range, taken by [TEAM], is intercepted by one of the defenders. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:02",
+            "comments_type": "corner",
+            "comments_text": "Huesca failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:30",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence had a hard time blocking out the strike from Luka Modric (Real Madrid). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Real Madrid win a corner.",
+            "comments_text_anonymized": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. [TEAM] win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:46",
+            "comments_type": "corner",
+            "comments_text": "Real Madrid failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:37",
+            "comments_type": "end of half game",
+            "comments_text": "Pablo Gonzalez Fuertes is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

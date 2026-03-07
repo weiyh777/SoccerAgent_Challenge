@@ -1,0 +1,911 @@
+{
+    "match_info": {
+        "timestamp": "2019-08-18 02:00:00",
+        "score": "3 - 0",
+        "home_team": "Metz",
+        "away_team": "Monaco",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Stade Saint-Symphorien (Metz)",
+        "capacity": "28 786",
+        "attendance": "19 088",
+        "home_jersey_color": "red",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Wattellier E. (Fra)",
+        "first_name": "Wattellier",
+        "abbr_last_name": "E",
+        "country": "Fra",
+        "detected_name": "Eric Wattellier"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Hognon V.",
+                "players_number": "",
+                "Full Name": "Vincent Hognon",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (16.08.1974)",
+                "Market Value": "",
+                "unicode": "pALHhtd1"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Yade P.",
+                "players_number": "",
+                "Full Name": "Papa Yade",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (05.01.2000)",
+                "Market Value": "€738k",
+                "unicode": "YDXsOUtq"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Angban V.",
+                "players_number": "5",
+                "Full Name": "Victorien Angban",
+                "players_rating": 6.8,
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (29.09.1996)",
+                "Market Value": "€1.4m",
+                "unicode": "r9uK1lje"
+            },
+            {
+                "players_name": "Boulaya F.",
+                "players_number": "27",
+                "Full Name": "Farid Boulaya",
+                "players_rating": 7.4,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (25.02.1993)",
+                "Market Value": "€2.1m",
+                "unicode": "CIwUPH56"
+            },
+            {
+                "players_name": "Boye J.",
+                "players_number": "21",
+                "Full Name": "John Boye",
+                "players_rating": 6.9,
+                "Country": "Ghana",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (23.04.1987)",
+                "Market Value": "",
+                "unicode": "Q9pMzP6b"
+            },
+            {
+                "players_name": "Centonze F.",
+                "players_number": "18",
+                "Full Name": "Fabien Centonze",
+                "players_rating": 8.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.01.1996)",
+                "Market Value": "€2.9m",
+                "unicode": "hYtVzJ13"
+            },
+            {
+                "players_name": "Cohade R. (C)",
+                "players_number": "24",
+                "Full Name": "Renaud Cohade",
+                "players_rating": 8.0,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "39, (29.09.1984)",
+                "Market Value": "",
+                "unicode": "882hRNX0"
+            },
+            {
+                "players_name": "Delaine T.",
+                "players_number": "17",
+                "Full Name": "Thomas Delaine",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.03.1992)",
+                "Market Value": "€1.1m",
+                "unicode": "tvY8ZVkb"
+            },
+            {
+                "players_name": "Diallo H.",
+                "players_number": "20",
+                "Full Name": "Habib Diallo",
+                "players_rating": 8.6,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.06.1995)",
+                "Market Value": "€11.6m",
+                "unicode": "QDDmLhK6"
+            },
+            {
+                "players_name": "Maiga H.",
+                "players_number": "19",
+                "Full Name": "Habib Maiga",
+                "players_rating": 7.5,
+                "Country": "Ivory Coast",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (01.01.1996)",
+                "Market Value": "€1.9m",
+                "unicode": "tEZGHJfR"
+            },
+            {
+                "players_name": "Nguette O.",
+                "players_number": "11",
+                "Full Name": "Opa Nguette",
+                "players_rating": 7.5,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.07.1994)",
+                "Market Value": "",
+                "unicode": "M7w629fP"
+            },
+            {
+                "players_name": "Oukidja A. (G)",
+                "players_number": "16",
+                "Full Name": "Alexandre Oukidja",
+                "players_rating": 8.2,
+                "Country": "Algeria",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (19.07.1988)",
+                "Market Value": "€489k",
+                "unicode": "tCw122Zu"
+            },
+            {
+                "players_name": "Sunzu S.",
+                "players_number": "13",
+                "Full Name": "Stoppila Sunzu",
+                "players_rating": 7.0,
+                "Country": "Zambia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (22.06.1989)",
+                "Market Value": "€122k",
+                "unicode": "hMcLnCHG"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Ambrose T.",
+                "players_number": "9",
+                "Full Name": "Thierry Ambrose",
+                "players_rating": "",
+                "Country": "Guadeloupe",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (28.03.1997)",
+                "Market Value": "€950k",
+                "unicode": "lUJAsncB"
+            },
+            {
+                "players_name": "Fofana M.",
+                "players_number": "6",
+                "Full Name": "Mamadou Fofana",
+                "players_rating": 6.5,
+                "Country": "Mali",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (21.01.1998)",
+                "Market Value": "€1.8m",
+                "unicode": "6944n3Fq"
+            },
+            {
+                "players_name": "Niane I.",
+                "players_number": "7",
+                "Full Name": "Ibrahima Niane",
+                "players_rating": 6.3,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (11.03.1999)",
+                "Market Value": "€1.4m",
+                "unicode": "ba3tpFaU"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Cabit M.",
+                "players_number": "28",
+                "Full Name": "Manuel Cabit",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (03.06.1993)",
+                "Market Value": "",
+                "unicode": "b9lPybFI"
+            },
+            {
+                "players_name": "Delecroix P. (G)",
+                "players_number": "1",
+                "Full Name": "Paul Delecroix",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (14.10.1988)",
+                "Market Value": "30.06.2024",
+                "unicode": "YLdYHaqN"
+            },
+            {
+                "players_name": "Gakpa M.",
+                "players_number": "10",
+                "Full Name": "Marvin Gakpa",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (03.11.1993)",
+                "Market Value": "€434k",
+                "unicode": "lYR7MO3c"
+            },
+            {
+                "players_name": "Lahssaini S.",
+                "players_number": "22",
+                "Full Name": "Sami Lahssaini",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (18.09.1998)",
+                "Market Value": "€369k",
+                "unicode": "Eakd8yZb"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Jardim L.",
+                "players_number": "",
+                "Full Name": "Leonardo Jardim",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (01.08.1974)",
+                "Market Value": "",
+                "unicode": "YDsWV60K"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Fabregas C.",
+                "players_number": "",
+                "Full Name": "Cesc Fabregas",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Coach",
+                "Age and Birthdate": "36, (04.05.1987)",
+                "Market Value": "",
+                "unicode": "YXIDwoe5"
+            },
+            {
+                "players_name": "Geubbels W.",
+                "players_number": "",
+                "Full Name": "Willem Geubbels",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (16.08.2001)",
+                "Market Value": "€1.9m",
+                "unicode": "Uu9euJUk"
+            },
+            {
+                "players_name": "Jovetic S.",
+                "players_number": "",
+                "Full Name": "Stevan Jovetic",
+                "players_rating": "",
+                "Country": "Montenegro",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (02.11.1989)",
+                "Market Value": "€1.2m",
+                "unicode": "Eq6mfXAQ"
+            },
+            {
+                "players_name": "Pellegri P.",
+                "players_number": "",
+                "Full Name": "Pietro Pellegri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (17.03.2001)",
+                "Market Value": "€3.2m",
+                "unicode": "v3hpfVmF"
+            },
+            {
+                "players_name": "Subasic D.",
+                "players_number": "",
+                "Full Name": "Danijel Subasic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (27.10.1984)",
+                "Market Value": "",
+                "unicode": "2meQdcrC"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Aguilar R.",
+                "players_number": "12",
+                "Full Name": "Ruben Aguilar",
+                "players_rating": 5.2,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (26.04.1993)",
+                "Market Value": "€5.9m",
+                "unicode": "Of80t1aH"
+            },
+            {
+                "players_name": "Badiashile B.",
+                "players_number": "32",
+                "Full Name": "Benoit Badiashile",
+                "players_rating": 7.5,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (26.03.2001)",
+                "Market Value": "€34.7m",
+                "unicode": "bqJ7TZrU"
+            },
+            {
+                "players_name": "Ballo-Toure F.",
+                "players_number": "2",
+                "Full Name": "Fode Ballo-Toure",
+                "players_rating": 6.5,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.01.1997)",
+                "Market Value": "€2.9m",
+                "unicode": "OGD2Gj7o"
+            },
+            {
+                "players_name": "Ben Yedder W.",
+                "players_number": "22",
+                "Full Name": "Wissam Ben Yedder",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (12.08.1990)",
+                "Market Value": "€9.9m",
+                "unicode": "hxf0pose"
+            },
+            {
+                "players_name": "Boschilia",
+                "players_number": "26",
+                "Full Name": "Boschilia",
+                "players_rating": 6.6,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€1.6m, (05.03.1996)",
+                "Market Value": "",
+                "unicode": "z3c0gCaO"
+            },
+            {
+                "players_name": "Glik K. (C)",
+                "players_number": "25",
+                "Full Name": "Kamil Glik",
+                "players_rating": 5.7,
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (03.02.1988)",
+                "Market Value": "€333k",
+                "unicode": "SbjTYCL0"
+            },
+            {
+                "players_name": "Golovin A.",
+                "players_number": "17",
+                "Full Name": "Aleksandr Golovin",
+                "players_rating": 7.1,
+                "Country": "Russia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.05.1996)",
+                "Market Value": "€30.6m",
+                "unicode": "WSP08bVp"
+            },
+            {
+                "players_name": "Jemerson",
+                "players_number": "5",
+                "Full Name": "Jemerson",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.08.1992)",
+                "Market Value": "€1.7m",
+                "unicode": "z1rJK4QK"
+            },
+            {
+                "players_name": "Lecomte B. (G)",
+                "players_number": "40",
+                "Full Name": "Benjamin Lecomte",
+                "players_rating": 7.8,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "32, (26.04.1991)",
+                "Market Value": "€3.9m",
+                "unicode": "Qe5HfcWe"
+            },
+            {
+                "players_name": "Martins G.",
+                "players_number": "11",
+                "Full Name": "Gelson Martins",
+                "players_rating": 6.8,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (11.05.1995)",
+                "Market Value": "€2.3m",
+                "unicode": "0huDHVTb"
+            },
+            {
+                "players_name": "Onyekuru H.",
+                "players_number": "7",
+                "Full Name": "Henry Onyekuru",
+                "players_rating": 6.2,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (05.06.1997)",
+                "Market Value": "€4.3m",
+                "unicode": "f1ZuTp99"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Balde K.",
+                "players_number": "14",
+                "Full Name": "Keita Balde",
+                "players_rating": 6.4,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (08.03.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "AZjB6SRt"
+            },
+            {
+                "players_name": "Foster L.",
+                "players_number": "35",
+                "Full Name": "Lyle Foster",
+                "players_rating": 5.7,
+                "Country": "South Africa",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (03.09.2000)",
+                "Market Value": "€12.5m",
+                "unicode": "Kh0tCZmg"
+            },
+            {
+                "players_name": "Gil Dias",
+                "players_number": "31",
+                "Full Name": "Gil Dias",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.09.1996)",
+                "Market Value": "€1.1m",
+                "unicode": "OCmkfGzL"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Benaglio D. (G)",
+                "players_number": "16",
+                "Full Name": "Diego Benaglio",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "40, (08.09.1983)",
+                "Market Value": "",
+                "unicode": "CMjm9EQF"
+            },
+            {
+                "players_name": "Panzo J.",
+                "players_number": "37",
+                "Full Name": "Jonathan Panzo",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (25.10.2000)",
+                "Market Value": "€1.1m",
+                "unicode": "0hP6YXUC"
+            },
+            {
+                "players_name": "Traore A.",
+                "players_number": "21",
+                "Full Name": "Adama Traore",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (28.06.1995)",
+                "Market Value": "",
+                "unicode": "f9wg26qB"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match.",
+            "comments_text_anonymized": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Eric Wattellier is the one to supervise the game today.",
+            "comments_text_anonymized": "[REFEREE] is the one to supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting lineups of both teams are already revealed and you can check them out in the details of this match.",
+            "comments_text_anonymized": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Metz will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The match has just started.",
+            "comments_text_anonymized": "The match has just started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:43",
+            "comments_type": "shot off target",
+            "comments_text": "Habibou Mouhamadou Diallo (Metz) evades the challenge and decides to shoot from distance, but it was a poor decision as the ball balloons high over the bar.",
+            "comments_text_anonymized": "Habibou Mouhamadou [PLAYER] ([TEAM]) evades the challenge and decides to shoot from distance, but it was a poor decision as the ball balloons high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:26",
+            "comments_type": "corner",
+            "comments_text": "Metz failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:16",
+            "comments_type": "corner",
+            "comments_text": "Metz earn a corner.",
+            "comments_text_anonymized": "[TEAM] earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:30",
+            "comments_type": "var",
+            "comments_text": "Referee Eric Wattellier makes the VAR signal and is going to check whether it’s a penalty for Metz. Let’s see what happens!",
+            "comments_text_anonymized": "Referee [REFEREE] makes the VAR signal and is going to check whether it’s a penalty for [TEAM]. Let’s see what happens!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:44",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "It’s a PENALTY to Metz after the VAR review!",
+            "comments_text_anonymized": "It’s a PENALTY to [TEAM] after the VAR review!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:20",
+            "comments_type": "yellow card",
+            "comments_text": "The referee shows the yellow card to Kamil Glik (Monaco).",
+            "comments_text_anonymized": "The referee shows the yellow card to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:24",
+            "comments_type": "penalty",
+            "comments_text": "Habib Diallo (Metz) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:32",
+            "comments_type": "goal",
+            "comments_text": "Goal! Habib Diallo (Metz) puts the penalty low into the middle of the goal and past Benjamin Lecomte.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) puts the penalty low into the middle of the goal and past [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:47",
+            "comments_type": "shot off target",
+            "comments_text": "A superb shot by Gabriel Boschilia (Monaco) after a mid-range free kick! His attempt, however, flies just over the crossbar.",
+            "comments_text_anonymized": "A superb shot by Gabriel [PLAYER] ([TEAM]) after a mid-range free kick! His attempt, however, flies just over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:32",
+            "comments_type": "foul with no card",
+            "comments_text": "Eric Wattellier blows his whistle and it's Jemerson (Monaco) who is penalised for an offensive foul. Good decision by the referee.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:23",
+            "comments_type": "clearance",
+            "comments_text": "Renaud Cohade (Metz) chips a pass over the line of defenders to get the ball to Habib Diallo, but his attempt is intercepted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) chips a pass over the line of defenders to get the ball to [PLAYER], but his attempt is intercepted and cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:19",
+            "comments_type": "",
+            "comments_text": "Fabien Centonze (Metz) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:56",
+            "comments_type": "yellow card",
+            "comments_text": "The booking goes to Fabien Centonze (Metz).",
+            "comments_text_anonymized": "The booking goes to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:31",
+            "comments_type": "free kick",
+            "comments_text": "Wissam Ben Yedder (Monaco) takes the free-kick from mid-range but it's blocked by the defensive wall.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free-kick from mid-range but it's blocked by the defensive wall."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:50",
+            "comments_type": "corner",
+            "comments_text": "The referee signals a corner kick to Monaco.",
+            "comments_text_anonymized": "The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:49",
+            "comments_type": "ball possession",
+            "comments_text": "Metz string together a series of short passes.",
+            "comments_text_anonymized": "[TEAM] string together a series of short passes."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:50",
+            "comments_type": "clearance",
+            "comments_text": "Wissam Ben Yedder (Monaco) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:12",
+            "comments_type": "red card",
+            "comments_text": "Ruben Aguilar (Monaco) is shown a harsh red card by the referee as his tackle warranted no more than a yellow card!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a harsh red card by the referee as his tackle warranted no more than a yellow card!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:51",
+            "comments_type": "yellow card",
+            "comments_text": "Is that a yellow card in the referee's hand? It is! Gelson Martins (Monaco) gets booked.",
+            "comments_text_anonymized": "Is that a yellow card in the referee's hand? It is! [PLAYER] ([TEAM]) gets booked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:11",
+            "comments_type": "corner",
+            "comments_text": "A snap shot by Thomas Delaine (Metz) from the edge of the area flies towards the top left corner, but Benjamin Lecomte produces a good save to thwart him. Metz have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "A snap shot by [PLAYER] ([TEAM]) from the edge of the area flies towards the top left corner, but [PLAYER] produces a good save to thwart him. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:24",
+            "comments_type": "corner",
+            "comments_text": "A corner kick by Metz is thwarted by the well prepared Benjamin Lecomte (Monaco).",
+            "comments_text_anonymized": "A corner kick by [TEAM] is thwarted by the well prepared [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:39",
+            "comments_type": "lead to corner",
+            "comments_text": "Henry Onyekuru (Monaco) races towards goal but the defender gets back well to make a challenge. Monaco force their opponents to concede a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:10",
+            "comments_type": "corner",
+            "comments_text": "Monaco fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air.",
+            "comments_text_anonymized": "[TEAM] fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "4 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:30",
+            "comments_type": "shot off target",
+            "comments_text": "Wasted effort! Farid Boulaya (Metz) finds himself some space, looks up but sends a dreadful shot high over the bar from long range.",
+            "comments_text_anonymized": "Wasted effort! [PLAYER] ([TEAM]) finds himself some space, looks up but sends a dreadful shot high over the bar from long range."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:05",
+            "comments_type": "end of half game",
+            "comments_text": "Eric Wattellier has ended the first half by blowing the whistle.",
+            "comments_text_anonymized": "[REFEREE] has ended the first half by blowing the whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Metz force a corner. They send men into the box. Thomas Delaine (Metz) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "comments_text_anonymized": "[TEAM] force a corner. They send men into the box. [PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:25",
+            "comments_type": "corner",
+            "comments_text": "Farid Boulaya (Metz) is heading toward the corner flag to take the set piece.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:00",
+            "comments_type": "ball possession",
+            "comments_text": "The Metz players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "comments_text_anonymized": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:36",
+            "comments_type": "goal",
+            "comments_text": "Goal! Habib Diallo (Metz) fires the rebound into the bottom left corner after the ball breaks to him in the box. The score is 2:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) fires the rebound into the bottom left corner after the ball breaks to him in the box. The score is 2:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Thomas Delaine (Metz) is penalised for a foul. Eric Wattellier had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:30",
+            "comments_type": "substitution",
+            "comments_text": "Leonardo Jardim has decided to make a change. Balde Keita (Monaco) replaces Gabriel Boschilia.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] Keita ([TEAM]) replaces Gabriel [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:05",
+            "comments_type": "clearance",
+            "comments_text": "Farid Boulaya (Metz) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:00",
+            "comments_type": "free kick",
+            "comments_text": "Free kick. Monaco will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:35",
+            "comments_type": "shot off target",
+            "comments_text": "Habib Maiga (Metz) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:20",
+            "comments_type": "goal",
+            "comments_text": "The ball rebounds and arrives at the feet of Renaud Cohade (Metz) just outside the box. He doesn't think twice and fires a brilliant shot into the bottom left corner. His attempt was beyond the reach of Benjamin Lecomte. 3:0.",
+            "comments_text_anonymized": "The ball rebounds and arrives at the feet of [PLAYER] ([TEAM]) just outside the box. He doesn't think twice and fires a brilliant shot into the bottom left corner. His attempt was beyond the reach of [PLAYER]. 3:0."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:28",
+            "comments_type": "substitution",
+            "comments_text": "Henry Onyekuru goes off the pitch and Gil Bastiao Dias (Monaco) comes on.",
+            "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] Bastiao Dias ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:06",
+            "comments_type": "substitution",
+            "comments_text": "Vincent Hognon has decided to introduce fresh legs, with Ibrahima Niane (Metz) replacing Opa Nguette.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:17",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Lyle Foster (Monaco) is on for Wissam Ben Yedder.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:09",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Mamadou Fofana (Metz) comes onto the pitch for Habib Maiga.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Gil Bastiao Dias (Monaco) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the top of the net, but Alexandre Oukidja makes a brilliant save! The ball goes out of play. Monaco are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] Bastiao Dias ([TEAM]) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the top of the net, but [PLAYER] makes a brilliant save! The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:03",
+            "comments_type": "corner",
+            "comments_text": "Monaco have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:56",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag as one of the players from Monaco was in an offside position.",
+            "comments_text_anonymized": "The linesman raises his flag as one of the players from [TEAM] was in an offside position."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:40",
+            "comments_type": "corner",
+            "comments_text": "Corner kick. Metz will have an opportunity.",
+            "comments_text_anonymized": "Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Farid Boulaya. He has contributed as much as he could today. He will be replaced by the fresh legs of Thierry Ambrose (Metz).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Lyle Foster (Monaco) blasts the ball from just outside the box, but his attempt is blocked by the defender. Monaco force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:23",
+            "comments_type": "corner",
+            "comments_text": "Monaco take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:24",
+            "comments_type": "free kick",
+            "comments_text": "A free kick has been awarded to Monaco.",
+            "comments_text_anonymized": "A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:20",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

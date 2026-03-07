@@ -1,0 +1,988 @@
+{
+    "match_info": {
+        "timestamp": "2017-09-09 01:00:00",
+        "score": "0 - 0",
+        "home_team": "Lille",
+        "away_team": "Bordeaux",
+        "home_formation": "4 - 5 - 1",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Stade Pierre-Mauroy (Villeneuve d'Ascq)",
+        "capacity": "50 186",
+        "attendance": "27 464",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Letexier F. (Fra)",
+        "first_name": "Letexier",
+        "abbr_last_name": "F",
+        "country": "Fra",
+        "detected_name": "Francois Letexier"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Gourvennec J.",
+                "players_number": "",
+                "Full Name": "Jocelyn Gourvennec",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "coach",
+                "Age and Birthdate": "51,  (22.03.1972)",
+                "Market Value": "",
+                "unicode": "2BM2LniQ"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Gajic M.",
+                "players_number": "",
+                "Full Name": "Milan Gajic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (28.01.1996)",
+                "Market Value": "€4.8m",
+                "unicode": "KzBi1eNF"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Costil B. (G)",
+                "players_number": "1",
+                "Full Name": "Benoit Costil",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (03.07.1987)",
+                "Market Value": "€749k",
+                "unicode": "nJFRpetb"
+            },
+            {
+                "players_name": "de Preville N.",
+                "players_number": "12",
+                "Full Name": "Nicolas de Preville",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (08.01.1991)",
+                "Market Value": "€363k",
+                "unicode": "6c7NpWon"
+            },
+            {
+                "players_name": "Jovanovic V.",
+                "players_number": "4",
+                "Full Name": "Vukasin Jovanovic",
+                "players_rating": 6.8,
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (17.05.1996)",
+                "Market Value": "€277k",
+                "unicode": "WKsd337J"
+            },
+            {
+                "players_name": "Kamano F.",
+                "players_number": "11",
+                "Full Name": "Francois Kamano",
+                "players_rating": 6.1,
+                "Country": "Guinea",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (02.05.1996)",
+                "Market Value": "€3.3m",
+                "unicode": "2DkHTsUk"
+            },
+            {
+                "players_name": "Lerager L.",
+                "players_number": "19",
+                "Full Name": "Lukas Lerager",
+                "players_rating": 6.9,
+                "Country": "Denmark",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.07.1993)",
+                "Market Value": "€3.0m",
+                "unicode": "GrCo5km3"
+            },
+            {
+                "players_name": "Malcom",
+                "players_number": "7",
+                "Full Name": "Malcom",
+                "players_rating": 7.8,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (26.02.1997)",
+                "Market Value": "€31.5m",
+                "unicode": "YFYwI0J1"
+            },
+            {
+                "players_name": "Otavio",
+                "players_number": "5",
+                "Full Name": "Otavio",
+                "players_rating": 6.8,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (04.05.1994)",
+                "Market Value": "€4.3m",
+                "unicode": "S65x67Po"
+            },
+            {
+                "players_name": "Pellenard T.",
+                "players_number": "21",
+                "Full Name": "Theo Pellenard",
+                "players_rating": 7.7,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (04.03.1994)",
+                "Market Value": "",
+                "unicode": "8Ka0CoOm"
+            },
+            {
+                "players_name": "Sabaly Y.",
+                "players_number": "20",
+                "Full Name": "Youssouf Sabaly",
+                "players_rating": 8.2,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (05.03.1993)",
+                "Market Value": "€4.0m",
+                "unicode": "vFNb1rQ5"
+            },
+            {
+                "players_name": "Sankhare Y.",
+                "players_number": "13",
+                "Full Name": "Younousse Sankhare",
+                "players_rating": 6.5,
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (10.09.1989)",
+                "Market Value": "",
+                "unicode": "OWQ4qnaG"
+            },
+            {
+                "players_name": "Toulalan J. (C)",
+                "players_number": "14",
+                "Full Name": "Jeremy Toulalan",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "40, (10.09.1983)",
+                "Market Value": "",
+                "unicode": "Yy3ES2U6"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Jonathan Cafu",
+                "players_number": "22",
+                "Full Name": "Jonathan Cafu",
+                "players_rating": 7.3,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (10.07.1991)",
+                "Market Value": "€323k",
+                "unicode": "4St8fvuL"
+            },
+            {
+                "players_name": "Laborde G.",
+                "players_number": "24",
+                "Full Name": "Gaetan Laborde",
+                "players_rating": 6.2,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (03.05.1994)",
+                "Market Value": "€14.7m",
+                "unicode": "KdLy7rKC"
+            },
+            {
+                "players_name": "Vada V.",
+                "players_number": "23",
+                "Full Name": "Valentin Vada",
+                "players_rating": 6.5,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (06.03.1996)",
+                "Market Value": "€1.4m",
+                "unicode": "pbrB5czO"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Lewczuk I.",
+                "players_number": "6",
+                "Full Name": "Igor Lewczuk",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (30.05.1985)",
+                "Market Value": "",
+                "unicode": "d6d5X9kq"
+            },
+            {
+                "players_name": "Mendy A.",
+                "players_number": "15",
+                "Full Name": "Alexandre Mendy",
+                "players_rating": "",
+                "Country": "Guinea-Bissau",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (20.03.1994)",
+                "Market Value": "€3.6m",
+                "unicode": "MN5RvsXp"
+            },
+            {
+                "players_name": "Plasil J.",
+                "players_number": "18",
+                "Full Name": "Jaroslav Plasil",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Coach",
+                "Age and Birthdate": "42, (05.01.1982)",
+                "Market Value": "",
+                "unicode": "MBnOLA4c"
+            },
+            {
+                "players_name": "Prior J. (G)",
+                "players_number": "30",
+                "Full Name": "Jerome Prior",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (08.08.1995)",
+                "Market Value": "",
+                "unicode": "bglZQ2NF"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Bielsa M.",
+                "players_number": "",
+                "Full Name": "Marcelo Bielsa",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "coach",
+                "Age and Birthdate": "68,  (21.07.1955)",
+                "Market Value": "",
+                "unicode": "8xZo4kDI"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Enyeama V.",
+                "players_number": "",
+                "Full Name": "Vincent Enyeama",
+                "players_rating": "",
+                "Country": "Nigeria",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (29.08.1982)",
+                "Market Value": "",
+                "unicode": "MiQCUE4t"
+            },
+            {
+                "players_name": "Mendes T.",
+                "players_number": "",
+                "Full Name": "Thiago Mendes",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.03.1992)",
+                "Market Value": "€4.5m",
+                "unicode": "ruoGJp6S"
+            },
+            {
+                "players_name": "Mendyl H.",
+                "players_number": "",
+                "Full Name": "Hamza Mendyl",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (21.10.1997)",
+                "Market Value": "€1.7m",
+                "unicode": "Gte7XCZl"
+            },
+            {
+                "players_name": "Soumaoro A.",
+                "players_number": "",
+                "Full Name": "Adama Soumaoro",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (18.06.1992)",
+                "Market Value": "€2.9m",
+                "unicode": "IgtuMDJi"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alonso J.",
+                "players_number": "3",
+                "Full Name": "Junior Alonso",
+                "players_rating": 7.3,
+                "Country": "Paraguay",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (09.02.1993)",
+                "Market Value": "€7.8m",
+                "unicode": "KpAuQGn2"
+            },
+            {
+                "players_name": "Amadou I. (C)",
+                "players_number": "6",
+                "Full Name": "Ibrahim Amadou",
+                "players_rating": 6.8,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (06.04.1993)",
+                "Market Value": "€950k",
+                "unicode": "69GWqGe3"
+            },
+            {
+                "players_name": "Benzia Y.",
+                "players_number": "10",
+                "Full Name": "Yassine Benzia",
+                "players_rating": 6.2,
+                "Country": "Algeria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€979k",
+                "unicode": "xKj4kBSJ"
+            },
+            {
+                "players_name": "Bissouma Y.",
+                "players_number": "21",
+                "Full Name": "Yves Bissouma",
+                "players_rating": 7.1,
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.08.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "CSdILBh7"
+            },
+            {
+                "players_name": "Edgar Ie",
+                "players_number": "15",
+                "Full Name": "Edgar Ie",
+                "players_rating": 7.9,
+                "Country": "Guinea-Bissau",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (01.05.1994)",
+                "Market Value": "€1.6m",
+                "unicode": "ITev9JWL"
+            },
+            {
+                "players_name": "El Ghazi A.",
+                "players_number": "7",
+                "Full Name": "Anwar El Ghazi",
+                "players_rating": 7.1,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "€2.9m, (03.05.1995)",
+                "Market Value": "30.06.2025",
+                "unicode": "fsRCsnjP"
+            },
+            {
+                "players_name": "Luiz Araujo",
+                "players_number": "11",
+                "Full Name": "Luiz Araujo",
+                "players_rating": 6.7,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (02.06.1996)",
+                "Market Value": "€4.9m",
+                "unicode": "bRaOhr7g"
+            },
+            {
+                "players_name": "Maignan M. (G)",
+                "players_number": "16",
+                "Full Name": "Mike Maignan",
+                "players_rating": 6.9,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (03.07.1995)",
+                "Market Value": "€43.4m",
+                "unicode": "S6gN2QNC"
+            },
+            {
+                "players_name": "Malcuit K.",
+                "players_number": "2",
+                "Full Name": "Kevin Malcuit",
+                "players_rating": 7.9,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (31.07.1991)",
+                "Market Value": "",
+                "unicode": "8z1jdvom"
+            },
+            {
+                "players_name": "Pepe N.",
+                "players_number": "19",
+                "Full Name": "Nicolas Pepe",
+                "players_rating": 7.4,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (29.05.1995)",
+                "Market Value": "€10.6m",
+                "unicode": "j3Hk0qEj"
+            },
+            {
+                "players_name": "Thiago Maia",
+                "players_number": "20",
+                "Full Name": "Thiago Maia",
+                "players_rating": 4.9,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (23.03.1997)",
+                "Market Value": "€5.7m",
+                "unicode": "bBDmhHIE"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Ballo-Toure F.",
+                "players_number": "25",
+                "Full Name": "Fode Ballo-Toure",
+                "players_rating": 7.1,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (03.01.1997)",
+                "Market Value": "€2.9m",
+                "unicode": "OGD2Gj7o"
+            },
+            {
+                "players_name": "Kouame R.",
+                "players_number": "29",
+                "Full Name": "Rominigue Kouame",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (17.12.1996)",
+                "Market Value": "€2.4m",
+                "unicode": "rBgx4Uxm"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bahlouli F.",
+                "players_number": "26",
+                "Full Name": "Fares Bahlouli",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (08.04.1995)",
+                "Market Value": "",
+                "unicode": "Qe8h8wkm"
+            },
+            {
+                "players_name": "Dabila K.",
+                "players_number": "33",
+                "Full Name": "Kouadio-Yves Dabila",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (01.01.1997)",
+                "Market Value": "€468k",
+                "unicode": "Ay44a1Ul"
+            },
+            {
+                "players_name": "Faraj I.",
+                "players_number": "14",
+                "Full Name": "Imad Faraj",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Forward",
+                "Age and Birthdate": "24, (11.02.1999)",
+                "Market Value": "€783k",
+                "unicode": "MglIb2Se"
+            },
+            {
+                "players_name": "Koffi H. (G)",
+                "players_number": "30",
+                "Full Name": "Herve Koffi",
+                "players_rating": "",
+                "Country": "Burkina Faso",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (16.10.1996)",
+                "Market Value": "€1.3m",
+                "unicode": "zchMcMs2"
+            },
+            {
+                "players_name": "Ponce E.",
+                "players_number": "9",
+                "Full Name": "Ezequiel Ponce",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (29.03.1997)",
+                "Market Value": "€2.7m",
+                "unicode": "6iP1N7x7"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Francois Letexier.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Lille will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Here we go, today's match is starting right now.",
+            "comments_text_anonymized": "Here we go, today's match is starting right now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Ibrahim Amadou (Lille) brings his opponent down. Francois Letexier has a clear sight of it and blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:44",
+            "comments_type": "yellow card",
+            "comments_text": "Otavio (Bordeaux) makes a bad challenge on his opponent and is booked by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:50",
+            "comments_type": "ball possession",
+            "comments_text": "Yassine Benzia (Lille) makes a driving run into the box but he cannot work any space for a shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:31",
+            "comments_type": "lead to corner",
+            "comments_text": "Luiz Araujo (Lille) attempts a long crossfield pass, but the defence does well to intercept the ball. Lille have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:23",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Lille is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:59",
+            "comments_type": "lead to corner",
+            "comments_text": "Anwar El-Ghazi (Lille) shoots from outside the box, but his effort is blocked. The referee signals a corner kick to Lille.",
+            "comments_text_anonymized": "Anwar [PLAYER]-Ghazi ([TEAM]) shoots from outside the box, but his effort is blocked. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:30",
+            "comments_type": "corner",
+            "comments_text": "Lille take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:35",
+            "comments_type": "clearance",
+            "comments_text": "Edgar Ie (Lille) sends a long cross over to Luiz Araujo, but Benoit Costil comes forward to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long cross over to [PLAYER], but [PLAYER] comes forward to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:26",
+            "comments_type": "ball out of play",
+            "comments_text": "Nicolas Pepe (Lille) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:18",
+            "comments_type": "yellow card",
+            "comments_text": "Thiago Maia (Lille) is booked after bringing down an opponent. Francois Letexier had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "lead to corner",
+            "comments_text": "A cross from a mid-range free kick, taken by Bordeaux, is intercepted by one of the defenders. Corner kick. Bordeaux will have an opportunity.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:37",
+            "comments_type": "corner",
+            "comments_text": "Bordeaux fail to score from a corner as Mike Maignan (Lille) leaps to collect the ball.",
+            "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:19",
+            "comments_type": "lead to corner",
+            "comments_text": "A fine lofted pass into the box, sent by Anwar El-Ghazi (Lille), is intercepted by the opposition's defence. The ball goes out of play. Lille are awarded a corner kick.",
+            "comments_text_anonymized": "A fine lofted pass into the box, sent by Anwar [PLAYER]-Ghazi ([TEAM]), is intercepted by the opposition's defence. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:09",
+            "comments_type": "corner",
+            "comments_text": "Anwar El-Ghazi (Lille) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "comments_text_anonymized": "Anwar [PLAYER]-Ghazi ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:50",
+            "comments_type": "shot off target",
+            "comments_text": "Junior Alonso (Lille) bravely wins the ball from the corner but can't direct it on target, sending it well wide of the left post from near the penalty spot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) bravely wins the ball from the corner but can't direct it on target, sending it well wide of the left post from near the penalty spot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:03",
+            "comments_type": "shot off target",
+            "comments_text": "Malcom races towards the box before laying off to Nicolas De Preville (Bordeaux), who picks it up but blazes a shot well over the bar from the edge of the box.",
+            "comments_text_anonymized": "[PLAYER] races towards the box before laying off to Nicolas De Preville ([TEAM]), who picks it up but blazes a shot well over the bar from the edge of the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:14",
+            "comments_type": "off side",
+            "comments_text": "Nicolas Pepe (Lille) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:50",
+            "comments_type": "clearance",
+            "comments_text": "Nicolas Pepe (Lille) receives a clever chip pass into a promising position. Nevertheless, one of the defenders is alert and averts the danger with a brilliant clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a clever chip pass into a promising position. Nevertheless, one of the defenders is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:43",
+            "comments_type": "injury",
+            "comments_text": "Nicolas Pepe (Lille) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:08",
+            "comments_type": "lead to corner",
+            "comments_text": "Theo Pellenard (Bordeaux) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. It will be a corner kick for Bordeaux.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:30",
+            "comments_type": "corner",
+            "comments_text": "Malcom (Bordeaux) will deliver the ball into the penalty box from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:45",
+            "comments_type": "shot off target",
+            "comments_text": "Younousse Sankhare (Bordeaux) makes a good run into the box and unleashes a powerful header in the centre of the box from the corner, but it rises well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a good run into the box and unleashes a powerful header in the centre of the box from the corner, but it rises well over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:31",
+            "comments_type": "foul with no card",
+            "comments_text": "Thiago Maia (Lille) was too fierce in his attempt to get the ball from his opponent and Francois Letexier blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:42",
+            "comments_type": "injury",
+            "comments_text": "Malcom (Bordeaux) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:56",
+            "comments_type": "second yellow card",
+            "comments_text": "Thiago Maia (Lille) should have been more careful. He commits a bad foul, receives his second yellow card and is sent-off!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should have been more careful. He commits a bad foul, receives his second yellow card and is sent-off!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:54",
+            "comments_type": "off side",
+            "comments_text": "Francois Kamano (Bordeaux) times his run too early and the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:52",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Yassine Benzia (Lille) is worthy of a card and a yellow is duly shown by Francois Letexier.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:59",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Yassine Benzia is going off and Marcelo Bielsa gives the last tactical orders to Fode Ballo Toure (Lille).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to Fode Ballo Toure ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:51",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let's have a look at statistics for the fouls committed by both teams – 11:13.",
+            "comments_text_anonymized": "Let's have a look at statistics for the fouls committed by both teams – 11:13."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolas De Preville (Bordeaux) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball.",
+            "comments_text_anonymized": "Nicolas De Preville ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:50",
+            "comments_type": "corner",
+            "comments_text": "Bordeaux have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:59",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "An unsuccessful long-range effort by Anwar El-Ghazi (Lille) after he collected a pass and unleashed his shot. He attempted to surprise the goalkeeper, who easily stopped his shot.",
+            "comments_text_anonymized": "An unsuccessful long-range effort by Anwar [PLAYER]-Ghazi ([TEAM]) after he collected a pass and unleashed his shot. He attempted to surprise the goalkeeper, who easily stopped his shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:47",
+            "comments_type": "yellow card",
+            "comments_text": "Vukasin Jovanovic (Bordeaux) sees a yellow card from Francois Letexier after he sent one of the opposing players to the ground.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 3 min. of added time.",
+            "comments_text_anonymized": "We will have 3 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:00",
+            "comments_type": "free kick",
+            "comments_text": "Direct free kick. Anwar El-Ghazi (Lille) attempts to beat the opposition's defence with a fine lofted pass into the penalty box, but one of the defenders reacts well and averts the threat.",
+            "comments_text_anonymized": "Direct free kick. Anwar [PLAYER]-Ghazi ([TEAM]) attempts to beat the opposition's defence with a fine lofted pass into the penalty box, but one of the defenders reacts well and averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:38",
+            "comments_type": "end of half game",
+            "comments_text": "There will be nothing more to see in the first half. The whistle blowing of Francois Letexier has ended it.",
+            "comments_text_anonymized": "There will be nothing more to see in the first half. The whistle blowing of [REFEREE] has ended it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:19",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Bordeaux couldn't find the way to score from a long-range free kick as Mike Maignan (Lille) leaped high and intercepted a cross.",
+            "comments_text_anonymized": "[TEAM] couldn't find the way to score from a long-range free kick as [PLAYER] ([TEAM]) leaped high and intercepted a cross."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:44",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Malcom (Bordeaux) picks up a pass and tries his luck from mid-range towards the middle of the goal, but Mike Maignan is equal to it and makes an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a pass and tries his luck from mid-range towards the middle of the goal, but [PLAYER] is equal to it and makes an easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:00",
+            "comments_type": "ball possession",
+            "comments_text": "Lille hold the ball and are exchanging some long passes.",
+            "comments_text_anonymized": "[TEAM] hold the ball and are exchanging some long passes."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:49",
+            "comments_type": "shot off target",
+            "comments_text": "Nicolas Pepe (Lille) decides to take on the shot from mid-range after a rebound, but he fails to connect properly with the ball and the effort sails harmlessly wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take on the shot from mid-range after a rebound, but he fails to connect properly with the ball and the effort sails harmlessly wide of the left post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:14",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Otavio is replaced by Valentin Vada (Bordeaux).",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:27",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Ibrahim Amadou (Lille) has a sight of goal, fires a shot in from distance towards the bottom right corner and forces a good save out of Benoit Costil.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a sight of goal, fires a shot in from distance towards the bottom right corner and forces a good save out of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:43",
+            "comments_type": "yellow card",
+            "comments_text": "Francois Kamano (Bordeaux) picks up a caution.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a caution."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:53",
+            "comments_type": "substitution",
+            "comments_text": "Jocelyn Gourvennec has decided to substitute Francois Kamano and he is replaced by Jonathan Cafu (Bordeaux).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:55",
+            "comments_type": "corner",
+            "comments_text": "Anwar El-Ghazi (Lille) sends in a poor cross from the corner and Benoit Costil has no trouble gathering it.",
+            "comments_text_anonymized": "Anwar [PLAYER]-Ghazi ([TEAM]) sends in a poor cross from the corner and [PLAYER] has no trouble gathering it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Nicolas De Preville (Bordeaux) was trying to get to the ball but clattered into the legs of the opponent as well. Francois Letexier blows his whistle for an infringement.",
+            "comments_text_anonymized": "Nicolas De Preville ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Kevin Malcuit (Lille) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence. The ball is out of play and the linesman points at the corner flag. Corner to Lille.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "corner",
+            "comments_text": "Lille failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:00",
+            "comments_type": "off side",
+            "comments_text": "Younousse Sankhare (Bordeaux) finds himself beyond the last defender but the linesman raises his flag for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender but the linesman raises his flag for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:05",
+            "comments_type": "yellow card",
+            "comments_text": "Valentin Vada (Bordeaux) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Francois Letexier didn't think twice about pulling it out of his pocket.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:17",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Gaetan Laborde (Bordeaux) is coming onto the pitch as Younousse Sankhare cannot continue after picking up an injury.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:58",
+            "comments_type": "off side",
+            "comments_text": "Fode Ballo Toure (Lille) is adjudged offside.",
+            "comments_text_anonymized": "Fode Ballo Toure ([TEAM]) is adjudged offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:50",
+            "comments_type": "ball possession",
+            "comments_text": "Kevin Malcuit (Lille) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:26",
+            "comments_type": "foul with no card",
+            "comments_text": "Yves Bissouma (Lille) makes a slide tackle, but referee Francois Letexier blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:37",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Lukas Lerager (Bordeaux) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:49",
+            "comments_type": "yellow card",
+            "comments_text": "Francois Letexier shows the yellow card to Yves Bissouma (Lille) for a heavy challenge.",
+            "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Theo Pellenard (Bordeaux) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:33",
+            "comments_type": "shot off target",
+            "comments_text": "Nicolas De Preville (Bordeaux) produces a header from inside the penalty area, but he doesn't manage to hit the ball properly and it flies well over the crossbar.",
+            "comments_text_anonymized": "Nicolas De Preville ([TEAM]) produces a header from inside the penalty area, but he doesn't manage to hit the ball properly and it flies well over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 additional min. will be played.",
+            "comments_text_anonymized": "3 additional min. will be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:47",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Nicolas Pepe departs the field of play to be replaced by Rominigue Kouame N'Guessan (Lille).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] N'Guessan ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:03",
+            "comments_type": "end of half game",
+            "comments_text": "Francois Letexier is looking at his watch and immediately ends this match.",
+            "comments_text_anonymized": "[REFEREE] is looking at his watch and immediately ends this match."
+        }
+    ]
+}

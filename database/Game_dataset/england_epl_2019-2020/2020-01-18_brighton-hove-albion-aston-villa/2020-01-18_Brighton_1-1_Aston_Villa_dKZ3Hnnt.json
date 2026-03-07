@@ -1,0 +1,1067 @@
+{
+    "match_info": {
+        "timestamp": "2020-01-18 23:00:00",
+        "score": "1 - 1",
+        "home_team": "Brighton",
+        "away_team": "Aston Villa",
+        "home_formation": "4 - 4 - 2",
+        "away_formation": "3 - 4 - 3",
+        "venue": "Amex Stadium (Brighton)",
+        "capacity": "31 876",
+        "attendance": "30 551",
+        "home_jersey_color": "blue and white",
+        "away_jersey_color": "red"
+    },
+    "referee_data": {
+        "short_name_country": "Madley A. (Eng)",
+        "first_name": "Madley",
+        "abbr_last_name": "A",
+        "country": "Eng",
+        "detected_name": "Andy Madley"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Smith D.",
+                "players_number": "",
+                "Full Name": "Dean Smith",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "52,  (19.03.1971)",
+                "Market Value": "",
+                "unicode": "022mBmSn"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Davis K.",
+                "players_number": "",
+                "Full Name": "Keinan Davis",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (13.02.1998)",
+                "Market Value": "€2.8m",
+                "unicode": "SKxz4XFS"
+            },
+            {
+                "players_name": "Heaton T.",
+                "players_number": "",
+                "Full Name": "Tom Heaton",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (15.04.1986)",
+                "Market Value": "€262k",
+                "unicode": "MoaXS53r"
+            },
+            {
+                "players_name": "Kodjia J.",
+                "players_number": "",
+                "Full Name": "Jonathan Kodjia",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (22.10.1989)",
+                "Market Value": "€277k",
+                "unicode": "jZz0JS9C"
+            },
+            {
+                "players_name": "McGinn J.",
+                "players_number": "",
+                "Full Name": "John McGinn",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (18.10.1994)",
+                "Market Value": "€28.9m",
+                "unicode": "rgGnzD2e"
+            },
+            {
+                "players_name": "Steer J.",
+                "players_number": "",
+                "Full Name": "Jed Steer",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (23.09.1992)",
+                "Market Value": "€414k",
+                "unicode": "WvZw8Hh3"
+            },
+            {
+                "players_name": "Wesley",
+                "players_number": "",
+                "Full Name": "Wesley",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (24.11.1996)",
+                "Market Value": "€1.7m",
+                "unicode": "QJn4XR14"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Drinkwater D.",
+                "players_number": "4",
+                "Full Name": "Daniel Drinkwater",
+                "players_rating": 6.6,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (05.03.1990)",
+                "Market Value": "",
+                "unicode": "0fL2Mgvj"
+            },
+            {
+                "players_name": "El Ghazi A.",
+                "players_number": "21",
+                "Full Name": "Anwar El Ghazi",
+                "players_rating": 6.5,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "€2.9m, (03.05.1995)",
+                "Market Value": "30.06.2025",
+                "unicode": "fsRCsnjP"
+            },
+            {
+                "players_name": "Grealish J. (C)",
+                "players_number": "10",
+                "Full Name": "Jack Grealish",
+                "players_rating": 7.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.09.1995)",
+                "Market Value": "€72.5m",
+                "unicode": "QVKaRfO9"
+            },
+            {
+                "players_name": "Guilbert F.",
+                "players_number": "24",
+                "Full Name": "Frederic Guilbert",
+                "players_rating": 7.3,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (24.12.1994)",
+                "Market Value": "€4.0m",
+                "unicode": "6TtQuJeb"
+            },
+            {
+                "players_name": "Hause K.",
+                "players_number": "30",
+                "Full Name": "Kortney Hause",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.07.1995)",
+                "Market Value": "€1.8m",
+                "unicode": "6a58WqCq"
+            },
+            {
+                "players_name": "Konsa E.",
+                "players_number": "15",
+                "Full Name": "Ezri Konsa",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.10.1997)",
+                "Market Value": "€34.3m",
+                "unicode": "4CQLQWTa"
+            },
+            {
+                "players_name": "Mings T.",
+                "players_number": "40",
+                "Full Name": "Tyrone Mings",
+                "players_rating": 7.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (13.03.1993)",
+                "Market Value": "€14.8m",
+                "unicode": "x6Gedmgl"
+            },
+            {
+                "players_name": "Nakamba M.",
+                "players_number": "11",
+                "Full Name": "Marvelous Nakamba",
+                "players_rating": 6.7,
+                "Country": "Zimbabwe",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.01.1994)",
+                "Market Value": "€4.8m",
+                "unicode": "65UtRvy3"
+            },
+            {
+                "players_name": "Reina P. (G)",
+                "players_number": "29",
+                "Full Name": "Pepe Reina",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "41, (31.08.1982)",
+                "Market Value": "€665k",
+                "unicode": "KrEhnvkN"
+            },
+            {
+                "players_name": "Targett M.",
+                "players_number": "18",
+                "Full Name": "Matt Targett",
+                "players_rating": 7.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (18.09.1995)",
+                "Market Value": "€9.4m",
+                "unicode": "I1mjFtoP"
+            },
+            {
+                "players_name": "Trezeguet",
+                "players_number": "17",
+                "Full Name": "Trezeguet",
+                "players_rating": 6.5,
+                "Country": "Egypt",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (01.10.1994)",
+                "Market Value": "€9.2m",
+                "unicode": "GEpGVvdq"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Douglas Luiz",
+                "players_number": "6",
+                "Full Name": "Douglas Luiz",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (09.05.1998)",
+                "Market Value": "€57.9m",
+                "unicode": "IZxlmmuF"
+            },
+            {
+                "players_name": "Hourihane C.",
+                "players_number": "14",
+                "Full Name": "Conor Hourihane",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (02.02.1991)",
+                "Market Value": "€277k",
+                "unicode": "ruzYi0fn"
+            },
+            {
+                "players_name": "Vassilev I.",
+                "players_number": "36",
+                "Full Name": "Indiana Vassilev",
+                "players_rating": 6.2,
+                "Country": "USA",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (16.02.2001)",
+                "Market Value": "€1.7m",
+                "unicode": "fN4YO08b"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Chester J.",
+                "players_number": "5",
+                "Full Name": "James Chester",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (23.01.1989)",
+                "Market Value": "€76k",
+                "unicode": "buCsl3cg"
+            },
+            {
+                "players_name": "Lansbury H.",
+                "players_number": "8",
+                "Full Name": "Henri Lansbury",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (12.10.1990)",
+                "Market Value": "",
+                "unicode": "WIycpcWd"
+            },
+            {
+                "players_name": "Nyland O. (G)",
+                "players_number": "25",
+                "Full Name": "Orjan Nyland",
+                "players_rating": "",
+                "Country": "Norway",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (10.09.1990)",
+                "Market Value": "€950k",
+                "unicode": "UJ9btoDi"
+            },
+            {
+                "players_name": "Taylor N.",
+                "players_number": "3",
+                "Full Name": "Neil Taylor",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (07.02.1989)",
+                "Market Value": "",
+                "unicode": "Kl5eRahS"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Potter G.",
+                "players_number": "",
+                "Full Name": "Graham Potter",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "48,  (20.10.1975)",
+                "Market Value": "",
+                "unicode": "0hDID8Ve"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Balogun L.",
+                "players_number": "",
+                "Full Name": "Leon Balogun",
+                "players_rating": "",
+                "Country": "Nigeria",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (28.06.1988)",
+                "Market Value": "€199k",
+                "unicode": "KGToLjLA"
+            },
+            {
+                "players_name": "Burn D.",
+                "players_number": "",
+                "Full Name": "Dan Burn",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (09.05.1992)",
+                "Market Value": "€9.8m",
+                "unicode": "fyP3wtr0"
+            },
+            {
+                "players_name": "Izquierdo J.",
+                "players_number": "",
+                "Full Name": "Jose Izquierdo",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (07.07.1992)",
+                "Market Value": "",
+                "unicode": "2LDmHf1f"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alzate S.",
+                "players_number": "46",
+                "Full Name": "Steven Alzate",
+                "players_rating": 7.0,
+                "Country": "Colombia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (08.09.1998)",
+                "Market Value": "€4.7m",
+                "unicode": "lMRi1BjT"
+            },
+            {
+                "players_name": "Bernardo",
+                "players_number": "30",
+                "Full Name": "Bernardo",
+                "players_rating": 8.2,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (14.05.1995)",
+                "Market Value": "€4.0m",
+                "unicode": "MwxzFrgA"
+            },
+            {
+                "players_name": "Connolly A.",
+                "players_number": "44",
+                "Full Name": "Aaron Connolly",
+                "players_rating": 6.3,
+                "Country": "Ireland",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (28.01.2000)",
+                "Market Value": "",
+                "unicode": "4f5o2me0"
+            },
+            {
+                "players_name": "Dunk L. (C)",
+                "players_number": "5",
+                "Full Name": "Lewis Dunk",
+                "players_rating": 6.7,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (21.11.1991)",
+                "Market Value": "€14.1m",
+                "unicode": "xEyAI7pm"
+            },
+            {
+                "players_name": "Maupay N.",
+                "players_number": "7",
+                "Full Name": "Neal Maupay",
+                "players_rating": 7.1,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (14.08.1996)",
+                "Market Value": "€9.1m",
+                "unicode": "d0bSRUiP"
+            },
+            {
+                "players_name": "Mooy A.",
+                "players_number": "18",
+                "Full Name": "",
+                "players_rating": 6.6,
+                "Country": "",
+                "Role": "",
+                "Age and Birthdate": "",
+                "Market Value": "",
+                "unicode": "www.flashscore.com"
+            },
+            {
+                "players_name": "Propper D.",
+                "players_number": "24",
+                "Full Name": "Davy Propper",
+                "players_rating": 6.8,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (02.09.1991)",
+                "Market Value": "",
+                "unicode": "h6DklREE"
+            },
+            {
+                "players_name": "Ryan M. (G)",
+                "players_number": "1",
+                "Full Name": "Mathew Ryan",
+                "players_rating": 6.9,
+                "Country": "Australia",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (08.04.1992)",
+                "Market Value": "€3.9m",
+                "unicode": "YBLvziIh"
+            },
+            {
+                "players_name": "Stephens D.",
+                "players_number": "6",
+                "Full Name": "Dale Stephens",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (19.12.1987)",
+                "Market Value": "",
+                "unicode": "bkSCjxaC"
+            },
+            {
+                "players_name": "Trossard L.",
+                "players_number": "11",
+                "Full Name": "Leandro Trossard",
+                "players_rating": 7.6,
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (04.12.1994)",
+                "Market Value": "€37.2m",
+                "unicode": "xUAbnjp2"
+            },
+            {
+                "players_name": "Webster A.",
+                "players_number": "15",
+                "Full Name": "Adam Webster",
+                "players_rating": 7.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (04.01.1995)",
+                "Market Value": "€19.3m",
+                "unicode": "IJd0tRWR"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Gross P.",
+                "players_number": "13",
+                "Full Name": "Pascal Gross",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (15.06.1991)",
+                "Market Value": "€8.0m",
+                "unicode": "trpxfbO3"
+            },
+            {
+                "players_name": "Montoya M.",
+                "players_number": "22",
+                "Full Name": "Martin Montoya",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (14.04.1991)",
+                "Market Value": "€855k",
+                "unicode": "OWGK5qA0"
+            },
+            {
+                "players_name": "Murray G.",
+                "players_number": "17",
+                "Full Name": "Glenn Murray",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "40, (25.09.1983)",
+                "Market Value": "",
+                "unicode": "218kjyOb"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Bissouma Y.",
+                "players_number": "8",
+                "Full Name": "Yves Bissouma",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (30.08.1996)",
+                "Market Value": "€29.8m",
+                "unicode": "CSdILBh7"
+            },
+            {
+                "players_name": "Button D. (G)",
+                "players_number": "27",
+                "Full Name": "David Button",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (27.02.1989)",
+                "Market Value": "€159k",
+                "unicode": "W0SsOYqa"
+            },
+            {
+                "players_name": "Duffy S.",
+                "players_number": "4",
+                "Full Name": "Shane Duffy",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (01.01.1992)",
+                "Market Value": "€1.2m",
+                "unicode": "OtpmlIkE"
+            },
+            {
+                "players_name": "Jahanbakhsh A.",
+                "players_number": "16",
+                "Full Name": "Alireza Jahanbakhsh",
+                "players_rating": "",
+                "Country": "Iran",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (11.08.1993)",
+                "Market Value": "€3.6m",
+                "unicode": "f3nLXmDJ"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The referee of today's match will be Andy Madley.",
+            "comments_text_anonymized": "The referee of today's match will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Aston Villa will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:40",
+            "comments_type": "ball possession",
+            "comments_text": "Brighton are showcasing great team work and neat passing moves.",
+            "comments_text_anonymized": "[TEAM] are showcasing great team work and neat passing moves."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:20",
+            "comments_type": "clearance",
+            "comments_text": "Leandro Trossard (Brighton) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:42",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Mooy (Brighton) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:49",
+            "comments_type": "clearance",
+            "comments_text": "The defence is alert as they clear a dangerous cross from Steven Alzate (Brighton).",
+            "comments_text_anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Trezeguet (Aston Villa) fails to send a pass into the box as his effort is cut out. The ball is out of play. Aston Villa win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:50",
+            "comments_type": "corner",
+            "comments_text": "Trezeguet (Aston Villa) takes the corner but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Andy Madley blows his whistle and signals a foul after Aaron Connolly (Brighton) brought his opponent down.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:40",
+            "comments_type": "injury",
+            "comments_text": "Frederic Guilbert (Aston Villa) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:55",
+            "comments_type": "yellow card",
+            "comments_text": "The referee gives a yellow card to Daniel Drinkwater (Aston Villa).",
+            "comments_text_anonymized": "The referee gives a yellow card to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Aaron Connolly (Brighton) should know this behaviour is beyond the rules. He was too careless with his challenge and left Andy Madley no option but to blow his whistle. Aston Villa have been awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. [TEAM] have been awarded a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:11",
+            "comments_type": "shot off target",
+            "comments_text": "Daniel Drinkwater (Aston Villa) latches on to a loose ball on the edge of the box and fires in a first-time shot on goal, but the effort lacks accuracy and flies well wide of the right post. The ball goes out of play and Brighton will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a loose ball on the edge of the box and fires in a first-time shot on goal, but the effort lacks accuracy and flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:10",
+            "comments_type": "clearance",
+            "comments_text": "A decent cross into the box is met first time by Aaron Mooy (Brighton), but his powerful goalbound effort is superbly blocked by a defender.",
+            "comments_text_anonymized": "A decent cross into the box is met first time by Aaron [PLAYER] ([TEAM]), but his powerful goalbound effort is superbly blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:30",
+            "comments_type": "clearance",
+            "comments_text": "Davy Propper (Brighton) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Anwar El-Ghazi (Aston Villa) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out of play. Aston Villa are awarded a corner kick.",
+            "comments_text_anonymized": "Anwar [PLAYER]-Ghazi ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:46",
+            "comments_type": "corner",
+            "comments_text": "Trezeguet (Aston Villa) sends the corner into the box, but Mathew Ryan intercepts it and averts the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the corner into the box, but [PLAYER] intercepts it and averts the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:00",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Aaron Mooy (Brighton) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by Aaron [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:30",
+            "comments_type": "clearance",
+            "comments_text": "Jack Grealish (Aston Villa) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:49",
+            "comments_type": "shot off target",
+            "comments_text": "A sweet pass inside the box gives Aaron Connolly (Brighton) time to measure a shot, but it's slightly mishit and goes just wide of the right post. That really was a great chance! The ball is off of the pitch and it's a goal kick for Aston Villa.",
+            "comments_text_anonymized": "A sweet pass inside the box gives [PLAYER] ([TEAM]) time to measure a shot, but it's slightly mishit and goes just wide of the right post. That really was a great chance! The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:40",
+            "comments_type": "clearance",
+            "comments_text": "A long pass, executed by Bernardo (Brighton), missed the precision to reach his teammates.",
+            "comments_text_anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:45",
+            "comments_type": "corner",
+            "comments_text": "Neal Maupay (Brighton) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. Brighton have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:40",
+            "comments_type": "corner",
+            "comments_text": "Aaron Mooy (Brighton) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:43",
+            "comments_type": "foul with no card",
+            "comments_text": "Daniel Drinkwater (Aston Villa) robs an opponent of the ball and explodes in anger when Andy Madley blows for a foul. A free kick is awarded to Brighton.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul. A free kick is awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:57",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Trezeguet (Aston Villa) sends a cross into the box, but Mathew Ryan comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:52",
+            "comments_type": "clearance",
+            "comments_text": "Neal Maupay (Brighton) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to latch onto a rebound inside the box, but his shot is well blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:14",
+            "comments_type": "goal",
+            "comments_text": "It's 1:0! Neal Maupay feeds Leandro Trossard (Brighton) inside the box, who is unmarked and buries the ball in the right side of the net.",
+            "comments_text_anonymized": "It's 1:0! [PLAYER] feeds [PLAYER] ([TEAM]) inside the box, who is unmarked and buries the ball in the right side of the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:47",
+            "comments_type": "foul with no card",
+            "comments_text": "Matt Targett (Aston Villa) makes an overly-aggressive challenge and Andy Madley blows his whistle for a foul. Brighton have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:09",
+            "comments_type": "yellow card",
+            "comments_text": "Andy Madley shows a yellow card to Lewis Dunk (Brighton), who isn't surprised as the tackle was really hard and late.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Neal Maupay (Brighton) fouls an opponent during an attacking move. Aston Villa will take a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent during an attacking move. [TEAM] will take a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Steven Alzate (Brighton) fouls an opponent. At least that's what referee Andy Madley signals. A free kick has been awarded to Aston Villa.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:10",
+            "comments_type": "end of half game",
+            "comments_text": "The first half of today's match has just finished.",
+            "comments_text_anonymized": "The first half of today's match has just finished."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "ball out of play",
+            "comments_text": "Bernardo (Brighton) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball is out of play. Aston Villa will have a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:20",
+            "comments_type": "var",
+            "comments_text": "Play continues despite the shouts by some Brighton players for a penalty. Wait! Referee Andy Madley interrupts the game right now and he will review that decision using VAR! Let's see what happens.",
+            "comments_text_anonymized": "Play continues despite the shouts by some [TEAM] players for a penalty. Wait! Referee [REFEREE] interrupts the game right now and he will review that decision using VAR! Let's see what happens."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:30",
+            "comments_type": "var",
+            "comments_text": "NO PENALTY after a VAR review! The Brighton players are visibly unhappy with the call.",
+            "comments_text_anonymized": "NO PENALTY after a VAR review! The [TEAM] players are visibly unhappy with the call."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:41",
+            "comments_type": "clearance",
+            "comments_text": "Trezeguet (Aston Villa) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:30",
+            "comments_type": "shot off target",
+            "comments_text": "Daniel Drinkwater (Aston Villa) controls a great pass from Trezeguet on the edge of the box, steadies himself but his poor effort goes yards over the bar. The ball is off of the pitch and it's a goal kick for Brighton.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) controls a great pass from [PLAYER] on the edge of the box, steadies himself but his poor effort goes yards over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Jack Grealish (Aston Villa) sends the ball into the box from the side of the pitch, but his cross is blocked. Aston Villa force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:53",
+            "comments_type": "corner",
+            "comments_text": "Aston Villa take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:01",
+            "comments_type": "foul with no card",
+            "comments_text": "Trezeguet (Aston Villa) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. Brighton have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:50",
+            "comments_type": "foul with no card",
+            "comments_text": "Andy Madley blows his whistle. Marvelous Nakamba (Aston Villa) commits a foul after dangerous play. Brighton win a free kick and will be able to apply some pressure on the opposition goal.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:40",
+            "comments_type": "clearance",
+            "comments_text": "Frederic Guilbert (Aston Villa) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:50",
+            "comments_type": "off side",
+            "comments_text": "Ezri Konsa (Aston Villa) is in a clear offside position and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is in a clear offside position and the linesman raises his flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:37",
+            "comments_type": "foul with no card",
+            "comments_text": "Matt Targett (Aston Villa) makes a strong challenge and Andy Madley blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:50",
+            "comments_type": "corner",
+            "comments_text": "Aaron Mooy (Brighton) takes the corner which is cleared by the opposition's defence.",
+            "comments_text_anonymized": "Aaron [PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:12",
+            "comments_type": "substitution",
+            "comments_text": "Dean Smith has decided to make a change. Indiana Vassilev (Aston Villa) replaces Trezeguet.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:50",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Douglas Luiz (Aston Villa) for Daniel Drinkwater.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:30",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Aaron Connolly goes off and Martin Montoya (Brighton) comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Dale Stephens (Brighton) brings down his opponent with a very late tackle. Aston Villa are awarded a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle. [TEAM] are awarded a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:54",
+            "comments_type": "goal",
+            "comments_text": "What a magnificent finish! Jack Grealish (Aston Villa) wonderfully times his run onto a cross and thunders the ball from deep inside the box into the left side of the net!",
+            "comments_text_anonymized": "What a magnificent finish! [PLAYER] ([TEAM]) wonderfully times his run onto a cross and thunders the ball from deep inside the box into the left side of the net!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Anwar El-Ghazi (Aston Villa) wastes a good opportunity as his pass into the box is blocked by the defence. The referee blows his whistle, Aston Villa are awarded a corner kick.",
+            "comments_text_anonymized": "Anwar [PLAYER]-Ghazi ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:06",
+            "comments_type": "corner",
+            "comments_text": "Aston Villa take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:26",
+            "comments_type": "yellow card",
+            "comments_text": "Marvelous Nakamba (Aston Villa) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the book for a horrible tackle. A yellow card is necessary in this case."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:23",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Pascal Gross (Brighton) in, Aaron Mooy out.",
+            "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, Aaron [PLAYER] out."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:13",
+            "comments_type": "substitution",
+            "comments_text": "Graham Potter decides to make a substitution. Leandro Trossard will be replaced by Glenn Murray (Brighton).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:08",
+            "comments_type": "injury",
+            "comments_text": "Marvelous Nakamba (Aston Villa) has picked up a minor injury, but it looks like he will be able to continue.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "substitution",
+            "comments_text": "Marvelous Nakamba is substituted due to injury. Dean Smith gives a chance to Conor Hourihane (Aston Villa).",
+            "comments_text_anonymized": "[PLAYER] is substituted due to injury. [PLAYER] gives a chance to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Tyrone Mings (Aston Villa) commits a rough challenge and Andy Madley blows his whistle for an infringement. There is a free kick near the sideline to Brighton.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:54",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Brighton is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "4 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:20",
+            "comments_type": "shot off target",
+            "comments_text": "An accurate cross picks out Jack Grealish (Aston Villa) in the centre of the box, but his header floats harmlessly high over the bar. The ball is off of the pitch and it's a goal kick for Brighton.",
+            "comments_text_anonymized": "An accurate cross picks out [PLAYER] ([TEAM]) in the centre of the box, but his header floats harmlessly high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:34",
+            "comments_type": "yellow card",
+            "comments_text": "Adam Webster (Brighton) is awarded a yellow card. The referee showed him no mercy.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:26",
+            "comments_type": "yellow card",
+            "comments_text": "Conor Hourihane (Aston Villa) receives a yellow card for infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:10",
+            "comments_type": "yellow card",
+            "comments_text": "Neal Maupay (Brighton) is booked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:00",
+            "comments_type": "var",
+            "comments_text": "It's been a while since that contentious challenge by Neal Maupay (Brighton), but referee Andy Madley must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!",
+            "comments_text_anonymized": "It's been a while since that contentious challenge by [PLAYER] ([TEAM]), but referee [REFEREE] must have received some information as he makes the VAR signal. He's going to review and it could result in a red card!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:10",
+            "comments_type": "var",
+            "comments_text": "The ref seems satisfied following his VAR review and the yellow card for Neal Maupay (Brighton) stands. Play continues.",
+            "comments_text_anonymized": "The ref seems satisfied following his VAR review and the yellow card for [PLAYER] ([TEAM]) stands. Play continues."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:01",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Andy Madley has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, [REFEREE] has blown his whistle and the game is over."
+        }
+    ]
+}

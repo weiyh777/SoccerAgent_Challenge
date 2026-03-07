@@ -1,0 +1,1310 @@
+{
+    "match_info": {
+        "timestamp": "2021-02-20 04:00:00",
+        "score": "1 - 0",
+        "home_team": "Wolves",
+        "away_team": "Leeds",
+        "home_formation": "3 - 4 - 3",
+        "away_formation": "4 - 4 - 1 - 1",
+        "venue": "Molineux Stadium (Wolverhampton)",
+        "capacity": "31 750",
+        "attendance": "",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Coote D. (Eng)",
+        "first_name": "Coote",
+        "abbr_last_name": "D",
+        "country": "Eng",
+        "detected_name": "David Coote"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Bielsa M.",
+                "players_number": "",
+                "Full Name": "Marcelo Bielsa",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "coach",
+                "Age and Birthdate": "68,  (21.07.1955)",
+                "Market Value": "",
+                "unicode": "8xZo4kDI"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Berardi G.",
+                "players_number": "",
+                "Full Name": "Gaetano Berardi",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (21.08.1988)",
+                "Market Value": "",
+                "unicode": "ITO0tatQ"
+            },
+            {
+                "players_name": "Forshaw A.",
+                "players_number": "",
+                "Full Name": "Adam Forshaw",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (08.10.1991)",
+                "Market Value": "€545k",
+                "unicode": "jyA9HfzA"
+            },
+            {
+                "players_name": "Koch R.",
+                "players_number": "",
+                "Full Name": "Robin Koch",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (17.07.1996)",
+                "Market Value": "€17.6m",
+                "unicode": "WzSF4nFU"
+            },
+            {
+                "players_name": "Phillips K.",
+                "players_number": "",
+                "Full Name": "Kalvin Phillips",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (02.12.1995)",
+                "Market Value": "€26.6m",
+                "unicode": "nX9CLJFA"
+            },
+            {
+                "players_name": "Poveda I.",
+                "players_number": "",
+                "Full Name": "Ian Poveda",
+                "players_rating": "",
+                "Country": "Colombia",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.02.2000)",
+                "Market Value": "€830k",
+                "unicode": "0nbpRxHt"
+            },
+            {
+                "players_name": "Rodrigo",
+                "players_number": "",
+                "Full Name": "Rodrigo",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (06.03.1991)",
+                "Market Value": "€4.9m",
+                "unicode": "xxfWcM4m"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Ayling L.",
+                "players_number": "2",
+                "Full Name": "Luke Ayling",
+                "players_rating": 7.1,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (25.08.1991)",
+                "Market Value": "€1.0m",
+                "unicode": "YP7gClsj"
+            },
+            {
+                "players_name": "Bamford P.",
+                "players_number": "9",
+                "Full Name": "Patrick Bamford",
+                "players_rating": 6.7,
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (05.09.1993)",
+                "Market Value": "€4.6m",
+                "unicode": "W8FBLdMC"
+            },
+            {
+                "players_name": "Cooper L. (C)",
+                "players_number": "6",
+                "Full Name": "Liam Cooper",
+                "players_rating": 6.5,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (03.08.1991)",
+                "Market Value": "€908k",
+                "unicode": "bmYdDmli"
+            },
+            {
+                "players_name": "Dallas S.",
+                "players_number": "15",
+                "Full Name": "Stuart Dallas",
+                "players_rating": 6.4,
+                "Country": "Northern Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (19.04.1991)",
+                "Market Value": "30.06.2024",
+                "unicode": "xYZjuenm"
+            },
+            {
+                "players_name": "Harrison J.",
+                "players_number": "22",
+                "Full Name": "Jack Harrison",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (20.11.1996)",
+                "Market Value": "€21.2m",
+                "unicode": "A1JAbIMG"
+            },
+            {
+                "players_name": "Klich M.",
+                "players_number": "43",
+                "Full Name": "Mateusz Klich",
+                "players_rating": 6.4,
+                "Country": "Poland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (13.06.1990)",
+                "Market Value": "€1.9m",
+                "unicode": "23FbWu7B"
+            },
+            {
+                "players_name": "Meslier I. (G)",
+                "players_number": "1",
+                "Full Name": "Illan Meslier",
+                "players_rating": 7.5,
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "23, (02.03.2000)",
+                "Market Value": "€17.1m",
+                "unicode": "GWere1Jg"
+            },
+            {
+                "players_name": "Raphinha",
+                "players_number": "18",
+                "Full Name": "Raphinha",
+                "players_rating": 9.1,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (14.12.1996)",
+                "Market Value": "€49.6m",
+                "unicode": "xtBsDPam"
+            },
+            {
+                "players_name": "Roberts T.",
+                "players_number": "11",
+                "Full Name": "Tyler Roberts",
+                "players_rating": 6.7,
+                "Country": "Wales",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (12.01.1999)",
+                "Market Value": "€2.6m",
+                "unicode": "tOpGM1O2"
+            },
+            {
+                "players_name": "Shackleton J.",
+                "players_number": "46",
+                "Full Name": "Jamie Shackleton",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (08.10.1999)",
+                "Market Value": "€1.4m",
+                "unicode": "Eslr779T"
+            },
+            {
+                "players_name": "Struijk P.",
+                "players_number": "21",
+                "Full Name": "Pascal Struijk",
+                "players_rating": 7.2,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (11.08.1999)",
+                "Market Value": "€17.9m",
+                "unicode": "dQgXn8kR"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Alioski E.",
+                "players_number": "10",
+                "Full Name": "Ezgjan Alioski",
+                "players_rating": "",
+                "Country": "North Macedonia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (12.02.1992)",
+                "Market Value": "€3.0m",
+                "unicode": "ObGOBo9F"
+            },
+            {
+                "players_name": "Costa H.",
+                "players_number": "17",
+                "Full Name": "Helder Costa",
+                "players_rating": "",
+                "Country": "Angola",
+                "Role": "Forward",
+                "Age and Birthdate": "€3.2m, (12.01.1994)",
+                "Market Value": "30.06.2024",
+                "unicode": "pOPhfJwe"
+            },
+            {
+                "players_name": "Hernandez P.",
+                "players_number": "19",
+                "Full Name": "Pablo Hernandez",
+                "players_rating": 6.1,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (11.04.1985)",
+                "Market Value": "",
+                "unicode": "dMOUV8NB"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Casilla K. (G)",
+                "players_number": "13",
+                "Full Name": "Kiko Casilla",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (02.10.1986)",
+                "Market Value": "",
+                "unicode": "l43b8dXD"
+            },
+            {
+                "players_name": "Davis L.",
+                "players_number": "24",
+                "Full Name": "Leif Davis",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (31.12.1999)",
+                "Market Value": "€4.2m",
+                "unicode": "rRuHW6a0"
+            },
+            {
+                "players_name": "Gelhardt J.",
+                "players_number": "30",
+                "Full Name": "Joe Gelhardt",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (04.05.2002)",
+                "Market Value": "€5.6m",
+                "unicode": "WGFi8qJm"
+            },
+            {
+                "players_name": "Huggins N.",
+                "players_number": "52",
+                "Full Name": "Niall Huggins",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (18.12.2000)",
+                "Market Value": "€749k",
+                "unicode": "nJfUb3L5"
+            },
+            {
+                "players_name": "Jenkins J.",
+                "players_number": "47",
+                "Full Name": "Jack Jenkins",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (23.03.2002)",
+                "Market Value": "€140k",
+                "unicode": "OjpSPfBf"
+            },
+            {
+                "players_name": "Llorente D.",
+                "players_number": "14",
+                "Full Name": "Diego Llorente",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.08.1993)",
+                "Market Value": "€7.6m",
+                "unicode": "2XJ8qBI1"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Espirito Santo N.",
+                "players_number": "",
+                "Full Name": "Nuno Espirito Santo",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "49,  (25.01.1974)",
+                "Market Value": "",
+                "unicode": "IoJ2QpOs"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Jimenez R.",
+                "players_number": "",
+                "Full Name": "Raul Jimenez",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (05.05.1991)",
+                "Market Value": "€5.5m",
+                "unicode": "ENwqg0Pd"
+            },
+            {
+                "players_name": "Podence D.",
+                "players_number": "",
+                "Full Name": "Daniel Podence",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.10.1995)",
+                "Market Value": "€12.5m",
+                "unicode": "YTkrrmp4"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Coady C. (C)",
+                "players_number": "16",
+                "Full Name": "Conor Coady",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (25.02.1993)",
+                "Market Value": "€6.9m",
+                "unicode": "8YT7Leas"
+            },
+            {
+                "players_name": "Dendoncker L.",
+                "players_number": "32",
+                "Full Name": "Leander Dendoncker",
+                "players_rating": 7.2,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (15.04.1995)",
+                "Market Value": "€10.5m",
+                "unicode": "xlkGi99f"
+            },
+            {
+                "players_name": "Jonny",
+                "players_number": "19",
+                "Full Name": "Jonny",
+                "players_rating": 6.4,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (03.03.1994)",
+                "Market Value": "€7.6m",
+                "unicode": "thYdCQaj"
+            },
+            {
+                "players_name": "Moutinho J.",
+                "players_number": "28",
+                "Full Name": "Joao Moutinho",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "37, (08.09.1986)",
+                "Market Value": "€772k",
+                "unicode": "rZndECJt"
+            },
+            {
+                "players_name": "Neto P.",
+                "players_number": "7",
+                "Full Name": "Pedro Neto",
+                "players_rating": 7.0,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (09.03.2000)",
+                "Market Value": "€41.1m",
+                "unicode": "lxtnUkIP"
+            },
+            {
+                "players_name": "Neves R.",
+                "players_number": "8",
+                "Full Name": "Ruben Neves",
+                "players_rating": 7.1,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (13.03.1997)",
+                "Market Value": "€40.3m",
+                "unicode": "Ea90ReE4"
+            },
+            {
+                "players_name": "Patricio R. (G)",
+                "players_number": "11",
+                "Full Name": "Rui Patricio",
+                "players_rating": 8.1,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (15.02.1988)",
+                "Market Value": "€3.3m",
+                "unicode": "44sSdBl6"
+            },
+            {
+                "players_name": "Saiss R.",
+                "players_number": "27",
+                "Full Name": "Romain Saiss",
+                "players_rating": 6.7,
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (26.03.1990)",
+                "Market Value": "€3.4m",
+                "unicode": "zTScoVFH"
+            },
+            {
+                "players_name": "Semedo N.",
+                "players_number": "22",
+                "Full Name": "Nelson Semedo",
+                "players_rating": 7.4,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (16.11.1993)",
+                "Market Value": "€14.3m",
+                "unicode": "EyHywivj"
+            },
+            {
+                "players_name": "Traore A.",
+                "players_number": "37",
+                "Full Name": "Adama Traore",
+                "players_rating": 6.9,
+                "Country": "Spain",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (25.01.1996)",
+                "Market Value": "€8.2m",
+                "unicode": "Qsy3Kmgj"
+            },
+            {
+                "players_name": "Willian Jose",
+                "players_number": "12",
+                "Full Name": "Willian Jose",
+                "players_rating": 7.2,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (23.11.1991)",
+                "Market Value": "€5.7m",
+                "unicode": "jD7L6o7T"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Ait-Nouri R.",
+                "players_number": "3",
+                "Full Name": "Rayan Ait-Nouri",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (06.06.2001)",
+                "Market Value": "€27.4m",
+                "unicode": "t4db4nTt"
+            },
+            {
+                "players_name": "Marcal",
+                "players_number": "5",
+                "Full Name": "Marcal",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (19.02.1989)",
+                "Market Value": "€919k",
+                "unicode": "EusknHOI"
+            },
+            {
+                "players_name": "Silva F.",
+                "players_number": "17",
+                "Full Name": "Fabio Silva",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (19.07.2002)",
+                "Market Value": "€12.0m",
+                "unicode": "YaEnqMoU"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Gibbs-White M.",
+                "players_number": "18",
+                "Full Name": "Morgan Gibbs-White",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (27.01.2000)",
+                "Market Value": "€40.3m",
+                "unicode": "beZNT1bB"
+            },
+            {
+                "players_name": "Hoever K.",
+                "players_number": "2",
+                "Full Name": "Ki-Jana Hoever",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (18.01.2002)",
+                "Market Value": "€3.5m",
+                "unicode": "IaxyOwfg"
+            },
+            {
+                "players_name": "Kilman M.",
+                "players_number": "49",
+                "Full Name": "Max Kilman",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€34.3m",
+                "unicode": "dlQhqD35"
+            },
+            {
+                "players_name": "Otasowie O.",
+                "players_number": "54",
+                "Full Name": "Owen Otasowie",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (06.01.2001)",
+                "Market Value": "€199k",
+                "unicode": "pnWUFzIN"
+            },
+            {
+                "players_name": "Ruddy J. (G)",
+                "players_number": "21",
+                "Full Name": "John Ruddy",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (24.10.1986)",
+                "Market Value": "€238k",
+                "unicode": "dMAg4xPL"
+            },
+            {
+                "players_name": "Vitinha",
+                "players_number": "20",
+                "Full Name": "Vitinha",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (13.02.2000)",
+                "Market Value": "€43.4m",
+                "unicode": "Sz9SH7zj"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun.",
+            "comments_text_anonymized": "Hello and welcome to our minute-by-minute commentary of the upcoming clash. We will try to provide you with as-accurate-as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Today's referee will be David Coote.",
+            "comments_text_anonymized": "Today's referee will be [REFEREE]."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and Wolves will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:50",
+            "comments_type": "ball out of play",
+            "comments_text": "The ball is out of play. Leeds will have a throw-in.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:25",
+            "comments_type": "foul with no card",
+            "comments_text": "Nelson Semedo (Wolves) makes a rough challenge and David Coote blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "shot off target",
+            "comments_text": "Raphinha (Leeds) tries to find the head of a teammate in the box but overhits the cross.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:18",
+            "comments_type": "clearance",
+            "comments_text": "A cross is clipped into the penalty area by Pedro Neto (Wolves) but poses no threat.",
+            "comments_text_anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:28",
+            "comments_type": "corner",
+            "comments_text": "Leeds take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:29",
+            "comments_type": "ball possession",
+            "comments_text": "Neat passing move from Leeds in order to create new attacking opportunities.",
+            "comments_text_anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:45",
+            "comments_type": "clearance",
+            "comments_text": "Jamie Shackleton (Leeds) sends in a pass which fails to reach any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:17",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote blows for a foul after Ruben Neves (Wolves) was too aggressive in the battle for the ball.",
+            "comments_text_anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:19",
+            "comments_type": "corner",
+            "comments_text": "Pedro Neto (Wolves) will deliver the ball into the penalty box from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:05",
+            "comments_type": "corner",
+            "comments_text": "Wolves failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:10",
+            "comments_type": "clearance",
+            "comments_text": "A beautiful low pass from the side is received by Joao Moutinho (Wolves), who was waiting for his chance. However, the defence is alert and spanks the ball away.",
+            "comments_text_anonymized": "A beautiful low pass from the side is received by [PLAYER] ([TEAM]), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:20",
+            "comments_type": "clearance",
+            "comments_text": "Nelson Semedo (Wolves) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:33",
+            "comments_type": "foul with no card",
+            "comments_text": "Willian Jose (Wolves) brings his opponent down with a tackle and David Coote blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:09",
+            "comments_type": "foul with no card",
+            "comments_text": "Tyler Roberts (Leeds) gives away a foul for a fierce tackle on an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:20",
+            "comments_type": "clearance",
+            "comments_text": "A pass by Adama Traore (Wolves) ends up in no man's land, and the attacking effort comes to an end.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:32",
+            "comments_type": "shot off target",
+            "comments_text": "Leander Dendoncker (Wolves) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:21",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Illan Meslier makes a sensational save to thwart a great chance. A rebound falls to Pedro Neto (Wolves) on the edge of the box and he drills goalwards, but the ball ends up in the keeper's gloves instead of the middle of the goal.",
+            "comments_text_anonymized": "[PLAYER] makes a sensational save to thwart a great chance. A rebound falls to [PLAYER] ([TEAM]) on the edge of the box and he drills goalwards, but the ball ends up in the keeper's gloves instead of the middle of the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:35",
+            "comments_type": "throw in",
+            "comments_text": "The ball has crossed the sideline. Wolves are taking a throw-in.",
+            "comments_text_anonymized": "The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:30",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote has a clear sight and sees a foul from Romain Saiss (Wolves).",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:21",
+            "comments_type": "shot off target",
+            "comments_text": "Liam Cooper (Leeds) looks very eager to impress, does well to beat his man and force a cross into the box, where one of his teammates gets his head on the ball, but it's too easy for the keeper. (in this sentence the player crosses and heads his own cross!! So I created a different scenario).",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks very eager to impress, does well to beat his man and force a cross into the box, where one of his teammates gets his head on the ball, but it's too easy for the keeper. ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:00",
+            "comments_type": "clearance",
+            "comments_text": "Raphinha (Leeds) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:57",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote blows his whistle. Pascal Struijk (Leeds) commits a foul after dangerous play.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:18",
+            "comments_type": "corner",
+            "comments_text": "The linesman points to the corner flag, Leeds are going to take it.",
+            "comments_text_anonymized": "The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:36",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Leeds is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:10",
+            "comments_type": "corner",
+            "comments_text": "Joao Moutinho (Wolves) prepares to take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:29",
+            "comments_type": "shot off target",
+            "comments_text": "Joao Moutinho (Wolves) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:21",
+            "comments_type": "ball possession",
+            "comments_text": "Great teamplay by Leeds as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "comments_text_anonymized": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Raphinha (Leeds) does his best to latch onto a cross into the box, but he can't get to the ball. The ball is behind the touchline and Wolves will take a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:50",
+            "comments_type": "throw in",
+            "comments_text": "It's a throw-in for Wolves.",
+            "comments_text_anonymized": "It's a throw-in for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:18",
+            "comments_type": "corner",
+            "comments_text": "Pedro Neto (Wolves) steps up to send the ball in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Nelson Semedo (Wolves) robs an opponent of the ball and explodes in anger when David Coote blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:30",
+            "comments_type": "free kick",
+            "comments_text": "Free kick. Leeds will probably just try to cross the ball in from here.",
+            "comments_text_anonymized": "Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Raphinha (Leeds) misses a good chance to score. An inch-perfect cross into the box finds Raphinha (Leeds) who rises for a header, but sends the ball well over the bar. It will be a corner kick for Leeds.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:53",
+            "comments_type": "corner",
+            "comments_text": "Raphinha (Leeds) will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:15",
+            "comments_type": "ball out of play",
+            "comments_text": "Jonny (Wolves) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The referee and the linesman both signal a throw-in for Leeds.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:10",
+            "comments_type": "clearance",
+            "comments_text": "Stuart Dallas (Leeds) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:54",
+            "comments_type": "ball possession",
+            "comments_text": "Wolves enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "comments_text_anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:30",
+            "comments_type": "throw in",
+            "comments_text": "The ball is out of play. Leeds will take a throw-in.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Everything is set for the start of the second half.",
+            "comments_text_anonymized": "Everything is set for the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:36",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote blows the whistle, Jonny (Wolves) is penalised for a foul.",
+            "comments_text_anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:44",
+            "comments_type": "ball out of play",
+            "comments_text": "Tyler Roberts (Leeds) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:51",
+            "comments_type": "foul with no card",
+            "comments_text": "The ball spins up and hits the hand of Adama Traore (Wolves) after he fails to control it and the referee blows his whistle for a foul.",
+            "comments_text_anonymized": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:10",
+            "comments_type": "off side",
+            "comments_text": "Jack Harrison (Leeds) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area. The linesman signals a throw-in for Wolves.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:13",
+            "comments_type": "off side",
+            "comments_text": "Jonny (Wolves) tries to latch onto a through ball, but it's too long.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to latch onto a through ball, but it's too long."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:47",
+            "comments_type": "ball out of play",
+            "comments_text": "The ball goes out of play and Leeds will have a goal kick.",
+            "comments_text_anonymized": "The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:20",
+            "comments_type": "shot off target",
+            "comments_text": "Ruben Neves (Wolves) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Nelson Semedo (Wolves) skips past his man but can't keep the ball in play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:41",
+            "comments_type": "shot off target",
+            "comments_text": "Pedro Neto (Wolves) takes the chance to have an effort at goal from inside the box but blazes it just over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the chance to have an effort at goal from inside the box but blazes it just over the crossbar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:50",
+            "comments_type": "throw in",
+            "comments_text": "The ball is behind the touchline and Wolves will take a throw-in.",
+            "comments_text_anonymized": "The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Luke Ayling (Leeds) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball goes out of play and Leeds have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:05",
+            "comments_type": "corner",
+            "comments_text": "Raphinha (Leeds) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:25",
+            "comments_type": "corner",
+            "comments_text": "Raphinha (Leeds) swings in a cross, but the ball is cleared to safety by one of the defending players. Leeds have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "corner",
+            "comments_text": "Leeds earn a corner.",
+            "comments_text_anonymized": "[TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:20",
+            "comments_type": "shot off target",
+            "comments_text": "Luke Ayling (Leeds) latches on to a fine cross from the resulting corner kick and slams the ball in from close range. He should have aimed better, however, as he hit his own teammate in front of him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a fine cross from the resulting corner kick and slams the ball in from close range. He should have aimed better, however, as he hit his own teammate in front of him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:00",
+            "comments_type": "clearance",
+            "comments_text": "Jonny (Wolves) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:22",
+            "comments_type": "ball possession",
+            "comments_text": "Leeds seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:10",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Jonny leaves the pitch and Fernando Marcal (Wolves) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and Fernando [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:33",
+            "comments_type": "foul with no card",
+            "comments_text": "Adama Traore (Wolves) should know this behaviour is beyond the rules. He was too careless with his challenge and left David Coote no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:02",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Liam Cooper (Leeds) connects with the resultant free kick but produces a header straight at Rui Patricio.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with the resultant free kick but produces a header straight at [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:39",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Romain Saiss (Wolves) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:10",
+            "comments_type": "goal",
+            "comments_text": "It's an own goal! Illan Meslier (Leeds) puts the ball into his own net.",
+            "comments_text_anonymized": "It's an own goal! [PLAYER] ([TEAM]) puts the ball into his own net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:37",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Jamie Shackleton is going off and Marcelo Bielsa gives the last tactical orders to Pablo Hernandez (Leeds).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:09",
+            "comments_type": "corner",
+            "comments_text": "The ball goes out of play. Leeds are awarded a corner kick.",
+            "comments_text_anonymized": "The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Pedro Neto (Wolves) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Wolves get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:48",
+            "comments_type": "corner",
+            "comments_text": "Wolves failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:48",
+            "comments_type": "corner",
+            "comments_text": "Joao Moutinho (Wolves) floats the ball in from the corner but it's intercepted.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:34",
+            "comments_type": "clearance",
+            "comments_text": "Joao Moutinho (Wolves) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:10",
+            "comments_type": "clearance",
+            "comments_text": "Luke Ayling (Leeds) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:30",
+            "comments_type": "clearance",
+            "comments_text": "Luke Ayling (Leeds) breaks past challenges inside the box, but puts too much pace on his pass to Tyler Roberts.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks past challenges inside the box, but puts too much pace on his pass to [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:40",
+            "comments_type": "ball possession",
+            "comments_text": "Some great controlled play and passing in the middle of the pitch from Leeds.",
+            "comments_text_anonymized": "Some great controlled play and passing in the middle of the pitch from [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:54",
+            "comments_type": "shot off target",
+            "comments_text": "Jack Harrison (Leeds) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:45",
+            "comments_type": "throw in",
+            "comments_text": "The referee and the linesman both signal a throw-in for Wolves.",
+            "comments_text_anonymized": "The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:57",
+            "comments_type": "foul with no card",
+            "comments_text": "David Coote blows his whistle after Nelson Semedo (Wolves) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:00",
+            "comments_type": "clearance",
+            "comments_text": "Raphinha (Leeds) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:32",
+            "comments_type": "clearance",
+            "comments_text": "Pedro Neto (Wolves) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:30",
+            "comments_type": "var",
+            "comments_text": "That looked like an offside in the build-up play and the referee is going to take a look using VAR.",
+            "comments_text_anonymized": "That looked like an offside in the build-up play and the referee is going to take a look using VAR."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:30",
+            "comments_type": "var",
+            "comments_text": "Here comes the VAR verdict. NO GOAL for Leeds due to an offside in the build-up play.",
+            "comments_text_anonymized": "Here comes the VAR verdict. NO GOAL for [TEAM] due to an offside in the build-up play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:50",
+            "comments_type": "throw in",
+            "comments_text": "The ball has crossed the sideline. Wolves are taking a throw-in.",
+            "comments_text_anonymized": "The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Tyler Roberts (Leeds) picks up a long through ball, but Rui Patricio deserves praise for a brilliant reaction and interception.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a long through ball, but [PLAYER] deserves praise for a brilliant reaction and interception."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Liam Cooper (Leeds) pulls the shirt of his opponent and the referee stops play for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:40",
+            "comments_type": "substitution",
+            "comments_text": "Marcelo Bielsa has decided to introduce fresh legs, with Helder Costa (Leeds) replacing Jack Harrison.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:54",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Ezgjan Alioski (Leeds) is brought on as a substitute for Mateusz Klich.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:20",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Fernando Marcal trots off the pitch and is replaced by Rayan Ait Nouri (Wolves).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and Fernando [PLAYER] trots off the pitch and is replaced by Rayan Ait Nouri ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Patrick Bamford (Leeds) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:19",
+            "comments_type": "clearance",
+            "comments_text": "Pedro Neto (Wolves) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:09",
+            "comments_type": "corner",
+            "comments_text": "Raphinha (Leeds) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:20",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Fabio Silva (Wolves) comes onto the pitch so that Willian Jose can be given a rest.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:28",
+            "comments_type": "foul with no card",
+            "comments_text": "Luke Ayling (Leeds) trips an opponent with a slide tackle. David Coote stops the game and he could give him a card, but eventually decides on just a warning.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:30",
+            "comments_type": "clearance",
+            "comments_text": "Tyler Roberts (Leeds) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 5 min. of added time.",
+            "comments_text_anonymized": "We will have 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Fabio Silva (Wolves) misses a good chance to score. An inch-perfect cross into the box finds Fabio Silva (Wolves) who rises for a header, but sends the ball well over the bar. Wolves have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:20",
+            "comments_type": "corner",
+            "comments_text": "The referee signals a corner kick to Wolves.",
+            "comments_text_anonymized": "The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:48",
+            "comments_type": "yellow card",
+            "comments_text": "This is a yellow card! Pedro Neto (Wolves) is not happy with the decision, but from our point of view it was clear.",
+            "comments_text_anonymized": "This is a yellow card! [PLAYER] ([TEAM]) is not happy with the decision, but from our point of view it was clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:10",
+            "comments_type": "shot off target",
+            "comments_text": "Chance! Nelson Semedo (Wolves) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "comments_text_anonymized": "Chance! [PLAYER] ([TEAM]) was in a good position inside the box, but he couldn't connect with the pass as it was overhit."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:29",
+            "comments_type": "corner",
+            "comments_text": "Leeds fail to score from a corner as Rui Patricio (Wolves) leaps to collect the ball.",
+            "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:21",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

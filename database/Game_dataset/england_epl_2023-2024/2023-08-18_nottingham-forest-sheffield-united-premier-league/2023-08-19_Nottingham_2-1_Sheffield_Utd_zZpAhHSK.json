@@ -1,0 +1,1234 @@
+{
+    "match_info": {
+        "timestamp": "2023-08-19 02:45:00",
+        "score": "2 - 1",
+        "home_team": "Nottingham",
+        "away_team": "Sheffield Utd",
+        "home_formation": "3 - 4 - 3",
+        "away_formation": "3 - 5 - 2",
+        "venue": "City Ground (Nottingham)",
+        "capacity": "30 404",
+        "attendance": "29 432",
+        "home_jersey_color": "red",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Bankes P. (Eng)",
+        "first_name": "Bankes",
+        "abbr_last_name": "P",
+        "country": "Eng",
+        "detected_name": "Peter Bankes"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Cooper S.",
+                "players_number": "",
+                "Full Name": "Steven Cooper",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "coach",
+                "Age and Birthdate": "44,  (10.12.1979)",
+                "Market Value": "",
+                "unicode": "GlJdeJqp"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Felipe",
+                "players_number": "",
+                "Full Name": "Felipe",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (16.05.1989)",
+                "Market Value": "€1.4m",
+                "unicode": "I36MmA04"
+            },
+            {
+                "players_name": "Hennessey W.",
+                "players_number": "",
+                "Full Name": "Wayne Hennessey",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (24.01.1987)",
+                "Market Value": "€229k",
+                "unicode": "jmI3ipF8"
+            },
+            {
+                "players_name": "Richards O.",
+                "players_number": "",
+                "Full Name": "Omar Richards",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (15.02.1998)",
+                "Market Value": "€3.6m",
+                "unicode": "ljTx6JiG"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Aurier S.",
+                "players_number": "24",
+                "Full Name": "Serge Aurier",
+                "players_rating": 8.7,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (24.12.1992)",
+                "Market Value": "€6.9m",
+                "unicode": "6iUXQVdq"
+            },
+            {
+                "players_name": "Awoniyi T.",
+                "players_number": "9",
+                "Full Name": "Taiwo Awoniyi",
+                "players_rating": 7.7,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (12.08.1997)",
+                "Market Value": "€27.3m",
+                "unicode": "OWFf8WFm"
+            },
+            {
+                "players_name": "Boly W.",
+                "players_number": "30",
+                "Full Name": "Willy Boly",
+                "players_rating": 6.9,
+                "Country": "Ivory Coast",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (03.02.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "8URie1St"
+            },
+            {
+                "players_name": "Danilo",
+                "players_number": "28",
+                "Full Name": "Danilo",
+                "players_rating": 7.1,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "22, (29.04.2001)",
+                "Market Value": "€27.0m",
+                "unicode": "rsMiiNaj"
+            },
+            {
+                "players_name": "Gibbs-White M.",
+                "players_number": "10",
+                "Full Name": "Morgan Gibbs-White",
+                "players_rating": 7.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "23, (27.01.2000)",
+                "Market Value": "€40.3m",
+                "unicode": "beZNT1bB"
+            },
+            {
+                "players_name": "Johnson B.",
+                "players_number": "20",
+                "Full Name": "Brennan Johnson",
+                "players_rating": 6.8,
+                "Country": "Wales",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (23.05.2001)",
+                "Market Value": "€44.3m",
+                "unicode": "6XhWIWPP"
+            },
+            {
+                "players_name": "Mangala O.",
+                "players_number": "5",
+                "Full Name": "Orel Mangala",
+                "players_rating": 6.6,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (18.03.1998)",
+                "Market Value": "€20.9m",
+                "unicode": "EisQ8ABn"
+            },
+            {
+                "players_name": "McKenna S.",
+                "players_number": "26",
+                "Full Name": "Scott McKenna",
+                "players_rating": 7.4,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (12.11.1996)",
+                "Market Value": "€9.1m",
+                "unicode": "AerDGNDO"
+            },
+            {
+                "players_name": "Turner M. (G)",
+                "players_number": "1",
+                "Full Name": "Matt Turner",
+                "players_rating": 6.9,
+                "Country": "USA",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (24.06.1994)",
+                "Market Value": "€9.6m",
+                "unicode": "KbZtv1W8"
+            },
+            {
+                "players_name": "Williams N.",
+                "players_number": "7",
+                "Full Name": "Neco Williams",
+                "players_rating": 7.4,
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "22, (13.04.2001)",
+                "Market Value": "€16.4m",
+                "unicode": "YVxu86Hs"
+            },
+            {
+                "players_name": "Worrall J. (C)",
+                "players_number": "4",
+                "Full Name": "Joe Worrall",
+                "players_rating": 7.4,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (10.01.1997)",
+                "Market Value": "€11.2m",
+                "unicode": "hM2EUDwd"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Elanga A.",
+                "players_number": "21",
+                "Full Name": "Anthony Elanga",
+                "players_rating": 6.2,
+                "Country": "Sweden",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (27.04.2002)",
+                "Market Value": "€17.6m",
+                "unicode": "dOlRWlZ6"
+            },
+            {
+                "players_name": "Kouyate C.",
+                "players_number": "8",
+                "Full Name": "Cheikhou Kouyate",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (21.12.1989)",
+                "Market Value": "€922k",
+                "unicode": "pb3Gmuff"
+            },
+            {
+                "players_name": "Niakhate M.",
+                "players_number": "19",
+                "Full Name": "Moussa Niakhate",
+                "players_rating": "",
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (08.03.1996)",
+                "Market Value": "€15.0m",
+                "unicode": "tdnibGHH"
+            },
+            {
+                "players_name": "Wood Ch.",
+                "players_number": "11",
+                "Full Name": "Chris Wood",
+                "players_rating": "",
+                "Country": "New Zealand",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (07.12.1991)",
+                "Market Value": "€6.5m",
+                "unicode": "Cp7L7Gro"
+            },
+            {
+                "players_name": "Yates R.",
+                "players_number": "22",
+                "Full Name": "Ryan Yates",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (21.11.1997)",
+                "Market Value": "€11.4m",
+                "unicode": "IwFLkXYE"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Freuler R.",
+                "players_number": "23",
+                "Full Name": "Remo Freuler",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (15.04.1992)",
+                "Market Value": "€6.3m",
+                "unicode": "pETNY4Qt"
+            },
+            {
+                "players_name": "Horvath E. (G)",
+                "players_number": "34",
+                "Full Name": "Ethan Horvath",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "28, (09.06.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "h4NCaPbb"
+            },
+            {
+                "players_name": "Hwang Ui-Jo",
+                "players_number": "35",
+                "Full Name": "Ui-Jo Hwang",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (28.08.1992)",
+                "Market Value": "€2.7m",
+                "unicode": "hQb4RndJ"
+            },
+            {
+                "players_name": "Toffolo H.",
+                "players_number": "15",
+                "Full Name": "Harry Toffolo",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (19.08.1995)",
+                "Market Value": "€4.6m",
+                "unicode": "UkAUzItA"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Heckingbottom P.",
+                "players_number": "",
+                "Full Name": "Paul Heckingbottom",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "coach",
+                "Age and Birthdate": "46,  (17.07.1977)",
+                "Market Value": "",
+                "unicode": "lGE8iEO1"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bogle J.",
+                "players_number": "",
+                "Full Name": "Jayden Bogle",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (27.07.2000)",
+                "Market Value": "€3.6m",
+                "unicode": "xAdjsHZG"
+            },
+            {
+                "players_name": "Brewster R.",
+                "players_number": "",
+                "Full Name": "Rhian Brewster",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (01.04.2000)",
+                "Market Value": "€2.7m",
+                "unicode": "hdXhlDUa"
+            },
+            {
+                "players_name": "Coulibaly I.",
+                "players_number": "",
+                "Full Name": "Ismaila Coulibaly",
+                "players_rating": "",
+                "Country": "Mali",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (25.12.2000)",
+                "Market Value": "€800k",
+                "unicode": "fDiC061J"
+            },
+            {
+                "players_name": "Fleck J.",
+                "players_number": "",
+                "Full Name": "John Fleck",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (24.08.1991)",
+                "Market Value": "€804k",
+                "unicode": "EFzLaXGm"
+            },
+            {
+                "players_name": "Jebbison D.",
+                "players_number": "",
+                "Full Name": "Daniel Jebbison",
+                "players_rating": "",
+                "Country": "Canada",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (11.07.2003)",
+                "Market Value": "€922k",
+                "unicode": "0jTEU500"
+            },
+            {
+                "players_name": "McBurnie O.",
+                "players_number": "",
+                "Full Name": "Oliver McBurnie",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (04.06.1996)",
+                "Market Value": "€4.4m",
+                "unicode": "rNFSg6i4"
+            },
+            {
+                "players_name": "Norrington-Davies R.",
+                "players_number": "",
+                "Full Name": "Rhys Norrington-Davies",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (22.04.1999)",
+                "Market Value": "€2.4m",
+                "unicode": "2LolYDRf"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Ahmedhodzic A.",
+                "players_number": "15",
+                "Full Name": "Anel Ahmedhodzic",
+                "players_rating": 6.9,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (26.03.1999)",
+                "Market Value": "€17.4m",
+                "unicode": "8IpVzOsI"
+            },
+            {
+                "players_name": "Egan J. (C)",
+                "players_number": "12",
+                "Full Name": "John Egan",
+                "players_rating": 6.6,
+                "Country": "Ireland",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.10.1992)",
+                "Market Value": "€4.8m",
+                "unicode": "rL1xRV7U"
+            },
+            {
+                "players_name": "Foderingham W. (G)",
+                "players_number": "18",
+                "Full Name": "Wesley Foderingham",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (14.01.1991)",
+                "Market Value": "€842k",
+                "unicode": "MRHcttt6"
+            },
+            {
+                "players_name": "Hamer G.",
+                "players_number": "8",
+                "Full Name": "Gustavo Hamer",
+                "players_rating": 7.1,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (24.06.1997)",
+                "Market Value": "€16.6m",
+                "unicode": "OjxBJ0bm"
+            },
+            {
+                "players_name": "Lowe M.",
+                "players_number": "3",
+                "Full Name": "Max Lowe",
+                "players_rating": 5.9,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (11.05.1997)",
+                "Market Value": "€2.3m",
+                "unicode": "4x2erdQC"
+            },
+            {
+                "players_name": "Norwood O.",
+                "players_number": "16",
+                "Full Name": "Oliver Norwood",
+                "players_rating": 6.4,
+                "Country": "Northern Ireland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (12.04.1991)",
+                "Market Value": "€1.5m",
+                "unicode": "4ps0b4Kh"
+            },
+            {
+                "players_name": "Osborn B.",
+                "players_number": "23",
+                "Full Name": "Ben Osborn",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (05.08.1994)",
+                "Market Value": "€908k",
+                "unicode": "jiVzidt4"
+            },
+            {
+                "players_name": "Osula W.",
+                "players_number": "32",
+                "Full Name": "William Osula",
+                "players_rating": 6.3,
+                "Country": "Denmark",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (04.08.2003)",
+                "Market Value": "€2.7m",
+                "unicode": "jT765A5D"
+            },
+            {
+                "players_name": "Robinson J.",
+                "players_number": "19",
+                "Full Name": "Jack Robinson",
+                "players_rating": 6.5,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (01.09.1993)",
+                "Market Value": "€964k",
+                "unicode": "88UHgwxJ"
+            },
+            {
+                "players_name": "Traore B.",
+                "players_number": "11",
+                "Full Name": "Benie Traore",
+                "players_rating": 6.1,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (30.11.2002)",
+                "Market Value": "€3.7m",
+                "unicode": "84dmjXxO"
+            },
+            {
+                "players_name": "Vini Souza",
+                "players_number": "21",
+                "Full Name": "Vini Souza",
+                "players_rating": 6.9,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (17.06.1999)",
+                "Market Value": "€11.4m",
+                "unicode": "bF9ZvOMt"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Basham C.",
+                "players_number": "6",
+                "Full Name": "Chris Basham",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (20.07.1988)",
+                "Market Value": "€285k",
+                "unicode": "4l5mAtid"
+            },
+            {
+                "players_name": "Brooks A.",
+                "players_number": "35",
+                "Full Name": "Andre Brooks",
+                "players_rating": 6.2,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (20.08.2003)",
+                "Market Value": "30.06.2027",
+                "unicode": "nXC5n9V0"
+            },
+            {
+                "players_name": "Hackford A.",
+                "players_number": "39",
+                "Full Name": "Antwoine Hackford",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (20.03.2004)",
+                "Market Value": "30.06.2024",
+                "unicode": "r3hy5RH0"
+            },
+            {
+                "players_name": "Larouci Y.",
+                "players_number": "27",
+                "Full Name": "Yasser Larouci",
+                "players_rating": 6.4,
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (01.01.2001)",
+                "Market Value": "€2.8m",
+                "unicode": "0vrFs95o"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Davies A. (G)",
+                "players_number": "1",
+                "Full Name": "Adam Davies",
+                "players_rating": "",
+                "Country": "Wales",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (17.07.1992)",
+                "Market Value": "€489k",
+                "unicode": "llWb13eK"
+            },
+            {
+                "players_name": "Davies T.",
+                "players_number": "22",
+                "Full Name": "Tom Davies",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (30.06.1998)",
+                "Market Value": "€5.2m",
+                "unicode": "CSvUiWgh"
+            },
+            {
+                "players_name": "Marsh L.",
+                "players_number": "34",
+                "Full Name": "Louie Marsh",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "20, (16.10.2003)",
+                "Market Value": "€95k",
+                "unicode": "MLDzrgur"
+            },
+            {
+                "players_name": "Seriki F.",
+                "players_number": "38",
+                "Full Name": "Femi Seriki",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (28.04.2002)",
+                "Market Value": "€283k",
+                "unicode": "nmzHusQh"
+            },
+            {
+                "players_name": "Trusty A.",
+                "players_number": "5",
+                "Full Name": "Auston Trusty",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (12.08.1998)",
+                "Market Value": "€7.7m",
+                "unicode": "fDXyO1al"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match.",
+            "comments_text_anonymized": "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "The starting XIs were already announced and you can go through them in the Lineups section.",
+            "comments_text_anonymized": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Peter Bankes got the nomination for today's game and will try his best to be a fair judge and not make any mistakes.",
+            "comments_text_anonymized": "[REFEREE] got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. Sheffield Utd will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:50",
+            "comments_type": "goal",
+            "comments_text": "Goal! Taiwo Awoniyi (Nottingham) makes the score 1:0 after burying a close-range header in the left side of the goal after a good run and cross by Serge Aurier.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) makes the score 1:0 after burying a close-range header in the left side of the goal after a good run and cross by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:30",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Ben Osborn (Sheffield Utd) attempted to dribble past an opposing player. The referee points to the corner flag. It's a corner to Sheffield Utd.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:58",
+            "comments_type": "corner",
+            "comments_text": "Oliver Norwood (Sheffield Utd) steps up to send the ball in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:30",
+            "comments_type": "clearance",
+            "comments_text": "Brennan Johnson (Nottingham) serves up a nice cross, but Wesley Foderingham punches the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:21",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Anel Ahmedhodzic (Sheffield Utd) rises above the defenders and places a towering header towards the middle of the goal, but Matt Turner is prepared to thwart his effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises above the defenders and places a towering header towards the middle of the goal, but [PLAYER] is prepared to thwart his effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:50",
+            "comments_type": "free kick",
+            "comments_text": "Neco Williams (Nottingham) takes the free kick from long distance. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick from long distance. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Vini Souza (Sheffield Utd) pulls the jersey of one of the opposition players and Peter Bankes blows his whistle for a foul. Nottingham win a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] win a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:40",
+            "comments_type": "free kick",
+            "comments_text": "Morgan Gibbs-White (Nottingham) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:17",
+            "comments_type": "clearance",
+            "comments_text": "Brennan Johnson (Nottingham) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:45",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Willy Boly (Nottingham). Peter Bankes blows his whistle for a foul.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:27",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Morgan Gibbs-White (Nottingham) meets a delivery on the edge of the penalty area and shoots towards to the bottom left corner. He didn't put enough power into the effort, though, and Wesley Foderingham pulls off an easy save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a delivery on the edge of the penalty area and shoots towards to the bottom left corner. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:58",
+            "comments_type": "lead to corner",
+            "comments_text": "Serge Aurier (Nottingham) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Now Nottingham have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:39",
+            "comments_type": "corner",
+            "comments_text": "Morgan Gibbs-White (Nottingham) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:42",
+            "comments_type": "shot off target",
+            "comments_text": "Scott McKenna (Nottingham) is furious with himself. He pounced on a rebound and from close range directed a header narrowly over the bar!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is furious with himself. He pounced on a rebound and from close range directed a header narrowly over the bar!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:51",
+            "comments_type": "throw in",
+            "comments_text": "Gustavo Hamer (Sheffield Utd) slaloms his way past challenges, but an opposing player does well to get the ball away. It's a throw-in for Nottingham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. It's a throw-in for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Anel Ahmedhodzic (Sheffield Utd) is penalised for holding. Peter Bankes signals a set piece.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Serge Aurier (Nottingham) sends a cross into the box, but the opposition's defence quickly intercepts the ball. Nottingham will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:09",
+            "comments_type": "corner",
+            "comments_text": "Morgan Gibbs-White (Nottingham) is heading toward the corner flag to take the set piece.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:51",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Morgan Gibbs-White (Nottingham) whips in a vicious corner direct on goal, but the keeper makes a confident catch on the line.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a vicious corner direct on goal, but the keeper makes a confident catch on the line."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:59",
+            "comments_type": "foul with no card",
+            "comments_text": "Peter Bankes blows his whistle after Scott McKenna (Nottingham) kicks an opponent's legs instead of the ball.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:49",
+            "comments_type": "off side",
+            "comments_text": "Anel Ahmedhodzic (Sheffield Utd) is caught offside after the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside after the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:26",
+            "comments_type": "ball out of play",
+            "comments_text": "Anel Ahmedhodzic (Sheffield Utd) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is out of play. Nottingham will have a throw-in.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:10",
+            "comments_type": "clearance",
+            "comments_text": "Max Lowe (Sheffield Utd) attempted to pick out a free teammate inside the box, but Matt Turner comes off the line to clear the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:20",
+            "comments_type": "foul with no card",
+            "comments_text": "Max Lowe (Sheffield Utd) brings an opponent down and Peter Bankes interrupts the game.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:18",
+            "comments_type": "free kick",
+            "comments_text": "Morgan Gibbs-White (Nottingham) whips a long ball in from the free kick which is intercepted by Wesley Foderingham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:02",
+            "comments_type": "corner",
+            "comments_text": "The corner is swung in but Nottingham can’t take advantage as a defender sweeps the ball away.",
+            "comments_text_anonymized": "The corner is swung in but [TEAM] can’t take advantage as a defender sweeps the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Brennan Johnson (Nottingham) connects with a pass but sees his shot from the edge of the box blocked. The ball is out of play. Nottingham win a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:40",
+            "comments_type": "free kick",
+            "comments_text": "Morgan Gibbs-White (Nottingham) takes the ball and sets it for the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball and sets it for the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:02",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Vini Souza (Sheffield Utd) receives a pass, beats an opponent and tries a long-range shot. It's a weak effort towards the right side of the goal and Matt Turner easily plucks the ball out of the air.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass, beats an opponent and tries a long-range shot. It's a weak effort towards the right side of the goal and [PLAYER] easily plucks the ball out of the air."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:19",
+            "comments_type": "yellow card",
+            "comments_text": "Willy Boly (Nottingham) is booked after bringing down an opponent. Peter Bankes had an easy-decision to make.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Max Lowe (Sheffield Utd) tries to send a pass but it's blocked. Sheffield Utd have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:32",
+            "comments_type": "corner",
+            "comments_text": "Matt Turner comes off his line to intercept the corner from Gustavo Hamer (Sheffield Utd).",
+            "comments_text_anonymized": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:06",
+            "comments_type": "shot off target",
+            "comments_text": "Brennan Johnson (Nottingham) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:50",
+            "comments_type": "injury",
+            "comments_text": "Brennan Johnson (Nottingham) is down injured and the referee stops play so that he can receive medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:10",
+            "comments_type": "corner",
+            "comments_text": "A good clearance by a defender means the corner comes to nothing for Sheffield Utd.",
+            "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:21",
+            "comments_type": "injury",
+            "comments_text": "Brennan Johnson (Nottingham) is moving okay again after that injury scare.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:10",
+            "comments_type": "corner",
+            "comments_text": "Morgan Gibbs-White (Nottingham) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:40",
+            "comments_type": "yellow card",
+            "comments_text": "The main referee, Peter Bankes, is apparently not going to tolerate any discussions. Serge Aurier (Nottingham) is given a yellow card for dissent.",
+            "comments_text_anonymized": "The main referee, [REFEREE], is apparently not going to tolerate any discussions. [PLAYER] ([TEAM]) is given a yellow card for dissent."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:16",
+            "comments_type": "shot off target",
+            "comments_text": "Morgan Gibbs-White (Nottingham) cuts inside after a good run and goes for glory from the edge of the box. The shot, though, flies high over the bar into row Z.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) cuts inside after a good run and goes for glory from the edge of the box. The shot, though, flies high over the bar into row Z."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 2 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:03",
+            "comments_type": "yellow card",
+            "comments_text": "Oliver Norwood (Sheffield Utd) was probably a bit loose with his words to Peter Bankes, who decides to show him a yellow.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow."
+        },
+        {
+            "half": 1,
+            "time_stamp": "47:41",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Referee Peter Bankes blows his whistle to start the second half.",
+            "comments_text_anonymized": "Referee [REFEREE] blows his whistle to start the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Max Lowe did his best and is replaced by Yasser Larouci (Sheffield Utd).",
+            "comments_text_anonymized": "Substitution. [PLAYER] did his best and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:25",
+            "comments_type": "lead to corner",
+            "comments_text": "Anel Ahmedhodzic (Sheffield Utd) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The ball goes out for a corner. Sheffield Utd can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:41",
+            "comments_type": "corner",
+            "comments_text": "Gustavo Hamer (Sheffield Utd) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:26",
+            "comments_type": "corner",
+            "comments_text": "Sheffield Utd force a corner. They send men into the box.",
+            "comments_text_anonymized": "[TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:37",
+            "comments_type": "goal",
+            "comments_text": "The ball rebounds and arrives at the feet of Gustavo Hamer (Sheffield Utd) just outside the box. He doesn't think twice and fires a brilliant shot into the top right corner. His attempt was beyond the reach of Matt Turner, so the score changes to 1:1.",
+            "comments_text_anonymized": "The ball rebounds and arrives at the feet of [PLAYER] ([TEAM]) just outside the box. He doesn't think twice and fires a brilliant shot into the top right corner. His attempt was beyond the reach of [PLAYER], so the score changes to 1:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:57",
+            "comments_type": "shot off target",
+            "comments_text": "Yasser Larouci (Sheffield Utd) has the goal in his sights after a good run to the edge of the box, but his weak effort flies well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has the goal in his sights after a good run to the edge of the box, but his weak effort flies well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:00",
+            "comments_type": "injury",
+            "comments_text": "Vini Souza (Sheffield Utd) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:14",
+            "comments_type": "injury",
+            "comments_text": "The injury to Vini Souza (Sheffield Utd) looks like it might have ended his involvement in this match.",
+            "comments_text_anonymized": "The injury to [PLAYER] ([TEAM]) looks like it might have ended his involvement in this match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:46",
+            "comments_type": "substitution",
+            "comments_text": "Problems for Paul Heckingbottom as Vini Souza is not able to play anymore. His injury is too serious and Chris Basham (Sheffield Utd) replaces him.",
+            "comments_text_anonymized": "Problems for [PLAYER] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Serge Aurier (Nottingham) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Nottingham have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:06",
+            "comments_type": "corner",
+            "comments_text": "Morgan Gibbs-White (Nottingham) will take the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:29",
+            "comments_type": "shot off target",
+            "comments_text": "Danilo (Nottingham) superbly wins the ball back and has a go from distance, but sends his effort high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) superbly wins the ball back and has a go from distance, but sends his effort high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:07",
+            "comments_type": "corner",
+            "comments_text": "A corner kick by Nottingham is thwarted by the well prepared Wesley Foderingham (Sheffield Utd).",
+            "comments_text_anonymized": "A corner kick by [TEAM] is thwarted by the well prepared [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Orel Mangala (Nottingham) robs an opponent of the ball and explodes in anger when Peter Bankes blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:01",
+            "comments_type": "lead to corner",
+            "comments_text": "Chris Basham (Sheffield Utd) races towards goal but the defender gets back well to make a challenge. Sheffield Utd get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:27",
+            "comments_type": "corner",
+            "comments_text": "Gustavo Hamer (Sheffield Utd) takes the ball to the corner flag and sends it into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:06",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Orel Mangala departs the field of play to be replaced by Ryan Yates (Nottingham).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:41",
+            "comments_type": "substitution",
+            "comments_text": "Steven Cooper has decided to substitute Willy Boly and he is replaced by Anthony Elanga (Nottingham).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:00",
+            "comments_type": "clearance",
+            "comments_text": "That's unlucky! Neco Williams (Nottingham) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared.",
+            "comments_text_anonymized": "That's unlucky! [PLAYER] ([TEAM]) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:02",
+            "comments_type": "yellow card",
+            "comments_text": "The referee has issued a yellow card to Gustavo Hamer (Sheffield Utd).",
+            "comments_text_anonymized": "The referee has issued a yellow card to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:55",
+            "comments_type": "shot off target",
+            "comments_text": "Joe Worrall (Nottingham) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header which goes well over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header which goes well over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:20",
+            "comments_type": "substitution",
+            "comments_text": "The substitution has been made. Andre Brooks (Sheffield Utd) has replaced William Osula.",
+            "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:34",
+            "comments_type": "clearance",
+            "comments_text": "Neco Williams (Nottingham) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Oliver Norwood (Sheffield Utd) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to Sheffield Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:56",
+            "comments_type": "corner",
+            "comments_text": "Sheffield Utd take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:07",
+            "comments_type": "foul with no card",
+            "comments_text": "John Egan (Sheffield Utd) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:26",
+            "comments_type": "off side",
+            "comments_text": "Taiwo Awoniyi (Nottingham) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:46",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Benie Traore (Sheffield Utd) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:20",
+            "comments_type": "injury",
+            "comments_text": "It doesn’t look good for Benie Traore (Sheffield Utd); looks like he’ll be heading for an early bath!",
+            "comments_text_anonymized": "It doesn’t look good for [PLAYER] ([TEAM]); looks like he’ll be heading for an early bath!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:36",
+            "comments_type": "substitution",
+            "comments_text": "Benie Traore is substituted due to injury. Paul Heckingbottom gives a chance to Antwoine Hackford (Sheffield Utd).",
+            "comments_text_anonymized": "[PLAYER] is substituted due to injury. [PLAYER] gives a chance to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:40",
+            "comments_type": "substitution",
+            "comments_text": "That's the end of the game for Taiwo Awoniyi, who is replaced by Chris Wood (Nottingham).",
+            "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:20",
+            "comments_type": "yellow card",
+            "comments_text": "Peter Bankes rightly pulls out a yellow card and shows it to Ben Osborn (Sheffield Utd).",
+            "comments_text_anonymized": "[REFEREE] rightly pulls out a yellow card and shows it to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:08",
+            "comments_type": "ball possession",
+            "comments_text": "Nottingham are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players.",
+            "comments_text_anonymized": "[TEAM] are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:34",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Chris Wood (Nottingham) bravely launches himself at a cross from Serge Aurier and gives Wesley Foderingham no chance with a close-range bullet header into the bottom left corner. 2:1.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) bravely launches himself at a cross from [PLAYER] and gives [PLAYER] no chance with a close-range bullet header into the bottom left corner. 2:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 8 min. of added time.",
+            "comments_text_anonymized": "We will have 8 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:58",
+            "comments_type": "substitution",
+            "comments_text": "Steven Cooper prepares a substitution. Brennan Johnson is replaced by Moussa Niakhate (Nottingham).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:26",
+            "comments_type": "substitution",
+            "comments_text": "Here's the change. Danilo leaves the pitch and Cheikhou Kouyate (Nottingham) comes on as a substitute.",
+            "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:49",
+            "comments_type": "foul with no card",
+            "comments_text": "Peter Bankes blows his whistle as Morgan Gibbs-White (Nottingham) used excessive force in the tackle during an attack.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "half": 2,
+            "time_stamp": "53:50",
+            "comments_type": "ball out of play",
+            "comments_text": "Chris Wood (Nottingham) is unable to feed a through ball into the path of his teammates. The ball is off of the pitch and it's a goal kick for Sheffield Utd.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "54:13",
+            "comments_type": "end of half game",
+            "comments_text": "The match has just finished.",
+            "comments_text_anonymized": "The match has just finished."
+        }
+    ]
+}

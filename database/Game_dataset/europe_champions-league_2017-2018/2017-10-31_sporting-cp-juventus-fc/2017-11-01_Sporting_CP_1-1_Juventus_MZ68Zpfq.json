@@ -1,0 +1,1031 @@
+{
+    "match_info": {
+        "timestamp": "2017-11-01 03:45:00",
+        "score": "1 - 1",
+        "home_team": "Sporting CP",
+        "away_team": "Juventus",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Estádio José Alvalade (Lisbon)",
+        "capacity": "50 466",
+        "attendance": "48 442",
+        "home_jersey_color": "green",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Turpin C. (Fra)",
+        "first_name": "Turpin",
+        "abbr_last_name": "C",
+        "country": "Fra",
+        "detected_name": "Clement Turpin"
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Allegri M.",
+                "players_number": "",
+                "Full Name": "Massimiliano Allegri",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (11.08.1967)",
+                "Market Value": "",
+                "unicode": "lUkw2EZn"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Benatia M.",
+                "players_number": "",
+                "Full Name": "Mehdi Benatia",
+                "players_rating": "",
+                "Country": "Morocco",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (17.04.1987)",
+                "Market Value": "",
+                "unicode": "n7X30ymN"
+            },
+            {
+                "players_name": "Howedes B.",
+                "players_number": "",
+                "Full Name": "Benedikt Howedes",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (29.02.1988)",
+                "Market Value": "",
+                "unicode": "dQhd7EaB"
+            },
+            {
+                "players_name": "Lichtsteiner S.",
+                "players_number": "",
+                "Full Name": "Stephan Lichtsteiner",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (16.01.1984)",
+                "Market Value": "",
+                "unicode": "2oCP2k5Q"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Alex Sandro",
+                "players_number": "12",
+                "Full Name": "Alex Sandro",
+                "players_rating": 7.7,
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (26.01.1991)",
+                "Market Value": "€2.0m",
+                "unicode": "hrkni8NN"
+            },
+            {
+                "players_name": "Barzagli A.",
+                "players_number": "15",
+                "Full Name": "Andrea Barzagli",
+                "players_rating": 6.7,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "42, (08.05.1981)",
+                "Market Value": "",
+                "unicode": "SlJHCt43"
+            },
+            {
+                "players_name": "Buffon G. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Gianluigi Buffon",
+                "players_rating": 6.5,
+                "Country": "Italy",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "30.06.2024, (28.01.1978)",
+                "Market Value": "",
+                "unicode": "xKQMi1qO"
+            },
+            {
+                "players_name": "Chiellini G.",
+                "players_number": "3",
+                "Full Name": "Giorgio Chiellini",
+                "players_rating": 7.6,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (14.08.1984)",
+                "Market Value": "",
+                "unicode": "K2KuC4Uu"
+            },
+            {
+                "players_name": "Cuadrado J.",
+                "players_number": "7",
+                "Full Name": "Juan Cuadrado",
+                "players_rating": 8.0,
+                "Country": "Colombia",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (26.05.1988)",
+                "Market Value": "€2.0m",
+                "unicode": "AFefBpwI"
+            },
+            {
+                "players_name": "De Sciglio M.",
+                "players_number": "2",
+                "Full Name": "Mattia De Sciglio",
+                "players_rating": 7.4,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (20.10.1992)",
+                "Market Value": "€1.9m",
+                "unicode": "Ua5srQK6"
+            },
+            {
+                "players_name": "Dybala P.",
+                "players_number": "10",
+                "Full Name": "Paulo Dybala",
+                "players_rating": 7.5,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (15.11.1993)",
+                "Market Value": "€24.8m",
+                "unicode": "W4myUVXR"
+            },
+            {
+                "players_name": "Higuain G.",
+                "players_number": "9",
+                "Full Name": "Gonzalo Higuain",
+                "players_rating": 7.3,
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (10.12.1987)",
+                "Market Value": "",
+                "unicode": "xpQl63zG"
+            },
+            {
+                "players_name": "Khedira S.",
+                "players_number": "6",
+                "Full Name": "Sami Khedira",
+                "players_rating": 6.6,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (04.04.1987)",
+                "Market Value": "",
+                "unicode": "0AgmLAwr"
+            },
+            {
+                "players_name": "Mandzukic M.",
+                "players_number": "17",
+                "Full Name": "Mario Mandzukic",
+                "players_rating": 6.7,
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "37, (21.05.1986)",
+                "Market Value": "",
+                "unicode": "MV22As4p"
+            },
+            {
+                "players_name": "Pjanic M.",
+                "players_number": "5",
+                "Full Name": "Miralem Pjanic",
+                "players_rating": 8.0,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (02.04.1990)",
+                "Market Value": "€4.9m",
+                "unicode": "ObHi3HbL"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Bernardeschi F.",
+                "players_number": "33",
+                "Full Name": "Federico Bernardeschi",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (16.02.1994)",
+                "Market Value": "",
+                "unicode": "Ghmdi8ej"
+            },
+            {
+                "players_name": "Costa D.",
+                "players_number": "11",
+                "Full Name": "Douglas Costa",
+                "players_rating": 6.5,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "€1.5m, (14.09.1990)",
+                "Market Value": "",
+                "unicode": "fPOJMEfo"
+            },
+            {
+                "players_name": "Matuidi B.",
+                "players_number": "14",
+                "Full Name": "Blaise Matuidi",
+                "players_rating": 6.6,
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (09.04.1987)",
+                "Market Value": "",
+                "unicode": "CAWma17n"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Asamoah K.",
+                "players_number": "22",
+                "Full Name": "Kwadwo Asamoah",
+                "players_rating": "",
+                "Country": "Ghana",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (09.12.1988)",
+                "Market Value": "",
+                "unicode": "IyH1Vh89"
+            },
+            {
+                "players_name": "Marchisio C.",
+                "players_number": "8",
+                "Full Name": "Claudio Marchisio",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (19.01.1986)",
+                "Market Value": "",
+                "unicode": "I5zqGrgG"
+            },
+            {
+                "players_name": "Rugani D.",
+                "players_number": "24",
+                "Full Name": "Daniele Rugani",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.07.1994)",
+                "Market Value": "€4.0m",
+                "unicode": "zyoOMhpU"
+            },
+            {
+                "players_name": "Szczesny W. (G)",
+                "players_number": "23",
+                "Full Name": "Wojciech Szczesny",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (18.04.1990)",
+                "Market Value": "€8.4m",
+                "unicode": "6NtwHZ7F"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Jesus J.",
+                "players_number": "",
+                "Full Name": "Jorge Jesus",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "coach",
+                "Age and Birthdate": "69,  (24.07.1954)",
+                "Market Value": "",
+                "unicode": "UTpJOOhf"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Carvalho W.",
+                "players_number": "",
+                "Full Name": "William Carvalho",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "31, (07.04.1992)",
+                "Market Value": "€5.8m",
+                "unicode": "jmbMzvQa"
+            },
+            {
+                "players_name": "Mathieu J.",
+                "players_number": "",
+                "Full Name": "Jeremy Mathieu",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "40, (29.10.1983)",
+                "Market Value": "",
+                "unicode": "rmIQaghb"
+            },
+            {
+                "players_name": "Piccini C.",
+                "players_number": "",
+                "Full Name": "Cristiano Piccini",
+                "players_rating": "",
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (26.09.1992)",
+                "Market Value": "€734k",
+                "unicode": "vVReJAzA"
+            },
+            {
+                "players_name": "Ruiz A.",
+                "players_number": "",
+                "Full Name": "Alan Ruiz",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (19.08.1993)",
+                "Market Value": "€794k",
+                "unicode": "tE4rGSDq"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Acuna M.",
+                "players_number": "9",
+                "Full Name": "Marcos Acuna",
+                "players_rating": 6.9,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (28.10.1991)",
+                "Market Value": "€5.8m",
+                "unicode": "pUC5RnIj"
+            },
+            {
+                "players_name": "Battaglia R.",
+                "players_number": "16",
+                "Full Name": "Rodrigo Battaglia",
+                "players_rating": 7.0,
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (12.07.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "zsimAkCm"
+            },
+            {
+                "players_name": "Cesar B.",
+                "players_number": "11",
+                "Full Name": "Bruno Cesar",
+                "players_rating": 7.5,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (03.11.1988)",
+                "Market Value": "",
+                "unicode": "n5aqT66f"
+            },
+            {
+                "players_name": "Coates S.",
+                "players_number": "4",
+                "Full Name": "Sebastian Coates",
+                "players_rating": 6.9,
+                "Country": "Uruguay",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (07.10.1990)",
+                "Market Value": "€4.0m",
+                "unicode": "EBYxT1SP"
+            },
+            {
+                "players_name": "Dost B.",
+                "players_number": "28",
+                "Full Name": "Bas Dost",
+                "players_rating": 6.8,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (31.05.1989)",
+                "Market Value": "€761k",
+                "unicode": "SnW4EbbC"
+            },
+            {
+                "players_name": "Fernandes B.",
+                "players_number": "8",
+                "Full Name": "Bruno Fernandes",
+                "players_rating": 7.0,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (08.09.1994)",
+                "Market Value": "€77.4m",
+                "unicode": "GYvAMDm2"
+            },
+            {
+                "players_name": "Martins G.",
+                "players_number": "77",
+                "Full Name": "Gelson Martins",
+                "players_rating": 7.4,
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (11.05.1995)",
+                "Market Value": "€2.3m",
+                "unicode": "0huDHVTb"
+            },
+            {
+                "players_name": "Patricio R. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Rui Patricio",
+                "players_rating": 7.2,
+                "Country": "Portugal",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (15.02.1988)",
+                "Market Value": "€3.3m",
+                "unicode": "44sSdBl6"
+            },
+            {
+                "players_name": "Pinto A.",
+                "players_number": "6",
+                "Full Name": "Andre Pinto",
+                "players_rating": 6.9,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.10.1989)",
+                "Market Value": "",
+                "unicode": "fJaYs5Ne"
+            },
+            {
+                "players_name": "Ristovski S.",
+                "players_number": "13",
+                "Full Name": "Stefan Ristovski",
+                "players_rating": 7.0,
+                "Country": "North Macedonia",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (12.02.1992)",
+                "Market Value": "€1.5m",
+                "unicode": "vyfPfq5g"
+            },
+            {
+                "players_name": "Silva J.",
+                "players_number": "3",
+                "Full Name": "Jonathan Silva",
+                "players_rating": 6.9,
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.06.1994)",
+                "Market Value": "€655k",
+                "unicode": "tpDEUHAT"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Doumbia S.",
+                "players_number": "88",
+                "Full Name": "Seydou Doumbia",
+                "players_rating": "",
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "36, (31.12.1987)",
+                "Market Value": "",
+                "unicode": "AeT4XUYr"
+            },
+            {
+                "players_name": "Palhinha J.",
+                "players_number": "66",
+                "Full Name": "Joao Palhinha",
+                "players_rating": 6.1,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (09.07.1995)",
+                "Market Value": "€58.7m",
+                "unicode": "vFArGMai"
+            },
+            {
+                "players_name": "Petrovic R.",
+                "players_number": "25",
+                "Full Name": "Radosav Petrovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (08.03.1989)",
+                "Market Value": "€179k",
+                "unicode": "rT7i24f2"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Figueiredo T.",
+                "players_number": "55",
+                "Full Name": "Tobias Figueiredo",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (02.02.1994)",
+                "Market Value": "€1.4m",
+                "unicode": "WhMA90hE"
+            },
+            {
+                "players_name": "Mattheus",
+                "players_number": "21",
+                "Full Name": "Mattheus",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (07.07.1994)",
+                "Market Value": "€725k",
+                "unicode": "Y1yFOaVR"
+            },
+            {
+                "players_name": "Podence D.",
+                "players_number": "17",
+                "Full Name": "Daniel Podence",
+                "players_rating": "",
+                "Country": "Portugal",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (21.10.1995)",
+                "Market Value": "€12.5m",
+                "unicode": "YTkrrmp4"
+            },
+            {
+                "players_name": "Salin R. (G)",
+                "players_number": "18",
+                "Full Name": "Romain Salin",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "39, (29.07.1984)",
+                "Market Value": "",
+                "unicode": "M1TpGEWS"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon.",
+            "comments_text_anonymized": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Clement Turpin will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out at last! Juventus will take the kick-off.",
+            "comments_text_anonymized": "The players are out at last! [TEAM] will take the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has just begun.",
+            "comments_text_anonymized": "The first half has just begun."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:50",
+            "comments_type": "",
+            "comments_text": "Gonzalo Higuain (Juventus) is caught offside after the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is caught offside after the linesman raises his flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:47",
+            "comments_type": "clearance",
+            "comments_text": "Gelson Martins (Sporting) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:52",
+            "comments_type": "clearance",
+            "comments_text": "Rodrigo Battaglia (Sporting) tries to find Marcos Acuna with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance. Now Sporting have a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to find [PLAYER] with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance. Now [TEAM] have a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:54",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Marcos Acuna (Sporting) is cleared by the defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Bruno Cesar (Sporting) should know this behaviour is beyond the rules. He was too careless with his challenge and left Clement Turpin no option but to blow his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:36",
+            "comments_type": "lead to corner",
+            "comments_text": "Sami Khedira (Juventus) produces a killer pass onto Mario Mandzukic, who loses the ball to one of the defenders. Juventus will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a killer pass onto [PLAYER], who loses the ball to one of the defenders. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:55",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) launches a cross from the corner, but Rui Patricio is alert to thwart the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a cross from the corner, but [PLAYER] is alert to thwart the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:00",
+            "comments_type": "shot off target",
+            "comments_text": "Bruno Cesar (Sporting) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:28",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) sees the run of Mario Mandzukic and tries to slip the ball to him, but Rui Patricio sees the danger and gathers.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees the run of [PLAYER] and tries to slip the ball to him, but [PLAYER] sees the danger and gathers."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:02",
+            "comments_type": "foul with no card",
+            "comments_text": "Andrea Barzagli (Juventus) gives away a foul for a clumsy challenge. Referee Clement Turpin saw the whole situation. It's a free kick to Sporting, but it's in no position for a direct shot on goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:30",
+            "comments_type": "clearance",
+            "comments_text": "Rodrigo Battaglia (Sporting) has an effort from distance but it's blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has an effort from distance but it's blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:10",
+            "comments_type": "clearance",
+            "comments_text": "A lofted cross from Juan Cuadrado (Juventus) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "comments_text_anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:48",
+            "comments_type": "goal",
+            "comments_text": "Goal! Bruno Cesar (Sporting) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:0.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:58",
+            "comments_type": "shot off target",
+            "comments_text": "Stefan Ristovski (Sporting) sends a long ball across the pitch, but it misses its target.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:17",
+            "comments_type": "yellow card",
+            "comments_text": "Mario Mandzukic (Juventus) violates the laws of the game and is shown a deserved yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a deserved yellow card by the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:12",
+            "comments_type": "off side",
+            "comments_text": "Sami Khedira (Juventus) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:45",
+            "comments_type": "lead to corner",
+            "comments_text": "Bas Dost (Sporting) latches onto a cross into the box from the wing and gets in a header. It went well towards the goal, but it was blocked by one of the defenders. Sporting will have a chance to score from a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto a cross into the box from the wing and gets in a header. It went well towards the goal, but it was blocked by one of the defenders. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:10",
+            "comments_type": "corner",
+            "comments_text": "Bruno Fernandes (Sporting) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:54",
+            "comments_type": "lead to corner",
+            "comments_text": "Mario Mandzukic (Juventus) finds his teammate inside the box with a sweet pass. However, Gonzalo Higuain wasn't able to finish and lost the ball. The referee blows his whistle, Juventus are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds his teammate inside the box with a sweet pass. However, [PLAYER] wasn't able to finish and lost the ball. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:49",
+            "comments_type": "corner",
+            "comments_text": "Paulo Dybala (Juventus) takes the corner which is cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Bruno Fernandes (Sporting) trips an opponent with a slide tackle. Clement Turpin stops the game and he could give him a card, but eventually decides on just a warning. That's a free kick to Juventus.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) sends a lofted pass into the penalty area from a free kick, but the opposition's defence manages to control all the attacking players and thwart the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted pass into the penalty area from a free kick, but the opposition's defence manages to control all the attacking players and thwart the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:15",
+            "comments_type": "clearance",
+            "comments_text": "A great run by Gonzalo Higuain (Juventus) gets him into the box, but his powerful shot is bravely blocked by a defender.",
+            "comments_text_anonymized": "A great run by [PLAYER] ([TEAM]) gets him into the box, but his powerful shot is bravely blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:38",
+            "comments_type": "off side",
+            "comments_text": "Paulo Dybala (Juventus) is forced to stop his forward run after being caught in an offside position by the linesman.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is forced to stop his forward run after being caught in an offside position by the linesman."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:53",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Alex Sandro (Juventus) sends a cross into the box, but Rui Patricio comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:51",
+            "comments_type": "end of half game",
+            "comments_text": "The match has reached half-time.",
+            "comments_text_anonymized": "The match has reached half-time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:40",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:10",
+            "comments_type": "lead to corner",
+            "comments_text": "This shall not pass! Paulo Dybala (Juventus) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The ball goes out of play. Juventus are awarded a corner kick.",
+            "comments_text_anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:05",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) will take the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:30",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mario Mandzukic (Juventus) outjumps the defence to meet the resulting corner and heads the ball towards the top of the net. The long-range header is not powerful enough, and the keeper comfortably makes a save.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) outjumps the defence to meet the resulting corner and heads the ball towards the top of the net. The long-range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:12",
+            "comments_type": "off side",
+            "comments_text": "The defence successfully catches Bas Dost (Sporting) in the offside trap, but it was close!",
+            "comments_text_anonymized": "The defence successfully catches [PLAYER] ([TEAM]) in the offside trap, but it was close!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:03",
+            "comments_type": "off side",
+            "comments_text": "Gonzalo Higuain (Juventus) is deemed to be in an offside position by the linesman and it looks like it is the right decision despite being a very close call.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is deemed to be in an offside position by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:08",
+            "comments_type": "shot off target",
+            "comments_text": "Paulo Dybala (Juventus) has a go from a long way out but it sails way over.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a go from a long way out but it sails way over."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Paulo Dybala (Juventus) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The referee signals a corner kick to Juventus.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:16",
+            "comments_type": "corner",
+            "comments_text": "Paulo Dybala (Juventus) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:50",
+            "comments_type": "shot off target",
+            "comments_text": "Miralem Pjanic (Juventus) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Juan Cuadrado (Juventus) races towards goal but the defender gets back well to make a challenge. The ball is out of play and the linesman points at the corner flag. Corner to Juventus.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:28",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:35",
+            "comments_type": "clearance",
+            "comments_text": "Miralem Pjanic (Juventus) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:03",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mattia De Sciglio (Juventus) with a wonderful solo effort. He blasted from long range, but the low shot towards the middle of the goal was thwarted by Rui Patricio.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) with a wonderful solo effort. He blasted from long range, but the low shot towards the middle of the goal was thwarted by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:31",
+            "comments_type": "substitution",
+            "comments_text": "Jorge Jesus has decided to make a change. Joao Palhinha (Sporting) replaces Bruno Cesar.",
+            "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:07",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Mattia De Sciglio leaves the pitch and is replaced by Douglas Costa (Juventus).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:30",
+            "comments_type": "clearance",
+            "comments_text": "That's unlucky! Paulo Dybala (Juventus) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared.",
+            "comments_text_anonymized": "That's unlucky! [PLAYER] ([TEAM]) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:31",
+            "comments_type": "yellow card",
+            "comments_text": "Bas Dost (Sporting) makes it easy for the referee to show him a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes it easy for the referee to show him a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:36",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Sami Khedira is going off and Massimiliano Allegri gives the last tactical orders to Blaise Matuidi (Juventus).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:12",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Paulo Dybala (Juventus) fashions a shot from the edge of the box after receiving an accurate pass. Rui Patricio makes a stunning save to stop the effort from flying into the right side of the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a stunning save to stop the effort from flying into the right side of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:43",
+            "comments_type": "lead to corner",
+            "comments_text": "Blaise Matuidi (Juventus) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Juventus force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:01",
+            "comments_type": "corner",
+            "comments_text": "Miralem Pjanic (Juventus) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:00",
+            "comments_type": "shot off target",
+            "comments_text": "Giorgio Chiellini (Juventus) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:16",
+            "comments_type": "yellow card",
+            "comments_text": "Marcos Acuna (Sporting) is booked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:31",
+            "comments_type": "yellow card",
+            "comments_text": "Sebastian Coates (Sporting) argues strongly with the referee and is awarded a yellow card. A needless yellow card!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) argues strongly with the referee and is awarded a yellow card. A needless yellow card!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:20",
+            "comments_type": "goal",
+            "comments_text": "Gonzalo Higuain (Juventus) finds himself one-on-one with the keeper after a great pass by Juan Cuadrado. He takes the shot early and scores!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself one-on-one with the keeper after a great pass by [PLAYER]. He takes the shot early and scores!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:00",
+            "comments_type": "lead to corner",
+            "comments_text": "Gonzalo Higuain (Juventus) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Good work from Juventus as they win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:14",
+            "comments_type": "corner",
+            "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Paulo Dybala (Juventus) takes it short.",
+            "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "shot off target",
+            "comments_text": "Douglas Costa (Juventus) finds himself unmarked on the edge of the box, but he drags his shot just wide of the right post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself unmarked on the edge of the box, but he drags his shot just wide of the right post."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:27",
+            "comments_type": "substitution",
+            "comments_text": "Here comes a substitution. Seydou Doumbia (Sporting) is brought on as a substitute for Bas Dost.",
+            "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:04",
+            "comments_type": "substitution",
+            "comments_text": "Massimiliano Allegri has decided to introduce fresh legs, with Federico Bernardeschi (Juventus) replacing Paulo Dybala.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Marcos Acuna (Sporting) blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball goes out of play. Sporting are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:10",
+            "comments_type": "corner",
+            "comments_text": "The corner kick from Bruno Fernandes (Sporting) is headed out of the penalty area by one of the defenders.",
+            "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:20",
+            "comments_type": "shot off target",
+            "comments_text": "Bruno Fernandes (Sporting) looks up on the edge of the box and rifles in a screamer of a shot that flies just over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks up on the edge of the box and rifles in a screamer of a shot that flies just over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:24",
+            "comments_type": "yellow card",
+            "comments_text": "Juan Cuadrado (Juventus) is rightly booked by the referee because it could not have been anything other than a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is rightly booked by the referee because it could not have been anything other than a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 4 min. of added time.",
+            "comments_text_anonymized": "We will have 4 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:35",
+            "comments_type": "substitution",
+            "comments_text": "Jorge Jesus is forced to make a change. Stefan Ristovski is not able to carry on due to injury. He is replaced by Radosav Petrovic (Sporting).",
+            "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:14",
+            "comments_type": "end of half game",
+            "comments_text": "That's it for today, Clement Turpin has blown his whistle and the game is over.",
+            "comments_text_anonymized": "That's it for today, [REFEREE] has blown his whistle and the game is over."
+        }
+    ]
+}

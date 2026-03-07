@@ -7,8 +7,8 @@ from tqdm import tqdm
 import argparse, os
 
 ######################## Parameters ########################
-PROJECT_PATH = "YOUR_FOLDER_PATH_TO_SOCCERAGENT_CODEBASE"
-client = OpenAI(api_key="your-deepseek-api-key", base_url="https://api.deepseek.com")
+PROJECT_PATH = "/root/autodl-tmp/SoccerAgent"
+client = OpenAI(api_key="sk-d66593a2376846048b16767f8040cbc2", base_url="https://api.deepseek.com")
 
 def workflow(input_text, Instruction, follow_up_prompt=None, max_tokens_followup=1500):
 

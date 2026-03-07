@@ -1,0 +1,1309 @@
+{
+    "match_info": {
+        "timestamp": "2019-08-24 21:30:00",
+        "score": "1 - 3",
+        "home_team": "Mainz",
+        "away_team": "B. Monchengladbach",
+        "home_formation": "4 - 3 - 1 - 2",
+        "away_formation": "4 - 3 - 1 - 2",
+        "venue": "Mewa Arena (Mainz)",
+        "capacity": "34 000",
+        "attendance": "28 005",
+        "home_jersey_color": "red",
+        "away_jersey_color": "blue"
+    },
+    "referee_data": {
+        "short_name_country": "Petersen M. (Ger)",
+        "first_name": "Petersen",
+        "abbr_last_name": "M",
+        "country": "Ger",
+        "detected_name": ""
+    },
+    "players_data": {
+        "away_coaches": [
+            {
+                "players_name": "Rose M.",
+                "players_number": "",
+                "Full Name": "Marco Rose",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "47,  (11.09.1976)",
+                "Market Value": "",
+                "unicode": "pfoInmcq"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Doucoure M.",
+                "players_number": "",
+                "Full Name": "Mamadou Doucoure",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (21.05.1998)",
+                "Market Value": "30.06.2024",
+                "unicode": "2cJApqO5"
+            },
+            {
+                "players_name": "Hofmann J.",
+                "players_number": "",
+                "Full Name": "Jonas Hofmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (14.07.1992)",
+                "Market Value": "€12.5m",
+                "unicode": "xvCz3Gwd"
+            },
+            {
+                "players_name": "Mayer F.",
+                "players_number": "",
+                "Full Name": "Florian Mayer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "€69k, (04.03.1998)",
+                "Market Value": "30.06.2025",
+                "unicode": "YqE9NfG5"
+            },
+            {
+                "players_name": "Musel T.",
+                "players_number": "",
+                "Full Name": "Torben Musel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (25.07.1999)",
+                "Market Value": "€289k",
+                "unicode": "06l29nqF"
+            },
+            {
+                "players_name": "Stindl L.",
+                "players_number": "",
+                "Full Name": "Lars Stindl",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (26.08.1988)",
+                "Market Value": "€986k",
+                "unicode": "COipysWk"
+            },
+            {
+                "players_name": "Strobl T.",
+                "players_number": "",
+                "Full Name": "Tobias Strobl",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (12.05.1990)",
+                "Market Value": "",
+                "unicode": "p0gxkJv0"
+            },
+            {
+                "players_name": "Villalba J.",
+                "players_number": "",
+                "Full Name": "Julio Villalba",
+                "players_rating": "",
+                "Country": "Paraguay",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (17.09.1998)",
+                "Market Value": "",
+                "unicode": "UeaKETnM"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Benes L.",
+                "players_number": "22",
+                "Full Name": "Laszlo Benes",
+                "players_rating": 7.7,
+                "Country": "Slovakia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (09.09.1997)",
+                "Market Value": "€4.0m",
+                "unicode": "UsQXxleR"
+            },
+            {
+                "players_name": "Elvedi N.",
+                "players_number": "30",
+                "Full Name": "Nico Elvedi",
+                "players_rating": 7.0,
+                "Country": "Switzerland",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (30.09.1996)",
+                "Market Value": "€13.9m",
+                "unicode": "fZO9OHIM"
+            },
+            {
+                "players_name": "Ginter M.",
+                "players_number": "28",
+                "Full Name": "Matthias Ginter",
+                "players_rating": 6.9,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (19.01.1994)",
+                "Market Value": "€14.9m",
+                "unicode": "27fpNoQk"
+            },
+            {
+                "players_name": "Johnson F.",
+                "players_number": "19",
+                "Full Name": "Fabian Johnson",
+                "players_rating": 6.6,
+                "Country": "USA",
+                "Role": "Defender",
+                "Age and Birthdate": "36, (11.12.1987)",
+                "Market Value": "",
+                "unicode": "j9cppQ1t"
+            },
+            {
+                "players_name": "Lainer S.",
+                "players_number": "18",
+                "Full Name": "Stefan Lainer",
+                "players_rating": 8.6,
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (27.08.1992)",
+                "Market Value": "€2.8m",
+                "unicode": "lCbT3rUK"
+            },
+            {
+                "players_name": "Neuhaus F.",
+                "players_number": "32",
+                "Full Name": "Florian Neuhaus",
+                "players_rating": 7.0,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (16.03.1997)",
+                "Market Value": "€8.4m",
+                "unicode": "ALwvJeYD"
+            },
+            {
+                "players_name": "Plea A.",
+                "players_number": "14",
+                "Full Name": "Alassane Plea",
+                "players_rating": 8.4,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "30, (10.03.1993)",
+                "Market Value": "€7.8m",
+                "unicode": "0rfLpu2t"
+            },
+            {
+                "players_name": "Sommer Y. (G) (C)",
+                "players_number": "1",
+                "Full Name": "Yann Sommer",
+                "players_rating": 7.0,
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (17.12.1988)",
+                "Market Value": "€4.9m",
+                "unicode": "4zA5n1UG"
+            },
+            {
+                "players_name": "Thuram M.",
+                "players_number": "10",
+                "Full Name": "Marcus Thuram",
+                "players_rating": 7.0,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (06.08.1997)",
+                "Market Value": "€53.8m",
+                "unicode": "hMMX02Fm"
+            },
+            {
+                "players_name": "Wendt O.",
+                "players_number": "17",
+                "Full Name": "Oscar Wendt",
+                "players_rating": 7.0,
+                "Country": "Sweden",
+                "Role": "Defender",
+                "Age and Birthdate": "38, (24.10.1985)",
+                "Market Value": "€289k",
+                "unicode": "IuB7l6zM"
+            },
+            {
+                "players_name": "Zakaria D.",
+                "players_number": "8",
+                "Full Name": "Denis Zakaria",
+                "players_rating": 7.0,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (20.11.1996)",
+                "Market Value": "€21.2m",
+                "unicode": "d23lOQrL"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Embolo B.",
+                "players_number": "36",
+                "Full Name": "Breel Embolo",
+                "players_rating": 7.3,
+                "Country": "Switzerland",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (14.02.1997)",
+                "Market Value": "€11.4m",
+                "unicode": "CpKkPKuP"
+            },
+            {
+                "players_name": "Jantschke T.",
+                "players_number": "24",
+                "Full Name": "Tony Jantschke",
+                "players_rating": 6.9,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (07.04.1990)",
+                "Market Value": "€372k",
+                "unicode": "8MBvC2Mq"
+            },
+            {
+                "players_name": "Kramer Ch.",
+                "players_number": "6",
+                "Full Name": "Christoph Kramer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (19.02.1991)",
+                "Market Value": "€1.8m",
+                "unicode": "OKbPLxLj"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Bensebaini R.",
+                "players_number": "25",
+                "Full Name": "Ramy Bensebaini",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (16.04.1995)",
+                "Market Value": "€12.1m",
+                "unicode": "jag6GVQG"
+            },
+            {
+                "players_name": "Beyer J.",
+                "players_number": "15",
+                "Full Name": "Jordan Beyer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (19.05.2000)",
+                "Market Value": "€16.1m",
+                "unicode": "URaShmTO"
+            },
+            {
+                "players_name": "Herrmann P.",
+                "players_number": "7",
+                "Full Name": "Patrick Herrmann",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (12.02.1991)",
+                "Market Value": "€894k",
+                "unicode": "df2eQNM7"
+            },
+            {
+                "players_name": "Raffael",
+                "players_number": "11",
+                "Full Name": "Raffael",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "38, (28.03.1985)",
+                "Market Value": "",
+                "unicode": "vkCw5cKl"
+            },
+            {
+                "players_name": "Sippel T. (G)",
+                "players_number": "21",
+                "Full Name": "Tobias Sippel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "35, (22.03.1988)",
+                "Market Value": "€281k",
+                "unicode": "l0BIl6gP"
+            },
+            {
+                "players_name": "Traore I.",
+                "players_number": "16",
+                "Full Name": "Ibrahima Traore",
+                "players_rating": "",
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (21.04.1988)",
+                "Market Value": "",
+                "unicode": "MPeb9OUt"
+            }
+        ],
+        "home_coaches": [
+            {
+                "players_name": "Schwarz S.",
+                "players_number": "",
+                "Full Name": "Sandro Schwarz",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "45,  (17.10.1978)",
+                "Market Value": "",
+                "unicode": "rJ9D8rzj"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Bell S.",
+                "players_number": "",
+                "Full Name": "Stefan Bell",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (24.08.1991)",
+                "Market Value": "€950k",
+                "unicode": "EilL1urA"
+            },
+            {
+                "players_name": "Ji Dong-Won",
+                "players_number": "",
+                "Full Name": "Dong-Won Ji",
+                "players_rating": "",
+                "Country": "South Korea",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (28.05.1991)",
+                "Market Value": "",
+                "unicode": "ngjnWqzl"
+            },
+            {
+                "players_name": "Mateta J.",
+                "players_number": "",
+                "Full Name": "Jean-Philippe Mateta",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (28.06.1997)",
+                "Market Value": "€6.6m",
+                "unicode": "nsFUj6GN"
+            },
+            {
+                "players_name": "Mwene P.",
+                "players_number": "",
+                "Full Name": "Phillipp Mwene",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (29.01.1994)",
+                "Market Value": "€1.5m",
+                "unicode": "troQho4L"
+            },
+            {
+                "players_name": "Seydel A.",
+                "players_number": "",
+                "Full Name": "Aaron Seydel",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (07.02.1996)",
+                "Market Value": "€454k",
+                "unicode": "MPOKUmG9"
+            },
+            {
+                "players_name": "St. Juste J.",
+                "players_number": "",
+                "Full Name": "Jerry St. Juste",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (19.10.1996)",
+                "Market Value": "€7.6m",
+                "unicode": "2iGD675C"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Boetius J-P.",
+                "players_number": "5",
+                "Full Name": "Jean-Paul Boetius",
+                "players_rating": 6.6,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (22.03.1994)",
+                "Market Value": "",
+                "unicode": "hpFQl14g"
+            },
+            {
+                "players_name": "Brosinski D.",
+                "players_number": "18",
+                "Full Name": "Daniel Brosinski",
+                "players_rating": 7.6,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (17.07.1988)",
+                "Market Value": "€182k",
+                "unicode": "xSSkyg9o"
+            },
+            {
+                "players_name": "Fernandes E.",
+                "players_number": "20",
+                "Full Name": "Edimilson Fernandes",
+                "players_rating": 6.3,
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (15.04.1996)",
+                "Market Value": "€5.2m",
+                "unicode": "QRGkc05e"
+            },
+            {
+                "players_name": "Hack A.",
+                "players_number": "42",
+                "Full Name": "Alexander Hack",
+                "players_rating": 7.9,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (08.09.1993)",
+                "Market Value": "€2.1m",
+                "unicode": "CCfKuwfE"
+            },
+            {
+                "players_name": "Kunde P.",
+                "players_number": "14",
+                "Full Name": "Pierre Kunde",
+                "players_rating": 6.4,
+                "Country": "Cameroon",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (26.07.1995)",
+                "Market Value": "€1.4m",
+                "unicode": "bVqLw0cn"
+            },
+            {
+                "players_name": "Latza D. (C)",
+                "players_number": "6",
+                "Full Name": "Danny Latza",
+                "players_rating": 7.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (07.12.1989)",
+                "Market Value": "€272k",
+                "unicode": "QJmn2yWs"
+            },
+            {
+                "players_name": "Martin A.",
+                "players_number": "3",
+                "Full Name": "Aaron Martin",
+                "players_rating": 6.6,
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (22.04.1997)",
+                "Market Value": "€4.8m",
+                "unicode": "l4xhn6hC"
+            },
+            {
+                "players_name": "Muller F. (G)",
+                "players_number": "1",
+                "Full Name": "Florian Muller",
+                "players_rating": 5.7,
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (13.11.1997)",
+                "Market Value": "€1.0m",
+                "unicode": "fu2K0qhI"
+            },
+            {
+                "players_name": "Niakhate M.",
+                "players_number": "19",
+                "Full Name": "Moussa Niakhate",
+                "players_rating": 6.3,
+                "Country": "Senegal",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (08.03.1996)",
+                "Market Value": "€15.0m",
+                "unicode": "tdnibGHH"
+            },
+            {
+                "players_name": "Onisiwo K.",
+                "players_number": "21",
+                "Full Name": "Karim Onisiwo",
+                "players_rating": 6.4,
+                "Country": "Austria",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (17.03.1992)",
+                "Market Value": "€2.7m",
+                "unicode": "lnXQSLq2"
+            },
+            {
+                "players_name": "Quaison R.",
+                "players_number": "7",
+                "Full Name": "Robin Quaison",
+                "players_rating": 7.4,
+                "Country": "Sweden",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (09.10.1993)",
+                "Market Value": "€3.8m",
+                "unicode": "hOHt2BDN"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Awoniyi T.",
+                "players_number": "22",
+                "Full Name": "Taiwo Awoniyi",
+                "players_rating": 6.0,
+                "Country": "Nigeria",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (12.08.1997)",
+                "Market Value": "€27.3m",
+                "unicode": "OWFf8WFm"
+            },
+            {
+                "players_name": "Baku R.",
+                "players_number": "34",
+                "Full Name": "Ridle Baku",
+                "players_rating": 6.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (08.04.1998)",
+                "Market Value": "€9.6m",
+                "unicode": "AVMjVAqt"
+            },
+            {
+                "players_name": "Burkardt J.",
+                "players_number": "29",
+                "Full Name": "Jonathan Burkardt",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (11.07.2000)",
+                "Market Value": "€6.4m",
+                "unicode": "MicyKu3h"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Barreiro L.",
+                "players_number": "35",
+                "Full Name": "Leandro Barreiro",
+                "players_rating": "",
+                "Country": "Luxembourg",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (03.01.2000)",
+                "Market Value": "€13.7m",
+                "unicode": "bqZmk7Di"
+            },
+            {
+                "players_name": "Gurleyen A.",
+                "players_number": "31",
+                "Full Name": "Ahmet Gurleyen",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (26.04.1999)",
+                "Market Value": "€655k",
+                "unicode": "IoV08JsR"
+            },
+            {
+                "players_name": "Maxim A.",
+                "players_number": "10",
+                "Full Name": "Alexandru Maxim",
+                "players_rating": "",
+                "Country": "Romania",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (08.07.1990)",
+                "Market Value": "€1.6m",
+                "unicode": "EFNpqcTT"
+            },
+            {
+                "players_name": "Oztunali L.",
+                "players_number": "8",
+                "Full Name": "Levin Oztunali",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (15.03.1996)",
+                "Market Value": "€830k",
+                "unicode": "f59jliZi"
+            },
+            {
+                "players_name": "Pierre-Gabriel R.",
+                "players_number": "2",
+                "Full Name": "Ronael Pierre-Gabriel",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (13.06.1998)",
+                "Market Value": "€3.3m",
+                "unicode": "z3gcthTt"
+            },
+            {
+                "players_name": "Zentner R. (G)",
+                "players_number": "27",
+                "Full Name": "Robin Zentner",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "29, (28.10.1994)",
+                "Market Value": "€4.8m",
+                "unicode": "0E4pecgh"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun.",
+            "comments_text_anonymized": "Welcome to our minute-by-minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Let us introduce today's referee to you, and it's Martin Petersen.",
+            "comments_text_anonymized": "Let us introduce today's referee to you, and it's [PLAYER] Petersen."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are out and the match is about to start. B. Monchengladbach will have the kick-off.",
+            "comments_text_anonymized": "The players are out and the match is about to start. [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:30",
+            "comments_type": "foul with no card",
+            "comments_text": "Laszlo Benes (B. Monchengladbach) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Martin Petersen blows for the foul but keeps his cards in his pocket on this occasion.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. [PLAYER] Petersen blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:09",
+            "comments_type": "ball possession",
+            "comments_text": "Mainz are showing great team chemistry. They are passing the ball around seamlessly.",
+            "comments_text_anonymized": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:12",
+            "comments_type": "foul with no card",
+            "comments_text": "Marcus Thuram (B. Monchengladbach) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Florian Neuhaus (B. Monchengladbach) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. B. Monchengladbach win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. [TEAM] win a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:48",
+            "comments_type": "corner",
+            "comments_text": "B. Monchengladbach take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:14",
+            "comments_type": "shot off target",
+            "comments_text": "Danny Latza (Mainz) beats a defender on the edge of the box then bends in an effort at goal, but his radar is way off and the ball sails high over the bar. The ball is off of the pitch and it's a goal kick for B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) beats a defender on the edge of the box then bends in an effort at goal, but his radar is way off and the ball sails high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:27",
+            "comments_type": "ball possession",
+            "comments_text": "Edimilson Fernandes (Mainz) makes a driving run into the box but he cannot work any space for a shot.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:58",
+            "comments_type": "lead to corner",
+            "comments_text": "Alassane Plea (B. Monchengladbach) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes behind for a corner. B. Monchengladbach will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:48",
+            "comments_type": "corner",
+            "comments_text": "The goalkeeper punched the ball away after Oscar Wendt (B. Monchengladbach) took the corner.",
+            "comments_text_anonymized": "The goalkeeper punched the ball away after [PLAYER] ([TEAM]) took the corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:50",
+            "comments_type": "shot off target",
+            "comments_text": "A short pass finds Robin Quaison (Mainz). He spots the keeper off his line and shoots from mid-range, but the ball sails high over the bar. The ball goes out of play and B. Monchengladbach will have a goal kick.",
+            "comments_text_anonymized": "A short pass finds [PLAYER] ([TEAM]). He spots the keeper off his line and shoots from mid-range, but the ball sails high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:06",
+            "comments_type": "foul with no card",
+            "comments_text": "Karim Onisiwo (Mainz) commits a rough challenge and Martin Petersen blows his whistle for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [PLAYER] Petersen blows his whistle for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:51",
+            "comments_type": "corner",
+            "comments_text": "B. Monchengladbach failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:10",
+            "comments_type": "goal",
+            "comments_text": "Perfectly taken free kick!Daniel Brosinski sends a cross in and Robin Quaison (Mainz) leaps high to connect with it on the edge of the 6-yard box. His close-range header goes low into the middle of the net and the score changes to 1:0.",
+            "comments_text_anonymized": "Perfectly taken free kick![PLAYER] sends a cross in and [PLAYER] ([TEAM]) leaps high to connect with it on the edge of the 6-yard box. His close-range header goes low into the middle of the net and the score changes to 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Alassane Plea (B. Monchengladbach) brings down his opponent with a very late tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:08",
+            "comments_type": "statistics and summary",
+            "comments_text": "The statistic for corner kicks – 3:5.",
+            "comments_text_anonymized": "The statistic for corner kicks – 3:5."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:03",
+            "comments_type": "ball out of play",
+            "comments_text": "A pass by Moussa Niakhate (Mainz) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. B. Monchengladbach will take a throw-in.",
+            "comments_text_anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:29",
+            "comments_type": "shot off target",
+            "comments_text": "Stefan Lainer (B. Monchengladbach) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the left post.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the left post."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:50",
+            "comments_type": "ball out of play",
+            "comments_text": "The ball goes out of play and Mainz will have a goal kick.",
+            "comments_text_anonymized": "The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:15",
+            "comments_type": "shot off target",
+            "comments_text": "Robin Quaison (Mainz) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar. The ball is off of the pitch and it's a goal kick for B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:00",
+            "comments_type": "foul with no card",
+            "comments_text": "A clumsy foul by Laszlo Benes (B. Monchengladbach) and Martin Petersen blows his whistle.",
+            "comments_text_anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [PLAYER] Petersen blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:08",
+            "comments_type": "foul with no card",
+            "comments_text": "Denis Zakaria (B. Monchengladbach) makes a reckless foul in order to win the ball from his opponent. Martin Petersen has a clear sight of it and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [PLAYER] Petersen has a clear sight of it and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:15",
+            "comments_type": "lead to corner",
+            "comments_text": "Pierre Kunde Malong (Mainz) sends the ball into the box from the side of the pitch, but his cross is blocked. The linesman signals a throw-in for Mainz.",
+            "comments_text_anonymized": "[PLAYER] Malong ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "clearance",
+            "comments_text": "Karim Onisiwo (Mainz) looks to break free, but an opposing player clears the ball away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:10",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Petersen blows the whistle, Robin Quaison (Mainz) is penalised for a foul.",
+            "comments_text_anonymized": "[PLAYER] Petersen blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Pierre Kunde Malong (Mainz) makes a rough challenge and the referee blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] Malong ([TEAM]) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Petersen blows his whistle after Jean-Paul Boetius (Mainz) kicks an opponent's legs instead of the ball. That's a free kick to B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] Petersen blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:43",
+            "comments_type": "clearance",
+            "comments_text": "A cross from a mid-range free kick, taken by B. Monchengladbach, is intercepted by one of the defenders.",
+            "comments_text_anonymized": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:56",
+            "comments_type": "goal",
+            "comments_text": "Goal! Stefan Lainer (B. Monchengladbach) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the right post. It's 1:1.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the right post. It's 1:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:50",
+            "comments_type": "ball possession",
+            "comments_text": "B. Monchengladbach are seeing far more of the ball now.",
+            "comments_text_anonymized": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "half": 1,
+            "time_stamp": "36:31",
+            "comments_type": "shot off target",
+            "comments_text": "That's a well-taken pass by Laszlo Benes (B. Monchengladbach). He unleashes a strike from the edge of the box, but blazes it high over the bar. The ball goes out of play and Mainz will have a goal kick.",
+            "comments_text_anonymized": "That's a well-taken pass by [PLAYER] ([TEAM]). He unleashes a strike from the edge of the box, but blazes it high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:10",
+            "comments_type": "shot off target",
+            "comments_text": "Daniel Brosinski (Mainz) shows off his skills with a mazy run to the edge of the box and then fires in a disappointing shot that flies high over the bar. The ball is off of the pitch and it's a goal kick for B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shows off his skills with a mazy run to the edge of the box and then fires in a disappointing shot that flies high over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:10",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Nico Elvedi (B. Monchengladbach) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:05",
+            "comments_type": "ball out of play",
+            "comments_text": "Edimilson Fernandes (Mainz) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball goes out of play and B. Monchengladbach will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:34",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Petersen blows his whistle for a foul after Robin Quaison (Mainz) hacks down one of his opponents.",
+            "comments_text_anonymized": "[PLAYER] Petersen blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:42",
+            "comments_type": "clearance",
+            "comments_text": "A long cross from the side is directed to the well-positioned Marcus Thuram (B. Monchengladbach), but the defence gets it clear.",
+            "comments_text_anonymized": "A long cross from the side is directed to the well-positioned [PLAYER] ([TEAM]), but the defence gets it clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:36",
+            "comments_type": "foul with no card",
+            "comments_text": "Denis Zakaria (B. Monchengladbach) commits a foul after bringing down his opponent with a slide tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul after bringing down his opponent with a slide tackle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:20",
+            "comments_type": "clearance",
+            "comments_text": "Daniel Brosinski (Mainz) floats the free kick into the box, but it's easily cleared by the first man.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:05",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Robin Quaison (Mainz) attempts to convert a lofted cross as he jumps high and heads the ball to the middle of the goal. Yann Sommer shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to convert a lofted cross as he jumps high and heads the ball to the middle of the goal. [PLAYER] shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:04",
+            "comments_type": "lead to corner",
+            "comments_text": "A neat pass is well received by Daniel Brosinski (Mainz), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot. Mainz force a corner. They send men into the box.",
+            "comments_text_anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:22",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Mainz is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:33",
+            "comments_type": "yellow card",
+            "comments_text": "The whistle is blown for an infringement and Karim Onisiwo (Mainz) receives a yellow card!",
+            "comments_text_anonymized": "The whistle is blown for an infringement and [PLAYER] ([TEAM]) receives a yellow card!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 additional min. will be played.",
+            "comments_text_anonymized": "4 additional min. will be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:50",
+            "comments_type": "substitution",
+            "comments_text": "It is time for a substitution. Tony Jantschke (B. Monchengladbach) is on for Nico Elvedi.",
+            "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:04",
+            "comments_type": "foul with no card",
+            "comments_text": "Karim Onisiwo (Mainz) was trying to get to the ball but clattered into the legs of the opponent as well. Martin Petersen blows his whistle for an infringement.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [PLAYER] Petersen blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:40",
+            "comments_type": "clearance",
+            "comments_text": "Danny Latza (Mainz) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:00",
+            "comments_type": "yellow card",
+            "comments_text": "Moussa Niakhate (Mainz) is literally asking for a yellow card with his behaviour. The referee agrees and books him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "49:40",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "comments_text_anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle to signal the start of the second half.",
+            "comments_text_anonymized": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:19",
+            "comments_type": "foul with no card",
+            "comments_text": "Denis Zakaria (B. Monchengladbach) robs an opponent of the ball and explodes in anger when Martin Petersen blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [PLAYER] Petersen blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:42",
+            "comments_type": "ball out of play",
+            "comments_text": "Robin Quaison (Mainz) does his best to latch onto a cross into the box, but he can't get to the ball. The ball goes out of play and B. Monchengladbach will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:00",
+            "comments_type": "clearance",
+            "comments_text": "Marcus Thuram (B. Monchengladbach) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:50",
+            "comments_type": "throw in",
+            "comments_text": "A long pass, executed by Danny Latza (Mainz), missed the precision to reach his teammates. It's a throw-in for B. Monchengladbach.",
+            "comments_text_anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates. It's a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Martin Petersen has a clear sight and sees a foul from Denis Zakaria (B. Monchengladbach). Mainz have a free kick from a promising distance.",
+            "comments_text_anonymized": "[PLAYER] Petersen has a clear sight and sees a foul from [PLAYER] ([TEAM]). [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:28",
+            "comments_type": "shot off target",
+            "comments_text": "Daniel Brosinski (Mainz) wasted a huge opportunity as he received a fine cross from the free kick and fired a shot in from just outside of the box, but it sailed well wide of the right post. The ball is off of the pitch and it's a goal kick for B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wasted a huge opportunity as he received a fine cross from the free kick and fired a shot in from just outside of the box, but it sailed well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:18",
+            "comments_type": "foul with no card",
+            "comments_text": "Jean-Paul Boetius (Mainz) makes a strong challenge and Martin Petersen blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [PLAYER] Petersen blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "09:50",
+            "comments_type": "clearance",
+            "comments_text": "The resulting set piece, sent into the penalty area by Oscar Wendt (B. Monchengladbach), was easily dealt with by one of the defenders.",
+            "comments_text_anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:20",
+            "comments_type": "ball possession",
+            "comments_text": "Mainz hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "comments_text_anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:48",
+            "comments_type": "foul with no card",
+            "comments_text": "Referee Martin Petersen sees the trip by Matthias Ginter (B. Monchengladbach) and doesn't hesitate to blow his whistle.",
+            "comments_text_anonymized": "Referee [PLAYER] Petersen sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:18",
+            "comments_type": "clearance",
+            "comments_text": "Danny Latza (Mainz) races towards goal but the defender gets back well to make a challenge.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:30",
+            "comments_type": "ball possession",
+            "comments_text": "Alassane Plea (B. Monchengladbach) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:04",
+            "comments_type": "lead to corner",
+            "comments_text": "Florian Neuhaus (B. Monchengladbach) latches on to a pass inside the box and strikes the ball to the middle of the goal, but one of the defending players makes a goal-line clearance. B. Monchengladbach will take a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a pass inside the box and strikes the ball to the middle of the goal, but one of the defending players makes a goal-line clearance. [TEAM] will take a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:17",
+            "comments_type": "corner",
+            "comments_text": "B. Monchengladbach have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:43",
+            "comments_type": "substitution",
+            "comments_text": "Marco Rose decides to make a substitution. Marcus Thuram will be replaced by Breel Embolo (B. Monchengladbach).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:00",
+            "comments_type": "lead to corner",
+            "comments_text": "A promising cross into the box is nearly received by the lurking Denis Zakaria (B. Monchengladbach), but one of the defending players cuts it out to avert the threat. It will be a corner kick for B. Monchengladbach.",
+            "comments_text_anonymized": "A promising cross into the box is nearly received by the lurking [PLAYER] ([TEAM]), but one of the defending players cuts it out to avert the threat. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:59",
+            "comments_type": "corner",
+            "comments_text": "B. Monchengladbach take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+            "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:12",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Robin Quaison makes way for Taiwo Awoniyi (Mainz).",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:04",
+            "comments_type": "shot off target",
+            "comments_text": "Taiwo Awoniyi (Mainz) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the middle of the goal, but one of the defenders reacted brilliantly to block it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the middle of the goal, but one of the defenders reacted brilliantly to block it."
+        },
+        {
+            "half": 2,
+            "time_stamp": "21:30",
+            "comments_type": "clearance",
+            "comments_text": "Karim Onisiwo (Mainz) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:20",
+            "comments_type": "clearance",
+            "comments_text": "Jean-Paul Boetius (Mainz) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:10",
+            "comments_type": "clearance",
+            "comments_text": "Good movement by Edimilson Fernandes (Mainz), but he can't find any of his teammates as the cross is poor.",
+            "comments_text_anonymized": "Good movement by [PLAYER] ([TEAM]), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "clearance",
+            "comments_text": "Karim Onisiwo (Mainz) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:25",
+            "comments_type": "lead to corner",
+            "comments_text": "Daniel Brosinski (Mainz) sends a lofted cross into the box which is headed clear. The ball goes out of play. Mainz are awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:46",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Edimilson Fernandes leaves the pitch and is replaced by Bote Baku (Mainz).",
+            "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by Bote [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:22",
+            "comments_type": "corner",
+            "comments_text": "Mainz failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:58",
+            "comments_type": "shot off target",
+            "comments_text": "Danny Latza (Mainz) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar. The ball is off of the pitch and it's a goal kick for B. Monchengladbach.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "31:07",
+            "comments_type": "goal",
+            "comments_text": "Alassane Plea (B. Monchengladbach) displays what a brilliant free kick master he is, especially from this distance. He hits the ball very well and scores with a low shot inside the left post, leaving the keeper helpless.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) displays what a brilliant free kick master he is, especially from this distance. He hits the ball very well and scores with a low shot inside the left post, leaving the keeper helpless."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:55",
+            "comments_type": "goal",
+            "comments_text": "Breel Embolo (B. Monchengladbach) received a pass and blasted a beautiful rocket of a shot from just outside the penalty area into the bottom right corner. He was given an ovation. Excellent finish.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) received a pass and blasted a beautiful rocket of a shot from just outside the penalty area into the bottom right corner. He was given an ovation. Excellent finish."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:41",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Fabian Johnson makes his way off the pitch and Christoph Kramer (B. Monchengladbach) comes on as his replacement.",
+            "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:30",
+            "comments_type": "substitution",
+            "comments_text": "Sandro Schwarz has decided to introduce fresh legs, with Jonathan Burkardt (Mainz) replacing Pierre Kunde Malong.",
+            "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER] Malong."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:10",
+            "comments_type": "ball possession",
+            "comments_text": "A spell of possession for Mainz in an attempt to control the game.",
+            "comments_text_anonymized": "A spell of possession for [TEAM] in an attempt to control the game."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:23",
+            "comments_type": "yellow card",
+            "comments_text": "Martin Petersen rightly pulls out a yellow card and shows it to Denis Zakaria (B. Monchengladbach).",
+            "comments_text_anonymized": "[PLAYER] Petersen rightly pulls out a yellow card and shows it to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Daniel Brosinski (Mainz) runs onto a lofted ball into the box, but hits a weak shot towards the bottom left corner that is easily dealt with by Yann Sommer. Mainz have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) runs onto a lofted ball into the box, but hits a weak shot towards the bottom left corner that is easily dealt with by [PLAYER]. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:10",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from Mainz is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:53",
+            "comments_type": "yellow card",
+            "comments_text": "The whistle blows and Christoph Kramer (B. Monchengladbach) is booked for an infringement.",
+            "comments_text_anonymized": "The whistle blows and [PLAYER] ([TEAM]) is booked for an infringement."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "4 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "4 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:10",
+            "comments_type": "clearance",
+            "comments_text": "Taiwo Awoniyi (Mainz) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:20",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 28005.",
+            "comments_text_anonymized": "The attendance for today's match is 28005."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:30",
+            "comments_type": "ball out of play",
+            "comments_text": "Taiwo Awoniyi (Mainz) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:13",
+            "comments_type": "end of half game",
+            "comments_text": "Nothing more will happen in this game as the referee blows for full time.",
+            "comments_text_anonymized": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ]
+}

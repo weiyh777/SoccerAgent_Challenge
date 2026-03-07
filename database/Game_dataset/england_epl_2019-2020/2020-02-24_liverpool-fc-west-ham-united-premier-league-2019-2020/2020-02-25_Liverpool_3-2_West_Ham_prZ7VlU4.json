@@ -1,0 +1,1322 @@
+{
+    "match_info": {
+        "timestamp": "2020-02-25 04:00:00",
+        "score": "3 - 2",
+        "home_team": "Liverpool",
+        "away_team": "West Ham",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 2 - 3 - 1",
+        "venue": "Anfield (Liverpool)",
+        "capacity": "61 276",
+        "attendance": "53 313",
+        "home_jersey_color": "red",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Moss J. (Eng)",
+        "first_name": "Moss",
+        "abbr_last_name": "J",
+        "country": "Eng",
+        "detected_name": "Jonathan Moss"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Klopp J.",
+                "players_number": "",
+                "Full Name": "Jurgen Klopp",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "56,  (16.06.1967)",
+                "Market Value": "",
+                "unicode": "x6CvOHH9"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Clyne N.",
+                "players_number": "",
+                "Full Name": "Nathaniel Clyne",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (05.04.1991)",
+                "Market Value": "€1.4m",
+                "unicode": "Eo9X2cTu"
+            },
+            {
+                "players_name": "Henderson J.",
+                "players_number": "",
+                "Full Name": "Jordan Henderson",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (17.06.1990)",
+                "Market Value": "€7.3m",
+                "unicode": "UFMlUD6r"
+            },
+            {
+                "players_name": "Larouci Y.",
+                "players_number": "",
+                "Full Name": "Yasser Larouci",
+                "players_rating": "",
+                "Country": "Algeria",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (01.01.2001)",
+                "Market Value": "€2.8m",
+                "unicode": "0vrFs95o"
+            },
+            {
+                "players_name": "Milner J.",
+                "players_number": "",
+                "Full Name": "James Milner",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (04.01.1986)",
+                "Market Value": "€936k",
+                "unicode": "QLY3kAEt"
+            },
+            {
+                "players_name": "Shaqiri X.",
+                "players_number": "",
+                "Full Name": "Xherdan Shaqiri",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (10.10.1991)",
+                "Market Value": "€2.6m",
+                "unicode": "CKcCpcKN"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Alexander-Arnold T.",
+                "players_number": "66",
+                "Full Name": "Trent Alexander-Arnold",
+                "players_rating": 9.0,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (07.10.1998)",
+                "Market Value": "€71.5m",
+                "unicode": "CEVJy6Bc"
+            },
+            {
+                "players_name": "Alisson (G)",
+                "players_number": "1",
+                "Full Name": "Alisson",
+                "players_rating": 6.4,
+                "Country": "Brazil",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (02.10.1992)",
+                "Market Value": "€31.5m",
+                "unicode": "UZrQ3bwP"
+            },
+            {
+                "players_name": "Fabinho",
+                "players_number": "3",
+                "Full Name": "Fabinho",
+                "players_rating": 7.5,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (23.10.1993)",
+                "Market Value": "€33.3m",
+                "unicode": "nqldMgYf"
+            },
+            {
+                "players_name": "Firmino R.",
+                "players_number": "9",
+                "Full Name": "Roberto Firmino",
+                "players_rating": 7.0,
+                "Country": "Brazil",
+                "Role": "Forward",
+                "Age and Birthdate": "32, (02.10.1991)",
+                "Market Value": "€9.7m",
+                "unicode": "CCNtplZe"
+            },
+            {
+                "players_name": "Gomez J.",
+                "players_number": "12",
+                "Full Name": "Joe Gomez",
+                "players_rating": 7.2,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.05.1997)",
+                "Market Value": "€21.5m",
+                "unicode": "SKt9dxk8"
+            },
+            {
+                "players_name": "Keita N.",
+                "players_number": "8",
+                "Full Name": "Naby Keita",
+                "players_rating": 7.1,
+                "Country": "Guinea",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.02.1995)",
+                "Market Value": "€5.5m",
+                "unicode": "4MB78NvI"
+            },
+            {
+                "players_name": "Mane S.",
+                "players_number": "10",
+                "Full Name": "Sadio Mane",
+                "players_rating": 8.0,
+                "Country": "Senegal",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (10.04.1992)",
+                "Market Value": "€21.6m",
+                "unicode": "xxskxOU0"
+            },
+            {
+                "players_name": "Robertson A.",
+                "players_number": "26",
+                "Full Name": "Andrew Robertson",
+                "players_rating": 8.4,
+                "Country": "Scotland",
+                "Role": "Defender",
+                "Age and Birthdate": "29, (11.03.1994)",
+                "Market Value": "€34.3m",
+                "unicode": "6e7Be9VI"
+            },
+            {
+                "players_name": "Salah M.",
+                "players_number": "11",
+                "Full Name": "Mohamed Salah",
+                "players_rating": 7.9,
+                "Country": "Egypt",
+                "Role": "Forward",
+                "Age and Birthdate": "31, (15.06.1992)",
+                "Market Value": "€69.1m",
+                "unicode": "08FBycgB"
+            },
+            {
+                "players_name": "van Dijk V. (C)",
+                "players_number": "4",
+                "Full Name": "Virgil van Dijk",
+                "players_rating": 7.8,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.07.1991)",
+                "Market Value": "€32.2m",
+                "unicode": "U59RNqOr"
+            },
+            {
+                "players_name": "Wijnaldum G.",
+                "players_number": "5",
+                "Full Name": "Georginio Wijnaldum",
+                "players_rating": 7.8,
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (11.11.1990)",
+                "Market Value": "€4.8m",
+                "unicode": "f9KgUUZu"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Matip J.",
+                "players_number": "32",
+                "Full Name": "Joel Matip",
+                "players_rating": "",
+                "Country": "Cameroon",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (08.08.1991)",
+                "Market Value": "€7.8m",
+                "unicode": "tpHWp8Am"
+            },
+            {
+                "players_name": "Oxlade-Chamberlain A.",
+                "players_number": "15",
+                "Full Name": "Alex Oxlade-Chamberlain",
+                "players_rating": 6.9,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.08.1993)",
+                "Market Value": "€5.7m",
+                "unicode": "WzNLf7VR"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Adrian (G)",
+                "players_number": "13",
+                "Full Name": "Adrian",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "37, (03.01.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "CEm70uDg"
+            },
+            {
+                "players_name": "Lallana A.",
+                "players_number": "20",
+                "Full Name": "Adam Lallana",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (10.05.1988)",
+                "Market Value": "€936k",
+                "unicode": "65ZQWgft"
+            },
+            {
+                "players_name": "Lovren D.",
+                "players_number": "6",
+                "Full Name": "Dejan Lovren",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (05.07.1989)",
+                "Market Value": "€2.0m",
+                "unicode": "GAcQF9Z6"
+            },
+            {
+                "players_name": "Minamino T.",
+                "players_number": "18",
+                "Full Name": "Takumi Minamino",
+                "players_rating": "",
+                "Country": "Japan",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (16.01.1995)",
+                "Market Value": "€11.7m",
+                "unicode": "hIwtloy3"
+            },
+            {
+                "players_name": "Origi D.",
+                "players_number": "27",
+                "Full Name": "Divock Origi",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (18.04.1995)",
+                "Market Value": "€4.5m",
+                "unicode": "jeRaNgKg"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Moyes D.",
+                "players_number": "",
+                "Full Name": "David Moyes",
+                "players_rating": "",
+                "Country": "Scotland",
+                "Role": "coach",
+                "Age and Birthdate": "60,  (25.04.1963)",
+                "Market Value": "",
+                "unicode": "hUGEt9yf"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Fredericks R.",
+                "players_number": "",
+                "Full Name": "Ryan Fredericks",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (10.10.1992)",
+                "Market Value": "€1.3m",
+                "unicode": "YRGWmYP5"
+            },
+            {
+                "players_name": "Wilshere J.",
+                "players_number": "",
+                "Full Name": "Jack Wilshere",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "32, (01.01.1992)",
+                "Market Value": "",
+                "unicode": "lYC47Z6h"
+            },
+            {
+                "players_name": "Yarmolenko A.",
+                "players_number": "",
+                "Full Name": "Andriy Yarmolenko",
+                "players_rating": "",
+                "Country": "Ukraine",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.10.1989)",
+                "Market Value": "€1.9m",
+                "unicode": "O00J9ZLN"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Antonio M.",
+                "players_number": "30",
+                "Full Name": "Michail Antonio",
+                "players_rating": 7.1,
+                "Country": "Jamaica",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (28.03.1990)",
+                "Market Value": "€5.8m",
+                "unicode": "p8tt85Xn"
+            },
+            {
+                "players_name": "Cresswell A.",
+                "players_number": "3",
+                "Full Name": "Aaron Cresswell",
+                "players_rating": 6.3,
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (15.12.1989)",
+                "Market Value": "€842k",
+                "unicode": "fcMqoMcH"
+            },
+            {
+                "players_name": "Diop I.",
+                "players_number": "23",
+                "Full Name": "Issa Diop",
+                "players_rating": 7.8,
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (09.01.1997)",
+                "Market Value": "€20.9m",
+                "unicode": "Eyqbicqr"
+            },
+            {
+                "players_name": "Fabianski L. (G)",
+                "players_number": "1",
+                "Full Name": "Lukasz Fabianski",
+                "players_rating": 5.9,
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "38, (18.04.1985)",
+                "Market Value": "€685k",
+                "unicode": "bRKKNZwj"
+            },
+            {
+                "players_name": "Felipe Anderson",
+                "players_number": "8",
+                "Full Name": "Felipe Anderson",
+                "players_rating": 6.7,
+                "Country": "Brazil",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.04.1993)",
+                "Market Value": "€9.9m",
+                "unicode": "xA2w3xCo"
+            },
+            {
+                "players_name": "Ngakia J.",
+                "players_number": "52",
+                "Full Name": "Jeremy Ngakia",
+                "players_rating": 6.7,
+                "Country": "DR Congo",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (07.09.2000)",
+                "Market Value": "€1.7m",
+                "unicode": "MuBn3FRP"
+            },
+            {
+                "players_name": "Noble M. (C)",
+                "players_number": "16",
+                "Full Name": "Mark Noble",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (08.05.1987)",
+                "Market Value": "",
+                "unicode": "GxzuJFFG"
+            },
+            {
+                "players_name": "Ogbonna A.",
+                "players_number": "21",
+                "Full Name": "Angelo Ogbonna",
+                "players_rating": 6.5,
+                "Country": "Italy",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (23.05.1988)",
+                "Market Value": "€665k",
+                "unicode": "xtEnn3rQ"
+            },
+            {
+                "players_name": "Rice D.",
+                "players_number": "41",
+                "Full Name": "Declan Rice",
+                "players_rating": 6.8,
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (14.01.1999)",
+                "Market Value": "€109.2m",
+                "unicode": "zkQ8Cm6n"
+            },
+            {
+                "players_name": "Snodgrass R.",
+                "players_number": "11",
+                "Full Name": "Robert Snodgrass",
+                "players_rating": 6.9,
+                "Country": "Scotland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (07.09.1987)",
+                "Market Value": "",
+                "unicode": "6XPsH2mg"
+            },
+            {
+                "players_name": "Soucek T.",
+                "players_number": "28",
+                "Full Name": "Tomas Soucek",
+                "players_rating": 6.8,
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (27.02.1995)",
+                "Market Value": "€36.2m",
+                "unicode": "8zWzYFRF"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Bowen J.",
+                "players_number": "17",
+                "Full Name": "Jarrod Bowen",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "27, (20.12.1996)",
+                "Market Value": "€50.3m",
+                "unicode": "pW170H9K"
+            },
+            {
+                "players_name": "Fornals P.",
+                "players_number": "18",
+                "Full Name": "Pablo Fornals",
+                "players_rating": 6.7,
+                "Country": "Spain",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (22.02.1996)",
+                "Market Value": "€15.9m",
+                "unicode": "CfghB0gf"
+            },
+            {
+                "players_name": "Haller S.",
+                "players_number": "22",
+                "Full Name": "Sebastien Haller",
+                "players_rating": 6.4,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (22.06.1994)",
+                "Market Value": "€17.6m",
+                "unicode": "Ie17FSsK"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Fabian Balbuena",
+                "players_number": "4",
+                "Full Name": "Fabian Balbuena",
+                "players_rating": "",
+                "Country": "Paraguay",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (23.08.1991)",
+                "Market Value": "€3.0m",
+                "unicode": "ELMR4PLj"
+            },
+            {
+                "players_name": "Lanzini M.",
+                "players_number": "10",
+                "Full Name": "Manuel Lanzini",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (15.02.1993)",
+                "Market Value": "€3.4m",
+                "unicode": "QT3lIj4N"
+            },
+            {
+                "players_name": "Randolph D. (G)",
+                "players_number": "35",
+                "Full Name": "Darren Randolph",
+                "players_rating": "",
+                "Country": "Ireland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (12.05.1987)",
+                "Market Value": "30.06.2024",
+                "unicode": "8QL8VjKD"
+            },
+            {
+                "players_name": "Zabaleta P.",
+                "players_number": "5",
+                "Full Name": "Pablo Zabaleta",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Defender",
+                "Age and Birthdate": "39, (16.01.1985)",
+                "Market Value": "",
+                "unicode": "0WS52psG"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun.",
+            "comments_text_anonymized": "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "We now know the starting lineups. You can find them in the match details of this match.",
+            "comments_text_anonymized": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Jonathan Moss was nominated as the referee for this game.",
+            "comments_text_anonymized": "[REFEREE] was nominated as the referee for this game."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "West Ham will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "Today's match has just started, enjoy the game!",
+            "comments_text_anonymized": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:37",
+            "comments_type": "ball out of play",
+            "comments_text": "Andrew Robertson (Liverpool) skips past his man but can't keep the ball in play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "01:20",
+            "comments_type": "clearance",
+            "comments_text": "A cross from Trent Alexander-Arnold (Liverpool) fails to reach the box as the defence clears the ball away to safety.",
+            "comments_text_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Mohamed Salah (Liverpool) makes a driving run into the box but he cannot work any space for a shot. The ball goes out of play and West Ham will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:23",
+            "comments_type": "clearance",
+            "comments_text": "Andrew Robertson (Liverpool) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball is out of play. A goal-scoring opportunity from a corner for Liverpool.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:45",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Virgil van Dijk (Liverpool) picks out Mohamed Salah with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range. Liverpool have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) picks out [PLAYER] with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "04:50",
+            "comments_type": "corner",
+            "comments_text": "Liverpool have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "05:10",
+            "comments_type": "shot off target",
+            "comments_text": "Andrew Robertson (Liverpool) runs onto a good long pass and tries his luck from the edge of the box, but his effort flies high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) runs onto a good long pass and tries his luck from the edge of the box, but his effort flies high over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:00",
+            "comments_type": "clearance",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:28",
+            "comments_type": "goal",
+            "comments_text": "It's a goal! Trent Alexander-Arnold sends a long raking pass onto the head of Georginio Wijnaldum (Liverpool), who makes no mistake from close in and sends the ball into the bottom left corner. 1:0.",
+            "comments_text_anonymized": "It's a goal! [PLAYER] sends a long raking pass onto the head of [PLAYER] ([TEAM]), who makes no mistake from close in and sends the ball into the bottom left corner. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:03",
+            "comments_type": "lead to corner",
+            "comments_text": "Robert Snodgrass (West Ham) wastes a good opportunity as his pass into the box is blocked by the defence. West Ham have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:19",
+            "comments_type": "corner",
+            "comments_text": "Robert Snodgrass (West Ham) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:30",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Felipe Anderson (West Ham) only finds one of the defenders, who heads it out of danger. It will be a corner kick for West Ham.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:37",
+            "comments_type": "corner",
+            "comments_text": "West Ham force a corner. They send men into the box.",
+            "comments_text_anonymized": "[TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "11:18",
+            "comments_type": "goal",
+            "comments_text": "Issa Diop (West Ham) outjumps the defence inside the six-yard box to meet the corner kick and scores with a great header into the bottom right corner. The goalkeeper had no chance to react. The score is now 1:1.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) outjumps the defence inside the six-yard box to meet the corner kick and scores with a great header into the bottom right corner. The goalkeeper had no chance to react. The score is now 1:1."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:43",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Cresswell (West Ham) slides a pass forward, but one of the defenders cuts it out.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:40",
+            "comments_type": "foul with no card",
+            "comments_text": "Declan Rice (West Ham) makes a rough challenge and Jonathan Moss blows his whistle for a foul. Liverpool will take a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul. [TEAM] will take a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:23",
+            "comments_type": "clearance",
+            "comments_text": "Andrew Robertson (Liverpool) attempts to find one of his teammates with a free kick, but the defence is well positioned and clears the ball away from danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a free kick, but the defence is well positioned and clears the ball away from danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:55",
+            "comments_type": "corner",
+            "comments_text": "The goalkeeper punched the ball away after Trent Alexander-Arnold (Liverpool) took the corner.",
+            "comments_text_anonymized": "The goalkeeper punched the ball away after [PLAYER] ([TEAM]) took the corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:15",
+            "comments_type": "clearance",
+            "comments_text": "Naby Keita (Liverpool) passes the ball onto Mohamed Salah, but one of the defenders dispossesses him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball onto [PLAYER], but one of the defenders dispossesses him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:50",
+            "comments_type": "clearance",
+            "comments_text": "Virgil van Dijk (Liverpool) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a crossfield pass, but the ball is cut out before it reaches its intended target."
+        },
+        {
+            "half": 1,
+            "time_stamp": "19:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Robert Snodgrass (West Ham) swings in a cross, but the ball is cleared to safety by one of the defending players. Corner kick. West Ham will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:16",
+            "comments_type": "corner",
+            "comments_text": "Robert Snodgrass (West Ham) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:30",
+            "comments_type": "clearance",
+            "comments_text": "Fabinho (Liverpool) sends a lofted cross into the box which is headed clear.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:53",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) takes the corner but fails to find any of his teammates.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "half": 1,
+            "time_stamp": "21:54",
+            "comments_type": "foul with no card",
+            "comments_text": "A player from Liverpool commits a rough challenge. Jonathan Moss blows for a foul and keeps the game under control.",
+            "comments_text_anonymized": "A player from [TEAM] commits a rough challenge. [REFEREE] blows for a foul and keeps the game under control."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:22",
+            "comments_type": "lead to corner",
+            "comments_text": "Sadio Mane (Liverpool) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out for a corner. Liverpool can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:37",
+            "comments_type": "corner",
+            "comments_text": "Nothing comes of the resulting corner from Trent Alexander-Arnold (Liverpool). The defence is alert and manages to cut it out.",
+            "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:06",
+            "comments_type": "lead to corner",
+            "comments_text": "What a great touch by Sadio Mane (Liverpool) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending. The ball is out of play and Liverpool manage to earn a corner.",
+            "comments_text_anonymized": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "24:30",
+            "comments_type": "corner",
+            "comments_text": "Andrew Robertson (Liverpool) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:55",
+            "comments_type": "shot off target",
+            "comments_text": "Tomas Soucek (West Ham) sends a long ball across the pitch, but it misses its target.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "half": 1,
+            "time_stamp": "25:44",
+            "comments_type": "shot off target",
+            "comments_text": "Roberto Firmino (Liverpool) takes a mid-range shot, but it lacks accuracy and it goes way over the bar. The ball is off of the pitch and it's a goal kick for West Ham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a mid-range shot, but it lacks accuracy and it goes way over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "27:25",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Half-chance! Georginio Wijnaldum (Liverpool) plays a pass into the box, but Lukasz Fabianski reacts well to snuff out the attack.",
+            "comments_text_anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:10",
+            "comments_type": "clearance",
+            "comments_text": "Declan Rice (West Ham) fails to pick a body out in the box with an over-hit chip pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "29:00",
+            "comments_type": "clearance",
+            "comments_text": "Sadio Mane (Liverpool) fails to find any of his teammates inside the box as his pass is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:13",
+            "comments_type": "lead to corner",
+            "comments_text": "Aaron Cresswell (West Ham) races towards goal but the defender gets back well to make a challenge. West Ham force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:10",
+            "comments_type": "corner",
+            "comments_text": "The resulting set piece from West Ham is comfortably intercepted by one of the defending players.",
+            "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:50",
+            "comments_type": "clearance",
+            "comments_text": "Sadio Mane (Liverpool) clips a neat ball into the box in the direction of Trent Alexander-Arnold, but he can't get on the end of the pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clips a neat ball into the box in the direction of [PLAYER], but he can't get on the end of the pass."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:30",
+            "comments_type": "foul with no card",
+            "comments_text": "The game is interrupted. Felipe Anderson (West Ham) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. A free kick has been awarded to Liverpool.",
+            "comments_text_anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:15",
+            "comments_type": "free kick",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) is going to send the ball in from the free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:02",
+            "comments_type": "shot off target",
+            "comments_text": "Mohamed Salah (Liverpool) gets in a header from the resulting free kick. It lacks accuracy, however, to bother the keeper and the ball goes a few metres over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets in a header from the resulting free kick. It lacks accuracy, however, to bother the keeper and the ball goes a few metres over the bar."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:11",
+            "comments_type": "foul with no card",
+            "comments_text": "Jeremy Ngakia (West Ham) commits a rough challenge and Jonathan Moss blows his whistle for an infringement. Liverpool are given an advantage. They have a free kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) produces a poor lofted pass into the penalty box. His attempt is easily thwarted by the defence. The referee points to the corner flag and Liverpool will take a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a poor lofted pass into the penalty box. His attempt is easily thwarted by the defence. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:10",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) takes the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:33",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Aaron Cresswell (West Ham) swings a cross into the box, but it's far too close to Alisson, who smothers the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:21",
+            "comments_type": "corner",
+            "comments_text": "West Ham failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+            "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:13",
+            "comments_type": "clearance",
+            "comments_text": "A pass from Trent Alexander-Arnold (Liverpool) is intercepted by Lukasz Fabianski and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 1 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:49",
+            "comments_type": "end of half game",
+            "comments_text": "The first half of today's match has just finished.",
+            "comments_text_anonymized": "The first half of today's match has just finished."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:30",
+            "comments_type": "shot off target",
+            "comments_text": "Trent Alexander-Arnold picks out Roberto Firmino (Liverpool), who makes a total mess of his shot from mid-range and sends the ball high over the bar. The ball goes out of play and West Ham will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] picks out [PLAYER] ([TEAM]), who makes a total mess of his shot from mid-range and sends the ball high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:03",
+            "comments_type": "injury",
+            "comments_text": "Tomas Soucek (West Ham) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:40",
+            "comments_type": "substitution",
+            "comments_text": "Tomas Soucek is being substituted because of an injury. David William Moyes sends Pablo Fornals (West Ham) on the pitch.",
+            "comments_text_anonymized": "[PLAYER] is being substituted because of an injury. David William [PLAYER] sends [PLAYER] ([TEAM]) on the pitch."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:31",
+            "comments_type": "clearance",
+            "comments_text": "Mohamed Salah (Liverpool) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "03:37",
+            "comments_type": "clearance",
+            "comments_text": "Mohamed Salah (Liverpool) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "04:46",
+            "comments_type": "clearance",
+            "comments_text": "Michail Antonio (West Ham) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "05:18",
+            "comments_type": "yellow card",
+            "comments_text": "Declan Rice (West Ham) goes in the referee's notebook after being shown a yellow card.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes in the referee's notebook after being shown a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "08:23",
+            "comments_type": "goal",
+            "comments_text": "Pablo Fornals (West Ham) gets on the end of a long pass that is slotted through the defence and easily sends the ball into the bottom left corner!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a long pass that is slotted through the defence and easily sends the ball into the bottom left corner!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "10:21",
+            "comments_type": "ball out of play",
+            "comments_text": "A cross is clipped into the penalty area by Trent Alexander-Arnold (Liverpool) but poses no threat. The ball is off of the pitch and it's a goal kick for West Ham.",
+            "comments_text_anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "11:07",
+            "comments_type": "substitution",
+            "comments_text": "It's time for a substitution. Alex Oxlade-Chamberlain (Liverpool) comes on in place of Naby Keita.",
+            "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:04",
+            "comments_type": "shot off target",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for West Ham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:10",
+            "comments_type": "lead to corner",
+            "comments_text": "Andrew Robertson (Liverpool) crosses the ball forward but it is intercepted. The ball is out of play and the linesman points at the corner flag. Corner to Liverpool.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:56",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:16",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Virgil van Dijk (Liverpool) rises above the defenders and places a towering header towards the bottom left corner, but Lukasz Fabianski is prepared and dives to thwart him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) rises above the defenders and places a towering header towards the bottom left corner, but [PLAYER] is prepared and dives to thwart him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Sadio Mane received a sweet pass from Roberto Firmino (Liverpool), but the advance is stopped. Liverpool earn a corner.",
+            "comments_text_anonymized": "[PLAYER] received a sweet pass from [PLAYER] ([TEAM]), but the advance is stopped. [TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "16:10",
+            "comments_type": "corner",
+            "comments_text": "Liverpool work the corner short. The ball is passed to a nearby teammate.",
+            "comments_text_anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:03",
+            "comments_type": "corner",
+            "comments_text": "The ball is whipped in from the corner by Alex Oxlade-Chamberlain (Liverpool), but one of the defenders gets it clear.",
+            "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:28",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Liverpool.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:08",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "17:08",
+            "comments_type": "shot off target",
+            "comments_text": "Roberto Firmino (Liverpool) fails to connect properly with the corner kick and plants his header way over the bar from the centre of the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to connect properly with the corner kick and plants his header way over the bar from the centre of the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:23",
+            "comments_type": "foul with no card",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) makes a strong challenge and Jonathan Moss blows for a foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:30",
+            "comments_type": "ball out of play",
+            "comments_text": "The ball goes out of play and West Ham will have a goal kick. Sadio Mane (Liverpool) tries to find Andrew Robertson, but he puts too much power on the pass.",
+            "comments_text_anonymized": "The ball goes out of play and [TEAM] will have a goal kick. [PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:03",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Sebastien Haller (West Ham) comes onto the pitch for Felipe Anderson.",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "The actual number of corner kicks in this match – 16:8.",
+            "comments_text_anonymized": "The actual number of corner kicks in this match – 16:8."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:15",
+            "comments_type": "yellow card",
+            "comments_text": "Jonathan Moss shows a yellow card to Issa Diop (West Ham), who isn't surprised as the tackle was really hard and late.",
+            "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:50",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Cresswell (West Ham) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:52",
+            "comments_type": "goal",
+            "comments_text": "Mohamed Salah (Liverpool) latches on to a brilliant pass and hits a poor shot towards the middle of the goal, but the ball goes into the back of the net after the goalkeeper makes a howler!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) latches on to a brilliant pass and hits a poor shot towards the middle of the goal, but the ball goes into the back of the net after the goalkeeper makes a howler!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:50",
+            "comments_type": "ball out of play",
+            "comments_text": "Alex Oxlade-Chamberlain (Liverpool) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball is off of the pitch and it's a goal kick for West Ham.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:36",
+            "comments_type": "off side",
+            "comments_text": "Mark Noble (West Ham) is offside and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:51",
+            "comments_type": "clearance",
+            "comments_text": "Michail Antonio (West Ham) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:16",
+            "comments_type": "lead to corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Liverpool get a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. [TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:39",
+            "comments_type": "corner",
+            "comments_text": "Liverpool take a short corner kick.",
+            "comments_text_anonymized": "[TEAM] take a short corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:49",
+            "comments_type": "lead to corner",
+            "comments_text": "The defence had a hard time blocking out the strike from Virgil van Dijk (Liverpool). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Good work from Liverpool as they win a corner.",
+            "comments_text_anonymized": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:55",
+            "comments_type": "corner",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) swings in the corner, but it's comfortably cleared away.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "half": 2,
+            "time_stamp": "29:06",
+            "comments_type": "corner",
+            "comments_text": "The corner from Trent Alexander-Arnold (Liverpool) is hurriedly cleared.",
+            "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:10",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "The keeper makes a simple save after Sebastien Haller (West Ham) received a short pass and shot low from the edge of the box towards the middle of the goal.",
+            "comments_text_anonymized": "The keeper makes a simple save after [PLAYER] ([TEAM]) received a short pass and shot low from the edge of the box towards the middle of the goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:03",
+            "comments_type": "off side",
+            "comments_text": "Trent Alexander-Arnold (Liverpool) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:00",
+            "comments_type": "lead to corner",
+            "comments_text": "The ball is cleared after Mohamed Salah (Liverpool) attempted to dribble past an opposing player. Liverpool win a corner.",
+            "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:47",
+            "comments_type": "corner",
+            "comments_text": "Andrew Robertson (Liverpool) quickly takes the corner kick with a short pass.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:12",
+            "comments_type": "clearance",
+            "comments_text": "Sadio Mane (Liverpool) is unable to feed an accurate cross into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unable to feed an accurate cross into the box."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:03",
+            "comments_type": "yellow card",
+            "comments_text": "The foul by Mark Noble (West Ham) is worthy of a card and a yellow is duly shown by Jonathan Moss.",
+            "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:43",
+            "comments_type": "goal",
+            "comments_text": "Goal! Sadio Mane (Liverpool) finds some space inside the box to meet a beautiful cross and fires the ball inside the back of the net.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) finds some space inside the box to meet a beautiful cross and fires the ball inside the back of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:30",
+            "comments_type": "injury",
+            "comments_text": "Robert Snodgrass (West Ham) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:03",
+            "comments_type": "substitution",
+            "comments_text": "David William Moyes is forced to make a change. Robert Snodgrass is unable to continue due to injury, Jarrod Bowen (West Ham) comes on.",
+            "comments_text_anonymized": "David William [PLAYER] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "40:30",
+            "comments_type": "goal",
+            "comments_text": "Sadio Mane (Liverpool) puts the ball in the back of the net!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts the ball in the back of the net!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:10",
+            "comments_type": "var",
+            "comments_text": "There’s going to be a VAR review of the goal as indicated by referee Jonathan Moss, probably for an offside in the lead up to the goal. This is going to be an anxious wait for the Liverpool players.",
+            "comments_text_anonymized": "There’s going to be a VAR review of the goal as indicated by referee [REFEREE], probably for an offside in the lead up to the goal. This is going to be an anxious wait for the [TEAM] players."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:18",
+            "comments_type": "var",
+            "comments_text": "Here comes the VAR decision. NO GOAL!",
+            "comments_text_anonymized": "Here comes the VAR decision. NO GOAL!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "44:10",
+            "comments_type": "foul with no card",
+            "comments_text": "West Ham concede a free kick after one of their players holds onto an opposition player.",
+            "comments_text_anonymized": "[TEAM] concede a free kick after one of their players holds onto an opposition player."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "5 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "5 min. of stoppage-time to be played."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:32",
+            "comments_type": "substitution",
+            "comments_text": "We are about to witness a subsitution. Joel Matip (Liverpool) for Sadio Mane.",
+            "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:49",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Declan Rice (West Ham) sends a cross into the box, but Alisson comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 2,
+            "time_stamp": "49:38",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Joel Matip (Liverpool). Jonathan Moss blows his whistle for a foul. West Ham will take a free kick near the side line.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] will take a free kick near the side line."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:12",
+            "comments_type": "clearance",
+            "comments_text": "Aaron Cresswell (West Ham) whips in the resulting free kick but one of the defenders heads the ball to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the resulting free kick but one of the defenders heads the ball to safety."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:10",
+            "comments_type": "corner",
+            "comments_text": "The referee points to the corner flag. It's a corner to West Ham.",
+            "comments_text_anonymized": "The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:53",
+            "comments_type": "end of half game",
+            "comments_text": "The referee blows for the end of today's match.",
+            "comments_text_anonymized": "The referee blows for the end of today's match."
+        }
+    ]
+}

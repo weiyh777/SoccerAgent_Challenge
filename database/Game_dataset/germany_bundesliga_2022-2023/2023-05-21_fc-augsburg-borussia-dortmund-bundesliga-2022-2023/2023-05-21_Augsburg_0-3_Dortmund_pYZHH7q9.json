@@ -1,0 +1,1292 @@
+{
+    "match_info": {
+        "timestamp": "2023-05-21 23:30:00",
+        "score": "0 - 3",
+        "home_team": "Augsburg",
+        "away_team": "Dortmund",
+        "home_formation": "4 - 2 - 3 - 1",
+        "away_formation": "4 - 5 - 1",
+        "venue": "WWK Arena (Augsburg)",
+        "capacity": "30 660",
+        "attendance": "30 660",
+        "home_jersey_color": "red",
+        "away_jersey_color": "yellow"
+    },
+    "referee_data": {
+        "short_name_country": "Welz T. (Ger)",
+        "first_name": "Welz",
+        "abbr_last_name": "T",
+        "country": "Ger",
+        "detected_name": "The referee Tobias Welz"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Maassen E.",
+                "players_number": "",
+                "Full Name": "Enrico Maassen",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "coach",
+                "Age and Birthdate": "39,  (10.03.1984)",
+                "Market Value": "",
+                "unicode": "GdZlh5eI"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Baumgartlinger J.",
+                "players_number": "",
+                "Full Name": "Julian Baumgartlinger",
+                "players_rating": "",
+                "Country": "Austria",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (02.01.1988)",
+                "Market Value": "",
+                "unicode": "2Va6jkSe"
+            },
+            {
+                "players_name": "Gikiewicz R.",
+                "players_number": "",
+                "Full Name": "Rafal Gikiewicz",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "36, (26.10.1987)",
+                "Market Value": "€386k",
+                "unicode": "hfZv7lBE"
+            },
+            {
+                "players_name": "Gumny R.",
+                "players_number": "",
+                "Full Name": "Robert Gumny",
+                "players_rating": "",
+                "Country": "Poland",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (04.06.1998)",
+                "Market Value": "€3.2m",
+                "unicode": "x8uj789H"
+            },
+            {
+                "players_name": "Hahn A.",
+                "players_number": "",
+                "Full Name": "Andre Hahn",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "33, (13.08.1990)",
+                "Market Value": "",
+                "unicode": "tdUgOJy5"
+            },
+            {
+                "players_name": "Iago",
+                "players_number": "",
+                "Full Name": "Iago",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (23.03.1997)",
+                "Market Value": "€5.1m",
+                "unicode": "tKrFp77N"
+            },
+            {
+                "players_name": "Jensen F.",
+                "players_number": "",
+                "Full Name": "Fredrik Jensen",
+                "players_rating": "",
+                "Country": "Finland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (09.09.1997)",
+                "Market Value": "€3.3m",
+                "unicode": "YJdpejUK"
+            },
+            {
+                "players_name": "Oxford R.",
+                "players_number": "",
+                "Full Name": "Reece Oxford",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Defender",
+                "Age and Birthdate": "25, (16.12.1998)",
+                "Market Value": "€1.9m",
+                "unicode": "KC0NKT7S"
+            },
+            {
+                "players_name": "Strobl T.",
+                "players_number": "",
+                "Full Name": "Tobias Strobl",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "33, (12.05.1990)",
+                "Market Value": "",
+                "unicode": "p0gxkJv0"
+            },
+            {
+                "players_name": "Vargas R.",
+                "players_number": "",
+                "Full Name": "Ruben Vargas",
+                "players_rating": "",
+                "Country": "Switzerland",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (05.08.1998)",
+                "Market Value": "€6.2m",
+                "unicode": "U7XUxOei"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Beljo D.",
+                "players_number": "7",
+                "Full Name": "Dion Beljo",
+                "players_rating": 6.0,
+                "Country": "Croatia",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (01.03.2002)",
+                "Market Value": "€6.0m",
+                "unicode": "YNWUGRaD"
+            },
+            {
+                "players_name": "Demirovic E.",
+                "players_number": "9",
+                "Full Name": "Ermedin Demirovic",
+                "players_rating": 6.1,
+                "Country": "Bosnia and Herzegovina",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (25.03.1998)",
+                "Market Value": "€19.3m",
+                "unicode": "dIsZ5Eyb"
+            },
+            {
+                "players_name": "Dorsch N.",
+                "players_number": "30",
+                "Full Name": "Niklas Dorsch",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (15.01.1998)",
+                "Market Value": "€6.6m",
+                "unicode": "S679EPOB"
+            },
+            {
+                "players_name": "Engels A.",
+                "players_number": "27",
+                "Full Name": "Arne Engels",
+                "players_rating": 6.2,
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (08.09.2003)",
+                "Market Value": "€7.1m",
+                "unicode": "K4dXXq9J"
+            },
+            {
+                "players_name": "Gouweleeuw J. (C)",
+                "players_number": "6",
+                "Full Name": "Jeffrey Gouweleeuw",
+                "players_rating": 5.9,
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (10.07.1991)",
+                "Market Value": "€2.9m",
+                "unicode": "ptzdhA4a"
+            },
+            {
+                "players_name": "Koubek T. (G)",
+                "players_number": "40",
+                "Full Name": "Tomas Koubek",
+                "players_rating": 7.5,
+                "Country": "Czech Republic",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "31, (26.08.1992)",
+                "Market Value": "€794k",
+                "unicode": "fglrE6w7"
+            },
+            {
+                "players_name": "Pedersen M.",
+                "players_number": "3",
+                "Full Name": "Mads Pedersen",
+                "players_rating": 6.4,
+                "Country": "Denmark",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (01.09.1996)",
+                "Market Value": "€3.3m",
+                "unicode": "6iPxFKjf"
+            },
+            {
+                "players_name": "Rexhbecaj E.",
+                "players_number": "13",
+                "Full Name": "Elvis Rexhbecaj",
+                "players_rating": 6.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (01.11.1997)",
+                "Market Value": "€3.3m",
+                "unicode": "dEsUd870"
+            },
+            {
+                "players_name": "Uduokhai F.",
+                "players_number": "19",
+                "Full Name": "Felix Uduokhai",
+                "players_rating": 4.7,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (09.09.1997)",
+                "Market Value": "€6.7m",
+                "unicode": "lnDbiKv8"
+            },
+            {
+                "players_name": "Veiga R.",
+                "players_number": "8",
+                "Full Name": "Renato Veiga",
+                "players_rating": 6.2,
+                "Country": "Portugal",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (29.07.2003)",
+                "Market Value": "€1.9m",
+                "unicode": "r1cX4e0d"
+            },
+            {
+                "players_name": "Yeboah K.",
+                "players_number": "45",
+                "Full Name": "Kelvin Yeboah",
+                "players_rating": 6.3,
+                "Country": "Italy",
+                "Role": "Forward",
+                "Age and Birthdate": "23, (06.05.2000)",
+                "Market Value": "€2.7m",
+                "unicode": "v3tRRPn4"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Bauer M.",
+                "players_number": "23",
+                "Full Name": "Maximilian Bauer",
+                "players_rating": 6.3,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (09.02.2000)",
+                "Market Value": "€3.3m",
+                "unicode": "lYTLSVv7"
+            },
+            {
+                "players_name": "Berisha M.",
+                "players_number": "11",
+                "Full Name": "Mergim Berisha",
+                "players_rating": 6.0,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (11.05.1998)",
+                "Market Value": "€11.1m",
+                "unicode": "KWrYlSTD"
+            },
+            {
+                "players_name": "Cardona I.",
+                "players_number": "48",
+                "Full Name": "Irvin Cardona",
+                "players_rating": 6.3,
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (08.08.1997)",
+                "Market Value": "€1.3m",
+                "unicode": "86UW3kYK"
+            },
+            {
+                "players_name": "Colina D.",
+                "players_number": "38",
+                "Full Name": "David Colina",
+                "players_rating": 5.8,
+                "Country": "Croatia",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (19.07.2000)",
+                "Market Value": "€901k",
+                "unicode": "bmZ5wHFj"
+            },
+            {
+                "players_name": "Maier A.",
+                "players_number": "10",
+                "Full Name": "Arne Maier",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (08.01.1999)",
+                "Market Value": "€4.1m",
+                "unicode": "jVumZKI4"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Caligiuri D.",
+                "players_number": "20",
+                "Full Name": "Daniel Caligiuri",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (15.01.1988)",
+                "Market Value": "",
+                "unicode": "rabToles"
+            },
+            {
+                "players_name": "Klein D. (G)",
+                "players_number": "25",
+                "Full Name": "Daniel Klein",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "22, (13.03.2001)",
+                "Market Value": " (Until: 30.06.2024)",
+                "unicode": "8dDPou3m"
+            },
+            {
+                "players_name": "Mbuku N.",
+                "players_number": "34",
+                "Full Name": "Nathanael Mbuku",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "21, (16.03.2002)",
+                "Market Value": "€1.3m",
+                "unicode": "thMu3O3c"
+            },
+            {
+                "players_name": "Sarenren Bazee N. J.",
+                "players_number": "17",
+                "Full Name": "Noah Joel Sarenren Bazee",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (21.08.1996)",
+                "Market Value": "€402k",
+                "unicode": "Aevijps7"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "Terzic E.",
+                "players_number": "",
+                "Full Name": "Edin Terzic",
+                "players_rating": "",
+                "Country": "Croatia",
+                "Role": "coach",
+                "Age and Birthdate": "41,  (30.10.1982)",
+                "Market Value": "",
+                "unicode": "Q1njn0Vm"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Bellingham J.",
+                "players_number": "",
+                "Full Name": "Jude Bellingham",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Midfielder",
+                "Age and Birthdate": "20, (29.06.2003)",
+                "Market Value": "€199.1m",
+                "unicode": "QNvlPm7s"
+            },
+            {
+                "players_name": "Bynoe-Gittens J.",
+                "players_number": "",
+                "Full Name": "Jamie Bynoe-Gittens",
+                "players_rating": "",
+                "Country": "England",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (08.08.2004)",
+                "Market Value": "€27.0m",
+                "unicode": "zmDkHahi"
+            },
+            {
+                "players_name": "Coulibaly S.",
+                "players_number": "",
+                "Full Name": "Soumaila Coulibaly",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "20, (14.10.2003)",
+                "Market Value": "€7.5m",
+                "unicode": "YLVl99Q1"
+            },
+            {
+                "players_name": "Meunier T.",
+                "players_number": "",
+                "Full Name": "Thomas Meunier",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (12.09.1991)",
+                "Market Value": "€2.4m",
+                "unicode": "WUyrShAL"
+            },
+            {
+                "players_name": "Morey M.",
+                "players_number": "",
+                "Full Name": "Mateu Morey",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "23, (02.03.2000)",
+                "Market Value": "30.06.2024",
+                "unicode": "jRBXx0H4"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Adeyemi K.",
+                "players_number": "27",
+                "Full Name": "Karim Adeyemi",
+                "players_rating": 6.8,
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "22, (18.01.2002)",
+                "Market Value": "€27.0m",
+                "unicode": "GvIzwgo8"
+            },
+            {
+                "players_name": "Brandt J.",
+                "players_number": "19",
+                "Full Name": "Julian Brandt",
+                "players_rating": 8.5,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (02.05.1996)",
+                "Market Value": "€40.3m",
+                "unicode": "hW5Goyrc"
+            },
+            {
+                "players_name": "Can E.",
+                "players_number": "23",
+                "Full Name": "Emre Can",
+                "players_rating": 7.2,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (12.01.1994)",
+                "Market Value": "€11.7m",
+                "unicode": "YJu3hSpk"
+            },
+            {
+                "players_name": "Guerreiro R.",
+                "players_number": "13",
+                "Full Name": "Raphael Guerreiro",
+                "players_rating": 7.6,
+                "Country": "Portugal",
+                "Role": "Defender",
+                "Age and Birthdate": "30, (22.12.1993)",
+                "Market Value": "€15.1m",
+                "unicode": "ImhgOoOl"
+            },
+            {
+                "players_name": "Haller S.",
+                "players_number": "9",
+                "Full Name": "Sebastien Haller",
+                "players_rating": 8.4,
+                "Country": "Ivory Coast",
+                "Role": "Forward",
+                "Age and Birthdate": "29, (22.06.1994)",
+                "Market Value": "€17.6m",
+                "unicode": "Ie17FSsK"
+            },
+            {
+                "players_name": "Hummels M. (C)",
+                "players_number": "15",
+                "Full Name": "Mats Hummels",
+                "players_rating": 7.7,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (16.12.1988)",
+                "Market Value": "€6.1m",
+                "unicode": "2c4AueOM"
+            },
+            {
+                "players_name": "Kobel G. (G)",
+                "players_number": "1",
+                "Full Name": "Gregor Kobel",
+                "players_rating": 6.8,
+                "Country": "Switzerland",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "26, (06.12.1997)",
+                "Market Value": "€38.6m",
+                "unicode": "xlBg2ttC"
+            },
+            {
+                "players_name": "Malen D.",
+                "players_number": "21",
+                "Full Name": "Donyell Malen",
+                "players_rating": 7.1,
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (19.01.1999)",
+                "Market Value": "€34.3m",
+                "unicode": "KOdKXsao"
+            },
+            {
+                "players_name": "Ryerson J.",
+                "players_number": "26",
+                "Full Name": "Julian Ryerson",
+                "players_rating": 7.1,
+                "Country": "Norway",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (17.11.1997)",
+                "Market Value": "€14.7m",
+                "unicode": "8nv0ZZYK"
+            },
+            {
+                "players_name": "Sule N.",
+                "players_number": "25",
+                "Full Name": "Niklas Sule",
+                "players_rating": 7.6,
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "28, (03.09.1995)",
+                "Market Value": "€20.9m",
+                "unicode": "G43Lp4in"
+            },
+            {
+                "players_name": "Wolf M.",
+                "players_number": "17",
+                "Full Name": "Marius Wolf",
+                "players_rating": 7.0,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (27.05.1995)",
+                "Market Value": "€6.3m",
+                "unicode": "0pP8We9B"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Ozcan S.",
+                "players_number": "6",
+                "Full Name": "Salih Ozcan",
+                "players_rating": 6.4,
+                "Country": "Turkey",
+                "Role": "Midfielder",
+                "Age and Birthdate": "26, (11.01.1998)",
+                "Market Value": "€12.4m",
+                "unicode": "2sPPKXyd"
+            },
+            {
+                "players_name": "Reus M.",
+                "players_number": "11",
+                "Full Name": "Marco Reus",
+                "players_rating": 6.3,
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (31.05.1989)",
+                "Market Value": "€6.9m",
+                "unicode": "fonESekN"
+            },
+            {
+                "players_name": "Reyna G.",
+                "players_number": "7",
+                "Full Name": "Giovanni Reyna",
+                "players_rating": "",
+                "Country": "USA",
+                "Role": "Midfielder",
+                "Age and Birthdate": "21, (13.11.2002)",
+                "Market Value": "€19.9m",
+                "unicode": "zF5Q2DOk"
+            },
+            {
+                "players_name": "Schlotterbeck N.",
+                "players_number": "4",
+                "Full Name": "Nico Schlotterbeck",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (01.12.1999)",
+                "Market Value": "€35.2m",
+                "unicode": "hKLN8mA7"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Duranville J.",
+                "players_number": "16",
+                "Full Name": "Julien Duranville",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Forward",
+                "Age and Birthdate": "17, (05.05.2006)",
+                "Market Value": "€8.2m",
+                "unicode": "G8jmgFZE"
+            },
+            {
+                "players_name": "Meyer A. (G)",
+                "players_number": "33",
+                "Full Name": "Alexander Meyer",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "32, (13.04.1991)",
+                "Market Value": "€760k",
+                "unicode": "0QYpaRhf"
+            },
+            {
+                "players_name": "Modeste A.",
+                "players_number": "20",
+                "Full Name": "Anthony Modeste",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Forward",
+                "Age and Birthdate": "35, (14.04.1988)",
+                "Market Value": "€645k",
+                "unicode": "bPslqX1I"
+            },
+            {
+                "players_name": "Moukoko Y.",
+                "players_number": "18",
+                "Full Name": "Youssoufa Moukoko",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Forward",
+                "Age and Birthdate": "19, (20.11.2004)",
+                "Market Value": "€28.1m",
+                "unicode": "vZ2CcIMA"
+            },
+            {
+                "players_name": "Passlack F.",
+                "players_number": "30",
+                "Full Name": "Felix Passlack",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (29.05.1998)",
+                "Market Value": "€1.4m",
+                "unicode": "rHIRgwGG"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match.",
+            "comments_text_anonymized": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Both teams starting lineups are available now, so you can have a look at them.",
+            "comments_text_anonymized": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Tobias Welz will supervise the game today.",
+            "comments_text_anonymized": "Tobias Welz will supervise the game today."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "Dortmund will kick the game off.",
+            "comments_text_anonymized": "[TEAM] will kick the game off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The first half has started.",
+            "comments_text_anonymized": "The first half has started."
+        },
+        {
+            "half": 1,
+            "time_stamp": "02:47",
+            "comments_type": "foul with no card",
+            "comments_text": "Niklas Dorsch (Augsburg) brings his opponent down. Tobias Welz has a clear sight of it and blows his whistle for a foul. That's a free kick to Dortmund.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. Tobias Welz has a clear sight of it and blows his whistle for a foul. That's a free kick to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "03:26",
+            "comments_type": "shot off target",
+            "comments_text": "Donyell Malen (Dortmund) wastes a really promising free kick position. His strike flies well wide of the right post. The ball goes out of play and Augsburg will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wastes a really promising free kick position. His strike flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "07:19",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "What a sweet touch by Marius Wolf (Dortmund) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for Tomas Koubek to hold.",
+            "comments_text_anonymized": "What a sweet touch by [PLAYER] ([TEAM]) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for [PLAYER] to hold."
+        },
+        {
+            "half": 1,
+            "time_stamp": "09:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Karim Adeyemi (Dortmund) has a shot blocked from inside the box. The ball goes out of play and Dortmund have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a shot blocked from inside the box. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "corner",
+            "comments_text": "Dortmund force their opponents to concede a corner.",
+            "comments_text_anonymized": "[TEAM] force their opponents to concede a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:20",
+            "comments_type": "shot off target",
+            "comments_text": "Sebastien Haller (Dortmund) is first to react to a whipped in corner and flashes a header in on goal from close range, but one of his teammates inadvertently blocks the ball and stops him scoring. No wonder he's upset!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to react to a whipped in corner and flashes a header in on goal from close range, but one of his teammates inadvertently blocks the ball and stops him scoring. No wonder he's upset!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "10:10",
+            "comments_type": "shot off target",
+            "comments_text": "Emre Can (Dortmund) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:21",
+            "comments_type": "clearance",
+            "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Karim Adeyemi (Dortmund).",
+            "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "12:39",
+            "comments_type": "foul with no card",
+            "comments_text": "Karim Adeyemi (Dortmund) is penalised for a foul. Tobias Welz had a clear view and blows his whistle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. Tobias Welz had a clear view and blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:39",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Mads Pedersen (Augsburg) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "15:00",
+            "comments_type": "injury",
+            "comments_text": "Mads Pedersen (Augsburg) is able to continue to play.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is able to continue to play."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:10",
+            "comments_type": "clearance",
+            "comments_text": "A pass from Raphael Guerreiro (Dortmund) is intercepted by Tomas Koubek and the move breaks down.",
+            "comments_text_anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "half": 1,
+            "time_stamp": "16:00",
+            "comments_type": "foul with no card",
+            "comments_text": "Arne Engels (Augsburg) gets on the ball and beats an opponent, but his run is stopped by the referee Tobias Welz who sees an offensive foul.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the ball and beats an opponent, but his run is stopped by the referee Tobias Welz who sees an offensive foul."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:03",
+            "comments_type": "shot off target",
+            "comments_text": "Dion Beljo (Augsburg) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area."
+        },
+        {
+            "half": 1,
+            "time_stamp": "18:50",
+            "comments_type": "clearance",
+            "comments_text": "Arne Engels (Augsburg) clips an inviting cross into the box, but there's no one in a position to get on the end of it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:22",
+            "comments_type": "corner",
+            "comments_text": "Raphael Guerreiro (Dortmund) takes the corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:32",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Mats Hummels (Dortmund) makes a good late run into the box and times his jump perfectly to get on the end of the corner kick, but his close-range header is brilliant blocked to deny him a certain goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a good late run into the box and times his jump perfectly to get on the end of the corner kick, but his close-range header is brilliant blocked to deny him a certain goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "shot off target",
+            "comments_text": "Mats Hummels (Dortmund) covers his face with his hands after spurning a great chance. The ball rebounded to him but his close-range header went a whisker over the crossbar. The ball is off of the pitch and it's a goal kick for Augsburg.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) covers his face with his hands after spurning a great chance. The ball rebounded to him but his close-range header went a whisker over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "22:11",
+            "comments_type": "shot off target",
+            "comments_text": "What a poor attempt! Ermedin Demirovic (Augsburg) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands. The ball is off of the pitch and it's a goal kick for Dortmund.",
+            "comments_text_anonymized": "What a poor attempt! [PLAYER] ([TEAM]) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:00",
+            "comments_type": "corner",
+            "comments_text": "Karim Adeyemi (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Dortmund have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:13",
+            "comments_type": "corner",
+            "comments_text": "Raphael Guerreiro (Dortmund) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "half": 1,
+            "time_stamp": "23:40",
+            "comments_type": "clearance",
+            "comments_text": "Donyell Malen (Dortmund) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:02",
+            "comments_type": "shot off target",
+            "comments_text": "Raphael Guerreiro (Dortmund) sets himself up on the edge of the box, but balloons his shot way over the bar. The ball goes out of play and Augsburg will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sets himself up on the edge of the box, but balloons his shot way over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:44",
+            "comments_type": "ball possession",
+            "comments_text": "The Augsburg players are exchanging some short passes.",
+            "comments_text_anonymized": "The [TEAM] players are exchanging some short passes."
+        },
+        {
+            "half": 1,
+            "time_stamp": "30:19",
+            "comments_type": "ball possession",
+            "comments_text": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "comments_text_anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:06",
+            "comments_type": "statistics and summary",
+            "comments_text": "The ball possession at the moment is 51:49.",
+            "comments_text_anonymized": "The ball possession at the moment is 51:49."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:59",
+            "comments_type": "lead to corner",
+            "comments_text": "Julian Brandt (Dortmund) bends a great shot in from the edge of the box, but Tomas Koubek makes a smart save to deny him. Corner kick. Dortmund will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) bends a great shot in from the edge of the box, but [PLAYER] makes a smart save to deny him. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "32:50",
+            "comments_type": "corner",
+            "comments_text": "There's an opportunity for Julian Brandt (Dortmund) to deliver the ball into the box from a corner.",
+            "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:56",
+            "comments_type": "lead to corner",
+            "comments_text": "Karim Adeyemi (Dortmund) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. Dortmund force a corner. They send men into the box.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:03",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Raphael Guerreiro (Dortmund) is cleared.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "35:10",
+            "comments_type": "clearance",
+            "comments_text": "Karim Adeyemi (Dortmund) shoots from outside the box, but his effort is blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "half": 1,
+            "time_stamp": "38:02",
+            "comments_type": "red card",
+            "comments_text": "Felix Uduokhai (Augsburg) receives a red card after his awful challenge. He completely lost his temper and referee Tobias Welz sends him off the pitch.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a red card after his awful challenge. He completely lost his temper and referee Tobias Welz sends him off the pitch."
+        },
+        {
+            "half": 1,
+            "time_stamp": "39:06",
+            "comments_type": "substitution",
+            "comments_text": "The referee stops play so that a substitution can be made and Kelvin Yeboah trots off the pitch and is replaced by Maximilian Bauer (Augsburg).",
+            "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 1,
+            "time_stamp": "41:02",
+            "comments_type": "shot off target",
+            "comments_text": "What a wasted chance that was! An inch-perfect cross into the box finds Raphael Guerreiro (Dortmund) who sends his header well wide of the right post. The ball is off of the pitch and it's a goal kick for Augsburg.",
+            "comments_text_anonymized": "What a wasted chance that was! An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who sends his header well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:40",
+            "comments_type": "yellow card",
+            "comments_text": "Dion Beljo (Augsburg) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into Tobias Welz's book.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into Tobias Welz's book."
+        },
+        {
+            "half": 1,
+            "time_stamp": "44:10",
+            "comments_type": "statistics and summary",
+            "comments_text": "The shots on goal statistics – 0:4.",
+            "comments_text_anonymized": "The shots on goal statistics – 0:4."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "3 min. of stoppage-time to be played.",
+            "comments_text_anonymized": "3 min. of stoppage-time to be played."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:29",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag for offside before Ermedin Demirovic (Augsburg) heads on.",
+            "comments_text_anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:56",
+            "comments_type": "corner",
+            "comments_text": "The ball is out of play. Dortmund will have a chance to score from a corner.",
+            "comments_text_anonymized": "The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:54",
+            "comments_type": "foul with no card",
+            "comments_text": "A player from Dortmund commits an attacking foul. The referee blows his whistle.",
+            "comments_text_anonymized": "A player from [TEAM] commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:44",
+            "comments_type": "foul with no card",
+            "comments_text": "Tobias Welz interrupts the game. One of the players from Augsburg won the ball, but his effort is adjudged unfair.",
+            "comments_text_anonymized": "Tobias Welz interrupts the game. One of the players from [TEAM] won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:35",
+            "comments_type": "shot off target",
+            "comments_text": "Donyell Malen (Dortmund) receives a nice pass from the free kick and strikes from the edge of the box, but his attempt hits one of the defenders and bounces away off him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a nice pass from the free kick and strikes from the edge of the box, but his attempt hits one of the defenders and bounces away off him."
+        },
+        {
+            "half": 1,
+            "time_stamp": "48:40",
+            "comments_type": "end of half game",
+            "comments_text": "The end of the first half.",
+            "comments_text_anonymized": "The end of the first half."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The half-time break is over and the second half is about to start.",
+            "comments_text_anonymized": "The half-time break is over and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:20",
+            "comments_type": "substitution",
+            "comments_text": "There will be a change on the pitch for the second half. Enrico Maassen probably wasn't satisfied with the performance of Mads Pedersen. He is replaced by David Colina (Augsburg).",
+            "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:40",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "It's a nice effort by Julian Brandt (Dortmund) from the edge of the box, but it's low towards the middle of the goal and straight down the throat of Tomas Koubek. Easy save.",
+            "comments_text_anonymized": "It's a nice effort by [PLAYER] ([TEAM]) from the edge of the box, but it's low towards the middle of the goal and straight down the throat of [PLAYER]. Easy save."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:50",
+            "comments_type": "yellow card",
+            "comments_text": "Tobias Welz shows a yellow card to Emre Can (Dortmund), who isn't surprised as the tackle was really hard and late.",
+            "comments_text_anonymized": "Tobias Welz shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:40",
+            "comments_type": "free kick",
+            "comments_text": "A free kick to Augsburg.",
+            "comments_text_anonymized": "A free kick to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:50",
+            "comments_type": "lead to corner",
+            "comments_text": "Arne Engels (Augsburg) takes the free kick from the edge of the box, but the defensive wall charges down the ball. Augsburg earn a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick from the edge of the box, but the defensive wall charges down the ball. [TEAM] earn a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "02:40",
+            "comments_type": "corner",
+            "comments_text": "Arne Engels (Augsburg) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "half": 2,
+            "time_stamp": "06:00",
+            "comments_type": "shot off target",
+            "comments_text": "What a big chance! Raphael Guerreiro (Dortmund) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post. The ball goes out of play and Augsburg will have a goal kick.",
+            "comments_text_anonymized": "What a big chance! [PLAYER] ([TEAM]) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:30",
+            "comments_type": "lead to corner",
+            "comments_text": "Donyell Malen (Dortmund) fails to send a pass into the box as his effort is cut out. Good work from Dortmund as they win a corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:45",
+            "comments_type": "corner",
+            "comments_text": "A quickly taken corner by Dortmund.",
+            "comments_text_anonymized": "A quickly taken corner by [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:46",
+            "comments_type": "shot off target",
+            "comments_text": "Julian Ryerson (Dortmund) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:44",
+            "comments_type": "statistics and summary",
+            "comments_text": "2:21 – the total goal attempt statistics.",
+            "comments_text_anonymized": "2:21 – the total goal attempt statistics."
+        },
+        {
+            "half": 2,
+            "time_stamp": "12:47",
+            "comments_type": "goal",
+            "comments_text": "GOAL! Sebastien Haller (Dortmund) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the left-hand post. The score is 0:1.",
+            "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the left-hand post. The score is 0:1."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:55",
+            "comments_type": "substitution",
+            "comments_text": "Substitution. Dion Beljo will be replaced by Mergim Berisha (Augsburg).",
+            "comments_text_anonymized": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:55",
+            "comments_type": "substitution",
+            "comments_text": "Enrico Maassen prepares a substitution. Elvis Rexhbecaj is replaced by Irvin Cardona (Augsburg).",
+            "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "18:07",
+            "comments_type": "shot off target",
+            "comments_text": "Mergim Berisha (Augsburg) finds space on the edge of the box, but his wild shot goes high over the bar.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds space on the edge of the box, but his wild shot goes high over the bar."
+        },
+        {
+            "half": 2,
+            "time_stamp": "22:05",
+            "comments_type": "clearance",
+            "comments_text": "A cross is clipped into the penalty area by Renato Veiga (Augsburg) but poses no threat.",
+            "comments_text_anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:22",
+            "comments_type": "yellow card",
+            "comments_text": "Tobias Welz rightly pulls out a yellow card and shows it to Karim Adeyemi (Dortmund).",
+            "comments_text_anonymized": "Tobias Welz rightly pulls out a yellow card and shows it to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:32",
+            "comments_type": "yellow card",
+            "comments_text": "Jeffrey Gouweleeuw (Augsburg) is shown a yellow card by the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:30",
+            "comments_type": "ball possession",
+            "comments_text": "Augsburg seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "comments_text_anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "half": 2,
+            "time_stamp": "26:10",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals a substitution. Salih Ozcan (Dortmund) is brought on as a substitute for Karim Adeyemi.",
+            "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:23",
+            "comments_type": "yellow card",
+            "comments_text": "The expression of the referee Tobias Welz is crystal clear. This behaviour won't be tolerated. Ermedin Demirovic (Augsburg) is shown a yellow card.",
+            "comments_text_anonymized": "The expression of the referee Tobias Welz is crystal clear. This behaviour won't be tolerated. [PLAYER] ([TEAM]) is shown a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "28:11",
+            "comments_type": "yellow card",
+            "comments_text": "The referee Tobias Welz awards Marius Wolf (Dortmund) a yellow card.",
+            "comments_text_anonymized": "[REFEREE] awards [PLAYER] ([TEAM]) a yellow card."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:10",
+            "comments_type": "throw in",
+            "comments_text": "Raphael Guerreiro (Dortmund) is disappointed with himself because he got into a good area but produced a poor cross. The linesman signals a throw-in for Augsburg.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:18",
+            "comments_type": "corner",
+            "comments_text": "A good clearance by a defender means the corner comes to nothing for Augsburg.",
+            "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:26",
+            "comments_type": "ball possession",
+            "comments_text": "Some great controlled play and passing in the middle of the pitch from Dortmund.",
+            "comments_text_anonymized": "Some great controlled play and passing in the middle of the pitch from [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:25",
+            "comments_type": "clearance",
+            "comments_text": "Julian Brandt (Dortmund) sends a pass into the box, but his attempt is thwarted and cleared. The referee and the linesman both signal a throw-in for Dortmund.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:51",
+            "comments_type": "substitution",
+            "comments_text": "The game has come to an end for Raphael Guerreiro. He has contributed as much as he could today. He will be replaced by the fresh legs of Marco Reus (Dortmund).",
+            "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:57",
+            "comments_type": "clearance",
+            "comments_text": "Marius Wolf (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:52",
+            "comments_type": "shot off target",
+            "comments_text": "Sebastien Haller (Dortmund) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was! The ball is off of the pitch and it's a goal kick for Augsburg.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was! The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:15",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Julian Brandt (Dortmund) is unlucky with a goal-bound effort from the edge of the box. Some classy goalkeeping by Tomas Koubek stops the ball out of the bottom right corner.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is unlucky with a goal-bound effort from the edge of the box. Some classy goalkeeping by [PLAYER] stops the ball out of the bottom right corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:20",
+            "comments_type": "statistics and summary",
+            "comments_text": "The attendance for today's match is 30660.",
+            "comments_text_anonymized": "The attendance for today's match is 30660."
+        },
+        {
+            "half": 2,
+            "time_stamp": "38:53",
+            "comments_type": "goal",
+            "comments_text": "The goalkeeper makes a superb save, but the ball rebounds off him out to Sebastien Haller (Dortmund), who fires a low drive into the middle of the net.",
+            "comments_text_anonymized": "The goalkeeper makes a superb save, but the ball rebounds off him out to [PLAYER] ([TEAM]), who fires a low drive into the middle of the net."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:21",
+            "comments_type": "substitution",
+            "comments_text": "The referee signals that it is time for a substitution and Arne Maier (Augsburg) comes onto the pitch so that Ermedin Demirovic can be given a rest.",
+            "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:54",
+            "comments_type": "corner",
+            "comments_text": "Dortmund can’t profit from the corner as the defence clear the ball upfield. It will be a corner kick for Dortmund.",
+            "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield. It will be a corner kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:59",
+            "comments_type": "injury",
+            "comments_text": "Mats Hummels (Dortmund) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "The fourth official shows 5 min. of added time.",
+            "comments_text_anonymized": "The fourth official shows 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:41",
+            "comments_type": "substitution",
+            "comments_text": "It appears to be a head injury for Mats Hummels (Dortmund) so no chances are being taken and he’s replaced by Nico Schlotterbeck.",
+            "comments_text_anonymized": "It appears to be a head injury for [PLAYER] ([TEAM]) so no chances are being taken and he’s replaced by [PLAYER]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "46:38",
+            "comments_type": "substitution",
+            "comments_text": "Here is a change. Donyell Malen is going off and Edin Terzic gives the last tactical orders to Giovanni Reyna (Dortmund).",
+            "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:08",
+            "comments_type": "corner",
+            "comments_text": "Dortmund take a short corner instead of sending the ball into the penalty area.",
+            "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "half": 2,
+            "time_stamp": "47:56",
+            "comments_type": "goal",
+            "comments_text": "Goal! After receiving a sweet pass, Julian Brandt (Dortmund) unleashes a shot straight into the bottom right corner. Good team effort!",
+            "comments_text_anonymized": "Goal! After receiving a sweet pass, [PLAYER] ([TEAM]) unleashes a shot straight into the bottom right corner. Good team effort!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "50:05",
+            "comments_type": "end of half game",
+            "comments_text": "That's all for today as the game is over.",
+            "comments_text_anonymized": "That's all for today as the game is over."
+        }
+    ]
+}

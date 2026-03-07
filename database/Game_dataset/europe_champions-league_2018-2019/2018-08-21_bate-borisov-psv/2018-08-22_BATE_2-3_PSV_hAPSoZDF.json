@@ -1,0 +1,987 @@
+{
+    "match_info": {
+        "timestamp": "2018-08-22 03:00:00",
+        "score": "2 - 3",
+        "home_team": "BATE",
+        "away_team": "PSV",
+        "home_formation": "4 - 3 - 3",
+        "away_formation": "4 - 3 - 3",
+        "venue": "Borisov Arena (Barysaw)",
+        "capacity": "13 126",
+        "attendance": "9 284",
+        "home_jersey_color": "yellow",
+        "away_jersey_color": "white"
+    },
+    "referee_data": {
+        "short_name_country": "Zwayer F. (Ger)",
+        "first_name": "Zwayer",
+        "abbr_last_name": "F",
+        "country": "Ger",
+        "detected_name": "Felix Zwayer"
+    },
+    "players_data": {
+        "home_coaches": [
+            {
+                "players_name": "Baga A.",
+                "players_number": "",
+                "Full Name": "Aleksey Baga",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "coach",
+                "Age and Birthdate": "42,  (04.02.1981)",
+                "Market Value": "",
+                "unicode": "YwemblUo"
+            }
+        ],
+        "home_missing_players": [
+            {
+                "players_name": "Gordejchuk M.",
+                "players_number": "",
+                "Full Name": "Mikhail Gordejchuk",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (23.10.1989)",
+                "Market Value": "31.12.2024",
+                "unicode": "4vBCuokL"
+            },
+            {
+                "players_name": "Vasiljevic N.",
+                "players_number": "",
+                "Full Name": "Nikola Vasiljevic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (30.06.1991)",
+                "Market Value": "30.06.2024",
+                "unicode": "SbgZ0bUH"
+            }
+        ],
+        "home_starting_lineups": [
+            {
+                "players_name": "Baga D.",
+                "players_number": "25",
+                "Full Name": "Dmitri Baga",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "34, (04.01.1990)",
+                "Market Value": "",
+                "unicode": "xvGybbGg"
+            },
+            {
+                "players_name": "Dragun S.",
+                "players_number": "8",
+                "Full Name": "Stanislav Dragun",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "35, (04.06.1988)",
+                "Market Value": "",
+                "unicode": "Ya59pjLH"
+            },
+            {
+                "players_name": "Filipenko E.",
+                "players_number": "21",
+                "Full Name": "Egor Filipenko",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (10.04.1988)",
+                "Market Value": "€193k",
+                "unicode": "pt2jWD99"
+            },
+            {
+                "players_name": "Filipovic A.",
+                "players_number": "4",
+                "Full Name": "Aleksandar Filipovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (20.12.1994)",
+                "Market Value": "€964k",
+                "unicode": "tGDYbCsh"
+            },
+            {
+                "players_name": "Ivanic M.",
+                "players_number": "10",
+                "Full Name": "Mirko Ivanic",
+                "players_rating": "",
+                "Country": "Montenegro",
+                "Role": "Midfielder",
+                "Age and Birthdate": "30, (13.09.1993)",
+                "Market Value": "€7.2m",
+                "unicode": "Qoq9ujjN"
+            },
+            {
+                "players_name": "Milunovic N.",
+                "players_number": "19",
+                "Full Name": "Nemanja Milunovic",
+                "players_rating": "",
+                "Country": "Serbia",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (31.05.1989)",
+                "Market Value": "€245k",
+                "unicode": "S4XuPX6s"
+            },
+            {
+                "players_name": "Rios A.",
+                "players_number": "17",
+                "Full Name": "Aleksey Rios",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "36, (14.05.1987)",
+                "Market Value": "",
+                "unicode": "dfeynoSC"
+            },
+            {
+                "players_name": "Shcherbitskiy D. (G)",
+                "players_number": "48",
+                "Full Name": "Denis Shcherbitskiy",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "27, (14.04.1996)",
+                "Market Value": "",
+                "unicode": "vyUyxhFA"
+            },
+            {
+                "players_name": "Stasevich I. (C)",
+                "players_number": "22",
+                "Full Name": "Igor Stasevich",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "38, (21.10.1985)",
+                "Market Value": "31.12.2024",
+                "unicode": "hbgisyDT"
+            },
+            {
+                "players_name": "Tuominen J.",
+                "players_number": "24",
+                "Full Name": "Jasse Tuominen",
+                "players_rating": "",
+                "Country": "Finland",
+                "Role": "Forward",
+                "Age and Birthdate": "€248k, (12.11.1995)",
+                "Market Value": "",
+                "unicode": "OYjTjfKh"
+            },
+            {
+                "players_name": "Yablonskiy E.",
+                "players_number": "5",
+                "Full Name": "Evgeniy Yablonskiy",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (10.05.1995)",
+                "Market Value": "€553k",
+                "unicode": "YguhlSiQ"
+            }
+        ],
+        "home_substituted_players": [
+            {
+                "players_name": "Hleb A.",
+                "players_number": "11",
+                "Full Name": "Aljaksandr Hleb",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "42, (01.05.1981)",
+                "Market Value": "",
+                "unicode": "f1h1rQfh"
+            },
+            {
+                "players_name": "Skavysh M.",
+                "players_number": "15",
+                "Full Name": "Maksim Skavysh",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Forward",
+                "Age and Birthdate": "34, (13.11.1989)",
+                "Market Value": "€272k",
+                "unicode": "IiXupo93"
+            },
+            {
+                "players_name": "Volodjko M.",
+                "players_number": "42",
+                "Full Name": "Maksim Volodjko",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Defender",
+                "Age and Birthdate": "31, (10.11.1992)",
+                "Market Value": "",
+                "unicode": "EiX5eGvH"
+            }
+        ],
+        "home_substitutes": [
+            {
+                "players_name": "Berezkin E.",
+                "players_number": "7",
+                "Full Name": "Evgeni Berezkin",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (05.07.1996)",
+                "Market Value": "31.12.2024",
+                "unicode": "lQTHyc5a"
+            },
+            {
+                "players_name": "Chichkan A. (G)",
+                "players_number": "35",
+                "Full Name": "Anton Chichkan",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "€210k, (10.07.1995)",
+                "Market Value": "",
+                "unicode": "EXKT5beF"
+            },
+            {
+                "players_name": "Moukam H.",
+                "players_number": "94",
+                "Full Name": "Hervaine Moukam",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Midfielder",
+                "Age and Birthdate": "29, (24.05.1994)",
+                "Market Value": "",
+                "unicode": "CEV47Jep"
+            },
+            {
+                "players_name": "Volkov Z.",
+                "players_number": "23",
+                "Full Name": "Zakhar Volkov",
+                "players_rating": "",
+                "Country": "Belarus",
+                "Role": "Defender",
+                "Age and Birthdate": "26, (12.08.1997)",
+                "Market Value": "€574k",
+                "unicode": "6mL7d69g"
+            }
+        ],
+        "away_coaches": [
+            {
+                "players_name": "van Bommel M.",
+                "players_number": "",
+                "Full Name": "Mark van Bommel",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "coach",
+                "Age and Birthdate": "46,  (22.04.1977)",
+                "Market Value": "",
+                "unicode": "n14cbFT8"
+            }
+        ],
+        "away_missing_players": [
+            {
+                "players_name": "Romero M.",
+                "players_number": "",
+                "Full Name": "Maximiliano Romero",
+                "players_rating": "",
+                "Country": "Argentina",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (09.01.1999)",
+                "Market Value": "€2.2m",
+                "unicode": "EkKH7kY3"
+            }
+        ],
+        "away_starting_lineups": [
+            {
+                "players_name": "Angelino",
+                "players_number": "6",
+                "Full Name": "Angelino",
+                "players_rating": "",
+                "Country": "Spain",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (04.01.1997)",
+                "Market Value": "€7.8m",
+                "unicode": "GEGCuSA8"
+            },
+            {
+                "players_name": "Bergwijn S.",
+                "players_number": "17",
+                "Full Name": "Steven Bergwijn",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "26, (08.10.1997)",
+                "Market Value": "€19.6m",
+                "unicode": "Kdj2xxJR"
+            },
+            {
+                "players_name": "de Jong L. (C)",
+                "players_number": "9",
+                "Full Name": "Luuk de Jong",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "33, (27.08.1990)",
+                "Market Value": "€3.5m",
+                "unicode": "fVuRxt84"
+            },
+            {
+                "players_name": "Dumfries D.",
+                "players_number": "22",
+                "Full Name": "Denzel Dumfries",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "27, (18.04.1996)",
+                "Market Value": "€29.4m",
+                "unicode": "QR0j1ejk"
+            },
+            {
+                "players_name": "Hendrix J.",
+                "players_number": "8",
+                "Full Name": "Jorrit Hendrix",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (06.02.1995)",
+                "Market Value": "€1.0m",
+                "unicode": "tMs28wMD"
+            },
+            {
+                "players_name": "Lozano H.",
+                "players_number": "11",
+                "Full Name": "Hirving Lozano",
+                "players_rating": "",
+                "Country": "Mexico",
+                "Role": "Forward",
+                "Age and Birthdate": "28, (30.07.1995)",
+                "Market Value": "€22.8m",
+                "unicode": "buNjcqS5"
+            },
+            {
+                "players_name": "Pereiro G.",
+                "players_number": "7",
+                "Full Name": "Gaston Pereiro",
+                "players_rating": "",
+                "Country": "Uruguay",
+                "Role": "Midfielder",
+                "Age and Birthdate": "28, (11.06.1995)",
+                "Market Value": "€1.2m",
+                "unicode": "txlUkIne"
+            },
+            {
+                "players_name": "Rosario P.",
+                "players_number": "18",
+                "Full Name": "Pablo Rosario",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Midfielder",
+                "Age and Birthdate": "27, (07.01.1997)",
+                "Market Value": "€6.8m",
+                "unicode": "E9pRzPPA"
+            },
+            {
+                "players_name": "Schwaab D.",
+                "players_number": "5",
+                "Full Name": "Daniel Schwaab",
+                "players_rating": "",
+                "Country": "Germany",
+                "Role": "Defender",
+                "Age and Birthdate": "35, (23.08.1988)",
+                "Market Value": "",
+                "unicode": "YXnkqpHn"
+            },
+            {
+                "players_name": "Viergever N.",
+                "players_number": "4",
+                "Full Name": "Nick Viergever",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "34, (03.08.1989)",
+                "Market Value": "€489k",
+                "unicode": "8OhQbgDA"
+            },
+            {
+                "players_name": "Zoet J. (G)",
+                "players_number": "1",
+                "Full Name": "Jeroen Zoet",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "33, (06.01.1991)",
+                "Market Value": "€386k",
+                "unicode": "IDI0wVTT"
+            }
+        ],
+        "away_substituted_players": [
+            {
+                "players_name": "Isimat-Mirin N.",
+                "players_number": "2",
+                "Full Name": "Nicolas Isimat-Mirin",
+                "players_rating": "",
+                "Country": "France",
+                "Role": "Defender",
+                "Age and Birthdate": "32, (15.11.1991)",
+                "Market Value": "€362k",
+                "unicode": "Y9plO0B1"
+            },
+            {
+                "players_name": "Malen D.",
+                "players_number": "14",
+                "Full Name": "Donyell Malen",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Forward",
+                "Age and Birthdate": "25, (19.01.1999)",
+                "Market Value": "€33.8m",
+                "unicode": "KOdKXsao"
+            },
+            {
+                "players_name": "Mauro Junior",
+                "players_number": "47",
+                "Full Name": "Mauro Junior",
+                "players_rating": "",
+                "Country": "Brazil",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (06.05.1999)",
+                "Market Value": "€4.9m",
+                "unicode": "jZwOs76l"
+            }
+        ],
+        "away_substitutes": [
+            {
+                "players_name": "Rigo D.",
+                "players_number": "16",
+                "Full Name": "Dante Rigo",
+                "players_rating": "",
+                "Country": "Belgium",
+                "Role": "Midfielder",
+                "Age and Birthdate": "25, (11.12.1998)",
+                "Market Value": "€979k",
+                "unicode": "0poPcske"
+            },
+            {
+                "players_name": "Room E. (G)",
+                "players_number": "13",
+                "Full Name": "Eloy Room",
+                "players_rating": "",
+                "Country": "Curaçao",
+                "Role": "Goalkeeper",
+                "Age and Birthdate": "34, (06.02.1989)",
+                "Market Value": "€482k",
+                "unicode": "QkUYeBt5"
+            },
+            {
+                "players_name": "Sadilek M.",
+                "players_number": "32",
+                "Full Name": "Michal Sadilek",
+                "players_rating": "",
+                "Country": "Czech Republic",
+                "Role": "Midfielder",
+                "Age and Birthdate": "24, (31.05.1999)",
+                "Market Value": "€5.8m",
+                "unicode": "zJiFbA7r"
+            },
+            {
+                "players_name": "Teze J.",
+                "players_number": "33",
+                "Full Name": "Jordan Teze",
+                "players_rating": "",
+                "Country": "Netherlands",
+                "Role": "Defender",
+                "Age and Birthdate": "24, (30.09.1999)",
+                "Market Value": "€14.3m",
+                "unicode": "Sbk0VFPJ"
+            }
+        ]
+    },
+    "comments": [
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match.",
+            "comments_text_anonymized": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "You can have a look at the starting XIs of both teams in the details of this match.",
+            "comments_text_anonymized": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "statistics and summary",
+            "comments_text": "Felix Zwayer will referee today's match.",
+            "comments_text_anonymized": "[REFEREE] will referee today's match."
+        },
+        {
+            "half": 0,
+            "time_stamp": "",
+            "comments_type": "start of half game",
+            "comments_text": "The players are on the pitch and PSV will have the kick-off.",
+            "comments_text_anonymized": "The players are on the pitch and [TEAM] will have the kick-off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The referee blows his whistle and we are underway.",
+            "comments_text_anonymized": "The referee blows his whistle and we are underway."
+        },
+        {
+            "half": 1,
+            "time_stamp": "00:30",
+            "comments_type": "shot off target",
+            "comments_text": "What a miss! A floated cross from the flank picks out Dmitri Baga (BATE) unmarked near the penalty spot with just the keeper to beat, but he skies his header miles over the bar. The ball goes out of play and PSV will have a goal kick.",
+            "comments_text_anonymized": "What a miss! A floated cross from the flank picks out [PLAYER] ([TEAM]) unmarked near the penalty spot with just the keeper to beat, but he skies his header miles over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "06:56",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Zwayer has a clear sight and sees a foul from Dmitri Baga (BATE). A free kick has been awarded to PSV.",
+            "comments_text_anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). A free kick has been awarded to [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:10",
+            "comments_type": "clearance",
+            "comments_text": "Gaston Pereiro (PSV) puts a cross into the box from the free kick but it's cleared.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "half": 1,
+            "time_stamp": "08:44",
+            "comments_type": "goal",
+            "comments_text": "Goal Jasse Tuominen (BATE)! Jasse Tuominen (BATE) was put through by Aleksandar Filipovic and he showed brilliant composure inside the box to bury the ball into the back of the net. 1:0.",
+            "comments_text_anonymized": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to bury the ball into the back of the net. 1:0."
+        },
+        {
+            "half": 1,
+            "time_stamp": "13:10",
+            "comments_type": "ball possession",
+            "comments_text": "Gaston Pereiro (PSV) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "half": 1,
+            "time_stamp": "14:43",
+            "comments_type": "shot off target",
+            "comments_text": "Good play from Stanislav Dragun (BATE) gives him some space for the shot from distance, but it's lacking accuracy and goes well wide of the left post. The ball is off of the pitch and it's a goal kick for PSV.",
+            "comments_text_anonymized": "Good play from [PLAYER] ([TEAM]) gives him some space for the shot from distance, but it's lacking accuracy and goes well wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:00",
+            "comments_type": "clearance",
+            "comments_text": "Igor Stasevich (BATE) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "half": 1,
+            "time_stamp": "17:40",
+            "comments_type": "yellow card",
+            "comments_text": "The whistle blows and Luuk de Jong (PSV) is booked for an infringement.",
+            "comments_text_anonymized": "The whistle blows and [PLAYER] ([TEAM]) is booked for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:31",
+            "comments_type": "lead to corner",
+            "comments_text": "Stanislav Dragun (BATE) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant. Corner kick. BATE will have an opportunity.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "half": 1,
+            "time_stamp": "20:50",
+            "comments_type": "corner",
+            "comments_text": "Igor Stasevich (BATE) takes the corner, but it's intercepted by the defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "half": 1,
+            "time_stamp": "26:47",
+            "comments_type": "clearance",
+            "comments_text": "Luuk de Jong (PSV) does his best to latch onto a cross into the box, but he can't get to the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) does his best to latch onto a cross into the box, but he can't get to the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "28:10",
+            "comments_type": "clearance",
+            "comments_text": "Igor Stasevich (BATE) sends a cross into the box, but Jeroen Zoet comes off his line to gather the ball.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:10",
+            "comments_type": "ball out of play",
+            "comments_text": "Denzel Dumfries (PSV) sends in a pass which fails to reach any of his teammates. The ball is off of the pitch and it's a goal kick for BATE.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 1,
+            "time_stamp": "31:50",
+            "comments_type": "foul with no card",
+            "comments_text": "PSV are awarded the free kick. Dmitri Baga (BATE) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "comments_text_anonymized": "[TEAM] are awarded the free kick. [PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "half": 1,
+            "time_stamp": "33:19",
+            "comments_type": "ball out of play",
+            "comments_text": "Gaston Pereiro (PSV) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch. The ball goes out of play and BATE will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:14",
+            "comments_type": "foul lead to penalty",
+            "comments_text": "Nemanja Milunovic (BATE) probably handled the ball inside the penalty area. PSV are given a penalty!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) probably handled the ball inside the penalty area. [TEAM] are given a penalty!"
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:00",
+            "comments_type": "penalty",
+            "comments_text": "Gaston Pereiro (PSV) is heading towards the penalty spot to take it.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "half": 1,
+            "time_stamp": "34:15",
+            "comments_type": "goal",
+            "comments_text": "Goal! Gaston Pereiro (PSV) wins the battle of wills and sends an unstoppable penalty past Denis Shcherbitskiy into the bottom right corner.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom right corner."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:18",
+            "comments_type": "saved by goal-keeper",
+            "comments_text": "Hirving Lozano (PSV) peeled away from his marker and got on the end of a cross inside the box. He powered a header towards the top right corner, but the keeper made a decent save to block the effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) peeled away from his marker and got on the end of a cross inside the box. He powered a header towards the top right corner, but the keeper made a decent save to block the effort."
+        },
+        {
+            "half": 1,
+            "time_stamp": "37:50",
+            "comments_type": "yellow card",
+            "comments_text": "What was Egor Filipenko (BATE) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "comments_text_anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "half": 1,
+            "time_stamp": "40:01",
+            "comments_type": "yellow card",
+            "comments_text": "Igor Stasevich (BATE) commits a foul and is shown a yellow card without any hesitation from the referee.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee."
+        },
+        {
+            "half": 1,
+            "time_stamp": "42:30",
+            "comments_type": "clearance",
+            "comments_text": "The defender bravely blocks the shot from Mirko Ivanic (BATE) inside the box.",
+            "comments_text_anonymized": "The defender bravely blocks the shot from [PLAYER] ([TEAM]) inside the box."
+        },
+        {
+            "half": 1,
+            "time_stamp": "43:40",
+            "comments_type": "corner",
+            "comments_text": "The ball goes behind for a corner. PSV will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "We will have 1 min. of added time.",
+            "comments_text_anonymized": "We will have 1 min. of added time."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:40",
+            "comments_type": "lead to corner",
+            "comments_text": "Mirko Ivanic (BATE) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. BATE force a corner. Their opponents will face another attacking threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "half": 1,
+            "time_stamp": "45:50",
+            "comments_type": "corner",
+            "comments_text": "Igor Stasevich (BATE) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "half": 1,
+            "time_stamp": "46:10",
+            "comments_type": "end of half game",
+            "comments_text": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "comments_text_anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "half": 2,
+            "time_stamp": "00:01",
+            "comments_type": "start of half game",
+            "comments_text": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "comments_text_anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start."
+        },
+        {
+            "half": 2,
+            "time_stamp": "01:21",
+            "comments_type": "shot off target",
+            "comments_text": "Stanislav Dragun (BATE) has a go from distance but he can't find the target as it goes well wide of the left post. The ball goes out of play and PSV will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) has a go from distance but he can't find the target as it goes well wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "07:40",
+            "comments_type": "off side",
+            "comments_text": "Jasse Tuominen (BATE) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:21",
+            "comments_type": "lead to corner",
+            "comments_text": "Igor Stasevich (BATE) sends a chip pass into the box, but Jeroen Zoet is quickest to intercept the ball. The ball goes out for a corner. BATE can continue in their attacking effort.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "half": 2,
+            "time_stamp": "13:52",
+            "comments_type": "corner",
+            "comments_text": "Igor Stasevich (BATE) steps up to take the corner, but the ball just sails in among the defenders.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:02",
+            "comments_type": "shot off target",
+            "comments_text": "Steven Bergwijn (PSV) lets fly with a decent effort from the edge of the box that flashes just wide of the right post. The ball is off of the pitch and it's a goal kick for BATE.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) lets fly with a decent effort from the edge of the box that flashes just wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "14:21",
+            "comments_type": "substitution",
+            "comments_text": "Jasse Tuominen comes off the pitch to be replaced by Maksim Skavysh (BATE).",
+            "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "15:45",
+            "comments_type": "goal",
+            "comments_text": "Goal! Hirving Lozano (PSV) neatly controls a decent pass from Luuk de Jong. He looks up and smashes an unstoppable drive into the bottom right corner from the edge of the box. 1:2.",
+            "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) neatly controls a decent pass from [PLAYER]. He looks up and smashes an unstoppable drive into the bottom right corner from the edge of the box. 1:2."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:16",
+            "comments_type": "substitution",
+            "comments_text": "Aleksey Baga has decided to substitute Stanislav Dragun and he is replaced by Aljaksandr Hleb (BATE).",
+            "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "19:25",
+            "comments_type": "foul with no card",
+            "comments_text": "Felix Zwayer blows his whistle after brings one of his opponents down with a strong tackle. There is a free kick near the sideline to BATE.",
+            "comments_text_anonymized": "[REFEREE] blows his whistle after brings one of his opponents down with a strong tackle. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "half": 2,
+            "time_stamp": "20:02",
+            "comments_type": "clearance",
+            "comments_text": "Igor Stasevich (BATE) sends a lofted pass into the penalty area from a free kick, but the opposition's defence manages to control all the attacking players and thwart the threat.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a lofted pass into the penalty area from a free kick, but the opposition's defence manages to control all the attacking players and thwart the threat."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:01",
+            "comments_type": "corner",
+            "comments_text": "The resulting corner from Hirving Lozano (PSV) is cleared by the opposition's defence.",
+            "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:30",
+            "comments_type": "corner",
+            "comments_text": "PSV get a corner.",
+            "comments_text_anonymized": "[TEAM] get a corner."
+        },
+        {
+            "half": 2,
+            "time_stamp": "23:44",
+            "comments_type": "shot off target",
+            "comments_text": "Nick Viergever (PSV) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar. The ball goes out of play and BATE will have a goal kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "24:37",
+            "comments_type": "shot off target",
+            "comments_text": "A precise short pass from Steven Bergwijn releases Luuk de Jong (PSV) in space inside the box, but he smashes a wild shot high over the bar. The ball goes out of play and BATE will have a goal kick.",
+            "comments_text_anonymized": "A precise short pass from [PLAYER] releases [PLAYER] ([TEAM]) in space inside the box, but he smashes a wild shot high over the bar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:44",
+            "comments_type": "injury",
+            "comments_text": "The game is interrupted now, Denis Scherbitsky (BATE) picks up a knock and the physio has to come on.",
+            "comments_text_anonymized": "The game is interrupted now, Denis Scherbitsky ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "25:55",
+            "comments_type": "injury",
+            "comments_text": "Denis Scherbitsky (BATE) is able to continue to play.",
+            "comments_text_anonymized": "Denis Scherbitsky ([TEAM]) is able to continue to play."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:20",
+            "comments_type": "lead to corner",
+            "comments_text": "Mirko Ivanic (BATE) looks to break free, but an opposing player clears the ball away. The ball goes out of play and BATE have been awarded a corner kick.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "27:35",
+            "comments_type": "corner",
+            "comments_text": "Mirko Ivanic (BATE) takes the corner kick but the ball only finds the head of an opponent.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "half": 2,
+            "time_stamp": "30:57",
+            "comments_type": "off side",
+            "comments_text": "Maksim Skavysh (BATE) is clearly in an offside position after the ball is played through to him and the linesman raises his flag.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+        },
+        {
+            "half": 2,
+            "time_stamp": "32:03",
+            "comments_type": "foul with no card",
+            "comments_text": "Dangerous play by Nick Viergever (PSV). Felix Zwayer blows his whistle for a foul. BATE have a free kick.",
+            "comments_text_anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:42",
+            "comments_type": "off side",
+            "comments_text": "The linesman raises his flag as one of the players from BATE was in an offside position.",
+            "comments_text_anonymized": "The linesman raises his flag as one of the players from [TEAM] was in an offside position."
+        },
+        {
+            "half": 2,
+            "time_stamp": "33:41",
+            "comments_type": "corner",
+            "comments_text": "Maksim Skavysh (BATE) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders. The referee and his assistant both point at the corner flag. BATE will have an opportunity to threaten the opposition's goal.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:00",
+            "comments_type": "corner",
+            "comments_text": "Igor Stasevich (BATE) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "half": 2,
+            "time_stamp": "34:37",
+            "comments_type": "foul with no card",
+            "comments_text": "Nick Viergever (PSV) jumps into a tackle and Felix Zwayer blows his whistle for a foul. It's a free kick to BATE in a dangerous position.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM] in a dangerous position."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:04",
+            "comments_type": "clearance",
+            "comments_text": "Igor Stasevich (BATE) takes the free kick but it is cleared by the first defender.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "half": 2,
+            "time_stamp": "35:15",
+            "comments_type": "substitution",
+            "comments_text": "A substitution has been made. Mirko Ivanic (BATE) goes off and comes on.",
+            "comments_text_anonymized": "A substitution has been made. [PLAYER] ([TEAM]) goes off and comes on."
+        },
+        {
+            "half": 2,
+            "time_stamp": "36:02",
+            "comments_type": "substitution",
+            "comments_text": "Mark van Bommel decides to make a substitution. Gaston Pereiro will be replaced by Mauro Junior (PSV).",
+            "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "37:38",
+            "comments_type": "yellow card",
+            "comments_text": "Aleksey Rios (BATE) receives a yellow card for a nasty tackle.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for a nasty tackle."
+        },
+        {
+            "half": 2,
+            "time_stamp": "39:18",
+            "comments_type": "shot off target",
+            "comments_text": "Mauro Junior (PSV) fires the ball at goal from inside the area, but it's well blocked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:07",
+            "comments_type": "yellow card",
+            "comments_text": "Hirving Lozano (PSV) is booked.",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked."
+        },
+        {
+            "half": 2,
+            "time_stamp": "41:43",
+            "comments_type": "substitution",
+            "comments_text": "It will be a substitution. Donyell Malen (PSV) is ready to enter the pitch as Hirving Lozano walks off.",
+            "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "half": 2,
+            "time_stamp": "42:50",
+            "comments_type": "goal",
+            "comments_text": "Aljaksandr Hleb (BATE) receives the ball after one of the defenders fails to make a clearance and sends the ball into the back of the net!",
+            "comments_text_anonymized": "[PLAYER] ([TEAM]) receives the ball after one of the defenders fails to make a clearance and sends the ball into the back of the net!"
+        },
+        {
+            "half": 2,
+            "time_stamp": "43:38",
+            "comments_type": "goal",
+            "comments_text": "Goal! picks out Donyell Malen (PSV) in the box with a decent cross, and he scores low in the middle of the goal with a header from close range. 2:3.",
+            "comments_text_anonymized": "Goal! picks out [PLAYER] ([TEAM]) in the box with a decent cross, and he scores low in the middle of the goal with a header from close range. 2:3."
+        },
+        {
+            "half": 2,
+            "time_stamp": "45:00",
+            "comments_type": "show added time",
+            "comments_text": "There will be a minimum of 5 min. of added time.",
+            "comments_text_anonymized": "There will be a minimum of 5 min. of added time."
+        },
+        {
+            "half": 2,
+            "time_stamp": "48:48",
+            "comments_type": "substitution",
+            "comments_text": "Pablo Rosario will be replaced by Nicolas Isimat-Mirin (PSV).",
+            "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "half": 2,
+            "time_stamp": "51:10",
+            "comments_type": "yellow card",
+            "comments_text": "Although Jordan Teze (PSV) is just on the bench, Felix Zwayer has awarded him with a yellow card. Unsporting behavior says the referee.",
+            "comments_text_anonymized": "Although [PLAYER] ([TEAM]) is just on the bench, [REFEREE] has awarded him with a yellow card. Unsporting behavior says the referee."
+        },
+        {
+            "half": 2,
+            "time_stamp": "52:25",
+            "comments_type": "end of half game",
+            "comments_text": "That's the end of the match.",
+            "comments_text_anonymized": "That's the end of the match."
+        }
+    ]
+}
