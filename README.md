@@ -5,6 +5,7 @@
 2. [SoccerAgent架构深入理解](#2-socceragent架构深入理解)
 3. [微调技术路线](#3-微调技术路线)
 4. [高级优化策略](#4-高级优化策略)
+5. [ReAct架构详解与SoccerAgent分析](ReAct_Architecture.md)
 
 ---
 
